@@ -25,7 +25,17 @@ module.exports = function(cats, rules, ruleQs) {
   }
 
   function parseYamlList(y) {
-    return y;
+    var lines = y.split('\n');
+    if (lines[0] !== '---') {
+      throw new Error("We are highly assuming this a yaml list");
+    }
+    var rest = _.rest(lines);
+    return _.map(rest, function(r) {
+      if (r[0] !== '-' || r[1] !== ' ') {
+        throw new Error("We are hightly assuming this is a yaml list element in the form '- my string'");
+      }
+      return r.substring(2);
+    });
   }
 
   _.each(cats, function(cat) {
