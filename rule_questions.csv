@@ -1,0 +1,127 @@
+id,instructions,prompt,body,createdAt,updatedAt,ruleId,hint
+1170,Rewrite the sentences to make the different action consistent with the other ones.  There may be more than one correct answer,The leaves fell and cover the ground.,"---
+- The leaves {fall} and cover the ground.
+- The leaves {fell and covered} the ground.
+",4/19/2014 15:42:14,4/19/2014 15:42:14,249,
+1171,Rewrite the sentences to make the different action consistent with the other ones.  There may be more than one correct answer,"The bus stopped, opens its doors, and let everybody on board.","---
+- The bus stopped, {opened} its doors, and let everybody on board.
+",4/19/2014 15:42:14,4/19/2014 15:42:14,250,
+1172,Rewrite the sentences to make the different action consistent with the other ones.  There may be more than one correct answer,"The team stretched their legs, practice their drills, and then rehearsed their set plays.","---
+- The team stretched their legs, {practiced} their drills, and then rehearsed their set plays.
+",4/19/2014 15:42:14,4/19/2014 15:42:14,250,
+1173,Rewrite the sentences to make the different action consistent with the other ones.  There may be more than one correct answer,"The twin babies were laughing, giggling, and crawled for hours.","---
+- The twin babies were laughing, giggling, and {crawling} for hours.
+",4/19/2014 15:42:14,4/19/2014 15:42:14,250,
+1174,Rewrite the sentences to make the different action consistent with the other ones.  There may be more than one correct answer,"Richie enjoys reading novels, to draw comics, and writing articles.","---
+- Richie enjoys reading novels, {drawing} comics, and writing articles.",4/19/2014 15:42:14,4/19/2014 15:42:14,250,
+1175,Rewrite the sentences to make the different action consistent with the other ones.  There may be more than one correct answer,"I like to hike, to go swimming, and to surf when I have free time.","---
+- I like to hike, {to swim}, and to surf when I have free time.
+",4/19/2014 15:42:14,4/19/2014 15:42:14,250,
+1176,Rewrite the sentences to make the different action consistent with the other ones.  There may be more than one correct answer,"We need to buy presents, bake a cake, and invited all our friends.","---
+- We need to buy presents, bake a cake, and {invite} all our friends.",4/19/2014 15:42:14,4/19/2014 15:42:14,250,
+1177,Rewrite the sentences to make the different action consistent with the other ones.  There may be more than one correct answer,"He spent all day washing the car, vacuuming the carpet, and dusted the countertops.","---
+- He spent all day washing the car, vacuuming the carpet, and {dusting} the countertops.
+",4/19/2014 15:42:14,4/19/2014 15:42:14,251,
+1178,Rewrite the sentences to make the different action consistent with the other ones.  There may be more than one correct answer,"I do not have time to get dressed, showering, and shave all at once.","---
+- I do not have time to get dressed, {shower}, and shave all at once.
+",4/19/2014 15:42:14,4/19/2014 15:42:14,252,
+1188,"In this sentence, there is a choice between two things. Rewrite the sentence with <b>either</b> between the first choice. <b>There is more than one correct way to write your answer.</b>",You can have a cat or a dog.,"---
+- You can have {either} a cat or a dog.
+- You can have {either} a cat, or a dog.
+",4/19/2014 15:42:16,4/19/2014 15:42:16,256,
+1189,"In this sentence, there is a choice between two things. Rewrite the sentence with <b>either</b> between the first choice. <b>There is more than one correct way to write your answer.</b>",You can have pasta or soup.,"---
+- You can have {either} pasta or soup.
+- You can have {either} pasta, or soup.
+",4/19/2014 15:42:16,4/19/2014 15:42:16,256,
+1190,Rewrite the sentence with <b>either</b> or <b>neither</b> as appropriate.,We can help you move or schedule a mover.,"---
+- We can {either} help you move or schedule a mover.
+- We can {either} help you move, or schedule a mover.
+",4/19/2014 15:42:16,4/19/2014 15:42:16,257,
+1191,Rewrite the sentence with <b>either</b> or <b>neither</b> as appropriate.,"I can help you, or go shopping.","---
+- I can {either} help you, or go shopping.
+- I can {either} help you or go shopping.
+",4/19/2014 15:42:16,4/19/2014 15:42:16,257,
+1192,Rewrite the sentence with <b>either</b> or <b>neither</b> as appropriate.,Paul wants to study law or travel the world.,"---
+- Paul wants to {either} study law or travel the world.
+- Paul {either} wants to study law or travel the world.
+- Paul wants to {either} study law, or travel the world.
+- Paul {either} wants to study law, or travel the world.
+",4/19/2014 15:42:16,4/19/2014 15:42:16,257,
+1193,Rewrite the sentence with <b>either</b> or <b>neither</b> as appropriate.,He builds computers nor fixes them.,"---
+- He {neither} builds computers nor fixes them.
+",4/19/2014 15:42:16,4/19/2014 15:42:16,257,
+1194,Rewrite the sentence with <b>either</b> or <b>neither</b> as appropriate.,They help nor hurt you.,"---
+- They {neither} help nor hurt you.
+",4/19/2014 15:42:17,4/19/2014 15:42:17,257,
+1195,Rewrite the sentence with <b>either</b> or <b>neither</b> as appropriate.,We can run nor hide.,"---
+- We can {neither} run nor hide.
+",4/19/2014 15:42:17,4/19/2014 15:42:17,257,
+1197,"In this sentence, there are two things that describe the subject. Rewrite the sentence with <b>neither</b> in front of the first thing that describes the subject.",I read German nor write it.,"---
+- I {neither} read German nor write it.
+",4/19/2014 15:42:17,4/19/2014 15:42:17,258,
+1198,"In this sentence, there are two things that describe the subject. Rewrite the sentence with <b>neither</b> in front of the first thing that describes the subject.",I dance nor sing.,"---
+- I {neither} dance nor sing.
+",4/19/2014 15:42:17,4/19/2014 15:42:17,258,
+1199,Rewrite the sentence by replacing <b>and</b> with <b>but also.</b>,"She not only loved cooking, and skydiving.","---
+- She not only loved cooking, {but also} skydiving.
+",4/19/2014 15:42:17,4/19/2014 15:42:17,259,
+1200,Rewrite the sentence by replacing <b>and</b> with <b>but also.</b>,"I was not only on the track team, and the swim team.","---
+- I was not only on the track team, {but also} the swim team.
+",4/19/2014 15:42:17,4/19/2014 15:42:17,259,
+1201,Rewrite the sentence using the concepts taught in the explanation examples.,"Greg not only speaks Spanish, and French.","---
+- Greg not only speaks Spanish, {but also} French.
+",4/19/2014 15:42:17,4/19/2014 15:42:17,260,
+1202,Rewrite the sentence using the concepts taught in the explanation examples.,"He not only read every Harry Potter book, and has every movie too.","---
+- He not only read every Harry Potter book, {but also} has every movie too.
+",4/19/2014 15:42:17,4/19/2014 15:42:17,260,
+1203,Rewrite the sentence using the concepts taught in the explanation examples.,"I don't just listen to music, play guitar.","---
+- I don't just listen to music, {but also} play guitar.
+",4/19/2014 15:42:17,4/19/2014 15:42:17,260,
+1204,Rewrite the sentence using the concepts taught in the explanation examples.,Our school teaches robotics and choir.,"---
+- Our school teaches {both} robotics and choir.
+",4/19/2014 15:42:17,4/19/2014 15:42:17,260,
+1205,Rewrite the sentence using the concepts taught in the explanation examples.,I would like ketchup and mustard.,"---
+- I would like {both} ketchup and mustard.
+",4/19/2014 15:42:17,4/19/2014 15:42:17,260,
+1206,Rewrite the sentence using the concepts taught in the explanation examples.,I play basketball and baseball.,"---
+- I play {both} basketball and baseball.
+",4/19/2014 15:42:17,4/19/2014 15:42:17,260,
+1207,Rewrite the sentence using <u>both</u>.,I want to study French and Spanish.,"---
+- I want to study {both} French and Spanish.
+",4/19/2014 15:42:17,4/19/2014 15:42:17,261,
+1208,Rewrite the sentence using <u>both</u>.,I want ketchup and mustard on my hot dog.,"---
+- I want {both} ketchup and mustard on my hot dog.
+",4/19/2014 15:42:17,4/19/2014 15:42:17,261,
+1209,"Rewrite the sentence, choosing <b>its</b> or <b>it's</b> depending on the context.",I think <u>it's / its</u> a good day for a walk.,"---
+- I think {it's} a good day for a walk.
+",4/19/2014 15:42:18,4/19/2014 15:42:18,262,
+1210,"Rewrite the sentence, choosing <b>its</b> or <b>it's</b> depending on the context.",<u>It's / its</u> almost time for bed.,"---
+- {It's} almost time for bed.
+",4/19/2014 15:42:18,4/19/2014 15:42:18,262,
+1211,"Rewrite the sentence, choosing <b>its</b> or <b>it's</b> depending on the context.",We drove our car until <u>it's / its</u> tires wore out.,"---
+- We drove our car until {its} tires wore out.
+",4/19/2014 15:42:19,4/19/2014 15:42:19,263,
+1213,"Rewrite the sentence, filling in the blank with the correct word.",I dropped my phone and cracked __ screen.,"---
+- I dropped my phone and cracked {its} screen.
+",4/19/2014 15:42:19,4/19/2014 15:42:19,264,
+1214,"Rewrite the sentence, filling in the blank with the correct word.",The old penny lost ____ shine.,"---
+- The old penny lost {its} shine.
+",4/19/2014 15:42:19,4/19/2014 15:42:19,264,
+1216,"Rewrite the sentence, filling in the blank with the correct word.",__ raining cats and dogs.,"---
+- {It's} raining cats and dogs.
+",4/19/2014 15:42:19,4/19/2014 15:42:19,264,
+1217,"Rewrite the sentence, choosing <b>of</b> or <b>off</b> depending on the context.",The crew helped each other get <u>of / off</u> the ice floe.,"---
+- The crew helped each other get {off} the ice floe.
+",4/19/2014 15:42:19,4/19/2014 15:42:19,265,
+1218,"Rewrite the sentence, choosing <b>of</b> or <b>off</b> depending on the context.",He ordered his crew to take the supplies <u>of / off</u> the ship.,"---
+- He ordered his crew to take the supplies {off} the ship.
+",4/19/2014 15:42:19,4/19/2014 15:42:19,265,
+1219,"Rewrite the sentence, choosing <b>of</b> or <b>off</b> depending on the context.",Shackleton knew he had to get out <u>of / off</u> the ship once it was trapped.,"---
+- Shackleton knew he had to get out {of} the ship once it was trapped.
+",4/19/2014 15:42:19,4/19/2014 15:42:19,266,
+1220,"Rewrite the sentence, choosing <b>of</b> or <b>off</b> depending on the context.",Finding food was one <u>of / off</u> their top priorities.,"---
+- Finding food was one {of} their top priorities.
+",4/19/2014 15:42:19,4/19/2014 15:42:19,266,
+1221,"Rewrite the sentence, filling in the blank with the correct word.",Sometimes an ice floe would crack and everyone would rush to get ___.,"---
+- Sometimes an ice floe would crack and everyone would rush to get {off}.
+",4/19/2014 15:42:19,4/19/2014 15:42:19,267,
