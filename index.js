@@ -1,18 +1,32 @@
-var file = process.env.FILE;
+function start(file, cb) {
 
-if (!file) {
-  throw new Error('Please pass FILE path env var');
+  var Converter=require("csvtojson").core.Converter;
+  var fs = require("fs");
+
+  var fileStream=fs.createReadStream(file);
+  var csvConverter=new Converter({constructResult:true});
+
+  csvConverter.on("end_parsed",function(obj){
+    cb(null, obj);
+  });
+
+  //read from file
+  fileStream.pipe(csvConverter);
 }
 
-var Converter=require("csvtojson").core.Converter;
-var fs = require("fs");
+var async = require('async');
 
-var fileStream=fs.createReadStream(file);
-var csvConverter=new Converter({constructResult:true});
+function nextStep(results) {
+  require('./relate')(results[0], results[1], results[2]);
+}
 
-csvConverter.on("end_parsed",function(obj){
-  console.log(JSON.stringify(obj));
-});
-
-//read from file
-fileStream.pipe(csvConverter);
+async.map(
+  ['categories.csv', 'rules.csv', 'rule_questions.csv'],
+  start,
+  function(err, results) {
+    if (err) {
+      throw err;
+    }
+    nextStep(results);
+  }
+);
