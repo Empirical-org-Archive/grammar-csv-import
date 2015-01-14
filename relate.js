@@ -4,6 +4,7 @@ module.exports = function(cats, rules, ruleqs) {
   var fRules = {};
   var fRuleQs = {};
   var classifications = [];
+  var instructions = [];
 
   function checkOrAddClassification(c) {
     var index = _.indexOf(classifications, c);
@@ -18,7 +19,7 @@ module.exports = function(cats, rules, ruleqs) {
   _.each(cats, function(cat) {
     fCategories[cat.id] = {
       title: cat.title,
-      rules: []
+      rules: {}
     };
   });
 
@@ -28,8 +29,18 @@ module.exports = function(cats, rules, ruleqs) {
       description: rule.description,
       ruleNumber: rule.id,
       classification: checkOrAddClassification(rule.classification),
-      ruleQuestions: []
+      ruleQuestions: {}
     };
+    if (rule.categoryId) {
+      fCategories[rule.categoryId].rules[rule.id] = true;
+    }
   });
-  console.log(fRules);
+
+  require('build')(
+    fCategories,
+    fRules,
+    fRuleQs,
+    _.extend({}, classifications),
+    _.extend({}, instructions)
+  );
 }
