@@ -1,0 +1,402 @@
+[
+   {
+      "ruleId" : 249,
+      "id" : 1170,
+      "hint" : "",
+      "instructions" : "Rewrite the sentences to make the different action consistent with the other ones.  There may be more than one correct answer",
+      "prompt" : "The leaves fell and cover the ground.",
+      "updatedAt" : "4/19/2014 15:42:14",
+      "createdAt" : "4/19/2014 15:42:14",
+      "body" : "---\n- The leaves {fall} and cover the ground.\n- The leaves {fell and covered} the ground."
+   },
+   {
+      "createdAt" : "4/19/2014 15:42:14",
+      "body" : "---\n- The bus stopped, {opened} its doors, and let everybody on board.",
+      "prompt" : "The bus stopped, opens its doors, and let everybody on board.",
+      "updatedAt" : "4/19/2014 15:42:14",
+      "hint" : "",
+      "instructions" : "Rewrite the sentences to make the different action consistent with the other ones.  There may be more than one correct answer",
+      "id" : 1171,
+      "ruleId" : 250
+   },
+   {
+      "id" : 1172,
+      "ruleId" : 250,
+      "createdAt" : "4/19/2014 15:42:14",
+      "body" : "---\n- The team stretched their legs, {practiced} their drills, and then rehearsed their set plays.",
+      "instructions" : "Rewrite the sentences to make the different action consistent with the other ones.  There may be more than one correct answer",
+      "hint" : "",
+      "prompt" : "The team stretched their legs, practice their drills, and then rehearsed their set plays.",
+      "updatedAt" : "4/19/2014 15:42:14"
+   },
+   {
+      "id" : 1173,
+      "ruleId" : 250,
+      "createdAt" : "4/19/2014 15:42:14",
+      "body" : "---\n- The twin babies were laughing, giggling, and {crawling} for hours.",
+      "instructions" : "Rewrite the sentences to make the different action consistent with the other ones.  There may be more than one correct answer",
+      "hint" : "",
+      "updatedAt" : "4/19/2014 15:42:14",
+      "prompt" : "The twin babies were laughing, giggling, and crawled for hours."
+   },
+   {
+      "hint" : "",
+      "instructions" : "Rewrite the sentences to make the different action consistent with the other ones.  There may be more than one correct answer",
+      "updatedAt" : "4/19/2014 15:42:14",
+      "prompt" : "Richie enjoys reading novels, to draw comics, and writing articles.",
+      "createdAt" : "4/19/2014 15:42:14",
+      "body" : "---\n- Richie enjoys reading novels, {drawing} comics, and writing articles.",
+      "ruleId" : 250,
+      "id" : 1174
+   },
+   {
+      "createdAt" : "4/19/2014 15:42:14",
+      "body" : "---\n- I like to hike, {to swim}, and to surf when I have free time.",
+      "hint" : "",
+      "instructions" : "Rewrite the sentences to make the different action consistent with the other ones.  There may be more than one correct answer",
+      "updatedAt" : "4/19/2014 15:42:14",
+      "prompt" : "I like to hike, to go swimming, and to surf when I have free time.",
+      "id" : 1175,
+      "ruleId" : 250
+   },
+   {
+      "id" : 1176,
+      "ruleId" : 250,
+      "createdAt" : "4/19/2014 15:42:14",
+      "body" : "---\n- We need to buy presents, bake a cake, and {invite} all our friends.",
+      "hint" : "",
+      "instructions" : "Rewrite the sentences to make the different action consistent with the other ones.  There may be more than one correct answer",
+      "prompt" : "We need to buy presents, bake a cake, and invited all our friends.",
+      "updatedAt" : "4/19/2014 15:42:14"
+   },
+   {
+      "body" : "---\n- He spent all day washing the car, vacuuming the carpet, and {dusting} the countertops.",
+      "createdAt" : "4/19/2014 15:42:14",
+      "instructions" : "Rewrite the sentences to make the different action consistent with the other ones.  There may be more than one correct answer",
+      "hint" : "",
+      "updatedAt" : "4/19/2014 15:42:14",
+      "prompt" : "He spent all day washing the car, vacuuming the carpet, and dusted the countertops.",
+      "id" : 1177,
+      "ruleId" : 251
+   },
+   {
+      "id" : 1178,
+      "ruleId" : 252,
+      "createdAt" : "4/19/2014 15:42:14",
+      "body" : "---\n- I do not have time to get dressed, {shower}, and shave all at once.",
+      "instructions" : "Rewrite the sentences to make the different action consistent with the other ones.  There may be more than one correct answer",
+      "hint" : "",
+      "prompt" : "I do not have time to get dressed, showering, and shave all at once.",
+      "updatedAt" : "4/19/2014 15:42:14"
+   },
+   {
+      "ruleId" : 256,
+      "id" : 1188,
+      "hint" : "",
+      "instructions" : "In this sentence, there is a choice between two things. Rewrite the sentence with <b>either</b> between the first choice. <b>There is more than one correct way to write your answer.</b>",
+      "prompt" : "You can have a cat or a dog.",
+      "updatedAt" : "4/19/2014 15:42:16",
+      "body" : "---\n- You can have {either} a cat or a dog.\n- You can have {either} a cat, or a dog.",
+      "createdAt" : "4/19/2014 15:42:16"
+   },
+   {
+      "body" : "---\n- You can have {either} pasta or soup.\n- You can have {either} pasta, or soup.",
+      "createdAt" : "4/19/2014 15:42:16",
+      "hint" : "",
+      "instructions" : "In this sentence, there is a choice between two things. Rewrite the sentence with <b>either</b> between the first choice. <b>There is more than one correct way to write your answer.</b>",
+      "updatedAt" : "4/19/2014 15:42:16",
+      "prompt" : "You can have pasta or soup.",
+      "id" : 1189,
+      "ruleId" : 256
+   },
+   {
+      "updatedAt" : "4/19/2014 15:42:16",
+      "prompt" : "We can help you move or schedule a mover.",
+      "hint" : "",
+      "instructions" : "Rewrite the sentence with <b>either</b> or <b>neither</b> as appropriate.",
+      "createdAt" : "4/19/2014 15:42:16",
+      "body" : "---\n- We can {either} help you move or schedule a mover.\n- We can {either} help you move, or schedule a mover.",
+      "ruleId" : 257,
+      "id" : 1190
+   },
+   {
+      "body" : "---\n- I can {either} help you, or go shopping.\n- I can {either} help you or go shopping.",
+      "createdAt" : "4/19/2014 15:42:16",
+      "prompt" : "I can help you, or go shopping.",
+      "updatedAt" : "4/19/2014 15:42:16",
+      "instructions" : "Rewrite the sentence with <b>either</b> or <b>neither</b> as appropriate.",
+      "hint" : "",
+      "id" : 1191,
+      "ruleId" : 257
+   },
+   {
+      "instructions" : "Rewrite the sentence with <b>either</b> or <b>neither</b> as appropriate.",
+      "hint" : "",
+      "updatedAt" : "4/19/2014 15:42:16",
+      "prompt" : "Paul wants to study law or travel the world.",
+      "createdAt" : "4/19/2014 15:42:16",
+      "body" : "---\n- Paul wants to {either} study law or travel the world.\n- Paul {either} wants to study law or travel the world.\n- Paul wants to {either} study law, or travel the world.\n- Paul {either} wants to study law, or travel the world.",
+      "ruleId" : 257,
+      "id" : 1192
+   },
+   {
+      "id" : 1193,
+      "ruleId" : 257,
+      "createdAt" : "4/19/2014 15:42:16",
+      "body" : "---\n- He {neither} builds computers nor fixes them.",
+      "hint" : "",
+      "instructions" : "Rewrite the sentence with <b>either</b> or <b>neither</b> as appropriate.",
+      "updatedAt" : "4/19/2014 15:42:16",
+      "prompt" : "He builds computers nor fixes them."
+   },
+   {
+      "instructions" : "Rewrite the sentence with <b>either</b> or <b>neither</b> as appropriate.",
+      "hint" : "",
+      "prompt" : "They help nor hurt you.",
+      "updatedAt" : "4/19/2014 15:42:17",
+      "body" : "---\n- They {neither} help nor hurt you.",
+      "createdAt" : "4/19/2014 15:42:17",
+      "ruleId" : 257,
+      "id" : 1194
+   },
+   {
+      "prompt" : "We can run nor hide.",
+      "updatedAt" : "4/19/2014 15:42:17",
+      "hint" : "",
+      "instructions" : "Rewrite the sentence with <b>either</b> or <b>neither</b> as appropriate.",
+      "body" : "---\n- We can {neither} run nor hide.",
+      "createdAt" : "4/19/2014 15:42:17",
+      "ruleId" : 257,
+      "id" : 1195
+   },
+   {
+      "id" : 1197,
+      "ruleId" : 258,
+      "createdAt" : "4/19/2014 15:42:17",
+      "body" : "---\n- I {neither} read German nor write it.",
+      "hint" : "",
+      "instructions" : "In this sentence, there are two things that describe the subject. Rewrite the sentence with <b>neither</b> in front of the first thing that describes the subject.",
+      "updatedAt" : "4/19/2014 15:42:17",
+      "prompt" : "I read German nor write it."
+   },
+   {
+      "id" : 1198,
+      "ruleId" : 258,
+      "body" : "---\n- I {neither} dance nor sing.",
+      "createdAt" : "4/19/2014 15:42:17",
+      "instructions" : "In this sentence, there are two things that describe the subject. Rewrite the sentence with <b>neither</b> in front of the first thing that describes the subject.",
+      "hint" : "",
+      "updatedAt" : "4/19/2014 15:42:17",
+      "prompt" : "I dance nor sing."
+   },
+   {
+      "id" : 1199,
+      "ruleId" : 259,
+      "createdAt" : "4/19/2014 15:42:17",
+      "body" : "---\n- She not only loved cooking, {but also} skydiving.",
+      "instructions" : "Rewrite the sentence by replacing <b>and</b> with <b>but also.</b>",
+      "hint" : "",
+      "prompt" : "She not only loved cooking, and skydiving.",
+      "updatedAt" : "4/19/2014 15:42:17"
+   },
+   {
+      "id" : 1200,
+      "ruleId" : 259,
+      "body" : "---\n- I was not only on the track team, {but also} the swim team.",
+      "createdAt" : "4/19/2014 15:42:17",
+      "updatedAt" : "4/19/2014 15:42:17",
+      "prompt" : "I was not only on the track team, and the swim team.",
+      "instructions" : "Rewrite the sentence by replacing <b>and</b> with <b>but also.</b>",
+      "hint" : ""
+   },
+   {
+      "hint" : "",
+      "instructions" : "Rewrite the sentence using the concepts taught in the explanation examples.",
+      "prompt" : "Greg not only speaks Spanish, and French.",
+      "updatedAt" : "4/19/2014 15:42:17",
+      "createdAt" : "4/19/2014 15:42:17",
+      "body" : "---\n- Greg not only speaks Spanish, {but also} French.",
+      "ruleId" : 260,
+      "id" : 1201
+   },
+   {
+      "id" : 1202,
+      "ruleId" : 260,
+      "body" : "---\n- He not only read every Harry Potter book, {but also} has every movie too.",
+      "createdAt" : "4/19/2014 15:42:17",
+      "prompt" : "He not only read every Harry Potter book, and has every movie too.",
+      "updatedAt" : "4/19/2014 15:42:17",
+      "instructions" : "Rewrite the sentence using the concepts taught in the explanation examples.",
+      "hint" : ""
+   },
+   {
+      "body" : "---\n- I don't just listen to music, {but also} play guitar.",
+      "createdAt" : "4/19/2014 15:42:17",
+      "prompt" : "I don't just listen to music, play guitar.",
+      "updatedAt" : "4/19/2014 15:42:17",
+      "hint" : "",
+      "instructions" : "Rewrite the sentence using the concepts taught in the explanation examples.",
+      "id" : 1203,
+      "ruleId" : 260
+   },
+   {
+      "ruleId" : 260,
+      "id" : 1204,
+      "hint" : "",
+      "instructions" : "Rewrite the sentence using the concepts taught in the explanation examples.",
+      "updatedAt" : "4/19/2014 15:42:17",
+      "prompt" : "Our school teaches robotics and choir.",
+      "createdAt" : "4/19/2014 15:42:17",
+      "body" : "---\n- Our school teaches {both} robotics and choir."
+   },
+   {
+      "createdAt" : "4/19/2014 15:42:17",
+      "body" : "---\n- I would like {both} ketchup and mustard.",
+      "hint" : "",
+      "instructions" : "Rewrite the sentence using the concepts taught in the explanation examples.",
+      "updatedAt" : "4/19/2014 15:42:17",
+      "prompt" : "I would like ketchup and mustard.",
+      "id" : 1205,
+      "ruleId" : 260
+   },
+   {
+      "ruleId" : 260,
+      "id" : 1206,
+      "updatedAt" : "4/19/2014 15:42:17",
+      "prompt" : "I play basketball and baseball.",
+      "hint" : "",
+      "instructions" : "Rewrite the sentence using the concepts taught in the explanation examples.",
+      "createdAt" : "4/19/2014 15:42:17",
+      "body" : "---\n- I play {both} basketball and baseball."
+   },
+   {
+      "id" : 1207,
+      "ruleId" : 261,
+      "createdAt" : "4/19/2014 15:42:17",
+      "body" : "---\n- I want to study {both} French and Spanish.",
+      "prompt" : "I want to study French and Spanish.",
+      "updatedAt" : "4/19/2014 15:42:17",
+      "hint" : "",
+      "instructions" : "Rewrite the sentence using <u>both</u>."
+   },
+   {
+      "id" : 1208,
+      "ruleId" : 261,
+      "body" : "---\n- I want {both} ketchup and mustard on my hot dog.",
+      "createdAt" : "4/19/2014 15:42:17",
+      "updatedAt" : "4/19/2014 15:42:17",
+      "prompt" : "I want ketchup and mustard on my hot dog.",
+      "hint" : "",
+      "instructions" : "Rewrite the sentence using <u>both</u>."
+   },
+   {
+      "updatedAt" : "4/19/2014 15:42:18",
+      "prompt" : "I think <u>it's / its</u> a good day for a walk.",
+      "hint" : "",
+      "instructions" : "Rewrite the sentence, choosing <b>its</b> or <b>it's</b> depending on the context.",
+      "createdAt" : "4/19/2014 15:42:18",
+      "body" : "---\n- I think {it's} a good day for a walk.",
+      "ruleId" : 262,
+      "id" : 1209
+   },
+   {
+      "updatedAt" : "4/19/2014 15:42:18",
+      "prompt" : "<u>It's / its</u> almost time for bed.",
+      "instructions" : "Rewrite the sentence, choosing <b>its</b> or <b>it's</b> depending on the context.",
+      "hint" : "",
+      "createdAt" : "4/19/2014 15:42:18",
+      "body" : "---\n- {It's} almost time for bed.",
+      "ruleId" : 262,
+      "id" : 1210
+   },
+   {
+      "updatedAt" : "4/19/2014 15:42:19",
+      "prompt" : "We drove our car until <u>it's / its</u> tires wore out.",
+      "hint" : "",
+      "instructions" : "Rewrite the sentence, choosing <b>its</b> or <b>it's</b> depending on the context.",
+      "createdAt" : "4/19/2014 15:42:19",
+      "body" : "---\n- We drove our car until {its} tires wore out.",
+      "ruleId" : 263,
+      "id" : 1211
+   },
+   {
+      "ruleId" : 264,
+      "id" : 1213,
+      "hint" : "",
+      "instructions" : "Rewrite the sentence, filling in the blank with the correct word.",
+      "updatedAt" : "4/19/2014 15:42:19",
+      "prompt" : "I dropped my phone and cracked __ screen.",
+      "createdAt" : "4/19/2014 15:42:19",
+      "body" : "---\n- I dropped my phone and cracked {its} screen."
+   },
+   {
+      "createdAt" : "4/19/2014 15:42:19",
+      "body" : "---\n- The old penny lost {its} shine.",
+      "hint" : "",
+      "instructions" : "Rewrite the sentence, filling in the blank with the correct word.",
+      "updatedAt" : "4/19/2014 15:42:19",
+      "prompt" : "The old penny lost ____ shine.",
+      "id" : 1214,
+      "ruleId" : 264
+   },
+   {
+      "body" : "---\n- {It's} raining cats and dogs.",
+      "createdAt" : "4/19/2014 15:42:19",
+      "prompt" : "__ raining cats and dogs.",
+      "updatedAt" : "4/19/2014 15:42:19",
+      "hint" : "",
+      "instructions" : "Rewrite the sentence, filling in the blank with the correct word.",
+      "id" : 1216,
+      "ruleId" : 264
+   },
+   {
+      "createdAt" : "4/19/2014 15:42:19",
+      "body" : "---\n- The crew helped each other get {off} the ice floe.",
+      "hint" : "",
+      "instructions" : "Rewrite the sentence, choosing <b>of</b> or <b>off</b> depending on the context.",
+      "updatedAt" : "4/19/2014 15:42:19",
+      "prompt" : "The crew helped each other get <u>of / off</u> the ice floe.",
+      "id" : 1217,
+      "ruleId" : 265
+   },
+   {
+      "instructions" : "Rewrite the sentence, choosing <b>of</b> or <b>off</b> depending on the context.",
+      "hint" : "",
+      "updatedAt" : "4/19/2014 15:42:19",
+      "prompt" : "He ordered his crew to take the supplies <u>of / off</u> the ship.",
+      "createdAt" : "4/19/2014 15:42:19",
+      "body" : "---\n- He ordered his crew to take the supplies {off} the ship.",
+      "ruleId" : 265,
+      "id" : 1218
+   },
+   {
+      "ruleId" : 266,
+      "id" : 1219,
+      "updatedAt" : "4/19/2014 15:42:19",
+      "prompt" : "Shackleton knew he had to get out <u>of / off</u> the ship once it was trapped.",
+      "hint" : "",
+      "instructions" : "Rewrite the sentence, choosing <b>of</b> or <b>off</b> depending on the context.",
+      "body" : "---\n- Shackleton knew he had to get out {of} the ship once it was trapped.",
+      "createdAt" : "4/19/2014 15:42:19"
+   },
+   {
+      "ruleId" : 266,
+      "id" : 1220,
+      "hint" : "",
+      "instructions" : "Rewrite the sentence, choosing <b>of</b> or <b>off</b> depending on the context.",
+      "updatedAt" : "4/19/2014 15:42:19",
+      "prompt" : "Finding food was one <u>of / off</u> their top priorities.",
+      "createdAt" : "4/19/2014 15:42:19",
+      "body" : "---\n- Finding food was one {of} their top priorities."
+   },
+   {
+      "prompt" : "Sometimes an ice floe would crack and everyone would rush to get ___.",
+      "updatedAt" : "4/19/2014 15:42:19",
+      "hint" : "",
+      "instructions" : "Rewrite the sentence, filling in the blank with the correct word.",
+      "body" : "---\n- Sometimes an ice floe would crack and everyone would rush to get {off}.",
+      "createdAt" : "4/19/2014 15:42:19",
+      "ruleId" : 267,
+      "id" : 1221
+   }
+]
