@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "async": "^0.9.0",
-    "csvtojson": "^0.3.17"
+    "csvtojson": "^0.3.17",
+    "underscore": "^1.7.0"
   }
 }
