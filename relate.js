@@ -1,19 +1,31 @@
 var _ = require('underscore');
-module.exports = function(cats, rules, ruleqs) {
+module.exports = function(cats, rules, ruleQs) {
   var fCategories = {};
   var fRules = {};
   var fRuleQs = {};
   var classifications = [];
   var instructions = [];
 
-  function checkOrAddClassification(c) {
-    var index = _.indexOf(classifications, c);
+  function checkOrAdd(a, c) {
+    var index = _.indexOf(a, c);
     if (index !== -1) {
       return index;
     } else {
-      classifications.push(c);
-      return classifications.length - 1;
+      a.push(c);
+      return a.length - 1;
     }
+  }
+
+  function checkOrAddInstructions(i) {
+    return checkOrAdd(instructions, i);
+  }
+
+  function checkOrAddClassification(c) {
+    return checkOrAdd(classifications, c);
+  }
+
+  function parseYamlList(y) {
+    return y;
   }
 
   _.each(cats, function(cat) {
@@ -36,6 +48,19 @@ module.exports = function(cats, rules, ruleqs) {
     }
   });
 
+  _.each(ruleQs, function(q) {
+    fRuleQs[q.id] = {
+      instructions: checkOrAddInstructions(q.instructions),
+      prompt: q.prompt,
+      body: _.extend({}, parseYamlList(q.body)),
+      hint: q.hint || ""
+    };
+
+    if (q.ruleId) {
+      fRules[q.ruleId].ruleQuestions[q.id] = true;
+    }
+
+  });
   require('build')(
     fCategories,
     fRules,
