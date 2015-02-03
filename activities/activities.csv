@@ -1,0 +1,2488 @@
+id,name,description,uid,data,activity_classification_id,topic_id,created_at,updated_at,flags
+109,"Sentence Writing: Lose, Loose",Write seven sentences using lose and loose.,T7c7UR2l3wkm2yZheLhtMA,"""rule_position""=>""---
+- - '268'
+  - '2'
+- - '269'
+  - '2'
+- - '270'
+  - '4'
+""",2,46,2014-04-19 15:42:19.371154,2014-04-19 18:21:00.072697,{production}
+72,"Have chilled, chilled fruit, will be chilled, etc...","Past participles help us talk about experiences we have done before, or continue to do. They also help us use some verbs as adjectives.",PHOYs8c_pb1sUdeXjuVJkw,"""rule_position""=>""---
+- '179'
+- '180'
+- '181'
+- '182'
+- '183'
+- '184'
+- '248'
+""",2,48,2013-10-23 03:26:08.723149,2014-04-15 17:28:47.387963,{archived}
+112,"Sentence Writing: To, Too, Two","Write twelve sentences using to, too and two.",b0XbYfl-ECVFe3KGORmFUQ,"""rule_position""=>""---
+- - '278'
+  - '2'
+- - '280'
+  - '2'
+- - '281'
+  - '2'
+- - '279'
+  - '6'
+""",2,46,2014-04-19 15:42:20.97776,2014-04-19 20:41:07.153538,{production}
+26,"Halloween, Yankees, New York, etc...","We capitalize all holidays, product names, and geographic names.
+",W2b91Iir0uq63_DWrdsdBw,"""rule_position""=>""---
+- '92'
+- '93'
+- '94'
+- '95'
+""",2,23,2013-09-17 01:04:33.233233,2014-04-18 22:33:26.111283,{archived}
+126,"Sentence Writing: Better & Best, Worse & Worst","Write eight sentences using the adjectives ""better,"" ""best,"" ""worse,"" and ""worst.""",Rtf8zIMGN2WndgL_n-HYyA,"""rule_position""=>""---
+- - '328'
+  - '2'
+- - '330'
+  - '2'
+- - '329'
+  - '4'
+""",2,38,2014-04-19 15:42:33.802987,2014-08-06 18:21:30.055212,{production}
+5,Passage Proofreading: Training for the Gold (Sport),Proofread a passage that has eight verbs that do not agree with their subjects.,Xhug-lO3toYhT0fbsibF3w,"""body""=>""--- \""Growing up, Michael Phelps {+worked-work|15} harder than anybody else. When he
+  was 15 years old he joined the Olympic swim team. In order to be an Olympian at
+  that age, you need to train hard and {+eat-eats|15} healthy food.\\r\\n\\r\\nWhen he
+  trains now, Michael Phelps {+swims-swim|15} every day and {+lifts-lift|15} weights
+  out of the pool. When he {+trains-train|15} with the rest of his team, they all
+  {+run-runs|15} before practice to make the workout even harder.\\r\\n\\r\\nThey {+practice-practices|15}
+  all year to get ready for the competition. After a long day of training, they would
+  sometimes go out and {+order-orders|15} a pizza for each swimmer because they were
+  so hungry.\\r\\n\""
+"", ""instructions""=>""--- In this passage, there are eight verbs that do not agree with their subjects.<br><br>
+  To make edits, click on a word and type your changes.
+...
+""",1,10,2013-09-16 17:15:32.176173,2014-09-08 22:57:45.803258,{production}
+130,"Sentence Writing: Wrote, Spoke",Write nine sentences using the irregular past tense verbs wrote and spoke.,5PZONjaMfhY9ofF9RTEvBg,"""rule_position""=>""---
+- - '340'
+  - '2'
+- - '342'
+  - '2'
+- - '341'
+  - '5'
+""",2,22,2014-04-19 15:42:36.661235,2014-04-19 18:56:16.45883,{production}
+21,Passage Proofreading: The Crocodile and The Monkey (Mythology),Proofread a passage correcting ten mixed up adjectives and adverbs.,5d2ZUb4ySqJQm95VafxqgA,"""body""=>""--- \""There once was a crocodile living with his mother in a river. One day, the mother
+  said, \\\""Darling, please go catch the monkey who lives in that tree and bring his
+  heart to me for supper.\\\""\\r\\n\\r\\nThe crocodile {+quickly-(quick / quickly)|86} swam
+  near the tree and shouted, \\\""Monkey, are you there? Let's go to the other side of
+  the river where we will find trees full of {+ripe-(ripe / ripely)|85} fruit that
+  I know you will enjoy.\\\""\\r\\n\\r\\n\\\""I don't know how to swim,\\\"" replied the monkey.\\r\\n\\r\\n\\\""Just
+  hop on my back,\\\"" said the smiling crocodile. \\\""It will be my pleasure to carry
+  you.\\\"" The monkey was very hungry, so he {+gladly-(gladly / glad)|86} jumped down
+  on the crocodile's back.\\r\\n\\r\\nInstead of swimming across the river, however, the
+  crocodile started swimming to his mother. The monkey was alarmed and shouted, \\\""Crocodile,
+  what are you doing?\\\""\\r\\n\\r\\n\\\""I'm taking you to my mother,\\\"" said the crocodile,
+  \\\""so that she can eat your heart for a {+delicious-(delicious / deliciously)|85}
+  supper.\\\""\\r\\n\\r\\n\\\""Oh,\\\"" said the monkey, \\\""then I should have brought my heart
+  with me.\\\""\\r\\n\\r\\nThe {+young-(young / youngly)|85} crocodile was surprised. \\\""You
+  don't have your heart with you now?\\\""\\r\\n\\r\\nThe monkey {+wittily-(witty / wittily)|88}
+  replied, \\\""No, I left my heart at home. If you want, we can go back there and I'll
+  get it.\\\""\\r\\n\\r\\nThe foolish crocodile agreed and {+slowly-(slowly / slow)|86} swam
+  back towards the monkey's home. When they arrived, the monkey leaped up and landed
+  {+safely-(safely / safe)|90} in the tree.\\r\\n\\r\\n\\\""And now, crocodile,\\\"" the monkey
+  {+happily-(happily / happy)|88} shouted, \\\""go away and leave me alone! You won't
+  be able to trick me so {+easily-(easily / easy)|88} ever again.\\\""\""
+"", ""instructions""=>""--- Choose the correct adjective or adverb from the parentheses.<br><br> To make changes,
+  click on a word and delete the incorrect answer as well as the dash \""/\"" and the
+  parentheses.
+...
+""",1,21,2013-09-17 00:36:37.250186,2014-04-19 19:00:30.924473,{production}
+12,"Knives, feet, potatoes, etc...",Some words have irregular plural forms.,CuxwWe8u1dYaB-CzKpDM_w,"""rule_position""=>""---
+- '50'
+- '51'
+- '52'
+- '54'
+- '55'
+- '56'
+- '57'
+- '58'
+- '59'
+- '60'
+- '61'
+""",2,15,2013-09-16 19:44:16.857823,2014-04-18 22:24:43.263988,{archived}
+77,Passage Proofreading: It's All Happening at the Zoo (Fiction),Proofread a passage and use commas to separate coordinate adjectives.,70u4gEpj8eg6T4re0PzHbw,"""body""=>""--- My friends and I went to the zoo last week. It was a {+bright, sunny-bright and
+  sunny|187} day, and all of the animals were lively. There was a {+big, ferocious-big
+  and ferocious|187} lion sitting on top of a large rock. Close by, some {+loud, lively-loud
+  and lively|187} monkeys were romping about on a tire swing. A {+tired, old-tired
+  and old|187} tortoise stretched his neck up into the air. There were also some {+tiny,
+  timid-tiny and timid|187} lizards hiding behind rocks, logs, and any other place
+  they could fit. They were all placed in terrariums next to some {+cute, fluffy-cute
+  and fluffy|187} rodents. There was much to see on that {+fun, exciting-fun and exciting|187}
+  day.
+...
+"", ""instructions""=>""--- In this story, seven things are described with two adjectives. However, instead
+  of just using a comma, the word \""and\"" is placed between the adjectives. To make
+  changes, click on \""and,\"" delete it, and replace it with a comma.
+...
+""",1,51,2013-10-27 22:17:52.194134,2014-04-19 20:16:38.343786,{production}
+64,"Colons to begin a list, commas for list items",We use commas and colons when writing a list.,m-54Kd1y3tk30IITsS6DGw,"""rule_position""=>""---
+- '171'
+- '172'
+""",2,44,2013-10-14 19:55:06.99711,2014-04-17 18:40:16.248576,{archived}
+151,Sentence Writing: Common and Proper Nouns,Write ten sentences using common and proper nouns.,Df6UhR841LwhCCllgbxGaQ,"""rule_position""=>""---
+- - '409'
+  - '2'
+- - '411'
+  - '2'
+- - '410'
+  - '6'
+""",2,7,2014-04-19 15:42:51.083145,2014-04-19 20:05:59.641485,{production}
+79,Passage Proofreading: How was the World Made? (Mythology),Proofread a passage and make sure that the verbs match the voice.,PSzGi203g_W-HrdqDbE6hg,"""body""=>""--- One of the biggest mysteries of life is how the world was {+created.-create.|189}
+  Long ago, the Kuba of Central Africa believed the world was {+made-make|189} by
+  one being. This god was {+named-name|189} Bumba. From deep within Bumba's body,
+  the sun and the stars were {+pulled-pull|189} out into the night sky. As the sun
+  heated up the earth, Bumba made animals, people, and his own children. One of his
+  sons made many small white bugs. The bugs were {+transformed-transform|189} into
+  the sands of the world. One of Bumba's sons was {+chased-chase|189} into the sky
+  after causing many thunderstorms and other kinds of trouble. The creation of all
+  plant life was {+credited-credit|189} to one of Bumba's sons as well. After these
+  things were created, Bumba and his son's gave humans the responsibility to take
+  care of the world.
+...
+"", ""instructions""=>""--- In this story, there are seven verbs that need to be in the passive voice. To
+  edit the text, click on a word and make your changes.
+...
+""",1,52,2013-11-01 18:46:51.419592,2014-05-03 14:55:29.960044,{production}
+11,Passage Proofreading: The Day the Island Breathed (Fiction),Proofread a passage correcting ten irregular plural tense words.,HAEcgVEQTBKkBQ8Q3ekGvg,"""body""=>""--- It all started when two volcanoes outside of town erupted. The explosion was so
+  powerful that it shook the pots, pans, and {+knives-knifes|50} in every kitchen
+  while {+loaves-loafs|51} of bread fell onto the floor. The ground trembled and knocked
+  everybody off their {+feet.-foots.|55} When they stood back up, they heard a great
+  whooshing noise as air rushed into each volcano. In the nearby fields,{+deer,-deers,|60}
+  {+sheep,-sheeps,|61} {+mice,-mouses,|58} and other small animals fled from the gust.
+  The {+people-persons|59} saw the water from the ocean flowing through the town toward
+  the eruption. All the {+men,-mans,|54} women, and {+children-childs|56} hid in their
+  houses, clenching their {+teeth-tooths|57} in fear, as the water filled the inside
+  of each volcano. That night, the water shot back out into the ocean, and has risen
+  and fallen with the tides ever since.
+...
+"", ""instructions""=>""--- In this story, there are ten words that need to be rewritten in their correct
+  irregular plural tense form.<br><br> To rewrite these words, click on them and type
+  in the correct answer.
+...
+""",1,15,2013-09-16 19:44:16.857823,2014-09-09 19:09:44.93614,{production}
+58,"A Wrinkle in Time, Cinderella, Snow White, etc...",When we write a title we capitalize the first word and the descriptive words.,F2HqOsueSZ2W-LBagEy06w,"""rule_position""=>""---
+- '162'
+""",2,41,2013-10-14 19:11:49.52138,2014-04-18 19:36:06.854108,{archived}
+53,Passage Proofreading: Janet Sends a Letter (Fiction),Proofread a passage correctly placing commas in addresses.,hWzAjPQdyb9stlTylE2pGA,"""body""=>""--- \""\\\""Excuse me, could you help me send this letter?\\\""\\r\\n\\r\\nJanet turned around
+  and saw a nice old lady smiling behind her. The old lady was holding out a piece
+  of paper towards Janet. Janet took the paper and looked at it. The address was not
+  filled in, but the letter was beautifully hand written. \\r\\n\\r\\n\\\""I would love to
+  help you,\\\"" said Janet. She took a pen out of her purse and asked the lady, \\\""Where
+  do you want to send the letter?\\\"" The old lady replied, {+\\\""52 Fenway Street, Fieldspring,
+  Massachusetts 12345.-\\\""52 Fenway Street Fieldspring Massachusetts 12345.|163} My
+  grandson lives there.\\\"" \\r\\n\\r\\nJanet started writing it out, but stopped halfway
+  through.\\r\\n\\\""Are you sure your grandson's address is {+52 Fenway Street, Fieldspring,
+  Massachusetts?\\\""-52 Fenway Street Fieldspring Massachusetts?\\\""|163}\\r\\n\\r\\n\\\""Did
+  I say I Fieldspring? I'm sorry. Here is his real address: {+52 Fenway Street, Springfield,
+  Massachusetts 12345.\\\""-52 Fenway Street Springfield Massachusetts 12345.\\\""|163}
+  Janet finished writing the address and handed the letter back to the old lady.\\r\\n\\r\\n\\\""Thank
+  you so much!\\\"" the old lady said.\\r\\n\\r\\n\\\""Happy to help!\\\"" replied Janet.\""
+"", ""instructions""=>""--- \""<br>Insert commas into the addresses in the story.<br><br>\""
+""",1,39,2013-10-14 18:57:04.554473,2015-01-27 20:49:29.950662,{production}
+166,"Sentence Writing: Made, Lost, Gone","Write ten sentences using the past participles made, lost, and gone.",bDQ1uJkluM52fJKOeNPbfA,"""rule_position""=>""---
+- - '454'
+  - '2'
+- - '456'
+  - '2'
+- - '457'
+  - '2'
+- - '455'
+  - '4'
+""",2,48,2014-04-19 15:43:02.783627,2014-04-19 20:13:20.464742,{production}
+70,"Meanwhile, however, still, etc...",Place commas after introductory words.,XgwGtzZRl2nbr7qt_KSe-Q,"""rule_position""=>""---
+- '173'
+- '174'
+- '175'
+""",2,47,2013-10-21 20:10:21.380138,2014-04-18 18:17:10.956399,{archived}
+106,"Sentence Writing: Not Only, But Also; Both, And","Write ten sentences using not only, but also, & both and.",DVEQuUXbtM_e69HT6wVw7A,"""rule_position""=>""---
+- - '259'
+  - '2'
+- - '261'
+  - '2'
+- - '260'
+  - '6'
+""",2,43,2014-04-19 15:42:16.808191,2014-04-19 20:37:35.429094,{production}
+141,"Sentence Writing: These, Those",Write ten sentences using these or those.,He-CBHrPMzoJoSuMchS70g,"""rule_position""=>""---
+- - '380'
+  - '2'
+- - '381'
+  - '2'
+- - '382'
+  - '6'
+""",2,17,2014-04-19 15:42:44.525664,2014-04-19 19:05:53.620695,{production}
+61,Passage Proofreading: Group Project (Fiction),Proofread the passage to ensure correlative conjunctions are used correctly.,I4XOGaQHoqh_wkAkt9UBtA,"""body""=>""--- \""Vera needed to work on her group project. She was excited to start, but she needed
+  to find a partner first. Alex was also looking for a partner, so the two decided
+  to work together. Vera wanted to do the project about either the Great Lakes, {+or-___|167}
+  the Rocky Mountains. Alex likes the mountains more, so he suggested doing a report
+  on them.\\r\\n\\r\\nAlex and Vera went to do some research for their project. Unfortunately,
+  {+neither-___|169} the library nor the bookstore was open that day, so it seemed
+  as though the two would have to wait to finish their work. Luckily for Alex, Vera
+  is {+not only-___|168} a fast reader, but also a great writer. Alex was not worried
+  about finishing the project on time.\\r\\n\\r\\nThe next day both Alex and Vera went
+  to the library. They found three great books about the Rocky Mountains. By the end
+  of the day {+both-___|170} Alex and Vera knew all about the Rocky Mountains, and
+  completing their project was a breeze.\""
+"", ""instructions""=>""--- In this passage, the blanks need to be filled with appropriate words depending
+  on which correlative conjunction is used. <br><br>To make changes, click on the
+  blank and delete it. Then, fill in the space with one of the following words:<br><br>
+  <b>or</b>, <b>neither</b>, <b>not only</b>, <b>both</b>
+...
+""",1,43,2013-10-14 19:22:42.267036,2014-09-10 19:40:18.384555,{production}
+87,Passage Proofreading: Nasreddin and the Thieves (Mythology),Proofread a passage and correct any confused words.,-Qzqmurh30497uHpeem4SQ,"""body""=>""--- \""Every Friday, Nasreddin would arrive at the market with a donkey to sell. He
+  always sold the donkey very cheaply, at a far lower cost than any of the other donkeys
+  that were for sale.\\r\\n\\r\\nFinally, one of the merchants confronted Nasreddin. \\\""I
+  do not understand how it is possible, {+please-pleas|200} explain yourself!\\\"" he
+  exclaimed. \\\""With threats of violence, I compel the farmers who are my tenants to
+  give me food for my donkeys at no cost. My workers are {+poor-pour|202} slaves and
+  I pay them no wages for taking care of the donkeys. I {+lose-loose|209} no profit
+  anywhere. That means I am able to sell my donkeys at the lowest possible price,
+  but even {+then-than|207} you sell your donkeys for even less. {+It's-Its|211} unreasonable!
+  How can that be?\\\""\\r\\n\\r\\nNasreddin smiled at the merchant and explained, {+\\\""You're-\\\""Your|208}
+  stealing the food and the labor. I, however, am just stealing the donkeys!\\\""\""
+"", ""instructions""=>""--- Proofread the passage below, making sure that all the commonly confused words
+  are spelled correctly.
+...
+""",1,56,2013-11-12 21:58:23.525814,2014-04-21 05:10:01.275145,{production}
+131,"Sentence Writing: Sat, Hid",Write seven sentences using the irregular past tense verbs sat and hid.,OQ3eV17BY1d4UcbhRKcQZA,"""rule_position""=>""---
+- - '344'
+  - '2'
+- - '345'
+  - '2'
+- - '343'
+  - '3'
+""",2,22,2014-04-19 15:42:37.131103,2014-04-19 19:36:43.602645,{production}
+82,Write complete sentences,"Students using Quill write complete sentences by capitalizing the first word, spelling properly, and ending with some form of punctuation.",Uixv4KVtHW0ErtRiOfIT0A,"""rule_position""=>""---
+- '193'
+""",2,53,2013-11-04 01:50:41.524531,2014-04-18 22:38:55.77856,{archived}
+54,"Street name, city, state, zipcode","When we write addresses, we put commas after the street name, city, and state.",1FsjkKfAQ_zMdRtUO8DIMg,"""rule_position""=>""---
+- '163'
+""",2,39,2013-10-14 18:57:04.554473,2014-04-18 18:18:49.087687,{archived}
+56,"Commas after speaking verbs, quotation marks around speech",We put quotation marks around spoken words. Remember to always put a comma before the beginning of a quotation.,hJ3uae1-N3hn839Kog7dhg,"""rule_position""=>""---
+- '164'
+""",2,40,2013-10-14 19:11:24.963517,2014-04-15 17:10:54.218742,{archived}
+14,"A, the, this, etc...","An article is a word that proceeds a noun. A demonstrative is a word that precedes a noun and identifies how many there are, and how close they are.",vkyVDiKuQyVxYdPUlyI6Bg,"""rule_position""=>""---
+- '27'
+- '28'
+- '29'
+- '30'
+- '31'
+- '32'
+- '33'
+- '34'
+""",2,17,2013-09-16 20:13:44.623135,2014-04-18 21:24:28.266849,{archived}
+16,"Tuesday, Michael, September, etc...",Most names and specific dates must be capitalized.,qe-kojdg_bF-eWJk_TolHw,"""rule_position""=>""---
+- '42'
+- '43'
+- '44'
+""",2,18,2013-09-16 21:26:14.765994,2014-04-18 20:38:14.165294,{archived}
+18,"May 16th, 1942",Remember to use commas when writing dates and lists.,B4tYq1PQC7fryVAYCQWWLg,"""rule_position""=>""---
+- '45'
+- '46'
+- '47'
+""",2,19,2013-09-16 22:57:25.589845,2014-04-18 20:46:27.789184,{archived}
+35,Passage Proofreading: One Giant Leap for Mankind (History),Proofread a passage ensuring that the proper word is used in each circumstance.,G01GZWMfEC08Vgx1t-Cc2w,"""body""=>""--- \""On July 16th, 1969, hundreds of people traveled to the Kennedy Space Center in
+  Florida to watch the Launch of the Apollo 11 rocket. Speakers announced, “You {+may-(can
+  / may)|119} not approach the launch site without permission.” Nine and a half years
+  ago, President John F. Kennedy promised we would land a man on the Moon in the next
+  10 years. Today was the last chance America had to keep its promise. NASA knew they
+  {+must-(must / should)|120} launch the rocket now, or they would run out of time.
+  The crew asked Mission Control if they {+may-(may / can)|119} begin the countdown
+  to launch. It was a perfect day for flying, so NASA knew there {+should-(should
+  / must)|120} not be any problems.\\r\\n\\r\\nAfter a rocket leaves Earth, there is nothing
+  else Mission Control {+can-(may / can)|119} do, so the launch is always tense. Once
+  the rocket was close to the Moon, Mission Control told the crew they {+must-(must
+  / should)|120} circle the moon once, because that was the only way to slow down.
+  NASA suggested that they {+should-(should / must)|120} try to find some good rocks
+  to bring back.\\r\\n\\r\\nTwo of the crew members, Neil Armstrong and Buzz Aldrin, launched
+  a smaller ship from the Apollo 11 rocket, and landed on the Moon. When Neil Armstrong
+  first stepped out of the ship he said, “That's one small step for a man, and one
+  giant leap for mankind.”\""
+"", ""instructions""=>""--- Rewrite the story by choosing the correct words from the parentheses.<br><br>
+  Remember to delete the parentheses before clicking the submit button.
+...
+""",1,29,2013-09-24 00:17:11.579076,2014-04-19 19:14:40.288094,{production}
+62,"Either / or, neither / nor, both, etc...",Correlative conjunctions combine two ideas in certain ways.,1iVzSbEjPIK1sZUykBGjmw,"""rule_position""=>""---
+- '167'
+- '168'
+- '169'
+- '170'
+""",2,43,2013-10-14 19:22:42.267036,2014-04-17 14:29:44.627603,{archived}
+66,"Yes, no, Steve, etc...","Use a comma to separate the words ""yes"" and ""no"" from the beginnings and ends of sentences.  We also use commas to separate tag questions from sentences as well.",2EqbjTWAR8BY4Ii94o2DWQ,"""rule_position""=>""---
+- '176'
+- '177'
+- '178'
+""",2,45,2013-10-15 01:23:59.750049,2014-04-18 15:04:55.010031,{archived}
+125,"Sentence Writing: Comparative and Superlative Adjectives Ending in ""Y""",Write ten sentences using comparative and superlative adjectives.,QgAVWhUjmv2zDq0h286_3g,"""rule_position""=>""---
+- - '325'
+  - '2'
+- - '327'
+  - '2'
+- - '326'
+  - '6'
+""",2,38,2014-04-19 15:42:33.338677,2014-04-19 23:56:56.96799,{production}
+156,"Sentence Writing: And, Or","Write 10 sentences using the conjunctions and, or.",tWwOHnapjOTXqMQOY6p7-g,"""rule_position""=>""---
+- - '423'
+  - '2'
+- - '425'
+  - '2'
+- - '424'
+  - '6'
+""",2,14,2014-04-19 15:42:55.591125,2014-04-20 00:01:39.724883,{production}
+133,"Sentence Writing: Saw, Dug, Found","Write nine sentences using the irregular past tense verbs saw, dug, and found.",mom0aXTHMa3htgZuHspCzA,"""rule_position""=>""---
+- - '350'
+  - '1'
+- - '352'
+  - '1'
+- - '353'
+  - '1'
+- - '351'
+  - '6'
+""",2,22,2014-04-19 15:42:38.144217,2014-04-19 19:24:17.577825,{production}
+129,"Sentence Writing: Came, Went, Did","Write nine sentences using the irregular past tense verbs came, went, and did.",SMPyFxSXOxEIr6Pi6WB4ZQ,"""rule_position""=>""---
+- - '336'
+  - '2'
+- - '338'
+  - '2'
+- - '339'
+  - '2'
+- - '337'
+  - '3'
+""",2,22,2014-04-19 15:42:36.042571,2014-04-19 23:45:52.478949,{production}
+4,"Man, Steve, Steve's",Common nouns aren't capitalized unless they begin a sentence. Proper nouns are always capitalized.,r7e9oSqhNqohFEdQ4kDmIA,"""rule_position""=>""---
+- '10'
+- '11'
+- '12'
+- '13'
+""",2,7,2013-09-16 02:15:51.34529,2014-04-18 22:30:01.450188,{archived}
+6,"I run, she runs",Some verbs change their spelling to agree with the subject.,BNx0fgwP9Fgf4ZxRiFAlRA,"""rule_position""=>""---
+- '15'
+- '17'
+""",2,10,2013-09-16 17:15:32.176173,2014-04-18 22:38:09.257842,{archived}
+8,"I looked, I look, I will look",Verbs need to be in the correct tense.,u_TDrJrV7-ObB4n-f9-WWQ,"""rule_position""=>""---
+- '18'
+- '19'
+- '20'
+""",2,12,2013-09-16 17:35:19.88059,2014-04-18 22:52:19.373984,{archived}
+10,"And, but, or, etc...",Conjunctions connect two shorter sentences into one sentence.,SYHlx_d88YVPWDPzRq9WpA,"""rule_position""=>""---
+- '21'
+- '22'
+- '23'
+- '24'
+- '25'
+- '26'
+""",2,14,2013-09-16 19:38:22.867581,2014-04-18 23:21:51.045773,{archived}
+91,Passage Proofreading: Nā ʻaumākua (History),Proofread a passage and correct any mistakes in parallel structure.,1xsnNcwKva_viIzpgNuJ-Q,"""body""=>""--- \""The ancient Hawaiian people were not as technologically advanced as other cultures
+  of the time. However, by the time western civilization began communicating with
+  the Hawaiian people, they had already developed a rich cultural heritage. They went
+  about their lives by surviving off of the land, following strict social rules, and
+  {+respecting-respected|196} their aumakuas, or \\\""family gods.\\\"" Unlike more powerful
+  deities, such as Pele, the fiery goddess of volcanoes, aumakuas interacted specifically
+  with individual families as spiritual guides. They were known for appearing in peoples'
+  dreams, {+save-saving|213} people from harm, and bringing about good fortune to
+  people in need.\\r\\n\\r\\nLike the spirit guides of other religions, aumakuas were
+  said to be able to shape-shift. They could appear as a shark lurking on the ocean
+  floor, or a hawk circling the skies. However, they were said to make themselves
+  known easily to anyone who worshipped them. Out of respect for these spirit guides,
+  the Hawaiian people payed tribute to them, asked for their guidance, and {+considered-consider|195}
+  them to be family.\""
+"", ""instructions""=>""--- In this passage, there are three actions that do not agree with the other actions
+  in their respective lists. To edit the text, click on a word and type your changes.
+...
+""",1,59,2013-11-13 05:09:44.735591,2014-05-03 14:56:46.890538,{production}
+17,Passage Proofreading: Samir's Baseball Game (Sport),Proofread a passage paying special attention to intensive pronouns. ,9ctijaFq2Ako4lbmblinIA,"""body""=>""--- \""It is Tuesday afternoon and Samir has been looking forward to going to the baseball
+  game all day. He looks at his watch and sees that it's 3:15 PM on {+September 14th,
+  2012.-September 14th 2012.|45}  As the game is about to start, Samir decides to
+  find a good seat so that he can see {+Alex Rodriguez, Derek Jeter, and Ichiro Suzuki,-Alex
+  Rodriguez Derek Jeter and Ichiro Suzuki,|46} his favorite players. \\r\\n\\r\\nBy the
+  fourth inning, Samir is hungry so he goes to get something to eat. He orders a pretzel
+  and a hotdog with {+ketchup, relish, and onions.-ketchup relish and onions.|46}
+  The man behind the counter sees Samir wearing a Yankees hat, and gives him a free
+  soda because he also likes the Yankees.\\r\\n\\r\\nJust as Samir sits back down, he
+  hears the crack of a bat and the 'ooohhh' of the crowd.  He sees that a foul ball
+  is coming right toward him, and that none other than Derek Jeter is standing at
+  the plate. His hands are full with the {+hotdog, soda, and pretzel,-hotdog soda
+  and pretzel,|46} but he manages to catch the foul ball with the hotdog dish. The
+  hotdog flops off the dish, but Samir manages to hold onto the foul ball. The crowd
+  laughs as he holds up the foul ball, now covered in ketchup. \""
+"", ""instructions""=>""--- <br>Read the following story and make sure all the dates and lists have their
+  proper commas.<br><br>
+...
+""",1,19,2013-09-16 22:57:25.589845,2014-09-11 18:29:32.859994,{production}
+113,"Sentence Writing: You're, Your",Write ten sentences using you're and your.,_OGM4o2Av21MHkyJ8RHqHQ,"""rule_position""=>""---
+- - '282'
+  - '2'
+- - '284'
+  - '2'
+- - '283'
+  - '4'
+""",2,46,2014-04-19 15:42:21.661996,2014-04-19 18:32:45.284384,{production}
+110,"Sentence Writing: Than, Then",Write eight sentences using than and then.,KfXZjcff6YVWh1fbRzGr4w,"""rule_position""=>""---
+- - '271'
+  - '2'
+- - '272'
+  - '2'
+- - '273'
+  - '4'
+""",2,46,2014-04-19 15:42:20.050745,2014-04-19 18:49:25.007156,{production}
+105,"Sentence Writing: Either, Or; Neither, Nor","Write ten sentences using ""either, or"" and ""neither, nor.""",HBWrzOaQzm73sHdRNuKuDw,"""rule_position""=>""---
+- - '256'
+  - '2'
+- - '258'
+  - '2'
+- - '257'
+  - '6'
+""",2,43,2014-04-19 15:42:16.106894,2014-04-19 18:51:11.978853,{production}
+107,"Sentence Writing: It's, Its",Write eight sentences using it's and its.,J0L52IXhhtX6Y02MoZi5tw,"""rule_position""=>""---
+- - '262'
+  - '2'
+- - '263'
+  - '2'
+- - '264'
+  - '4'
+""",2,46,2014-04-19 15:42:18.250936,2014-04-19 18:54:53.384161,{production}
+108,"Sentence Writing: Of, Off",Write seven sentences using of and off.,TYSjfEShNlQqSWNOnkTxUg,"""rule_position""=>""---
+- - '265'
+  - '2'
+- - '266'
+  - '2'
+- - '267'
+  - '3'
+""",2,46,2014-04-19 15:42:18.899905,2014-04-19 18:57:16.568321,{production}
+128,"Sentence Writing: Built, Broke",Write nine sentences using the irregular past tense verbs built and broke.,5v62jVAjZvDIdXjMpDMr3g,"""rule_position""=>""---
+- - '333'
+  - '2'
+- - '335'
+  - '2'
+- - '334'
+  - '5'
+""",2,22,2014-04-19 15:42:35.6621,2014-04-19 19:18:51.758774,{production}
+1,Shackleton Returns from the Antarctic,Shackleton Returns from the Antarctic.,BaJi4-PhNRz9um-o0u-w6Q,"""body""=>""In 1914, Ernest Shackleton set {+off-of|1} on an exploration across the Antarctic. In 1915 his ship, Endurance, became trapped in the ice, and {+its-it's|2} crew was stuck. Ten months later {+their-there|3} ship sank, and {+Shackleton's-Shackletons|4} crew was forced to live on {+an-a|5} iceberg. They reached Elephant Island in {+April-april|6} of 1916 using three lifeboats. 
+
+Shackleton promised to {+find-found|7} help. In a small boat with five crew members, he spent 16 days crossing 800 miles of ocean. The remaining men were then rescued {+in-on|8} August of 1916. Amazingly, Shackleton did not {+lose-loose|9} anyone on the trip. "", ""instructions""=>""There are **nine errors** in this passage. *To edit a word, click on it and re-type it.*""",1,1,2013-09-14 00:01:09.788782,2014-04-18 22:58:11.400208,{archived}
+2,"Lose vs. loose, it's vs. its, they're vs. their vs. there etc...",Shackleton Returns from the Antarctic.,1tHuCGX7hWjNx6e8HADAFA,"""rule_position""=>""---
+- '1'
+- '2'
+- '3'
+- '4'
+- '5'
+- '6'
+- '7'
+- '8'
+- '9'
+""",2,1,2013-09-14 00:01:09.788782,2014-04-18 22:58:11.400208,{archived}
+84,Spelling and punctuation,Take messy sentences written by  students and rewrite them with proper English grammar.,F7-kdfz-iLb6t0l2iac7Vg,"""rule_position""=>""---
+- '194'
+""",2,54,2013-11-09 22:05:49.7566,2014-04-18 15:25:03.473326,{archived}
+74,Modifiers referring to the correct subject or object,Finish describing something before going on to mention other people or things.,z6PNyKDfLzi6VsQUUw6gow,"""rule_position""=>""---
+- '186'
+""",2,49,2013-10-23 21:01:31.179576,2014-04-15 12:20:30.994112,{archived}
+103,Sentence Writing: Parallel Structure,Write nine sentences using parallel structure.,mjNfUsTjjxwcSHfy-Zv1SQ,"""rule_position""=>""---
+- - '249'
+  - '1'
+- - '251'
+  - '1'
+- - '252'
+  - '1'
+- - '250'
+  - '6'
+""",2,59,2014-04-19 15:42:13.353551,2014-04-21 00:31:42.949148,{production}
+123,Sentence Writing: The Progressive Tense,Write twelve sentences using the progressive tense.,rkhMz0hsImTienlg_ZkxUg,"""rule_position""=>""---
+- - '318'
+  - '1'
+- - '320'
+  - '2'
+- - '321'
+  - '2'
+- - '319'
+  - '7'
+""",2,4,2014-04-19 15:42:31.288153,2014-04-19 23:42:44.422806,{production}
+24,"Built, wrote, came, etc...","Not all past tense verbs end in ""ed"".",da0PGJ32TDP0aGWkBSNCGw,"""rule_position""=>""---
+- '71'
+- '72'
+- '73'
+- '74'
+- '76'
+- '77'
+- '78'
+- '79'
+- '80'
+- '81'
+- '82'
+""",2,22,2013-09-17 00:51:14.844977,2014-04-18 20:26:44.464465,{archived}
+52,"Fast, faster, fastest",Comparative adjectives compare two people or things. Superlative adjectives compare one person or thing with everything else in the group.,pjoYyE-1Tx84AZ_tdXWjhQ,"""rule_position""=>""---
+- '156'
+- '157'
+- '158'
+- '159'
+- '160'
+- '161'
+""",2,38,2013-10-14 18:43:47.566805,2014-04-18 19:41:39.222061,{archived}
+98,Proofreading Practice,This story is filled with 41 grammatical errors.  Read the story carefully and try to find them all!,_Fg6j6Ueom4RizwpCMIW5A,"""rule_position""=>""---
+- ''
+""",2,62,2013-11-14 21:08:47.126042,2014-03-27 19:04:34.905549,{archived}
+99,Fiction: Building a House?,This is a demonstration of our new lessons with images.,pZdWzEPln2JD6rINoQRI3A,"""body""=>""This is a story about a man who {+sat-(sit)|244} around the house all day and did nothing. One day, his wife came home early, so he {+hid-(hide)|241} in a closet so she would think he was at work building houses. The only problem was, he left the TV on! She knew that he was home doing nothing and said, \""If you {+built-(build)|246} houses as well as you hide inside them, we would be doing great!\"" The husband did not hear her. He was already asleep in his closet! It's hard doing nothing all day."", ""instructions""=>""Rewrite the following passage by rewriting the words in parentheses.""",1,63,2013-12-10 23:13:15.492041,2014-04-17 18:55:22.29122,{archived}
+38,"The man is behind, the man behind, the man looking behind","Prepositional phrases answer the questions where something is (noun), what something looks like (adjective), and how something is being done (adverb).",Va2ZbGDOrJ7S6O20BEhOuQ,"""rule_position""=>""---
+- '122'
+- '123'
+- '124'
+- '125'
+""",2,30,2013-09-24 00:48:43.771996,2014-04-18 02:30:57.443636,{archived}
+40,"First word in a sentence, proper nouns, quotations, etc...",We capitalize the first letter of certain words.,LNingU2LBZvHJhSkotqg6g,"""rule_position""=>""---
+- '133'
+- '134'
+- '135'
+- '136'
+""",2,31,2013-09-24 01:34:01.858966,2014-04-17 18:56:54.185618,{archived}
+42,"He/she, him/her, his/hers, etc...","Use subjective, objective, and possessive pronouns properly.",D8htCx58uGIR9DY-Iw33xQ,"""rule_position""=>""---
+- '138'
+- '139'
+- '140'
+- '141'
+""",2,32,2013-09-24 02:02:28.091318,2014-04-18 17:11:44.635185,{archived}
+117,"Intermediate: Which, Where, When","",23gAYtn_D4YQcCQY-nUI5A,"""rule_position""=>""---
+- 296
+- 297
+- 298
+- 299
+""",2,27,2014-04-19 15:42:24.84545,2014-04-20 03:12:09.64504,{alpha}
+114,"Beginner: Which, Who, Where","",EQDtq-xdnOr7r-Z6KM0N9Q,"""rule_position""=>""---
+- 285
+- 286
+- 287
+- 288
+""",2,27,2014-04-19 15:42:22.805524,2014-04-20 03:12:36.255986,{alpha}
+115,"Beginner: Whose, That, When","",sWkNd5T_Yt9KOSdyM8Vpug,"""rule_position""=>""---
+- 289
+- 290
+- 291
+- 292
+""",2,27,2014-04-19 15:42:23.462502,2014-04-20 03:23:42.039675,{alpha}
+120,"Whose, Whom, Who (duplicate)","",p8wwLYM4QdJN4zJ9FvpGEg,"""rule_position""=>""---
+- 307
+- 308
+- 309
+- 310
+""",2,27,2014-04-19 15:42:27.059133,2014-04-20 03:25:25.311473,{archived}
+127,Sentence Writing: Capitalizing Words in Titles,Write eight sentences placing capital words in titles.,IkjAvx6AlzhcOGGRBGl3VA,"""rule_position""=>""---
+- - '331'
+  - '2'
+- - '332'
+  - '6'
+""",2,41,2014-04-19 15:42:34.762055,2014-04-21 00:16:44.041393,{production}
+69,Passage Proofreading: Snow Day (Fiction),Proofread a passage to ensure that commas are placed after introductory words.,VolwH12xgS732exLTniUDQ,"""body""=>""--- \""Alex woke up at seven o’clock as always. {+However,-However|173} when he looked
+  out his window, he could barely see anything. It was snowing harder than he had
+  ever seen. After staring at the falling snow for a while, his sister called out
+  to him that breakfast was ready.\\r\\n\\r\\nAlex and his sister ate waffles and listened
+  to the radio broadcast about the weather. {+Meanwhile,-Meanwhile|175} it kept snowing
+  harder and harder. There must have been at least two feet of snow on the ground.\\r\\n\\r\\nThe
+  radio announced that schools were closed that day. Alex had a big project ready
+  for school, so he was a little disappointed. {+Still,-Still|174} it was nice to
+  have a day off to play with his family.\\r\\n\""
+"", ""instructions""=>""--- This story has three introductory words. However, they do not have a comma placed
+  after them.<br><br> To make changes, click on a word and add a comma to the end
+  of it.
+...
+""",1,47,2013-10-21 20:10:21.380138,2014-04-19 18:45:35.250485,{production}
+20,"Can't, won't, don't, etc...",Contractions are made when you take two words put them together with an apostrophe.,YZiB6m2pjTno2JLyg66AiA,"""rule_position""=>""---
+- '96'
+- '97'
+- '98'
+- '100'
+- '101'
+- '103'
+- '104'
+""",2,20,2013-09-16 23:22:07.322974,2014-04-18 22:30:44.1037,{archived}
+22,"Beautiful, beautifully","We use adjectives when we want to describe people, places and things (nice, beautiful, quick). We use adverbs when we want to describe how something was done (nicely, beautifully, quickly).",hmWtpqE-9LdsUSf9Q7N9gQ,"""rule_position""=>""---
+- '85'
+- '86'
+- '88'
+- '90'
+""",2,21,2013-09-17 00:36:37.250186,2014-04-18 16:34:10.768263,{archived}
+81,Passage Proofreading: Little Rabbits (Fiction),"Students using Quill write complete sentences by capitalizing the first word, spelling properly, and ending with some form of punctuation.",mvNABNKNcJfRAVUvaB1yyA,"""body""=>""--- '{+I-i|193} saw some little rabbits in a shop yesterday. {+They-they|193} looked
+  adorable jumping and wriggling about. I wish I could have taken one home with {+me.-me|193}'
+"", ""instructions""=>""--- In this passage, there are two words that need to be capitalized and one word
+  that needs ending punctuation. To edit the text, click on a word and type in your
+  changes.
+...
+""",1,53,2013-11-04 01:50:41.524531,2014-04-19 20:18:05.143152,{production}
+28,"Myself, yourself, himself, etc...",Reflexive pronouns are used when the subject of the sentence is doing something to itself.,JK-fVTnifXkUZM69Tjt6lg,"""rule_position""=>""---
+- '62'
+- '63'
+- '64'
+- '66'
+- '69'
+""",2,24,2013-09-17 01:22:23.681351,2014-04-18 21:59:25.17154,{archived}
+30,"Flock of geese, group of people, pack of cards, etc...","Collective nouns are singular words that represent a collection of people, places, or things.",TgP-306XqeAjSj0mr9PGxQ,"""rule_position""=>""---
+- '48'
+""",2,25,2013-09-17 01:27:18.228369,2014-04-18 21:58:25.696812,{archived}
+32,"Who, whom, that, etc...","Relative pronouns (who, whose, whom, which, that) describe the noun that precedes them.",8flX-hfpIjHvU6Qn-XFYUg,"""rule_position""=>""---
+- '106'
+- '107'
+- '108'
+- '109'
+- '110'
+- '111'
+- '112'
+- '113'
+- '114'
+""",2,27,2013-09-23 22:09:40.586163,2014-04-18 22:27:01.39072,{archived}
+34,"I am going, I was going, I will be going","The progressive tense describes ongoing actions.  It is made by adding ""ing"" to the end of verbs",lefLj2mppn358v17lsTluw,"""rule_position""=>""---
+- '115'
+- '116'
+- '117'
+- '118'
+""",2,28,2013-09-23 22:38:21.909759,2014-04-11 14:39:36.525489,{archived}
+100,"Sit, Hid, Built",This is a demonstration of our new lessons with images.,Cmn97pm78-7MgWYnYqssSg,"""rule_position""=>""---
+- '241'
+- '244'
+- '246'
+""",2,63,2013-12-10 23:13:15.492041,2014-04-17 18:55:22.29122,{archived}
+102,"",Try to find all the errors in the story below. ,aacyPtJkmNzX266IqfjcpQ,"""rule_position""=>""--- []
+""",2,64,2014-01-08 21:07:48.41956,2014-04-16 11:18:22.643134,{archived}
+36,"Can, may, should, must",Determine which word is proper in which circumstances.,3v4_5bwdPo34b4oWAQ71IQ,"""rule_position""=>""---
+- '119'
+- '120'
+- '121'
+""",2,29,2013-09-24 00:17:11.579076,2014-04-17 17:04:38.824094,{archived}
+44,"Myself, itself, himself, etc...",Intensive pronouns emphasize what the subject does.,sVLnYtBe7ik1i18bxSU6jw,"""rule_position""=>""---
+- '142'
+- '143'
+""",2,33,2013-09-24 02:23:18.299603,2014-04-18 01:45:01.030993,{archived}
+46,Pronouns that match subjects,Pronouns must maintain the same gender and number,twwogRg5thf-lSpaN4P3lw,"""rule_position""=>""---
+- '144'
+- '145'
+- '146'
+""",2,34,2013-09-24 02:30:41.36037,2014-04-18 15:55:37.715141,{archived}
+48,"At, in, & on",Prepositions connect different parts of a sentence together.,TSYarZ_VyLd_GnKS4rYqNA,"""rule_position""=>""---
+- '35'
+- '36'
+- '37'
+- '38'
+- '39'
+- '40'
+- '41'
+""",2,36,2013-09-24 22:06:15.142731,2014-04-18 21:56:54.126908,{archived}
+50,Using spaces with periods; using spaces with commas.,Use correct spacing with periods and commas.,W4ev_dttsZHqxbaEMBqkIg,"""rule_position""=>""---
+- '152'
+- '153'
+- '154'
+- '155'
+""",2,37,2013-10-04 04:35:05.503399,2014-04-16 13:41:42.02592,{archived}
+60,"That boy's toys, those boys' toys",Possessives are words that show what belongs to who.,sfg_WvG3cIdx6Y8E6D5TyQ,"""rule_position""=>""---
+- '165'
+- '166'
+""",2,42,2013-10-14 19:19:29.212539,2014-04-18 19:41:21.028127,{archived}
+138,"Sentence Writing: A, An",Write ten sentences using the articles a or an.,5GakS_djVK3qGFkZfASuXA,"""rule_position""=>""---
+- - '371'
+  - '2'
+- - '373'
+  - '2'
+- - '372'
+  - '6'
+""",2,17,2014-04-19 15:42:43.253126,2014-04-19 19:21:07.407449,{production}
+68,"Lose vs. loose, it's vs. its, they're vs. their vs. there etc...",Similar sounding words are often confused for one another. ,NnIXm-Y4TvR1eyA8w3HHKA,"""rule_position""=>""---
+- '127'
+- '128'
+- '129'
+- '130'
+- '126'
+- '132'
+- '131'
+""",2,46,2013-10-21 03:28:37.357468,2014-04-17 18:03:19.367424,{archived}
+71,Passage Proofreading: Scott's Chicken Wrap (Fiction),Proofread a passage to ensure past participles are used correctly.,3epbu4AMYBw8UrnWkIfTtg,"""body""=>""--- \""Scott had {+been-beed|181} in culinary school for two years before opening his
+  first restaurant. At first, only a few people visited the restaurant. However, all
+  hope wasn't {+lost.-losed.|182} Scott kept cooking, and has since {+become-became|248}
+  a popular chef in his hometown. Everyone who has {+eaten-eated|180} at his restaurant
+  found themselves coming back again and again. Some are local diners, while others
+  have {+gone-goed|184} great distances to try Scott's food. \\r\\n\\r\\nOne of the most
+  popular items on the menu is the chicken wrap. The {+grilled-grill|179} chicken
+  in the wrap is cooked to perfection, and the seasoning adds a good amount of spice.
+  There is also plenty of lettuce and tomato to add to the flavor. The wrap alone
+  has {+made-maked|183} a name for Scott and his new-found success.\""
+"", ""instructions""=>""--- In this passage, the irregular past participles are not spelled correctly. <br><br>There
+  is also one regular past participle that needs \""ed\"" at the end of the word. <br><br>To
+  edit the text, click on a word and type in your changes.
+...
+""",1,48,2013-10-23 03:26:08.723149,2014-04-19 19:51:42.270292,{production}
+76,Using spaces with quotation marks,We do not put extra spaces between quotations and the words next to them.,J25E7D5mkd2agDHw_R2QPw,"""rule_position""=>""---
+- '188'
+""",2,50,2013-10-27 21:25:23.867592,2014-04-14 13:04:14.193118,{archived}
+63,Passage Proofreading: Baking a Cake (Fiction) ,Proofread a passage to ensure commas and colons are correctly used.,FY9FiEjHFO5mFD-rx-rayg,"""body""=>""--- \""\\\""Devon, could you help me with this recipe?\\\""\\r\\n\\r\\nDevon's mom did not usually
+  ask for his help, so he thought that this must be important. Devon went downstairs
+  to the kitchen where his mom was cooking.\\r\\n\\r\\n\\\""Devon, I can't mix the ingredients
+  and read the recipe at the same time. Could you read the instructions to me out
+  loud?\\\""\\r\\n\\r\\n\\\""No problem, mom. Take a mixing bowl and gather the following {+ingredients:-ingredients|172}
+  eggs, milk, butter, and flour.\\\""\\r\\n\\r\\n\\\""Got it. What's next?\\\""\\r\\n\\r\\n\\\""Start
+  preparing other ingredients, such as {+sugar, vanilla, and salt.-sugar vanilla and
+  salt.|171} Can you handle this from here Mom?\\\""\\r\\n\\r\\n\\\""Yup! Thanks Devon! The
+  cake should be ready in an hour or so, and you get the first piece!\\\""\""
+"", ""instructions""=>""--- 'In this story, the lists need commas or colons.<br><br> Click on a word to write
+  in punctuation. '
+""",1,44,2013-10-14 19:55:06.99711,2014-09-11 16:34:56.100036,{production}
+78,"Small, red ball vs. Small and red ball","Whenever two adjectives describe something, we do not need to put ""and"" in between them. We can simply use a comma after the first adjective.",nkl6HiKpKqAxE9hsVpCjZw,"""rule_position""=>""---
+- '187'
+""",2,51,2013-10-27 22:17:52.194134,2014-04-15 12:26:07.903703,{archived}
+80,"Was created, were created","Verbs in the passive voice are the same as past participles and usually follow helping verbs like ""was"" and ""were"".",gDh0feDZU7oP5mUn-O8fxA,"""rule_position""=>""---
+- '189'
+""",2,52,2013-11-01 18:46:51.419592,2014-04-18 15:44:33.268954,{archived}
+86,"Lose vs. loose, it's vs. its, they're vs. their vs. there etc...",Commonly Confused Words,E3rTIJXodJGlWyf6JzuJ-Q,"""rule_position""=>""---
+- '201'
+- '205'
+- '200'
+""",2,56,2013-11-11 20:19:00.092152,2014-04-18 16:15:52.026429,{archived}
+92,Verb endings in a list stay consistent,Actions in a list usually stay in the same tense.,ZVVF3YxhfEeH0blylNXl2A,"""rule_position""=>""---
+- '195'
+- '196'
+- '213'
+""",2,59,2013-11-13 05:09:44.735591,2014-04-18 16:40:36.611754,{archived}
+137,"Sentence Writing: At, In, On (Place)","Write ten sentences using at, in, and on.",PjbnqedMVMacwSdW9aI8CQ,"""rule_position""=>""---
+- - '367'
+  - '1'
+- - '369'
+  - '1'
+- - '370'
+  - '1'
+- - '368'
+  - '7'
+""",2,6,2014-04-19 15:42:41.867299,2014-04-19 19:01:46.234238,{production}
+88,"Sentence Writing: Than, Then; You're, Your; Lose, Loose",Write nine sentences using these commonly confused words correctly. ,u7uHk9U_4Bfc64knFYPrJA,"""rule_position""=>""---
+- - '207'
+  - '3'
+- - '208'
+  - '3'
+- - '209'
+  - '3'
+""",2,56,2013-11-12 21:58:23.525814,2014-04-21 04:49:34.571084,{production}
+90,"Sentence Writing: Thrown, Throne; Meant, Mint; Although, All Though",Write nine sentences using these commonly confused words correctly.,Vg-8y7ZBMan9rfg_1fp5ng,"""rule_position""=>""---
+- - '197'
+  - '3'
+- - '198'
+  - '3'
+- - '199'
+  - '3'
+""",2,56,2013-11-12 22:24:29.257025,2014-04-21 04:53:10.113781,{production}
+149,"Sentence Writing: Mice, Goose, Deer","Write nine sentences with the irregular nouns mice, goose, and deer.",GTP5gHBgoE9v_OoCqY_nKA,"""rule_position""=>""---
+- - '403'
+  - '1'
+- - '405'
+  - '1'
+- - '406'
+  - '1'
+- - '404'
+  - '6'
+""",2,15,2014-04-19 15:42:48.76439,2014-04-19 19:31:19.366936,{production}
+157,"Sentence Writing: So, Because",Write 10 sentences using the conjunctions so or because.,Pgcl7c_giqeHwWvdgJA3CQ,"""rule_position""=>""---
+- - '426'
+  - '2'
+- - '428'
+  - '2'
+- - '427'
+  - '6'
+""",2,14,2014-04-19 15:42:56.233004,2014-04-19 20:17:41.12049,{production}
+145,"Sentence Writing: Irregular Plural Nouns Ending With ""F,"" ""Fe,"" and ""O.""","Write ten sentences with irregular plural nouns ending with ""f,"" ""fe,"" and ""o.""",fypnCOoeIlxSWX0tHEsmkA,"""rule_position""=>""---
+- - '390'
+  - '1'
+- - '392'
+  - '1'
+- - '393'
+  - '1'
+- - '391'
+  - '7'
+""",2,15,2014-04-19 15:42:47.306921,2014-04-20 00:16:02.135823,{production}
+140,"Sentence Writing: A, An, The","Write ten sentences using the determiners a, an, or the.",u5RZdiz_yIOQpC97mrUILQ,"""rule_position""=>""---
+- - '378'
+  - '2'
+- - '379'
+  - '2'
+- - '377'
+  - '6'
+""",2,17,2014-04-19 15:42:44.073209,2014-04-19 20:39:24.850739,{production}
+152,Sentence Writing: Possessive Nouns,Write ten sentences using possessive nouns.,TEpiDLzhPCokb82RnlButQ,"""rule_position""=>""---
+- - '412'
+  - '2'
+- - '413'
+  - '8'
+""",2,7,2014-04-19 15:42:51.665964,2014-04-19 20:30:45.650564,{production}
+136,"Sentence Writing: At, In, On (Time)","Write ten sentences using at, in and on.",40F3qnu3khw2ooEw2oZwLQ,"""rule_position""=>""---
+- - '363'
+  - '1'
+- - '365'
+  - '1'
+- - '366'
+  - '1'
+- - '364'
+  - '7'
+""",2,6,2014-04-19 15:42:40.925522,2014-04-19 19:03:34.678031,{production}
+148,"Sentence Writing: Children, People",Write ten sentences with the irregular nouns children and people.,83KWWwB6tOWV7mnw82GHaQ,"""rule_position""=>""---
+- - '400'
+  - '2'
+- - '402'
+  - '2'
+- - '401'
+  - '6'
+""",2,15,2014-04-19 15:42:48.357832,2014-04-19 20:33:20.406394,{production}
+135,"Sentence Writing: Themselves, Ourselves, Itself, Herself.","Write ten sentences with the reflexive pronouns themselves, ourselves, itself, and herself.",7reO3f_OIauga8bopw14HA,"""rule_position""=>""---
+- - '358'
+  - '1'
+- - '360'
+  - '1'
+- - '361'
+  - '1'
+- - '362'
+  - '1'
+- - '359'
+  - '6'
+""",2,24,2014-04-19 15:42:39.694463,2014-04-20 03:05:21.937788,{production}
+189,Passage Proofreading: A Man and His Mouse (Mythology) - Part 4,Proofread a passage and try to find all errors.,WgucafYZSp4ci-sEhUUSGg,"""body""=>""--- ''
+"", ""instructions""=>""--- ''
+""",1,62,2014-05-26 20:58:49.061167,2014-05-26 21:03:36.377122,{archived}
+75,Passage Proofreading: Hiking in Maine (Fiction),Proofread a passage correctly using spaces with quotation marks.,R0lNOPPAyQw65jzcgQuSng,"""body""=>""--- \""Two cousins, Hailey and Maria, were hiking around Acadia National Park. Tired,
+  Hailey asked, {+\\\""Could-\\\"" Could|188} you pass me some water? I need to take a {+break.\\\""-break.
+  \\\""|188}\\r\\n\\r\\n{+\\\""Sure,\\\""-\\\"" Sure, \\\""|188} Maria cheerfully replied, and handed
+  her cousin a water bottle. As she passed the bottle over, Hailey remembered that
+  they only brought one bottle for the two of them. {+\\\""I'll-\\\"" I'll|188} try not
+  to drink all of {+it,\\\""-it, \\\""|188} She said.\\r\\n\\r\\n{+\\\""Don't-\\\"" Don't|188} worry
+  about {+it,\\\""-it, \\\""|188} said Maria, {+\\\""It-\\\"" It|188} is more important that you
+  hydrate often than to overexert {+yourself.\\\""-yourself. \\\""|188}\\r\\n\\r\\n{+\\\""Thanks
+  Maria,\\\""-\\\"" Thanks Maria, \\\""|188} Hailey said as the two cousins sat down to enjoy
+  the view.\""
+"", ""instructions""=>""--- In this passage, there are spaces in between the quotation marks and the words
+  next to them. To make edits, click on a word and delete any unnecesary spaces.
+...
+""",1,50,2013-10-27 21:25:23.867592,2014-05-03 14:57:22.582753,{production}
+154,Sentence Writing: Past Tense Verbs,Write ten sentences using the correct past tense form of verbs.,l2FMdpAa6IHtoqwj-CJd_Q,"""rule_position""=>""---
+- - '419'
+  - '2'
+- - '420'
+  - '8'
+""",2,12,2014-04-19 15:42:53.571981,2014-04-20 03:15:41.224668,{production}
+165,Sentence Writing: Use Commas in Addresses,Write eight sentences placing commas in addresses.,zw0hEcs5ftlVFBMww-6FRg,"""rule_position""=>""---
+- - '452'
+  - '2'
+- - '453'
+  - '6'
+""",2,39,2014-04-19 15:43:01.997833,2014-04-20 03:34:41.423838,{production}
+158,Sentence Writing: Adjectives and Adverbs,Write ten sentences using adjectives and adverbs.,RCwqGgUB1UFEiY2R1kiJCg,"""rule_position""=>""---
+- - '429'
+  - '2'
+- - '431'
+  - '2'
+- - '430'
+  - '6'
+""",2,21,2014-04-19 15:42:57.414495,2014-04-21 00:06:31.368477,{production}
+167,"Sentence Writing: Eaten, Been, Regular Past Participles","Write ten sentences using eaten, been, and regular past participles.",C0ERZcH2Wyk1kH9h5QhzfA,"""rule_position""=>""---
+- - '458'
+  - '2'
+- - '460'
+  - '2'
+- - '461'
+  - '2'
+- - '459'
+  - '4'
+""",2,48,2014-04-19 15:43:03.540094,2014-04-20 03:54:33.268007,{production}
+142,Sentence Writing: Change into Proper Passive or Active Sentences,Write eight sentences in the proper voice.,rsO9fngkBsTulzL_v5WS8w,"""rule_position""=>""---
+- - '383'
+  - '2'
+- - '385'
+  - '2'
+- - '384'
+  - '4'
+""",2,52,2014-04-19 15:42:45.440997,2014-04-20 19:11:04.784543,{production}
+155,Sentence Writing: Future Tense Verbs,Write ten sentences using verbs in the future tense.,_mfHh8PtBifRaGWGeMShfA,"""rule_position""=>""---
+- - '421'
+  - '2'
+- - '422'
+  - '8'
+""",2,12,2014-04-19 15:42:54.085916,2014-04-20 04:14:00.475569,{production}
+153,Sentence Writing: Collective Nouns,Write eight sentences using collective nouns.,6mWEHhrOORcKWrLmoI3WwA,"""rule_position""=>""---
+- - '414'
+  - '1'
+- - '416'
+  - '1'
+- - '417'
+  - '1'
+- - '418'
+  - '1'
+- - '415'
+  - '4'
+""",2,25,2014-04-19 15:42:52.538897,2014-04-21 04:50:44.177092,{alpha}
+150,Sentence Writing: Singular and Plural Nouns with Matching Verbs,Write ten sentences using singular and plural nouns with matching verbs.,quYQkbclq0E41N3RZb88pA,"""rule_position""=>""---
+- - '407'
+  - '3'
+- - '408'
+  - '7'
+""",2,10,2014-04-19 15:42:49.736342,2014-04-20 04:33:27.057084,{production}
+168,"Sentence Writing: However, Still",Write ten sentences using the introductory prepositional phrases however and still.,Cm5WhrFtbjAkOYOtICaQ8g,"""rule_position""=>""---
+- - '462'
+  - '2'
+- - '464'
+  - '2'
+- - '463'
+  - '6'
+""",2,47,2014-04-19 15:43:05.26814,2014-04-19 20:36:31.444777,{production}
+132,"Sentence Writing: Knew, Made, Became","Write nine sentences using the irregular past tense verbs knew, made, and became.",Pmp8kDTxMHtqyIpKg847Qg,"""rule_position""=>""---
+- - '346'
+  - '1'
+- - '348'
+  - '1'
+- - '349'
+  - '1'
+- - '347'
+  - '7'
+""",2,22,2014-04-19 15:42:37.653768,2014-04-20 02:16:41.371125,{production}
+179,Sentence Writing: Form and Use Possessives,Write ten sentences using and forming possessives.,ewWTroOWUOJ0cVADnnaavQ,"""rule_position""=>""---
+- - '499'
+  - '2'
+- - '502'
+  - '2'
+- - '501'
+  - '1'
+- - '500'
+  - '5'
+""",2,42,2014-04-19 15:43:24.731125,2014-04-20 02:23:32.109779,{production}
+146,"Sentence Writing: Men, Women",Write eight sentences with the irregular nouns men and women.,QdR3olOK3n2Wz6tMgTKmHQ,"""rule_position""=>""---
+- - '394'
+  - '1'
+- - '396'
+  - '1'
+- - '395'
+  - '6'
+""",2,15,2014-04-19 15:42:47.679702,2014-04-20 02:27:05.658631,{production}
+134,"Sentence Writing: Myself, Yourself",Write nine sentences with the reflexive pronouns myself and yourself.,562-2iTWwgif3Wc8_snemw,"""rule_position""=>""---
+- - '354'
+  - '1'
+- - '356'
+  - '1'
+- - '357'
+  - '1'
+- - '355'
+  - '6'
+""",2,24,2014-04-19 15:42:39.170688,2014-04-20 02:34:23.116,{production}
+119,"Intermediate: Why, That","",yTD-GbL6ZVuRJzTvqXLmuA,"""rule_position""=>""---
+- 304
+- 305
+- 306
+""",2,27,2014-04-19 15:42:26.268972,2014-04-20 03:09:33.644488,{alpha}
+118,"Sentence Writing: Whose, Whom, Who","Write twelve sentences using the relative pronouns whose, whom, and who.",ldc90hxcrRwQNPpYqjmx9g,"""rule_position""=>""---
+- - '307'
+  - '2'
+- - '309'
+  - '2'
+- - '310'
+  - '2'
+- - '308'
+  - '6'
+""",2,27,2014-04-19 15:42:25.432905,2014-04-20 03:26:13.339262,{production}
+147,"Sentence Writing: Feet, Teeth",Write eight sentences with the irregular nouns feet and teeth.,aIIA2sboXi1iMV0RuF1R0Q,"""rule_position""=>""---
+- - '397'
+  - '1'
+- - '399'
+  - '1'
+- - '398'
+  - '6'
+""",2,15,2014-04-19 15:42:47.997009,2014-04-20 03:30:20.398952,{production}
+178,Sentence Writing: Correct Capitalization,Write twelve sentences using correct capitalization.,c8OTV2Y7hrSqf9FNYqedTg,"""rule_position""=>""---
+- - '494'
+  - '1'
+- - '498'
+  - '1'
+- - '496'
+  - '1'
+- - '497'
+  - '1'
+- - '495'
+  - '8'
+""",2,31,2014-04-19 15:43:23.103053,2014-04-20 03:49:28.836346,{production}
+174,Sentence Writing: Intensive Pronouns,Write ten sentences using intensive pronouns.,80MBG8k-lo_zuAUY4Sxd8g,"""rule_position""=>""---
+- - '481'
+  - '3'
+- - '482'
+  - '10'
+""",2,33,2014-04-19 15:43:13.552332,2014-04-20 04:03:59.359622,{production}
+171,Sentence Writing: Spaces with Punctuation,Write ten sentences correctly using spaces for punctuation.,7-y2e4ackJDUtoq3wMV4Yw,"""rule_position""=>""---
+- - '470'
+  - '1'
+- - '472'
+  - '1'
+- - '473'
+  - '1'
+- - '474'
+  - '1'
+- - '471'
+  - '2'
+""",2,37,2014-04-19 15:43:07.994287,2014-04-21 05:22:33.623647,{production}
+180,Sentence Writing: Commas and Quotation Marks in Dialogue,Write ten sentences using commas and quotation marks for the dialogue.,lQm65Mm93flT8iqAJFxsnQ,"""rule_position""=>""---
+- - '503'
+  - '2'
+- - '504'
+  - '8'
+""",2,40,2014-04-19 15:43:26.318015,2014-04-20 20:24:14.837353,{production}
+173,Sentence Writing: Misplaced Modifiers,Write ten sentences using correctly placed modifiers.,aQNhjTfGqT1oFEEAmcnLMA,"""rule_position""=>""---
+- - '479'
+  - '3'
+- - '480'
+  - '7'
+""",2,49,2014-04-19 15:43:12.515665,2014-04-21 00:29:19.361701,{production}
+116,"Sentence Writing: Beginner: Whom, Why",Write ten sentences using the relative pronouns whom and why.,BpLxvIQ3E9_znPUHS7tUzg,"""rule_position""=>""---
+- - '293'
+  - '2'
+- - '295'
+  - '2'
+- - '294'
+  - '6'
+""",2,27,2014-04-19 15:42:24.216915,2014-04-21 04:40:12.98221,{production}
+124,Sentence Writing: Comparative and Superlative Adjectives,Write ten sentences using comparative and superlative adjectives.,iYB86ILrC_x4DZwKhqV-mQ,"""rule_position""=>""---
+- - '322'
+  - '2'
+- - '324'
+  - '2'
+- - '323'
+  - '6'
+""",2,38,2014-04-19 15:42:32.878693,2014-04-20 19:46:35.487044,{production}
+177, Sentence Writing: Colons and Commas in a List,Write ten sentences using commas and colons in lists.,u5e9k_QsDNfQZ1zCBdTnxw,"""rule_position""=>""---
+- - '491'
+  - '2'
+- - '493'
+  - '2'
+- - '492'
+  - '6'
+""",2,44,2014-04-19 15:43:21.541285,2014-04-20 20:21:10.491152,{production}
+181,"Sentence Writing: Capitalize Holidays, Product Names, and Geographic Names","Write ten sentences using the correct capitalization of holidays, product names and geographic names.",ljvOeunrkWm1flf8UzkbJQ,"""rule_position""=>""---
+- - '505'
+  - '2'
+- - '508'
+  - '2'
+- - '507'
+  - '2'
+- - '506'
+  - '4'
+""",2,23,2014-04-19 15:43:27.669399,2014-04-20 03:30:59.637091,{production}
+169,Sentence Writing: Commas After Introductory Prepositional Phrases,Write ten sentences using commas after introductory prepositional phrases.,zXmrUdqrIiWvDCyqNFqW2A,"""rule_position""=>""---
+- - '465'
+  - '2'
+- - '467'
+  - '2'
+- - '466'
+  - '6'
+""",2,47,2014-04-19 15:43:05.681539,2014-04-20 03:35:39.683866,{production}
+122,"Sentence Writing: Where, Why, When","Write ten sentences using the relative pronouns where, why and when.",O9nI_ezZT674x5iAu-lZkw,"""rule_position""=>""---
+- - '314'
+  - '2'
+- - '316'
+  - '2'
+- - '317'
+  - '2'
+- - '315'
+  - '4'
+""",2,27,2014-04-19 15:42:29.586585,2014-04-20 03:36:17.19785,{production}
+183,Sentence Writing: Capitalize Dates and Names of People,Write ten sentences using proper capitalization of dates and names.,yFvQ3G9HsDCsst_HUT2IBQ,"""rule_position""=>""---
+- - '512'
+  - '2'
+- - '514'
+  - '2'
+- - '513'
+  - '6'
+""",2,18,2014-04-19 15:43:31.791378,2014-04-20 03:43:24.53407,{production}
+144,Sentence Writing: Change Sentences from Passive to Active,Write eight sentences in the active voice.,y-lv6h26cGCMM67dQkJTFw,"""rule_position""=>""---
+- - '389'
+  - '3'
+- - '388'
+  - '5'
+""",2,52,2014-04-19 15:42:46.417643,2014-04-20 03:56:23.70724,{production}
+143,Sentence Writing: Change Sentences from Active to Passive,Write eight sentences in the passive voice.,Btxe2rIa8xvEwzG8iv3hXw,"""rule_position""=>""---
+- - '386'
+  - '3'
+- - '387'
+  - '5'
+""",2,52,2014-04-19 15:42:45.844743,2014-04-20 03:58:00.568737,{production}
+182,Sentence Writing: Use Commas for Dates and Lists,Write ten sentences using commas in dates and lists.,j_FCTgOtYuOPhrn6opBb7A,"""rule_position""=>""---
+- - '509'
+  - '2'
+- - '511'
+  - '2'
+- - '510'
+  - '6'
+""",2,19,2014-04-19 15:43:30.471644,2014-04-20 04:28:08.478464,{production}
+121,"Sentence Writing: Which, That",Write eight sentences using the relative pronouns which and that.,Hn_2dMSFi7sKtsYdyzgpzw,"""rule_position""=>""---
+- - '311'
+  - '1'
+- - '313'
+  - '2'
+- - '312'
+  - '5'
+""",2,27,2014-04-19 15:42:28.810635,2014-04-20 04:34:44.069026,{production}
+160,"Sentence Writing: Adjectives to Adverbs Ending in ""le"" and ""e""","Write eight sentences using adjectives and adverbs that end with ""le"" and ""e.""",anXj_QMJm8TU_W9R3yIX0w,"""rule_position""=>""---
+- - '435'
+  - '2'
+- - '437'
+  - '2'
+- - '436'
+  - '4'
+""",2,21,2014-04-19 15:42:58.342984,2014-04-21 00:07:20.729255,{production}
+139,"Sentence Writing: This, That",Write ten sentences using the words this and that.,fcI-wPQC41MqADBJy7-zXw,"""rule_position""=>""---
+- - '375'
+  - '2'
+- - '376'
+  - '2'
+- - '374'
+  - '6'
+""",2,17,2014-04-19 15:42:43.736904,2014-04-21 00:11:39.751098,{production}
+163,"Sentence Writing: I'm, You're, Let's","Write eight sentences using the contractions I'm, you're, and let's.",p9vLW311-ERaw8j4QKAXXA,"""rule_position""=>""---
+- - '445'
+  - '1'
+- - '447'
+  - '1'
+- - '448'
+  - '1'
+- - '446'
+  - '5'
+""",2,20,2014-04-19 15:43:00.464604,2014-09-29 22:03:40.790522,{production}
+159,"Sentence Writing: Adjectives to Adverbs —  Consonant Ending and ""y"" Ending","Write ten sentences using adjectives and adverbs that end with consonants or ""y.""",PRhQFX34V5ZB13K-HF0X2A,"""rule_position""=>""---
+- - '432'
+  - '2'
+- - '434'
+  - '2'
+- - '433'
+  - '6'
+""",2,21,2014-04-19 15:42:57.940527,2014-08-08 17:11:30.207219,{production}
+104,Sentence Writing: Recognizing Inappropriate Shifts in Pronoun Number or Gender,Write eight sentences recognizing inappropriate shifts in pronoun number or gender.,wIsHW4TSzOtYpYtU8c5DGQ,"""rule_position""=>""---
+- - '253'
+  - '2'
+- - '255'
+  - '2'
+- - '254'
+  - '4'
+""",2,34,2014-04-19 15:42:15.163367,2014-04-21 00:27:36.330395,{production}
+170,Sentence Writing: Correcting Messy Sentences,Correct eight sentences written in text speak.,J0M763eGYcY3awHyNDhbrA,"""rule_position""=>""---
+- - '468'
+  - '1'
+- - '469'
+  - '7'
+""",2,54,2014-04-19 15:43:06.882026,2014-04-21 00:33:29.411324,{production}
+175,"Sentence Writing: Subjective, Objective, and Possessive Pronouns","Write ten sentences using subjective, objective and possessive pronouns.",-pDVJoysqQwbsmrzdxnFzg,"""rule_position""=>""---
+- - '483'
+  - '1'
+- - '485'
+  - '1'
+- - '486'
+  - '1'
+- - '484'
+  - '7'
+""",2,32,2014-04-19 15:43:15.783487,2014-04-21 04:51:18.237974,{production}
+94,"Sentence Writing: Please, Pleas; Poor, Pour; Finally, Finely",Write nine sentences using these commonly confused words correctly. ,tBNOYG2ubqVo5d3NbMdYtA,"""rule_position""=>""---
+- - '200'
+  - '3'
+- - '202'
+  - '3'
+- - '201'
+  - '3'
+""",2,56,2013-11-13 19:19:13.867978,2014-04-21 05:08:40.887627,{production}
+96,"Sentence Writing: Greece, Grease; Cleans, Cleanse; Bear, Bare",Write nine sentences using these commonly confused words correctly. ,eUTXuBfu8EpXOq2pSfBpFg,"""rule_position""=>""---
+- - '203'
+  - '3'
+- - '204'
+  - '3'
+- - '205'
+  - '3'
+""",2,56,2013-11-13 19:48:30.306014,2014-04-21 05:09:13.142967,{production}
+172,Sentence Writing: Recognize and Correct Inappropriate Shifts in Verb Voice and Mood,Write six sentences using correct verb tense.,8loxjcP_fmux7lrFGonEWA,"""rule_position""=>""---
+- - '476'
+  - '1'
+- - '478'
+  - '1'
+- - '477'
+  - '4'
+""",2,16,2014-04-19 15:43:09.981598,2014-08-07 17:06:45.479372,{production}
+176,"Sentence Writing: Commas for ""yes"" and ""no,"" tag questions, and addressing people.","Write ten sentences using commas to set off the words ""yes"" and ""no,"" address people, and for tag questions.",z8WSMBEV9uBRodWd_t-RNA,"""rule_position""=>""---
+- - '487'
+  - '1'
+- - '490'
+  - '1'
+- - '489'
+  - '1'
+- - '488'
+  - '7'
+""",2,55,2014-04-19 15:43:20.104499,2014-08-06 21:34:00.801355,{production}
+97,Passage Proofreading: A Man and His Mouse (Mythology) - Part 1,Proofread a passage and try to find all errors.,2QZ_aTD1_6PM_uvawpVFjg,"""body""=>""--- \""There was once a Holy Man who lived on the banks of the Ganges. Since he and
+  his wife had no children, he prayed {+every day-everyday|215} to the gods to give
+  him a child. Years {+passed,-past,|216} but the gods did not hear his prayers. After
+  such a long time, the man had begun to {+lose-loose|209} hope.\\r\\n \\r\\nOne day,
+  however, while the man was praying, a hawk flew overhead, carrying a mouse in {+its-it’s|211}
+  talons. The hawk then dropped the mouse, and the poor creature fell with a tiny
+  splash into the {+river's-rivers|165} waters. The Holy Man {+saw-sees|226} what
+  happened, and he rescued the mouse.\""
+"", ""instructions""=>""--- <br>There are <b>6 errors</b> in this story.  <br><br> <i>How many can you correct?</i><br><br>To
+  edit a word, click on it and re-type it.<br><br>
+...
+""",1,62,2013-11-14 21:08:47.126042,2014-05-26 20:46:26.805884,{production}
+95,Passage Proofreading: The Leader of the Birds (Mythology),Proofread a passage and correct any confused words.,M2tUjna-VGGnAHJ8YZbiXg,"""body""=>""--- \""There was once a flock of birds who lived together in the forest in {+Greece.-Grease.|203}
+  Their leader was very wise, and whenever he whistled, the whole flock would gather
+  around and listen to his advice.\\r\\n\\r\\nMeanwhile, there was a man living at the
+  edge of the forest who wanted to catch the birds. He listened carefully until he
+  recognized the leader's whistle. By imitating that sound, the man was {+then-than|207}
+  able to lure the flock into his net. The birds shrieked in fear, unable to escape.\\r\\n\\r\\nThe
+  leader, however, shouted down from above. \\\""You must work together! Stick {+your-you're|208}
+  heads into the holes of the net and then rise up together, carrying the net away
+  with you.\\\""\\r\\n\\r\\nThe birds did as he ordered, lifting the net {+clean-cleanse|204}
+  off the ground. The leader then guided them to a thorn bush. The net got caught
+  on the thorns, and so the birds escaped to safety, leaving the net behind.\\r\\n\\r\\nThe
+  man was frustrated by these events, but he came up with a plan. \\\""I will wait until
+  the birds are quarreling and try again.\\\""  He then waited patiently until he believed
+  his plan would {+bear-bare|205} fruit. Sure enough, a few days later, he heard the
+  birds making angry noises.\\r\\n\\r\\n\\\""You stepped on my tail,\\\"" one of them was saying.\\r\\n\\r\\n\\\""No,
+  you trod on my foot.\\\""\\r\\n\\r\\n\\\""You pecked me with your beak.\\\""\\r\\n\\r\\nWhile the
+  birds were arguing, the man ran up and threw the net over them. Their leader tried
+  to get his followers to listen to his {+pleas.-please.|200}  He urged them, \\\""Work
+  together! Pick up the net!\\\""\\r\\n\\r\\n\\\""No, you pick it up!\\\"" shouted one of the angry
+  birds.\\r\\n\\r\\n\\\""I will not. You pick it up!\\\""\\r\\n\\r\\nThe man, meanwhile, gathered
+  up the net and took all the birds away to the market where he sold them for a great
+  price. The {+poor-pour|202} birds: if only they had been able to cooperate, they
+  would have been able to save themselves!\""
+"", ""instructions""=>""--- Proofread the passage below, making sure that all the commonly confused words
+  are spelled correctly.
+...
+""",1,56,2013-11-13 19:48:30.306014,2014-12-17 21:22:56.879929,{production}
+93,Passage Proofreading: Zeus and the Frog King (Mythology),Proofread a passage and correct any confused words.,eYlGCR7G641dA5GUSagObg,"""body""=>""--- \""There were once some frogs who lived together in a pond. The frogs all did what
+  they liked. Some frogs liked to hop and splash, and other frogs liked just to sit
+  and lie in the sun. One day, during a {+downpour,-downpoor,|202} the quiet frogs
+  got frustrated with the frogs who hopped and splashed, and {+although-all though|199}
+  they had made no laws before, they decided that there should be a law against too
+  much hopping and splashing. \\\""We need a king who will make laws and rule over us,\\\""
+  they said, and so they asked the god Zeus to {+please-pleas|200} give them a king.\\r\\n\\r\\n\\\""Dear
+  frogs,\\\"" Zeus replied, \\\""you have the freedom to rule yourselves right now, and
+  that is better than having a king.\\\""\\r\\n\\r\\n\\\""No,\\\"" shouted the frogs, \\\""send us
+  a king!\\\""\\r\\n\\r\\nZeus laughed at the {+poor-pour|202} little frogs and threw a big
+  log down into the pond. \\\""Here is {+your-you're|208} king!\\\"" he shouted.\\r\\n\\r\\nAt
+  first, the frogs were scared of the log. Soon, however, they saw that the log did
+  nothing at all. One frog even hopped on top of the log, and still the log did nothing.
+  The frogs {+then-than|207} complained to Zeus, \\\""This log is not a king! We want
+  a king who will be strong and rule over us!\\\""\\r\\n\\r\\nZeus {+finally-finely|201}
+  lost his temper and said to the foolish frogs, \\\""If you want a strong king, then
+  that is what I will give you!\\\"" The angry god appointed a stork to be king of the
+  frogs, and when the stork arrived, it began to eat the frogs, gobbling them up one
+  by one.\\r\\n\\r\\nThe poor frogs realized their mistake too late. \\\""This is not what
+  was  {+meant-mint|198} to happen! We were better off when we ruled ourselves,\\\""
+  they said. \\\""Now this king will be our destruction!\\\""\""
+"", ""instructions""=>""--- Proofread the passage below, making sure that all the commonly confused words
+  are spelled correctly.
+...
+""",1,56,2013-11-13 19:19:13.867978,2014-04-21 06:02:14.047944,{production}
+25,Passage Proofreading: Unique Holidays (Non-fiction) ,"Proofread a passage correcting words that are not correctly capitalized.
+",4Bhxo1QDj0Q_M-SBXh6oNA,"""body""=>""--- 'Each culture around the world celebrates their own unique holidays. Here are
+  some of the holidays you have probably heard of: {+Christmas,-christmas,|92} {+Hanukkah,-hanukkah,|92}
+  and {+Valentine''s Day.-valentine''s day.|92} However, there are other holidays
+  celebrated in other parts of the world that are just as interesting. Many people
+  from Mexico celebrate the {+Day of the Dead,-day of the dead,|92} or Dia de los
+  Muertos in Spanish, where family and friends dress up and pray for those who have
+  passed away. Some of the traditions include honoring deceased relatives by leaving
+  sugar skulls on their graves, and dressing up with skeleton masks.'
+"", ""instructions""=>""--- Some words in the story below need to be capitalized.<br><br> To make changes,
+  click on a word and replace the first letter with a capitalized version.
+...
+""",1,23,2013-09-17 01:04:33.233233,2014-09-10 16:52:38.584145,{production}
+39,Passage Proofreading: The Last Flight of the Apollo: The Apollo-Soyuz Test Mission (History),Proofread a passage correcting any capitalization mistakes.,V-GFTkqADl9YMFWdmbmA5g,"""body""=>""--- \""\\r\\nAfter the Apollo 11 mission landed Neil Armstrong on the Moon in 1969, the
+  race to the Moon was over.  {+However,-however,|133} both {+America-america|134}
+  and the USSR still had plans for outer space, and they realized that working together
+  was easier than working against each other.  In 1975, they launched a joint mission
+  called the Apollo-Soyuz Test Project.  {+The-the|133} goal of the mission was to
+  create two rockets, one {+Apollo-apollo|134} rocket and one {+Soyuz-soyuz|134} rocket,
+  and have them link up in space.  If {+America-america|134} and the USSR successfully
+  completed this project, then they would be able to do joint missions in space.  \\r\\n\\r\\nBoth
+  the {+Apollo-apollo|134} rocket and the {+Soyuz-soyuz|134} rocket launched perfectly.
+  \\ The two rockets met up in space, and the crews toured each others ships.  When
+  the meet up was done, the crews separated their ships and safely returned back to
+  earth.  \\r\\n\\r\\nAfter the {+Apollo/Soyuz-apollo/soyuz|134} Test Project was successfully
+  completed, both {+America-america|134} and the {+USSR-ussr|134} began working together
+  to build space stations.  In fact, the Mir Space Station that orbited earth in the
+  1990's, and the {+International Space Station-international space station|134} (ISS)
+  that is orbiting us right now, are both based on Apollo/Soyuz design.  The project
+  went so well that it started a new period of cooperation and trust between America
+  and the USSR.\""
+"", ""instructions""=>""--- Rewrite the following story by capitalizing all the appropriate words. <br><br>All
+  the words that are currently capitalized are supposed to be.
+...
+""",1,31,2013-09-24 01:34:01.858966,2014-09-10 19:30:43.899423,{production}
+45,Passage Proofreading: The Princes and the Turtle (Mythology),Proofread a passage and correct inappropriate shifts in pronoun number or gender.,70B-T6vLMTM9zjQ9LCwoCg,"""body""=>""--- \""There was once a king who lived in a palace near a lake, where his two sons loved
+  to swim and sail. One day, his sons came running back to the palace, terrified.
+  “Father,\\\"" {+they-(he / they)|145} cried, \\\""we saw a monster on the shore of the
+  lake! A demon made of stone who is able to move! It was terrible!\\\""\\r\\n\\r\\nThe so-called
+  demon was really only a turtle, but the princes had never seen a turtle before.
+  To calm {+their-(their / his)|145} fears, the king ordered his servants to go capture
+  the demon and bring {+it-(them / it)|144} to the palace. When they had done so,
+  {+he-(he / she)|144} ordered them to kill the demon.\\r\\n\\r\\n\\\""We should throw it
+  into the fire!\\\"" shouted one of the princes.\\r\\n\\r\\n\\\""We should smash it with a
+  hammer!\\\"" shouted the other prince.\\r\\n\\r\\nThe king's advisers also shouted out
+  their various proposals. Finally, the king's oldest adviser proclaimed, \\\""I think
+  {+we-(he / we)|145} should drown the creature by throwing it into the deepest part
+  of the lake!\\\""\\r\\n\\r\\nAt this point, the turtle spoke up in a quavering voice. \\\""Oh
+  no,\\\"" he cried, \\\""not into the lake! Not into the deep waters! I don't care if you
+  pound me with a hammer or throw {+me-(I / me)|144} into the fire but please, I beg
+  you, don't throw me into the lake!\\\""\\r\\n\\r\\nThe princes immediately began chanting,
+  \\\""Into the lake! Into the water! Into the lake! Into the water!\\\"" The king then
+  ordered {+his-(his / their)|144} servants to go throw the creature at once into
+  the lake where the waters were deepest.\\r\\n\\r\\nThe turtle shrieked the whole way,
+  pretending to be afraid. The servants, as ordered, hurled him into the deep end
+  of the lake. The turtle then plunged down into the depths of the water, laughing
+  happily to himself. {+He-(She / He)|144} was glad to have escaped with his life
+  and vowed never to come near humans again.\""
+"", ""instructions""=>""--- Rewrite the following story by choosing the correct pronoun from inside the parentheses.<br><br>
+  Remember to delete the parentheses before clicking the submit button.
+...
+""",1,34,2013-09-24 02:30:41.36037,2014-09-12 20:11:07.275379,{production}
+49,Passage Proofreading: Max Takes Off! (Fiction),Proofread a passage correctly using spaces with punctuation. ,Y_larn47xo0dPbs2u-7D3w,"""body""=>""--- \""Max looked at the clock {+again. In-again.In|152} just two more minutes he would
+  be home free. The school bully had decided to pick on Max this week, but Max wasn't
+  going down {+easy. Max-easy.Max|152} had his skateboard this week. Max’s dad must
+  have told him {+1,000-1 ,000|154}times, “Always expect the unexpected.”\\r\\n\\r\\nThe
+  bell {+rang, and-rang,and|153} Max flew out of the classroom.  His house was {+1.5
+  miles,-1. 5 miles,|155} but Max thought he could make it.  He jumped on his skateboard
+  and started racing down the hallway.  A teacher walking out of a classroom saw {+Max,
+  and-Max,and|153} yelled for him to stop, but Max wasn't slowing {+down. By-down.By|152}the
+  time the bully heard the noise and started running towards him, Max was already
+  safely out the door.\""
+"", ""instructions""=>""--- There are <b>seven</b> punctuation problems in this story. Please fix the problems.
+...
+""",1,37,2013-10-04 04:35:05.503399,2014-05-03 14:57:47.372326,{production}
+27,Passage Proofreading: Horatius Cocles at the Bridge (Mythology),Proofread a passage correcting four reflexive pronouns.,_U0F5m1oIJcTx5TxJJD5Xg,"""body""=>""--- \""Horatius Cocles was an officer in the Roman army. In 508 B.C. the Etruscan kingdom
+  attacked Rome. He helped Rome defend {+itself.-(it).|66}\\r\\n\\r\\n\\\""Comrades,\\\"" he
+  shouted, \\\""I will ready {+myself,-(me),|62} cross the bridge, and fight off the
+  Etruscans. While I fight, stay behind and destroy the bridge with fire.\\\""\\r\\n\\r\\n\\\""But
+  what will happen to you?\\\"" the men shouted. \\\""You will have no means of saving {+yourself!\\\""-(you)!\\\""|63}\\r\\n\\r\\n\\\""There
+  is no time to argue,\\\"" Horatius replied. He then rushed forward, screaming a cry
+  of victory. He looked back, and saw that his men had destroyed the bridge, removing
+  {+themselves-(them)|69} from the battle. He then cried out, “Spirit of the river,
+  protect me!” \\r\\n\\r\\nAs he spoke, the bridge fell, and Horatius threw {+himself-(him)|64}
+  into the waters below. By some miracle, his request was granted and he survived.
+  The Roman army won the battle that day.\\r\\n\""
+"", ""instructions""=>""--- Replace the words in parentheses with an appropriate reflexive pronoun.<br><br>
+  To make changes, click on a word and change it to your answer. Then, delete the
+  parentheses.
+...
+""",1,24,2013-09-17 01:22:23.681351,2014-09-09 19:17:35.17295,{production}
+9,Passage Proofreading: Making the Team (Sport),Proofread a passage with eight incorrect conjunctions.,asl2JCt8j1ItiGeYbOJ5tQ,"""body""=>""--- \""Jake didn't think that he was going to make it onto the varsity soccer team,
+  {+so-(so / and / or)|24} he was very surprised when the coach pulled him aside after
+  the last day of try outs. Jake was small for his age, {+but-(and / but / so)|22}
+  the coach noticed how hard he works. The coach said, “I know you want to be on this
+  team, {+so-(so / or / and)|24} I am going to give you a spot as long as you work
+  hard everyday.” Jake immediately agreed, {+and-(but / so / and)|21} promised to
+  work harder to try to become the starting goalie by the end of the season.\\r\\n\\r\\nFrom
+  that day on, Jake was first to show up to practice, and the last to leave. Even
+  though he was told he could either run with the team {+or-(but / or / so)|23} do
+  drills with the other goalies, Jake always said he had time for both. By the end
+  of the season Jake was the fastest runner on the team {+and-(so / or / and)|21}
+  the second best goalie. Jake worked hard everyday, {+so-(but / or / so)|24} he knew
+  that next season would be the best goalie on the team for sure.\\r\\n\""
+"", ""instructions""=>""--- Rewrite the following passage by choosing the correct conjunction from the insided
+  the parentheses.<br><br>  Remember to delete the parentheses before clicking the
+  submit button.
+...
+""",1,14,2013-09-16 19:38:22.867581,2014-05-22 23:58:58.301209,{production}
+7,Passage Proofreading: Apples? Apples. (Fiction),Proofread a passage using the proper tense for seven incorrect verbs.,TDxSUNhO0e8mQkQO8w_wow,"""body""=>""--- \""\\\""Hello again, I came by yesterday looking for apples. Are they here yet?\\\""\\r\\n\\r\\n\\\""Apples?
+  Nobody told me to save any apples yesterday.\\\""\\r\\n\\r\\n“I'm certain that I {+asked-(ask)|18}
+  for some apples yesterday!”\\r\\n\\r\\n“I'm sorry, but we are sold out right now. I
+  {+will save-(save)|19} some apples for you to pick up tomorrow. How does that sound?\\\""\\r\\n\\r\\n“That's
+  what you {+promised-(promise)|18} me yesterday.”\\r\\n\\r\\n“Well, that was yesterday,
+  I'm asking if you {+will want-(want)|19} apples tomorrow.”\\r\\n\\r\\n“Why can't you
+  sell me any today?”\\r\\n\\r\\n“Because we will close in ten minutes.\\\""\\r\\n\\r\\n\\\""When
+  I {+called-(call)|18} this morning, you said you would not close until late tonight.\\\""\\r\\n\\r\\n“Hmm.
+  Tell you what, I {+will pick-(pick)|19} some apples for you to take home tomorrow.
+  Sound good?”\\r\\n\\r\\n“Where can you pick apples here in the city?\\\""\\r\\n\\r\\n“Oh, I
+  don't pick them from any trees, I just buy them from my friend's store down the
+  road.\\\""\\r\\n\\r\\n\\\""Wait, now I'm confused. All I want to know is if you actually have
+  my apples for me or not. That's it.\\\""\\r\\n\\r\\n“Oh. Well, someone {+purchased-(purchase)|18}
+  all the apples in the shop this morning. Why, do you want some or something?”\""
+"", ""instructions""=>""--- Rewrite the words in parentheses in the passage below so they are in their proper
+  tenses.<br><br>  Remember to delete the parentheses before clicking the submit button.
+...
+""",1,12,2013-09-16 17:35:19.88059,2014-05-22 23:57:00.016931,{production}
+57,Passage Proofreading: A Good Read (Fiction),Proofread a passage and correctly capitalize titles.,mWrFZ5_LABVG0MVpPik0Tw,"""body""=>""--- \""Stacy: \\\""You know Mark, I was sure there was a copy of {+'The Catcher in the
+  Rye'-'the catcher in the rye'|162} somewhere in here.\\\""\\r\\n\\r\\nMark: \\\""Hmm. It should
+  be right next to {+'The Scarlet Letter.'-'the scarlet letter.'|162} Oops! It looks
+  like both books are out right now. I guess we will have to find another book to
+  read.\\\""\\r\\n\\r\\nStacy: “That's okay. I had a backup book in mind, just in case. We
+  should read {+'The Cay'-'the cay'|162} next because my friend said it was great.
+  My class might start reading it this week as well.\\\""\\r\\n\\r\\nMark: \\\""I just finished
+  reading it last week! Let's try another book. Have you ever read any of the Redwall
+  books?\\\""\\r\\n\\r\\nStacy: \\\""Redwall? I haven't read any of the Redwall books. Do you
+  recommend any book for me to start with?\\\""\\r\\n\\r\\nMark: \\\""I think they are all great,
+  but I would start with {+'The Legend of Luke.'-'the legend of luke.'|162} It is
+  one of the first books in the series, and I really enjoyed it!\\\""\\r\\n\\r\\nStacy: \\\""Thanks
+  Mark! How about we trade books? You can give me {+'The Legend of Luke,'-'the legend
+  of luke,'|162} and I can give you {+'To Kill a Mockingbird.'-'to kill a mockingbird.'|162}
+  That book has a great story. You will really like it.\\\""\\r\\n\\r\\nMark: \\\""Sounds like
+  a plan. I can't wait to start reading it! All of my friends say {+'To Kill a Mockingbird'-'to
+  kill a mockingbird'|162} is a good read. All of my friends say it's an amazing book.
+  Thanks for the suggestion!\\\""\\r\\n\\r\\n\""
+"", ""instructions""=>""--- <br>Capitalize the titles of the books mentioned in this passage.<br>
+...
+""",1,41,2013-10-14 19:11:49.52138,2014-05-23 00:02:19.257432,{production}
+186,Test,Test,OMFHX46vFqd9jRGMxq9anw,"""rule_position""=>""---
+- - \"" 2\""
+  - ''
+""",2,1,2014-05-22 17:00:14.571331,2014-12-18 22:52:56.192312,{archived}
+185,Test,Test,y61hGStcKg4sJuML0gsZaQ,"""rule_position""=>""--- 
+...
+""",2,1,2014-05-22 16:59:19.813595,2014-12-18 22:52:04.348907,{archived}
+83,Passage Proofreading: Mischievous Munchkins (Fiction),Proofread a passage and rewrite messy sentences with proper English grammar.,E9OG_9CrtIG7rScj66YTbQ,"""body""=>""--- \""{+\\\""What-\\\""whut|194} do {+you-u|194} think {+you're-ur|194} doing?\\\"" cried the
+  little munchkin. He was trying to get his friends to roll a log over to the campfire,
+  but nobody was listening!\\r\\n\\r\\nThe little munchkin stamped his feet and ran over
+  to the log. \\r\\n\\r\\n\\\""We can {+roll-rool|194} the log {+down-doun|194} the hill.
+  Help me {+push!\\\""-push!|194}\\r\\n\\r\\nAll the munchkins pushed as hard as they could,
+  and the log suddenly started rolling down the hill!\\r\\n\\r\\n\\\""Nice work {+guys!-guise!|194}
+  Lets go make {+our-r|194} fire now!\\\""\\r\\n\\r\\n\\\""But leader, {+our-r|194} {+campsite-campsight|194}
+  is up here, not down {+there!\\\""-their!\\\""|194}\\r\\n\\r\\nCamping was much harder than
+  he thought it could be!\""
+"", ""instructions""=>""--- Correct the munchkins dialogue so they can understand each other
+...
+""",1,54,2013-11-09 22:05:49.7566,2014-09-23 22:46:32.203613,{production}
+188,Passage Proofreading: A Man and His Mouse (Mythology) - Part 3,Proofread a passage and try to find all errors.,fXSfkmUzQzPKd1FU1EAnZQ,"""body""=>""--- \""The daughter said, {+You’re-your|131} right, Mother. Father, will you ask the
+  sun to be my husband?\\\"" The father agreed, and off they {+went-go|76} to speak to
+  the sun.\\r\\n\\r\\n{+\\\""Sun,\\\""-Sun,|164} he {+said,-said|164} \\\""This beautiful woman
+  is my daughter. She would like to marry you because you are the strongest being
+  in the world.\\\""\\r\\n\\r\\nThe sun smiled and {+said, -said|164} {+\\\""It’s-\\\""Its|211}true
+  that your daughter is very beautiful, and and that I am very strong. In all honesty,
+  though, I must tell you that there is someone even stronger than I.\\\""\\r\\n\\r\\nThe
+  man {+asked,-asked|164} {+\\\""Who-Who|164} could be stronger than the {+sun?\\\""-sun?|164}\\r\\n\\r\\nThe
+  sun pointed to the cloud and said, \\\""Look at that cloud! If he comes any closer
+  to me, my light will vanish. The cloud is much more powerful than I {+am.\\\""-am\\\""|164}\""
+"", ""instructions""=>""--- \""<br>There are <b>10 errors</b> in this story.  <br><br> <i>How many can you correct?</i><br><br>To
+  edit a word, click on it and re-type it.<br><br>\""
+""",1,62,2014-05-26 20:57:01.588888,2014-12-17 21:42:18.633668,{production}
+43,Passage Proofreading: Theseus and the Minotaur (Mythology),Proofread a passage paying special attention to intensive pronouns. ,pf1cCiBT7k2d0AYlrzjL5Q,"""body""=>""--- \""There was once a cruel and greedy man named King Minos. To punish him for his
+  evil ways, the God Poseidon {+himself-(itself / himself)|142} turned the King's
+  son into a half-man, half-bull creature called the Minotaur. King Minos did not
+  know what to do with the Minotaur, so he decided to build a maze {+himself-(himself
+  / themselves)|142} and lock the creature deep inside.\\r\\n\\r\\nKing Minos could not
+  build the maze alone, so he asked the smartest man in Greece, a man named Daedalus,
+  to build a maze that nobody could escape from. Daedalus built the maze and named
+  it the Labyrinth. Then Daedalus and King Minos {+themselves-(herself / themselves)|142}
+  threw the Minotaur inside. From then on, every seven years, seven men and seven
+  women were sent into the Labyrinth to feed the Minotaur.\\r\\n\\r\\nOur hero, Theseus,
+  grew up in Athens and was tired of seeing his friends sail off and never return.
+  One day, Theseus decided to go to Crete, disguised as one of the seven men, and
+  kill the beast. When Theseus and the others got to Crete, they were told to wait
+  by the Labyrinth for King Minos to arrive.\\r\\n\\r\\nWhen the King arrived, he had
+  his daughter Ariadne with him. When Ariadne saw Theseus, she fell in love with him.
+  She told Theseus that he needed her help, she {+herself-(itself / herself)|142}
+  had the key to solving the maze. The Labyrinth {+itself-(themselves / itself)|142}
+  was not dangerous, but it was very easy to lose your way. She gave him a ball of
+  string so he could tell where he had already been. Using the string, Theseus bravely
+  explored the Labyrinth until he found the Minotaur. After a long and hard fight,
+  Theseus killed the Minotaur, and shouted, \\\""I have slain the beast {+myself!\\\""-(myself!\\\""
+  / yourself!\\\"")|142} Once the Minotaur was dead, the terror was over for all the
+  men and women in Greece.\""
+"", ""instructions""=>""--- Rewrite the following story by choosing the correct intensive pronouns from the
+  parentheses.<br><br> Remember to delete the parentheses before clicking the submit
+  button.
+...
+""",1,33,2013-09-24 02:23:18.299603,2015-01-21 19:22:12.079673,{production}
+192,Passage Proofreading: A Man and His Mouse (Mythology) - Part 6,Proofread a passage and try to find all errors.,jY-rMnqa5IWXkh5KnXK55g,"""body""=>""--- \""At the mention of the word \\\""mouse,\\\"" the daughter felt light-headed and dizzy.
+  In a {+quiet-quite|223} voice she said, \\\""Yes, the wall is right. I must marry the
+  mouse.\\\""\\r\\n \\r\\n\\\""Of course!\\\"" the man thought to himself, remembering how his
+  daughter {+used-use|190} to be a mouse.\\r\\n \\r\\nHe then smiled happily at his daughter
+  and said, \\\""Daughter, may you discover in this way {+your-you’re|131} own true nature.\\\""
+  A great light {+shone-shown|224} all around them and the {+gods-gods'|229} turned
+  the beautiful woman into a beautiful mouse.\\r\\n \\r\\nThe man then said to the mouse,
+  \\\""Mouse, strongest of all, will you marry my {+daughter?”-Daughter?”|10}\\r\\n\\r\\nThe
+  mouse was pleased when he saw the beautiful mouse. \\\""I will gladly marry your daughter!\\\""
+  he said to the man. The two mice were married and lived happily {+ever after-everafter|225}
+  safe in their home beneath the wall. \\r\\n\""
+"", ""instructions""=>""--- <br>There are <b>7 errors</b> in this story.  <br><br> <i>How many can you correct?</i><br><br>To
+  edit a word, click on it and re-type it.<br><br>
+...
+""",1,62,2014-05-26 21:06:42.488255,2014-05-26 21:07:15.639243,{production}
+37,Passage Proofreading: Putting the World in Perspective: The Apollo 8 Photograph (History),Proofread a passage correcting any mistakes with prepositional phrases.,Yh49ICvX_YME8ui7cDoFXQ,"""body""=>""--- \""The year was 1968, and the world was looking for good news. Both America and
+  the USSR had been unable to send a man to the Moon. {+Despite-(Despite / With)|124}
+  all the failed attempts to get to the Moon, America had not given up yet. America
+  launched the Apollo 8 mission, a mission designed to send a man close to the Moon
+  and safely get him back to earth.\\r\\n\\r\\nWhen the Apollo 8 rocket was {+between-(in
+  / between)|122} the Earth and the Moon, the crew was able to record a live TV program
+  that they sent to earth. At the time when the program was being shown, it was the
+  most watched program {+in-(in / on)|123} the history of television. The Apollo 8
+  rocket needed to get in the right position to fly back to Earth, so they had to
+  orbit {+around-(around / in)|124} the Moon until they were ready. While the rocket
+  was orbiting the Moon, one of the crew members looked out and saw the Earth {+through-(through
+  / over)|123} a window. He put his camera lens {+on-(around / on)|123} the glass
+  and took one of the most famous photos in history. The picture showed the Earth
+  rising {+above-(above / below)|124} the Moon, and it showed just how small and fragile
+  our planet looks out {+in-(in / on)|123} space.\\r\\n\\r\\nWhen the Apollo 8 crew safely
+  landed back on Earth, they became heroes. They were the first crew to fly {+near-(near
+  / on)|124} the Moon, and the photograph they took showed the Earth in a whole new
+  light. All the way out in space, the Earth looks so fragile and small, and people
+  realized we needed to take care of our planet. The Apollo 8 photograph is credited
+  with starting the environmental movement in America.\""
+"", ""instructions""=>""--- Rewrite the following story by choosing the correct prepositional phrase from
+  the parentheses below.<br><br> Remember to delete the parentheses before clicking
+  the submit button.
+...
+""",1,30,2013-09-24 00:48:43.771996,2014-06-13 00:43:50.733664,{production}
+161,"Sentence Writing: Can't, Won't",Write nine sentences using the contractions can't and won't.,Gy6gKsETtSsIafZHLkPxUA,"""rule_position""=>""---
+- - '438'
+  - '2'
+- - '440'
+  - '2'
+- - '439'
+  - '5'
+""",2,20,2014-04-19 15:42:59.449504,2014-09-29 22:02:58.012335,{production}
+205,Sentence Writing: Quill Tutorial,Learn how to successfully complete Quill Sentence Writing activities. ,o43tfkufZ2N7CSG0hhH1Bg,,2,53,2014-09-30 14:30:07.917041,2014-09-30 15:26:28.211945,{alpha}
+206,Summative Assessment 1-3 Test,"",jdYD9-enQE4gYaWQsDvyFA,"""body""=>""--- ''
+"", ""instructions""=>""--- ''
+""",1,36,2014-09-30 19:14:20.963098,2014-10-08 19:22:05.302265,{archived}
+208,a,b,1uELkhOyBbwxBKiT7ImUNw,"""body""=>""--- ''
+"", ""instructions""=>""--- ''
+""",1,18,2014-09-30 19:15:11.626594,2014-10-08 19:22:29.775073,{archived}
+209,women coders,women coders,nc7Gb0waXTwDVIPdtybocA,"""body""=>""--- ''
+"", ""instructions""=>""--- ''
+""",1,63,2014-10-02 00:42:42.958796,2014-10-08 19:22:44.119114,{archived}
+15,Passage Proofreading: America Used to be a Different Place (History),Proofread a passage using correct capitalization for four names and dates.,lUCWYQdMOO0V6vLH38xqWA,"""body""=>""--- \""America used to be a very different place for women. They had very different
+  lives than men. With the help of people like {+Susan B. Anthony,-susan b. anthony,|43}
+  women were given more rights. For example, on {+August 18th, 1920,-august 18th,
+  1920,|42} women were given the right to vote.\\r\\n\\r\\nOther women worked hard as
+  political figures in America’s history. {+Shirley Chisholm-shirley chisholm|43}
+  was the first African American woman elected to congress. She was also the first
+  woman to run for presidency on {+January 25th, 1972.-january 25th, 1972.|42} Although
+  she didn’t become president, she is remembered as a civil rights figure for both
+  African American people and for women. \\r\\n\\r\\nThese women have helped make America
+  a better place than it was before. In what ways can America become even better?\""
+"", ""instructions""=>""--- <br>Rewrite the following passage by capitalizing all the dates and names of people.<br><br>
+...
+""",1,18,2013-09-16 21:26:14.765994,2014-09-09 18:54:49.611957,{production}
+196,DESTROY THIS,"",7U7oSGKW5r1_rkIiwABslg,"""body""=>""--- ''
+"", ""instructions""=>""--- ''
+""",1,45,2014-06-16 21:04:21.441736,2014-10-08 19:18:45.161608,{archived}
+195,Putting the World in Perspective: The Apollo 8 Photograph (History),Proofread a passage correcting any mistakes with prepositional phrases.,mkY_vBSfNQ049vzgYppAtg,"""body""=>""--- \""The year was 1968, and the world was looking for good news. Both America and
+  the USSR had been unable to send a man to the Moon. {+Despite-With / Despite|124}
+  all the failed attempts to get to the Moon, America had not given up yet. America
+  launched the Apollo 8 mission, a mission designed to send a man close to the Moon
+  and safely get him back to earth.\\r\\n\\r\\nWhen the Apollo 8 rocket was {+between-in
+  / between|122} the Earth and the Moon, the crew was able to record a live TV program
+  that they sent to earth. At the time when the program was being shown, it was the
+  most watched program {+in-on / in|123} the history of television. The Apollo 8 rocket
+  needed to get in the right position to fly back to Earth, so they had to orbit {+around-in
+  / around|124} the Moon until they were ready. While the rocket was orbiting the
+  Moon, one of the crew members looked out and saw the Earth {+through-through / over|123}
+  a window. He put his camera lens {+on-on / around|123} the glass and took one of
+  the most famous photos in history. The picture showed the Earth rising {+above-below
+  / above|124} the Moon, and it showed just how small and fragile our planet looks
+  out {+in-on / in|123} space.\\r\\n\\r\\nWhen the Apollo 8 crew landed safely back on
+  Earth, they became heroes. They were the first crew to fly {+near-on / near|124}
+  the Moon, and the photograph they took showed the Earth in a whole new light. All
+  the way out in space, the Earth looks so tiny and delicate, and people realized
+  we needed to take care of our planet. The Apollo 8 photograph is credited with starting
+  the environmental movement in America.\""
+"", ""instructions""=>""--- Rewrite the following story by choosing the correct prepositional phrase from
+  the parentheses below.<br><br> Remember to delete the parentheses before clicking
+  the submit button.
+...
+""",1,30,2014-06-13 00:37:41.682014,2014-10-08 19:19:08.332573,{archived}
+51,Passage Proofreading: Anything You Can Do I Can Do Better! (Fiction),Proofread a passage correctly using comparative and superlative adjectives.,h3sGPjz1IkIgl3ODIozsUg,"""body""=>""--- \""\\\""Do you really think that Jonah is {+faster-(fast)|156} than Greg?\\\""\\r\\n\\r\\n\\\""Jonah
+  is the {+fastest-(fast)|158} kid in the whole 8th grade. I am sure Greg is {+slower-(slow)|156}
+  than Jonah.\\\""\\r\\n\\r\\n\\\""Well, Greg is a {+higher-(high)|156} jumper than Jonah, that's
+  for sure.\\\""\\r\\n\\r\\n\\\""Of course he can.  Greg is the {+tallest-(tall)|158} boy in
+  school. His legs are so long, his jumps are naturally {+higher-(high)|156} than
+  anybody else's!\\\""\\r\\n\\r\\n\\\""Courtney is a pretty good athlete as well. Do you think
+  she is a {+faster-(fast)|156} runner than you?\\\""\\r\\n\\r\\n\\\""Hmm. Probably. Courtney
+  is also {+lighter-(light)|156} than me, so she can run forever!\\\""\\r\\n\\r\\n\\\""We should
+  pick a sport to practice as well. I want to learn an easy sport first.\\\""\\r\\n\\r\\n\\\""Well,
+  I think tennis is {+easier-(easy)|157} than most other sports. Even though it's
+  not the {+easiest-(easy)|159} sport of them all, I still want to give it a go!\\\""\\r\\n\\r\\n\\\""Why
+  not? Let's give it a shot!\\\""\""
+"", ""instructions""=>""--- <br>Replace the words in parentheses with their comparative or superlative forms.<br><br>
+...
+""",1,38,2013-10-14 18:43:47.566805,2014-09-10 17:14:18.627288,{production}
+47,Passage Proofreading: Jade Meets a Moose (Fiction),"Proofread a passage to make sure that ""at,"" ""in"" and ""on"" are correctly used.",XlObkXwe9o8PV9bllW5I0w,"""body""=>""--- \""One Saturday evening, Jade had missed a turn on her way to a friend's house.
+  She had only been driving for a couple of months and was still a little nervous
+  sitting {+in-(in / on)|38} the driver's seat. Moreover, driving {+in-(at / in)|37}
+  the winter was harder because of all the snow on the road.\\r\\n\\r\\nAfter Jade turned
+  around, she noticed a giant moose {+in-(in / on)|38} the middle of the road. She
+  stopped {+at-(at / on)|36} a stop sign, and then waited for him to move out of the
+  way. However, the moose just lay {+on-(in / on)|40} the pavement. Jade was supposed
+  to meet her friend {+at-(at / on)|35} 6:00, but it seemed like the moose had other
+  plans.\\r\\n\\r\\nJade honked her horn, and tried yelling at the moose from her car,
+  but the moose wouldn't budge. Suddenly, as Jade was about to give up, the moose
+  stood up, snorted, and trotted into the forest. Relieved, Jade finished driving
+  to her friend's house. {+On-(At / On)|39} Monday, the two friends told their teacher
+  all about the moose.\""
+"", ""instructions""=>""--- Rewrite the following story by choosing the correct preposition from inside the
+  parentheses.<br><br> Make sure to delete the parentheses before clicking the submit
+  button.
+...
+""",1,6,2013-09-24 22:06:15.142731,2014-09-09 18:51:14.471075,{production}
+197,Todd Gets a New Bike,"",_ANnlw2shZTm-iISWmU2lQ,"""body""=>""--- \""Todd had been waiting for this day for a {+long-longest|156} time.  It had been
+  three months since his mother had accidentally drove over his bike after he left
+  it in the driveway.  Even worse, it had happened at the beginning of the summer.
+  \\ His friends would ask, “Todd, want to go ride down to the lake with us{+?”-”?|164}\\r\\n\\r\\nTodd
+  would answer, “No, but I will try to get a car ride {+there-their|213} from my brother.”\\r\\n\\r\\nTodd
+  watched his dad pay for the new bike {+at-on|36} the cash register.  He {+knew-knowed|78}
+  those days of waiting for car rides and missing out on fun were over.  He would
+  have a shiny, fast, new bike.  Better yet, he was getting it just in time for the
+  new school year, so he would be able to skip the bus and bike to school with his
+  best friend, Jim.\\r\\n\\r\\n“Dad, may I ride my new bike home?” Todd asked.\\r\\n\\r\\n“Ok,
+  but make sure you wear {+your-you’re|131} helmet” {+Todd's-Todds|12} father responded.\\r\\n\\r\\n“Always!”
+  Todd yelled, already pedaling his bike away.\\r\\n\\r\\nIt was only a short ride back
+  to his home from the bike shop, so Todd decided he would take a longer route.  {+That-Which|110}
+  way he would get to spend some extra time on his new bike.  Todd started riding
+  faster and faster, getting further and further away from his home, until suddenly,
+  he realized he was lost.  Very lost.\\r\\n\\r\\nTodd began to get worried, but then
+  he saw that he was near his neighborhood’s sledding hill.  While he didn’t know
+  how to get home from there, he did know that the top of it offered a splendid view
+  of the entire town.  \\r\\n\\r\\n{+Todd-todd|134} was gasping as he finally reached
+  to top of the hill, but he quickly realized it was worth the hard ride up.  He could
+  just barely see his neighbor's distinct purple roof, poking above the treetops.
+  \\ He knew that if he rode towards that, his house would be just across the street.
+  \\ Todd smiled triumphantly as he took off on his new bike and pedaled home.\""
+"", ""instructions""=>""--- ''
+""",1,53,2014-06-16 21:05:39.420774,2014-10-08 19:19:21.588048,{archived}
+210,we can do this,a,kM614ds7KCAHS0JP9X61dA,"""body""=>""--- ''
+"", ""instructions""=>""--- ''
+""",1,21,2014-10-02 01:07:34.275396,2014-10-08 19:23:09.009042,{archived}
+207,Summative Assessment 1-3 Test,a,MpwcxRbopr24wCJONy0oPg,"""body""=>""--- ''
+"", ""instructions""=>""--- ''
+""",1,57,2014-09-30 19:14:39.591529,2014-10-08 19:24:06.093236,{archived}
+194,The Princes and the Turtle (Mythology),Proofread a passage and correct any grammatical mistakes.,OSvrQ6eXphqI-klYKGbXsQ,"""body""=>""--- \""There was once a king who lived in a palace near a lake, where his two sons loved
+  to swim and sail. One day, his sons came running back to the palace, terrified.
+  “Father,\\\"" {+they-he|145} cried, \\\""we saw a monster on the shore of the lake! A
+  demon made of stone who is able to move! It was terrible{+!\\\""-\\\""!|135}\\r\\n\\r\\nThe
+  so-called demon was really only a turtle, but the princes had never seen a turtle
+  before. {+To-Too|126} calm their fears, the king ordered his servants to go capture
+  the demon and bring it to the palace. When they had done so, he ordered them to
+  kill the demon.\\r\\n\\r\\n\\\""We should throw it into the fire!\\\"" shouted one of the
+  princes.\\r\\n\\r\\n\\\""We should smash it with a hammer!\\\"" shouted the other prince.\\r\\n\\r\\nThe
+  {+king's-kings|12} advisers also shouted out their various proposals. Finally, the
+  king's oldest adviser proclaimed, \\\""I think we should drown the creature by throwing
+  it into the deepest part of the lake!\\\""\\r\\n\\r\\nAt this point, the turtle spoke up
+  in a quavering voice. \\\""Oh no,\\\"" he cried, \\\""not into the lake! Not into the deep
+  waters! I {+don't-dont|98} care if you pound me with {+a-an|29} hammer or throw
+  me into the fire, but please, I beg you, don't throw me into the lake!\\\""\\r\\n\\r\\nThe
+  princes immediately began chanting, \\\""Into the lake! Into the water! Into the lake!
+  Into the water!\\\"" The king then ordered the {+servants-servant’s|12} to go throw
+  the creature at once into the lake where the waters were deepest.\\r\\n\\r\\nThe turtle
+  shrieked the whole way, pretending to be afraid. The servants, as ordered, hurled
+  him into the deep end of the lake. The turtle then plunged down into the depths
+  of the water, laughing happily to himself. He was glad to have escaped with his
+  life and vowed never to come near humans again.\\r\\n\""
+"", ""instructions""=>""--- 'Find and correct the seven grammatical mistakes in the passage. '
+""",1,34,2014-06-13 00:34:01.802458,2014-10-08 19:19:53.720962,{archived}
+23,Passage Proofreading: Icarus's Flight (Mythology),Proofread a passage correcting eleven words that are not in their irregular past tense form.,G-yFYFxq1nmrb95fLDhQbw,"""body""=>""--- \""A long time ago, Icarus and his father, Daedalus, were told by their king to
+  build a maze. Once it was {+built,-builded,|72} the king had them locked in a cell
+  so that no one would know the maze's secret .\\r\\n\\r\\nIn the cell, Icarus and Daedalus
+  only received food if they {+wrote-writed|82} down better ideas for the maze. However,
+  they did not use all of the food for eating. Whenever birds {+came-comed|73} to
+  the cell, Daedalus gave them some food and took some of their feathers. He then
+  {+hid-hided|77} the feathers.\\r\\n\\r\\nWhen Daedalus had enough feathers, he {+made-maked|79}
+  two sets of wings. Before they used the wings, Daedalus {+sat-sited|81} down and
+  {+spoke-speaked|80} to his son, \\\""Icarus, today we will fly from our cell, but don't
+  fly too high, because the wax holding the wings together will melt from the sun’s
+  heat.\\\"" Icarus nodded, and so they {+went-goed|76} to the window and flew away.\\r\\n\\r\\nAs
+  they were flying, Icarus {+did-doed|74} not listen to his father's words. He flew
+  too close to the sun, and his wings {+broke-breaked|71} apart. Daedalus {+knew-knowed|78}
+  there was nothing he could do to save his son, so he finished his escape alone.\""
+"", ""instructions""=>""--- In this story, there are eleven words that need to be rewritten in their correct
+  irregular past tense form.<br><br> To rewrite these words, click on them and type
+  in the correct answer.
+...
+""",1,22,2013-09-17 00:51:14.844977,2014-09-09 19:45:25.598225,{production}
+73,Passage Proofreading: A Busy Day at the Gift Shop (Fiction),Proofread a passage and find all the misplaced modifiers. ,5P2mpZlcSJd4zFA_H-WwKg,"""body""=>""--- The park's gift shop was very busy yesterday. Almost everyone who visited the
+  park bought at least one souvenir. One {+family with matching hats-family|186} bought
+  a {+postcard.-postcard with matching hats.|186} They all signed the card and sent
+  it to their neighbor. Behind them, an elderly {+man in a leather jacket-man|186}
+  purchased some spring water and a new pair of {+glasses.-glasses in a leather jacket.|186}
+  There was also a group of students visiting with their teacher. One of the more
+  outspoken {+students with dyed hair-students|186} bought her friends some {+snacks.-snacks
+  with dyed hair.|186} It was definitely a good day to be at the park.
+...
+"", ""instructions""=>""--- In this story, each person has a unique description. However, the item they purchased
+  is written <i>before</i> their descriptions.<br><br> Edit the text by first writing
+  the description after the people (family, students, etc...), and then delete the
+  description from the end of the sentence.
+...
+""",1,49,2013-10-23 21:01:31.179576,2014-09-12 20:21:34.447074,{production}
+3,Passage Proofreading:  Lola Meets the Furious Five (Fiction),"Proofread a passage that has eight incorrect common, proper, and possessive nouns.",qvJf7qxhcXZFzh6A3ZUYnA,"""body""=>""--- \""Lola wanted to learn to dance. It started {+yesterday-(Yesterday)|10} when she
+  and her friends decided to go see a band. Lola was nervous because she hadn't been
+  to a show before. She asked her mom if she should go. Her mom said, {+\\\""Lola,-(\\\""lola,)|11}
+  sometimes you have to try new things.\\\"" Lola decided to go with her friends.\\r\\n\\r\\nThe
+  show was on {+Saturday,-(saturday,)|11} but Lola was excited all week. She tried
+  to take notes in class, but would think about the show constantly. She drew sketches
+  of {+guitars-(guitar's)|10} and people dancing on stage in her notebook.\\r\\n\\r\\nSaturday
+  finally came. {+Lola's-(Lolas)|12} mom dropped her off at the concert. The {+band's-(bands)|12}
+  posters were everywhere and they had set up special lights as well. There was a
+  group of dancers performing on the stage. They were sliding, jumping, and popping
+  to the music. {+Lola-(lola)|11} had never wanted to dance before, but when she was
+  watching the performers on the stage, she wanted to be one of them. Lola's {+dream-(Dream)|10}
+  was now to dance on the big stage.\""
+"", ""instructions""=>""--- In the passage below, correct the common, proper, and possessive nouns inside
+  the parentheses.<br><br>Remember to delete the parentheses before clicking the submit
+  button.
+...
+""",1,7,2013-09-16 02:15:51.34529,2014-09-24 14:35:52.76323,{production}
+198,"Passage Proofreading 1.1b, 1.1c & 1.1e—No Parentheses: Anansi Becomes the God of Stories (Mythology)","Proofread a passage correcting 14 errors involving common, proper, and possessive nouns, singular and plural nouns with matching verbs, and use of verbs to convey a sense of past, present, and future.
+",9jjC0bIIcntfC-bzBNk-mg,"""body""=>""--- \""A long time ago, there {-was+were|18} no stories in the world. Teachers {-do+did|15}
+  not have any books to read to their {-student’s,+students,|10} and parents {-do+did|15}not
+  have any tales to tell their children before they went to bed at night. The sky
+  god, Nyame, owned all the stories. Anansi decided that he would steal the stories
+  from Nyame and bring them down to Earth. Nyame demanded that {-anansi+Anansi|11}
+  trade Python, Leopard, and a nest of hornets for her stories. Anansi set off on
+  his mission. \\r\\n\\r\\nFirst he met Python. He teased Python by saying, “You’re not
+  even as long as a tree branch in the tree where you live!” Python got angry and
+  decided to stretch out along the tree branch to prove Anansi wrong. Once {-python+Python|11}
+  was {-lay+laying|18} on the branch, Anansi tied him to it and took him to Nyame.\\r\\n\\r\\nAnansi
+  ventured into the forest. To catch Leopard, Anansi {-will dig+dug|18} a deep hole
+  in the ground. When Leopard fell in the hole, Anansi offered to help him out with
+  his spider webs. Leopard {-agrees.+agreed.|15} When Leopard got out of the hole,
+  he was tangled in Anansi’s webs and couldn’t get out. Anansi took him to Nyame.\\r\\n\\r\\nAnansi
+  {-finds+found|18} a way to catch the hornets. He prepared an empty container, and
+  filled it with water. He poured the water over the hornet’s nest and called out,
+  “It’s raining! I have a dry container for you!” The hornets quickly {-fly+flew|18}
+  into his container and he sealed the opening. Then he took the hornets to Nyame.\\r\\n\\r\\nWhen
+  Anansi {-present+presented|18} Nyame with Python, Leopard, and the nest of hornets,
+  she {-reward+rewarded|18} him by making him the god of all stories. \\r\\n\\r\\n\""
+"", ""instructions""=>""--- Find and correct the 14 errors.
+...
+""",1,57,2014-08-22 21:37:41.824016,2014-10-08 19:20:46.071333,{archived}
+212,test,test,4W0KdRna5YpEVcaZJUHrew,"""body""=>""--- test
+...
+"", ""instructions""=>""--- test
+...
+""",1,22,2014-10-06 18:58:15.533695,2014-10-08 19:23:28.459592,{archived}
+200,Passage Proofreading: 2. Anansi Becomes the God of Stories (Mythology),"Proofread a passage correcting 14 errors involving common, proper, and possessive nouns, singular and plural nouns with matching verbs, and use of verbs to convey a sense of past, present, and future. This passage covers Common Core Concepts 1.1b, 1.1c, and 1.1e. This version of the passage contains hints.",_L8eLnQmjNe-sItrBCQHLw,"""body""=>""--- \""A long time ago, there {-(was / were)+were|18} no stories in the world. Teachers
+  {-(did / do)+did|15} not have any books to read to their {-(students, / student’s,)+students,|10}
+  and parents {-(do / did)+did|15} not have any tales to tell their children before
+  they went to bed at night. The sky god, Nyame, owned all the stories. Anansi decided
+  that he would steal the stories from Nyame and bring them down to Earth. Nyame demanded
+  that {-(Anansi / anansi)+Anansi|11} trade Python, Leopard, and a nest of hornets
+  for her stories. Anansi set off on his mission. \\r\\n\\r\\nFirst he met Python. He
+  teased Python by saying, “You’re not even as long as a branch in the tree where
+  you live!” Python got angry and decided to stretch out along a tree branch to prove
+  Anansi wrong. Once {-(Python / python)+Python|11} was {-(stretch / stretching)+stretching|18}
+  on the branch, Anansi tied him to it and took him to Nyame.\\r\\n\\r\\nAnansi ventured
+  into the forest. To catch Leopard, Anansi {-(dug / will dig)+dug|18} a deep hole
+  in the ground. When Leopard fell in the hole, Anansi offered to help him out with
+  his spider webs. Leopard {-(agrees. / agreed.)+agreed.|15} When Leopard got out
+  of the hole, he was tangled in Anansi’s webs and couldn’t get out. Anansi took him
+  to Nyame.\\r\\n\\r\\nAnansi {-(finds / found)+found|18} a way to catch the hornets.
+  He prepared an empty container, and filled it with water. He poured the water over
+  the hornet’s nest and called out, “It’s raining! I have a dry container for you!”
+  The hornets quickly {-(flew / fly)+flew|18} into his container and he {-(Sealed
+  / sealed) +sealed|10} the opening. Then he took the hornets to Nyame.\\r\\n\\r\\nWhen
+  Anansi {-(present / presented)+presented|18} Nyame with Python, Leopard, and the
+  nest of hornets, she {-(rewarded / reward)+rewarded|18} him by making him the god
+  of all stories. \\r\\n\""
+"", ""instructions""=>""--- Find all 14 errors. Make sure to delete the parentheses after fixing each one.
+...
+""",1,57,2014-08-25 19:47:50.725496,2014-09-05 17:57:52.088935,{production}
+202,Passage Proofreading: 3. Anansi Becomes the God of Stories (Mythology),"Proofread a passage correcting 13 errors involving conjunctions, determiners, and frequently occurring prepositions.This passage covers Common Core concepts 1.1g, 1.1h, and 1.1i. This version of the passage contains hints. 
+",MS8jqsC9nObkhJDTfe0VEQ,"""body""=>""--- \""{-(A / An)+A|27} long time ago, there were no stories in the world. Teachers
+  did not have any books to read to their students, {-(but / and)+and|21} parents
+  did not have any tales to tell their children before they went to bed at night.
+  The sky god, Nyame, owned all the stories. Anansi decided that he would steal the
+  stories from Nyame and bring them down to Earth. Nyame said, “I demand that you
+  bring me Python, Leopard, and a nest of hornets. If you do this, I will be happy,
+  {-(so / but)+so|22} I will give you my stories.” Anansi set off on his mission.
+  \\r\\n\\r\\nFirst he met Python {-(in / at)+in|37} the morning. He teased Python by
+  saying, “You’re not even as long as the branch in the tree where you live!” Python
+  got angry and decided to stretch out on {-(those / the)+the|30} tree branch to prove
+  Anansi wrong, {-(or / but)+but|22} Anansi was clever. Once Python was lying on the
+  branch, Anansi tied him to it and took him to Nyame.\\r\\n\\r\\nTo catch Leopard, Anansi
+  dug a deep hole {-(in / at)+in|38} the ground {-(in / on)+in|37} the afternoon.
+  When Leopard fell in the hole, Anansi offered to help him out with his spider webs.
+  Leopard agreed. When Leopard got out of the hole, he was tangled in Anansi’s webs
+  and couldn’t get out. Anansi took him to Nyame.\\r\\n\\r\\nAnansi created a clever plan
+  to catch the hornets {-(on / at)+on|30} the following day. He prepared {-(an / a)+an|28}
+  empty container and filled it with water. He poured the water {-(at / in)+in|40}
+  the hornets’ nest and called out, “It’s raining! I have a dry container for you!”
+  {-(These / The)+The|30} hornets quickly flew into the container and Anansi sealed
+  the opening. Then he took the hornets to Nyame.\\r\\n\\r\\nFinally, Anansi presented
+  Nyame with Python, Leopard, and the nest of hornets, {-(or / and)+and|21} she rewarded
+  him by making him the god of all stories. \\r\\n\\r\\n\\r\\n\""
+"", ""instructions""=>""--- Find and correct all 13 errors. Make sure to delete the parentheses.
+...
+""",1,57,2014-08-26 16:12:50.998667,2014-09-05 14:14:43.530657,{production}
+203,Passage Proofreading: 1. Anansi Becomes the God of Stories (Mythology),"Proofread a passage correcting eight errors in capitalization of dates and names, as well as commas in dates and lists. This passage covers Common Core concepts 1.2a and 1.2c. This version of the passage contains hints.",E0COBlHa6wFi0fiSdmN8bg,"""body""=>""--- \""A long time ago, there were no stories in the world. Teachers did not have any
+  books to read to their students, and parents did not have any tales to tell their
+  children before they went to bed at night. The sky god, Nyame, owned all the stories.
+  Anansi decided that he would steal the stories from {-(nyame / Nyame)+Nyame|43}
+  and bring them down to Earth. Nyame said, “I demand that you bring me {-(Python,
+  Leopard, and a nest of hornets, / Python Leopard and a nest of hornets,)+Python,
+  Leopard, and a nest of hornets,|46} or I will not give you my stories.” Anansi set
+  off on his mission. \\r\\n\\r\\nFirst he met Python on the morning of {-(august 5, 1213.
+  / August 5, 1213.)+August 5, 1213.|45} He teased Python by saying, “You’re not even
+  as long as a branch in the tree where you live!” Python got angry and decided to
+  stretch out on a tree branch to prove Anansi wrong, but Anansi was clever. Once
+  Python was lying on the branch, Anansi tied him to it and took him to {-(Nyame.
+  / nyame.)+Nyame.|43}\\r\\n\\r\\nTo catch Leopard, {-(anansi / Anansi)+Anansi|43} dug
+  a deep hole in the ground in the afternoon. When Leopard fell in the hole, Anansi
+  offered to help him out with his spider webs. Leopard agreed. When Leopard got out
+  of the hole, he was tangled in Anansi’s webs and couldn’t get out. Anansi took him
+  to Nyame.\\r\\n\\r\\nAnansi created a clever plan to catch the hornets on the following
+  day. He prepared an empty container and filled it with water. He poured the water
+  on the hornets’ nest and called out, “It’s raining! I have a dry container for you!”
+  The hornets quickly flew into that container and Anansi sealed the opening. Then
+  he took the hornets to {-(Nyame. / nyame.)+Nyame.|43}\\r\\n\\r\\nFinally, Anansi presented
+  Nyame with {-(Python Leopard and the nest of hornets, / Python, Leopard, and the
+  nest of hornets,)+Python, Leopard, and the nest of hornets,|46} on {-(august 6 1213
+  / August 6, 1213) +August 6, 1213|42} so she rewarded him by making him the god
+  of all stories. \""
+"", ""instructions""=>""--- Find and correct all 8 errors.
+...
+""",1,57,2014-08-26 16:21:10.859208,2014-09-05 14:12:47.134194,{production}
+13,Passage Proofreading: A Little Stranger on the Road (Fiction),Proofread a passage with eleven incorrect determiners and articles.,R4LLUDAwWtIrqSWZc1BnTw,"""body""=>""--- \""One day, {+a-(a / an)|27} girl was walking home from school when she saw {+an-(an
+  / a)|28} energetic little man jumping in and out of some bushes. She stopped for
+  a minute and watched him jump around.\\r\\n\\r\\n{+The-(The / A)|30} girl wandered over
+  to him to get a closer look. Suddenly, the little man jumped in front of her and
+  said, “Are you {+a-(a / an)|27} little girl, or are you the little girl?” Surprised,
+  she answered, “Well, I think I'm just {+an-(an / a)|28} average girl.” The little
+  man grinned and said, “I'm not sure about that. What do you think of {+these?\\\""-(those
+  / these)?\\\""|33} He then pulled three seashells from his pocket.\\r\\n\\r\\nThe shells
+  began to glow in his hands. “What are {+those?-(those? / these?)|33}” asked the
+  little girl. The little man replied, “{+These-(These / Those)|33} shells I have
+  are magic, and anyone who goes near them can use magic powers.”\\r\\n\\r\\nThe little
+  man saw her confused look and continued, “Here take {+this-(that / this)|32} for
+  now,\\\"" and handed her {+a-(an / a)|27} shell. {+That-(That / This)|32} shell you
+  have will answer you if you ask it the right question. If it whispers to you before
+  you go to bed tonight you will know that you are not just a little girl, but the
+  little girl.” And with that, the little man disappeared.\""
+"", ""instructions""=>""--- Rewrite the following story by choosing the correct word from inside the parentheses.<br><br>  Remember
+  to delete the parentheses before clicking the submit button.
+...
+""",1,17,2013-09-16 20:13:44.623135,2014-09-09 18:42:17.573345,{production}
+213,10/6,test,2-M_CbYt_0oqa_7_R8NRaQ,"""body""=>""--- asdfd {+12-33|44}.
+...
+"", ""instructions""=>""--- test
+...
+""",1,19,2014-10-06 18:59:02.121081,2014-10-08 19:23:38.653304,{archived}
+31,Passage Proofreading: The First Space Walk (History),Proofread a passage using relative pronouns.,Me9PsV5UVHb-vuaa3ht6hg,"""body""=>""--- \""In 1965, there were two Soviet astronauts, Pavel Belyayev and Alexey Leonov,
+  {+who-(who / whose)|107} were part of the first mission to send men outside of their
+  ships. The man {+whom-(who / whom)|109} the Soviets chose to go into space was Alexey
+  Leonov. The ship they were flying was one of the new rockets {+that-(who / that)|110}
+  had an inflatable airlock built in.  \\r\\n\\r\\nThe airlock, {+which-(which / whom)|108}
+  Soviet scientists had only developed nine months earlier, worked well in space.
+  Unfortunately, the suit {+that-(who / that)|110} Leonov was wearing did not work
+  as well. While he was outside in space Leonov's suit started to inflate. {+When-(Where
+  / When)|112} he returned to his ship, his suit was so swollen that he could not
+  reach the spot {+where-(where / when)|111} the door handle was.  \\r\\n\\r\\nLeonov,
+  {+who-(who / whose)|107} knew he had to think quickly, decided to release some of
+  the pressure out of his suit into space. Despite the danger, Leonov, {+whose-(who
+  / whose)|106} suit finally deflated, was able to squeeze back into his ship. Alexey
+  Leonov, {+who-(who / that)|107} spent only twelve minutes out in space, became the
+  first man to exit and re-enter a spaceship. The crew safely returned to Earth, and
+  both Leonov and Belyayev became heroes.\""
+"", ""instructions""=>""--- Rewrite the following paragraph by choosing the correct relative pronoun or adverb
+  from the parentheses.<br><br>  Remember to delete the parentheses before clicking
+  the submit button.
+...
+""",1,27,2013-09-23 22:09:40.586163,2014-09-10 17:42:26.476265,{production}
+67,Passage Proofreading: Ernest Shackleton Escapes the Antarctic (History),Proofread a passage correcting any confused words.,MJCtkml_69W2Dav79v4r9Q,"""body""=>""--- \""In 1914, Ernest Shackleton and his crew set {+off-(off / of)|128} to explore
+  the Antarctic Circle.  As Shackleton's ship sailed closer to the Antarctic Circle,
+  it began to {+lose-(lose / loose)|130} speed.  Shackleton realized the sea water
+  was freezing and his ship was going to get stuck!  Shackleton tried everything he
+  could think of, but he could not shake his ship {+loose-(lose / loose)|130} from
+  the ice in time to escape. \\r\\n\\r\\nIn April of 1915, Shackleton decided {+it's-(its
+  / it's)|127} better to abandon a doomed ship {+than-(than / then)|129} to try to
+  save it.  He ordered the crew to take all of {+their-(there / their)|132} supplies
+  {+off-(of / off)|128} the ship.  The crew {+then-(than / then)|129} took the three
+  lifeboats and sailed for the closest piece of land. \\r\\n\\r\\nShackleton's crew made
+  it {+to-(too / to)|126} a nearby island named Elephant Island.  Shackleton told
+  his crew to stay {+there-(they're / there)|132} and wait for him to come back and
+  rescue them.  He said, {+\\\""You're-\\\""(Your / You're)|131} going to have to survive
+  here by yourselves until I come back with help.”  Shackleton then set {+off-(of
+  / off)|128} to find help.  \\r\\n\\r\\nShackleton sailed off in his lifeboat looking
+  for help.  When he finally found other people, he asked them to help him save his
+  crew {+too.-(to. / too.)|126}  It took Shackleton three tries to make it back to
+  his crew, but he never gave up.  He finally managed to get back to Elephant Island
+  and save his crew.  Amazingly, every member of Ernest Shackleton's crew survived
+  the adventure.\\r\\n\\r\\n\""
+"", ""instructions""=>""--- <br>Proofread the passage below, making sure that all the commonly confused words
+  are spelled correctly.<br><br>
+...
+""",1,46,2013-10-21 03:28:37.357468,2014-09-10 19:25:16.968517,{production}
+111,"Sentence Writing: Their, They're, There","Write twelve sentences using their, they're, and there.",rwSTz7k4JpTOrCun1PlBuA,"""rule_position""=>""---
+- - '274'
+  - '2'
+- - '276'
+  - '2'
+- - '277'
+  - '2'
+- - '275'
+  - '6'
+""",2,46,2014-04-19 15:42:20.45018,2014-09-23 22:45:11.673824,{production}
+41,Passage Proofreading: Oedipus and the Sphinx (Mythology),"Proofread a passage to ensure subjective, objective, and possessive pronouns are used correctly.",XKNzx_im2sL9VVr4lqPSAg,"""body""=>""--- \""In ancient Greek legends, there was a creature called the Sphinx. The Sphinx
+  was a creature with the body of a lion, the head of a woman, the wings of an eagle,
+  and the tail of a snake. She sat on a road leading to the city of Thebes, and {+she-(she
+  / her)|138} would ask travelers to answer {+her-(she / her)|139} riddle. If anyone
+  answered incorrectly, she would attack and eat him.\\r\\n\\r\\nThe people living in
+  Thebes were very scared of the Sphinx. They wished that someone would defeat the
+  Sphinx and save {+them.-(them. / him.)|139} “If only there was a man who could defeat
+  the Sphinx,” the people cried, “we would make {+him-(him / them)|139} king of our
+  city!”\\r\\n\\r\\nOne day, a wandering stranger came to Thebes. His name was Oedipus.
+  He was a brave and fearless man who was also very clever. When he heard about the
+  creature scaring the people, {+he-(I / he)|138} decided to visit the Sphinx and
+  defeat her once and for all!\\r\\n\\r\\nWhen the Sphinx saw Oedipus walking towards
+  her, {+she-(they / she)|138} shrieked, “Stop, human, and answer this riddle! No
+  other riddle is as tricky as {+mine.-(mine. / me.)|140} What creature walks on four
+  feet in the morning, on two feet in the afternoon, and on three feet in the evening?”\\r\\n\\r\\nAt
+  first Oedipus did not know the answer, but then he yelled, “Man is the answer! {+He-(He
+  / Him)|139} crawls on all fours when he is a baby, he walks on two feet when he
+  is a man, and he uses a cane as his third foot when he is old.” When the Sphinx
+  heard the right answer, {+she-(her / she)|138} screamed in anger and jumped off
+  a cliff into the ocean below. Oedipus returned to Thebes and became the new King.\""
+"", ""instructions""=>""--- Rewrite the following story by choosing the appropriate pronouns from the parentheses.<br><br>
+  Remember to delete the parentheses before clicking the submit button.
+...
+""",1,32,2013-09-24 02:02:28.091318,2015-01-21 19:39:42.736539,{production}
+33,Passage Proofreading: We Choose The Moon (History),Proofread a passage ensuring that the progressive tense is correct.,-gkCewdX_hawV-0lNahVzw,"""body""=>""--- \""In April of 1961, the Soviet Union successfully launched Yuri Gagarin into space,
+  becoming the first nation to accomplish such a feat. Just one week after the successful
+  mission was announced, John F. Kennedy sent a letter to his vice president, {+asking-(ask)|115}
+  him to look into America's space program, and to write back what he believed NASA
+  was capable of {+accomplishing-(accomplish)|116} if they had a few years to prepare.
+  His vice president wrote back a week later, {+saying-(say)|116} America was capable
+  of {+launching-(launch)|115} a man into space, {+landing-(land)|116} him on the
+  moon, and then {+returning-(return)|116} him safely to Earth. President Kennedy
+  decided this was the course his country should be taking, and planning began to
+  make America the first nation on earth to land a man on the moon.\\r\\n\\r\\nOn September
+  12th, 1962, just a little over a year after President Kennedy asked Vice President
+  Johnson what America could do to rival the Soviet space program, Kennedy gave a
+  speech at Rice University in Texas. As Kennedy was {+delivering-(to deliver)|116}
+  his speech, known as the \\\""We Choose the Moon\\\"" speech, he was {+detailing-(detail)|116}
+  why he believed America should be the first to reach the moon. He also promised
+  that America would land a man on the moon within the next ten years. When he finished
+  his 18 minute speech, President Kennedy officially started the race to the moon.
+  He knew the whole world would be {+watching-(to watch)|116} to see which country
+  would end up {+being-(to be)|116} the first to reach the moon, and Kennedy intended
+  to win.\""
+"", ""instructions""=>""--- Rewrite the following story by replacing the infinitive forms of the verbs in
+  parentheses with their past progressive forms.<br><br> Remember to delete the parentheses
+  before clicking submit.
+...
+""",1,4,2013-09-23 22:38:21.909759,2014-09-29 17:17:22.655559,{production}
+162,"Sentence Writing: I've, That's, It's","Write nine sentences using the contractions I've, that's, and it's.",LPU0D5pDWLvj0LwAuXhbPQ,"""rule_position""=>""---
+- - '441'
+  - '1'
+- - '443'
+  - '1'
+- - '444'
+  - '1'
+- - '442'
+  - '6'
+""",2,20,2014-04-19 15:42:59.987946,2014-09-29 21:59:21.740693,{production}
+164,"Sentence Writing: Haven't, Don't ",Write eight sentences using the contractions haven't and don't.,vNOX7X3rpHU7_KheZdgtzQ,"""rule_position""=>""---
+- - '449'
+  - '2'
+- - '451'
+  - '2'
+- - '450'
+  - '4'
+""",2,20,2014-04-19 15:43:00.939956,2014-09-29 22:02:10.318163,{production}
+204,Passage Proofreading 1.2a & 1.2c—No Parentheses: Anansi Becomes the God of Stories (Mythology),"Proofread a passage correcting eight errors in capitalization of dates and names, as well as commas in dates and lists. ",Ybx0UQ9tVwVeYQI7Q9pwRg,"""body""=>""--- \""A long time ago, there were no stories in the world. Teachers did not have any
+  books to read to their students, and parents did not have any tales to tell their
+  children before they went to bed at night. The sky god, Nyame, owned all the stories.
+  Anansi decided that he would steal the stories from {-nyame+Nyame|43} and bring
+  them down to Earth. Nyame said, “I demand that you bring me {-Python Leopard and
+  a nest of hornets+Python, Leopard, and a nest of hornets|46}, or I will not give
+  you my stories.” Anansi set off on his mission. \\r\\n\\r\\nFirst he met Python on the
+  morning of {-august 5, 1213+August 5, 1213|45}. He teased Python by saying, “You’re
+  not even as long as a tree branch in the tree where you live!” Python got angry
+  and decided to stretch out on the tree branch to prove Anansi wrong, but Anansi
+  was clever. Once Python was lying on the branch, Anansi tied him to it and took
+  him to {-nyame+Nyame|43}.\\r\\n\\r\\nTo catch Leopard, {-anansi+Anansi|43} dug a deep
+  hole in the ground in the afternoon. When Leopard fell in the hole, Anansi offered
+  to help him out with his spider webs. Leopard agreed. When Leopard got out of the
+  hole, he was tangled in Anansi’s webs and couldn’t get out. Anansi took him to Nyame.\\r\\n\\r\\nAnansi
+  created a clever plan to catch the hornets on the following day. He prepared an
+  empty container and filled it with water. He poured the water on the hornets’ nest
+  and called out, “It’s raining! I have a dry container for you!” The hornets quickly
+  flew into that container and Anansi sealed the opening. Then he took the hornets
+  to {-nyame+Nyame|43}.\\r\\n\\r\\nFinally, Anansi presented Nyame with {-Python Leopard
+  and a nest of hornets+Python, Leopard, and a nest of hornets|46}, on {-August 5
+  1215+August 5, 1215|42}so she rewarded him by making him the god of all stories.
+  \\r\\n\""
+"", ""instructions""=>""--- Find and correct all 8 errors.
+...
+""",1,57,2014-08-26 16:24:07.936551,2014-10-08 19:24:24.284072,{archived}
+214,test10/9,adf,tBwX2kLqZuuTVZF0sxB9Fw,"""body""=>""--- adfads {+14_adfads|23}
+...
+"", ""instructions""=>""--- tes 10/9
+...
+""",1,6,2014-10-08 16:06:41.374242,2014-10-08 19:24:35.94367,{archived}
+211,t,t,oC2fkq0IJFPzQniB8xGXHA,,2,63,2014-10-02 01:37:31.18992,2014-12-18 23:05:00.01847,{archived}
+190,Passage Proofreading: A Man and His Mouse (Mythology) - Part 4,Proofread a passage and try to find all errors.,YpA-Grhybh7UVfRn3I-3Kg,"""body""=>""--- \""The man and his daughter thanked the sun and went to speak with the cloud. \\\""Cloud,\\\""
+  the man asked, {+\\\""Will-\\\""will|135} you marry my daughter?\\\""\\r\\n\\r\\nThe cloud laughed
+  and said, \\\""I am stronger than the sun, but the wind is even more powerful than
+  I am. The wind pushes me this way and that way, so I must go where he blows me.
+  If your daughter wants a strong husband, she should {+marry-mary|222} the wind.\\\""\\r\\n\\r\\nThe
+  father turned to his daughter and asked, {+\\\""Daughter,-\\\""daughter,|135} do you think
+  the wind would make a good husband for you?\\\""\\r\\n\\r\\nThe daughter exclaimed, \\\""Yes,
+  Father! {+Let’s-Lets|232} go talk to the wind.\\\""\\r\\n\\r\\nThe father then said to
+  the wind, \\\""Wind, will you marry my daughter?\\\""\\r\\n\\r\\nThe wind scoffed at the man
+  and said, \\\""I used to think I was very strong, but now I know better. Do you see
+  that stone wall over there? I have been blowing and blowing against that wall for
+  many years, but it {+won’t-wont|97} fall down. The wall is much stronger {+than-then|207}
+  me.\\\""\\r\\n\""
+"", ""instructions""=>""--- \""<br>There are <b>6 errors</b> in this story.  <br><br> <i>How many can you correct?</i><br><br>To
+  edit a word, click on it and re-type it.<br><br>\""
+""",1,62,2014-05-26 21:00:07.857929,2014-12-17 21:44:43.049701,{production}
+218,Try,test,WbaZ2WjICoF38ns9qzJsbQ,"""body""=>""--- \""Many years ago Sun and Water were great friends that both lived on Earth together.
+  Sun often visited Water, but Water never went to visit Sun. When Sun asked Water
+  why she never {+came-comed|73} to visit him, Water replied that Sun’s house was
+  not big enough for her and all her {+children-childs|56} that lived in Water. Water
+  told Sun that if he wanted her to visit, he would have to build a house big enough
+  for her and all the {+fish-fishes|53} and other creatures. Sun agreed, returned
+  home to his wife, Moon, and together they {+built-builded|72} a big house so that
+  they could entertain Water.\\r\\n\\r\\nThe next day, Sun and Moon asked Water to visit.
+  When she arrived, Water {+spoke-speaked|342} to Sun, asking, “Is it safe for me
+  to enter?” Sun answered, “Yes, come in, my friend!” Then Water started to flow in,
+  followed by all the plants and animals that live in the seas, rivers, and ponds
+  of the world. \\r\\n\\r\\nSoon, Water was knee-deep, and Water asked Sun, “Is it still
+  safe?” Sun answered, “Yes, of course! Come in.” When Water was as tall as a man,
+  she asked, “Do you have room for the rest of my friends?” Both Sun his wife, Moon,
+  answered, “Yes,” but they never {+knew-knowed|346} how many creatures lived in Water.
+  Water was full of +{shrimp,-shrimps,|53} (+salmon,-salmons,|53} and other {+fish.-fishes.|53}\\r\\n\\r\\nEventually,
+  Water and all her creatures filled the house, so Sun and Moon {+sat-sitted|81} on
+  the roof. Water asked Sun again, “Is there still enough room?” This time, Water
+  received no reply, so her friends continued to enter Sun and Moon’s house. Water
+  soon overflowed out of the windows and doors of the house and streamed over the
+  roof. Sun and Moon were forced to go up into the sky, where they have lived ever
+  since.\""
+"", ""instructions""=>""--- test
+...
+""",1,60,2014-10-08 16:48:35.325876,2014-10-08 19:25:15.55203,{archived}
+216,Passage Proofreading: 2. Why Sun and Moon Live in the Sky,"Proofread a passage correcting seven errors with reflexive pronouns, adjectives, and adverbs. This passage covers Common Core concepts 2.1c and 2.1e. ",Cp5EA__efZ0Rlxlq0Y25pw,"""body""=>""--- \""Many years ago Sun and Water were great friends that both lived {+happily-happy|88}
+  on Earth together. Sun often visited Water, but Water never went to visit Sun. When
+  Sun asked Water why she never came to visit him in his house, Water replied that
+  Sun’s house {+itself-yourself|66} was not big enough for her and her children that
+  lived in Water. Water told Sun that if he wanted her to visit, he would have to
+  build a house {+large-largely|90} enough for her and all the fish and other creatures.
+  Sun agreed, returned home to his wife, Moon, and they built a big house by {+themselves-theyselves|69}
+  so that they could entertain Water.\\r\\n\\r\\nThe next day, Sun and Moon asked Water
+  to visit. When she arrived, Water spoke, “Is it safe for me to enter?” Sun {+cheerfully-cheerfull|88}
+  answered, “Yes, come in, my friend!” Then Water started to flow in, followed by
+  all the plants and animals that lived in the seas, rivers, and ponds of the world.
+  \\r\\n\\r\\nSoon, Water was knee-deep and {+nervously-nervous|87} asked Sun, “Is it
+  still safe?” Sun answered, “Yes, of course! Come in.” When Water was as tall as
+  a man, Water asked, “Do you have room for the rest of my friends?” Both Sun and
+  Moon, answered, “Yes,” but they did not know how many creatures lived in Water.\\r\\n\\r\\nEventually,
+  Water and all her creatures filled the house, and Sun and Moon sat on the roof by
+  {+themselves.-himself.|69} Water asked Sun again, “Is there still enough room?”
+  This time, Water received no reply, so her friends continued to enter Sun and Moon’s
+  house. Water soon overflowed out of the windows and doors of the house and streamed
+  over the roof. Sun and Moon were forced to go up into the sky, where they have lived
+  ever since.\""
+"", ""instructions""=>""--- Find and correct all 7 errors.
+...
+""",1,60,2014-10-08 16:38:39.708323,2014-10-08 19:33:32.357109,{production}
+184,Test Activity,Description,FtBjOj0nhBW63TYd3IwFwA,"""body""=>""--- Test edit body.
+...
+"", ""instructions""=>""--- ''
+""",1,1,2014-05-22 16:18:28.42208,2014-10-08 19:18:28.694142,{archived}
+29,Passage Proofreading: The Cold Fall (Fiction),Proofread a passage correcting any confused words.,r1uK2s86mS_LE6mdZvSvTw,"""body""=>""--- \""A {+(pack)-()|48} of wolves had to prepare themselves for winter. Their {+(litter)-()|48}
+  of puppies were constantly hungry, but there was not much food around. The {+(flock)-()|48}
+  of ducks by the lake had already flown south. There was a {+(swarm)-()|48} of flies
+  buzzing around in its place. An {+(army)-()|48} of ants made their way back underground.\\r\\n\\r\\nThere
+  once was a {+(team)-()|48} of oxen in a ranch off in the distance, but they had
+  since disappeared. The lay of the land was empty, except for a {+(murder)-()|48}
+  of crows passing by in the empty sky. The wolves knew they had to find a new home.\\r\\n\""
+"", ""instructions""=>""--- 'Use the word bank below to fill in the parentheses with a collective noun. <br>To
+  make changes, click on the parentheses and type in your answer. <b>Do not delete
+  the parentheses.</b> <br><br> Here are some common collective nouns: <b>army</b>
+  of ants, <b>crowd</b> of people, <b>panel</b> of judges, <b>pack</b> of wolves,
+  <b>pile</b> of trash, <b>flock</b> of ducks, <b>murder</b> of crows, <b>team</b>
+  of oxen, <b>swarm</b> of flies, and <b>litter</b> of puppies.'
+""",1,25,2013-09-17 01:27:18.228369,2014-10-08 19:18:09.64722,{archived}
+193,Ernest Shackleton Escapes the Antarctic (History),Proofread a passage correcting any confused words.,X4MOmXcR59YKHkaikrcj2A,"""body""=>""--- \""In 1914, Ernest Shackleton and his crew set off to explore the Antarctic Circle.
+  \\ As Shackleton's ship sailed closer to the Antarctic Circle, his ship began to
+  {+lose-loose|130} speed.  Shackleton realized the sea water was freezing and his
+  ship was going to get stuck!  Shackleton tried everything he could think of, but
+  he could not shake his ship {+loose-lose|130} from the ice in time to escape. \\r\\n\\r\\nIn
+  April of 1915, Shackleton decided {+it's-its|127} better to abandon a doomed ship
+  {+than-then|129} to try and save it.  He ordered the crew to take all of {+their-there|132}
+  supplies {+off-of|128} the ship.  The crew {+then-than|129} took the three lifeboats
+  and sailed for the closest piece of land. \\r\\n\\r\\nShackleton's crew made it {+to-too|126}
+  a nearby island named Elephant Island.  Shackleton told his crew to stay {+there-they're|132}
+  and wait for him to come back and rescue them.  He said, {+\\\""You're-\\\""Your|131}
+  going to have to survive here by yourselves until I come back with help.”  Shackleton
+  then set {+off-of|128} to find help.  \\r\\n\\r\\nShackleton sailed off in his lifeboat
+  looking for help.  When he finally found other people, he asked them to help him
+  save his crew {+too-to|126}.  It took Shackleton three tries to make it back to
+  his crew, but he never gave up.  He finally managed to get back to Elephant Island
+  and save his crew.  Amazingly, every member of Ernest Shackleton's crew survived
+  the adventure.\\r\\n\""
+"", ""instructions""=>""--- \""<br>Proofread the passage below, making sure that all 12 of the commonly confused
+  words are spelled correctly.<br><br>\""
+""",1,46,2014-06-13 00:26:21.885896,2014-10-08 19:18:37.913425,{archived}
+199,"","",toJY-XjlYRc67MCgSz0Ttg,"""body""=>""--- ''
+"", ""instructions""=>""--- ''
+""",1,45,2014-08-25 19:29:21.313514,2014-10-08 19:20:17.052826,{archived}
+201,"Passage Proofreading 1.1g, 1.1h & 1.1i—No Parentheses: Anansi Becomes the God of Stories (Mythology)","Proofread a passage correcting 13 errors involving conjunctions, determiners, and frequently occurring prepositions.",OC4R_9IWYIr7gR7vxkYQww,"""body""=>""--- \""{-An+A|27} long time ago, there were no stories in the world. Teachers did not
+  have any books to read to their students, {-but+and|21} parents did not have any
+  tales to tell their children before they went to bed at night. The sky god, Nyame,
+  owned all the stories. Anansi decided that he would steal the stories from Nyame
+  and bring them down to Earth. Nyame said, “I demand that you bring me Python, Leopard,
+  and a nest of hornets. If you do this, I will be happy, {-but+so|22} I will give
+  you my stories.” Anansi set off on his mission. \\r\\n\\r\\nFirst he met Python {-at+in|37}
+  the morning. He teased Python by saying, “You’re not even as long as a tree branch
+  in the tree where you live!” Python got angry and decided to stretch out on {-those+the|30}
+  tree branch to prove Anansi wrong, {-or+but|22} Anasi was clever. Once Python was
+  lying on the branch, Anansi tied him to it and took him to Nyame.\\r\\n\\r\\nTo catch
+  Leopard, Anansi dug a deep hole {-at+in|38} the ground {-on+in|37} the afternoon.
+  When Leopard fell in the hole, Anansi offered to help him out with his spider webs.
+  Leopard agreed. When Leopard got out of the hole, he was tangled in Anansi’s webs
+  and couldn’t get out. Anansi took him to Nyame.\\r\\n\\r\\nAnansi created a clever plan
+  to catch the hornets {-at+on|39} the following day. He prepared {-a+an|28} empty
+  container and filled it with water. He poured the water {-at+on|40} the hornets’
+  nest and called out, “It’s raining! I have a dry container for you!” {-These+The|30}
+  hornets quickly flew into the container and Anansi sealed the opening. Then he took
+  the hornets to Nyame.\\r\\n\\r\\nFinally, Anansi presented Nyame with Python, Leopard,
+  and the nest of hornets, {-or+and|21} she rewarded him by making him the god of
+  all stories. \\r\\n\""
+"", ""instructions""=>""--- Find and correct all 13 errors.
+...
+""",1,57,2014-08-26 16:02:54.03796,2014-10-08 19:20:27.447664,{archived}
+217,Passage Proofreading: Why Sun and Moon Live in the Sky,Proofread a passage correcting nine errors with irregular nouns and verbs. This passage covers Common Core concepts 2.1b and 2.1d. ,v9EqoL2WpXYXEQ214I8clA,"""body""=>""--- \""Many years ago Sun and Water were great friends that both lived on Earth together.
+  Sun often visited Water, but Water never went to visit Sun. When Sun asked Water
+  why she never {+came-comed|73} to visit him, Water replied that Sun’s house was
+  not big enough for her and all her {+children-childs|56} that lived in Water. Water
+  told Sun that if he wanted her to visit, he would have to build a house big enough
+  for her and all the {+fish-fishes|53} and other creatures. Sun agreed, returned
+  home to his wife, Moon, and together they {+built-builded|72} a big house so that
+  they could entertain Water.\\r\\n\\r\\nThe next day, Sun and Moon asked Water to visit.
+  When she arrived, Water {+spoke-speaked|342} to Sun, asking, “Is it safe for me
+  to enter?” Sun answered, “Yes, come in, my friend!” Then Water started to flow in,
+  followed by all the plants and animals that live in the seas, rivers, and ponds
+  of the world. \\r\\n\\r\\nSoon, Water was knee-deep, and Water asked Sun, “Is it still
+  safe?” Sun answered, “Yes, of course! Come in.” When Water was as tall as a man,
+  she asked, “Do you have room for the rest of my friends?” Both Sun his wife, Moon,
+  answered, “Yes,” but they never {+knew-knowed|346} how many creatures lived in Water.
+  Water was full of +{shrimp,-shrimps,|53} (+salmon,-salmons,|53} and other {+fish.-fishes.|53}\\r\\n\\r\\nEventually,
+  Water and all her creatures filled the house, so Sun and Moon {+sat-sitted|81} on
+  the roof. Water asked Sun again, “Is there still enough room?” This time, Water
+  received no reply, so her friends continued to enter Sun and Moon’s house. Water
+  soon overflowed out of the windows and doors of the house and streamed over the
+  roof. Sun and Moon were forced to go up into the sky, where they have lived ever
+  since.\""
+"", ""instructions""=>""--- Correct all 9 errors.
+...
+""",1,60,2014-10-08 16:46:44.884664,2014-10-08 19:25:02.976968,{archived}
+215,Passage Proofreading: 1. Why Sun and Moon Live in the Sky,Proofread a passage correcting eight errors with irregular plural nouns and verbs. This passage covers Common Core concepts 2.1b and 2.1d.,-PcSHU2UV2fmMPtknriRqg,"""body""=>""--- \""Many years ago Sun and Water were great friends that both lived on Earth together.
+  Sun often visited Water, but Water never went to visit Sun. When Sun asked Water
+  why she never {+came-comed|73} to visit him, Water replied that Sun’s house was
+  not big enough for her and all her {+children-childs|56} that lived in Water. Water
+  told Sun that if he wanted her to visit, he would have to build a house big enough
+  for her and all the {+fish-fishes|53} and other creatures. Sun agreed, returned
+  home to his wife, Moon, and together they {+built-builded|72} a big house so that
+  they could entertain Water.\\r\\n\\r\\nThe next day, Sun and Moon asked Water to visit.
+  When she arrived, Water {+spoke-speaked|342} to Sun, asking, “Is it safe for me
+  to enter?” Sun answered, “Yes, come in, my friend!” Then Water started to flow in,
+  followed by all the plants and animals that live in the seas, rivers, and ponds
+  of the world. \\r\\n\\r\\nSoon, Water was knee deep, and Water asked Sun, “Is it still
+  safe?” Sun answered, “Yes, of course! Come in.” When Water was as tall as a man,
+  she asked, “Do you have room for the rest of my friends?” Both Sun and his wife,
+  Moon, answered, “Yes,” but they never {+knew-knowed|346} how many creatures lived
+  in Water. Water was full of {+shrimp,-shrimps,|53} {+salmon,-salmons,|53} and other
+  {+fish.-fishes.|53}\\r\\n\\r\\nEventually, Water and all her creatures filled the house,
+  so Sun and Moon {+sat-sitted|81} on the roof. Water asked Sun again, “Is there still
+  enough room?” This time, Water received no reply, so her friends continued to enter
+  Sun and Moon’s house. Water soon overflowed out of the windows and doors of the
+  house and streamed over the roof. Sun and Moon were forced to go up into the sky,
+  where they have lived ever since.\""
+"", ""instructions""=>""--- Find and correct 10 errors.
+...
+""",1,60,2014-10-08 16:24:39.47601,2014-10-08 19:33:43.715763,{production}
+221,Passage Proofreading: Summative Assessment CCSS 7-9,This passage focuses on a variety of errors from Common Core Standards for grades 7-9.,6FNklKBMz4wv4NdRfuv_7g,,1,36,2014-10-09 14:41:26.674445,2014-10-09 14:59:34.001327,{archived}
+220,Passage Proofreading: Middle School Benchmark Assessment,This passage focuses on a variety of errors to serve as a learning benchmark.,dDmxAokkU8iDlLJKu9Z66g,"""body""=>""--- \""In April of 1961, the Soviet Union successfully launched Yuri Gagarin into space,
+  and they {+became-becomed|248} the first nation to accomplish such a feat. {+However,-However|462}
+  just one week after the successful mission was announced, John F. Kennedy sent a
+  letter to his vice president asking him to look into America's space program and
+  to write back what he believed NASA was capable of accomplishing if they had a few
+  years to prepare. {+His-his|133} vice president wrote back a week later, saying
+  America was capable of launching a man into space, landing him on the moon, and
+  {+then-than|129} returning him safely to Earth. President Kennedy decided this was
+  the course his country should be taking, and planning began to make America the
+  first nation on earth to land a man {+on-in|122} the moon.\\r\\n\\r\\nOn September 12th,
+  1962, just a little over a year after President Kennedy asked Vice President Johnson
+  what America could do to rival the Soviet space program, Kennedy gave a speech at
+  Rice University in Texas. As Kennedy was delivering {+his-her|138} speech, known
+  as the \\\""We Choose the Moon\\\"" speech, he was detailing why he believed America should
+  be the first to reach the moon. His argument had three main {+points:-points|172}
+  it would be a historical achievement, space was one of the last great frontiers,
+  and America was made of pioneers and explorers. He also promised that America would
+  land a man on the moon within the next ten years. When he finished his 18 minute
+  speech, President Kennedy officially started the race to the moon. He knew the whole
+  world would be watching to see {+which-that|312} country would end up being the
+  first to reach the moon, and Kennedy {+himself-yourself|142} intended to ensure
+  America would win.\""
+"", ""instructions""=>""--- Find all 9 errors.
+...
+""",1,36,2014-10-08 21:56:28.465375,2014-10-22 20:42:51.478978,{production}
+65,Passage Proofreading: Driving with Tom (Fiction),"Proofread a passage to ensure the words ""yes"" and ""no"" are off set by commas.",f6FnO1ZlWFWbV3J47cF5mA,"""body""=>""--- \""\\\""I told you {+earlier, didn't I?-earlier didn't I?|176}I knew that we weren't
+  lost! {+Yes, I-Yes I|177} missed a turn, but I'm still getting you {+home, aren't
+  I?\\\""-home aren't I?\\\""|176}\\r\\n\\r\\nMy friend Tom was driving me back to my house
+  from a basketball game, but took a wrong turn into a different neighborhood.\\r\\n\\r\\nI
+  said, {+\\\""Tom, we-\\\""Tom we|178} saw that same sign two times {+now, didn't we?\\\""-now
+  didn't we?\\\""|176}\\r\\n\\r\\nTom peered closely at the sign and slowed down as we drove
+  by.\\r\\n\\r\\n{+\\\""No, I-\\\""No I|177} am sure we haven't seen this sign before. You don't
+  still think we're {+lost, do you?\\\""-lost do you?\\\""|176}\\r\\n\\r\\n{+\\\""No, I-\\\""No I|177}
+  never had a doubt in my mind,\\\"" I said sarcastically. I always thought Tom had a
+  bad sense of direction.\\r\\n\\r\\n\\\""Just a couple more minutes and we will be at my
+  house as promised,\\\"" Tom reassured me.\\r\\n\\r\\n\\\""Wait,\\\"" I said, \\\""You told me you
+  were taking me home to my {+house, didn't you-house didn't you|176}?\\\""\\r\\n\\r\\n\\\""Whoops!
+  I guess you are staying the night at my place tonight. I will drive you back in
+  the morning.\\\""\\r\\n\\r\\n\\\""This is why we say you have a bad sense of {+direction,
+  Tom.\\\""-direction Tom.\\\""|178}\\r\\n\\r\\n\\\""I guess everybody has their {+faults, don't
+  they?\\\""-faults don't they?\\\""|176}\\r\\n\""
+"", ""instructions""=>""--- 'Rewrite the passage below by placing commas where appropriate. '
+""",1,55,2013-10-15 01:23:59.750049,2014-10-10 15:34:04.53381,{production}
+224,testStory2,testDescription2,zl39saRCpW6NrWrHVFOrUw,,3,9,2014-10-15 23:57:59.752319,2014-12-01 19:42:28.956781,{alpha}
+222,Passage Proofreading: High School Benchmark Assessment,This passage focuses on a variety of errors to serve as a learning benchmark.,6QTTzpyuxkfOZFi1Rm6siw,"""body""=>""--- \""In April of 1961, the Soviet Union successfully launched Yuri Gagarin into space
+  and became the first nation to accomplish such a feat. Just one week after the successful
+  mission was announced, John F. Kennedy sent a letter to Lyndon B. Johnson, {+who-whom|308}
+  was his vice president, asking him to look into America's space program and tell
+  him what he believed NASA was capable of accomplishing if they had a few years to
+  prepare. He wrote back a week later, stating that America was capable of launching
+  a man into space, landing him on the moon, and returning him safely to Earth. President
+  Kennedy decided this was the course his country should be taking, and he began planning
+  to make America the first {+nation on earth-earth on nation|479} to land a man on
+  the moon.\\r\\n\\r\\nOn September 12th, 1962, just a little over a year after President
+  Kennedy asked Vice President Johnson what {+America could do-could be done by America|388}
+  to rival the Soviet space program, Kennedy gave a speech at Rice University in Texas.
+  As Kennedy was delivering his speech, known as the \\\""We Choose the Moon\\\"" speech,
+  he was detailing why he believed America should be the first to reach the moon.
+  He also promised that America would land a man on the moon within the next ten years,
+  even though everyone {+understood-understands|195} it would be a {+long, dangerous,
+  difficult mission.-long dangerous difficult mission.|187} When he finished his 18
+  minute speech, President Kennedy officially started the race to the moon. He knew
+  the whole world would be watching to see which country would end up being the first
+  to reach the moon, and Kennedy intended to win.\""
+"", ""instructions""=>""--- Find and correct 5 errors. Make sure each sentence is in the active voice.
+...
+""",1,36,2014-10-09 14:58:40.10599,2014-10-22 20:43:11.217978,{production}
+228,sfdf,sdfdsf,8WcHiiJq57_TmkhSszgbQg,,2,7,2014-10-22 18:28:06.387607,2014-12-18 22:52:19.634836,{archived}
+225,testpq1,desc1,68iGP-AR5yvEdeslcdX8WA,,2,1,2014-10-16 00:17:56.87418,2014-12-18 22:53:10.649513,{archived}
+229,new test for ryan,sdfsdf,LmdZXQgskBvPaXQEmMk4CA,,2,7,2014-10-22 18:29:25.599432,2014-12-18 22:53:37.035553,{archived}
+227,test practice q,sdf,NYrsyDdIMop8Dt0Onc21pA,,2,1,2014-10-22 18:17:28.961833,2014-12-18 22:53:45.020351,{archived}
+226,Test,Test,4I3rU2K5iEnr82ojpw4N0g,,2,7,2014-10-17 21:27:15.859496,2014-12-18 22:53:54.44702,{archived}
+223,Peter's Name is Awesome,Peter's Awesome is Name,PS6ZJfW6CYD6r_JzRn0lnA,,2,1,2014-10-14 21:22:23.954557,2014-12-18 23:02:27.700776,{archived}
+219,Passage Proofreading: Elementary School Benchmark Assessment,This passage focuses on a variety of errors to serve as a learning benchmark.,WmgPDENvu31lGoyZDLM5Gg,"""body""=>""--- \""On {+April 12, 1961,-April 12 1961|509} the Soviet Union became the first nation
+  to send a man into outer space. Just one week after the successful mission was announced,
+  John F. {+Kennedy-kennedy|43} sent a letter to his vice president, Lyndon B. Johnson,
+  asking what he believed {+America's-Americas|12} space program could do with {+a-an|29}
+  few years to prepare. The vice president wrote back a week later, saying that America
+  could land a man {+on-in|368} the moon, and then {+safely-safe|88} return him to
+  earth. President Kennedy told {+himself-his self|64} this was the course his country
+  should be taking, and planning began to make America the first nation to land a
+  man on the moon.\\r\\n\\r\\nIn 1962, just a little over a year after President Kennedy
+  asked Vice President Johnson what America could do to rival the Soviet space program,
+  Kennedy gave a speech in Texas. As Kennedy was delivering his speech, known as the
+  \\\""We Choose the Moon\\\"" speech, he was detailing why he believed America should be
+  the first to reach the moon. He also promised that America would land a man on the
+  moon within the next ten years and that they could do it {+sooner-soonest|156} than
+  any other country. With “We Choose the Moon” President Kennedy officially started
+  the race to the moon. He knew the whole world would be watching to {+find-found|83}
+  which country would end up being the first to reach the moon, and Kennedy intended
+  to win.\\r\\n\""
+"", ""instructions""=>""--- Find and correct 9 errors.
+...
+""",1,36,2014-10-08 21:35:58.984871,2014-10-22 20:42:25.191784,{production}
+230,Trash: TEST4,TEST4,VJHVZNxw0Bjz7Ed-SmsNjg,,2,65,2014-10-22 22:17:29.201149,2014-10-27 16:40:16.912396,{archived}
+231,test,test,2TNGU1pZiTdJ2hylFNFHeQ,,1,24,2014-11-05 17:22:31.046729,2014-11-05 17:22:31.046729,{alpha}
+232,test2,test,p7pGhFVi9dR4LUehMjrPqg,"""body""=>""--- My friends and I went to the zoo last week. It was a {+bright, sunny-bright and
+  sunny|187} day, and all of the animals were lively. There was a {+big, ferocious-big
+  and ferocious|187} lion sitting on top of a large rock. Close by, some {+loud, lively-loud
+  and lively|187} monkeys were romping about on a tire swing. A {+tired, old-tired
+  and old|187} tortoise stretched his neck up into the air. There were also some {+tiny,
+  timid-tiny and timid|187} lizards hiding behind rocks, logs, and any other place
+  they could fit. They were all placed in terrariums next to some {+cute, fluffy-cute
+  and fluffy|187} rodents. There was much to see on that {+fun, exciting-fun and exciting|187}
+  day.
+...
+"", ""instructions""=>""--- test
+...
+""",1,22,2014-11-05 17:23:27.347633,2014-11-05 17:23:32.850155,{alpha}
+19,Passage Proofreading: Brer Rabbit & the Briar Patch (Mythology),Proofread a passage correcting seven words that need contractions.,xXQ7W1o7cYrycfZBJHyANQ,"""body""=>""--- \""After Brer Fox trapped Brer Rabbit, he said, \\\""I have you now, Brer Rabbit, and
+  {+I'm-(I am)|103} going to barbecue you for my supper.\\\""\\r\\n\\r\\nBrer Rabbit said,
+  \\\""Barbecue does sound good. Just so long as you {+don't-(do not)|98} throw me into
+  the briar patch there!\\\""\\r\\n\\r\\n\\\""I'm not inviting you for barbecue,\\\"" Brer Fox
+  explained. \\\""I mean {+you're-(you are)|104} going to be the barbecue!\\\""\\r\\n\\r\\n\\\""Yes,
+  Brer Fox, I understand,\\\"" Brer Rabbit replied, \\\""and {+I've-(I have)|100} heard
+  you make a mighty fine barbecue sauce indeed. Anything sounds good compared to the
+  briar patch over there!\\\""\\r\\n\\r\\nNow Brer Fox was curious. \\\""What briar patch?\\\""
+  he asked.\\r\\n\\r\\n\\\""Over there,\\\"" Brer Rabbit said, pointing with his paw. {+\\\""That's-(\\\""That
+  is)|101} the sharpest looking patch of thorns I have ever seen.\\\""\\r\\n\\r\\n\\\""Well,\\\""
+  Brer Fox slowly said, \\\""I did have barbecue last night, so maybe I will throw you
+  in that briar patch after all.\\\""\\r\\n\\r\\n\\\""Oh no!\\\"" screamed Brer Rabbit. {+\\\""Won't-(\\\""Will
+  not)|97} you reconsider throwing me in?\\\""\\r\\n\\r\\nBrer Fox then grinned maliciously.
+  Using all his strength, he tossed the rabbit into the briar patch.\\r\\n\\r\\nSuddenly,
+  Brer Rabbit stuck his head up from inside the briar patch and shouted, \\\""You {+can't-(can
+  not)|96} catch me now! I was born in the briar patch, a most comfortable place for
+  a rabbit!\\\"" With those words, he happily scampered off.\\r\\n\""
+"", ""instructions""=>""--- Replace the words in parentheses with an appropriate contraction. To make changes,
+  click on a word and change it to your answer.<br><br> Then, delete the parentheses.
+...
+""",1,20,2013-09-16 23:22:07.322974,2014-11-16 21:58:56.056545,{production}
+101,Passage Proofreading: The First Space Walk (History),Try to find all the errors in the story below. ,DbMniOje75Xze-ymW9RvHw,"""body""=>""--- \""{+In 1965,-In 1965|239} the USSR sent two cosmonauts into space in order to perform
+  the first ever  extra-vehicular activity (EVA) in space. The men chosen for the
+  mission were {+Pavel Belyayev-pavel belyayev|43} and {+Alexey Leonov.-alexey leonov.|43}
+  Leonov was to perform the EVA, while Belyayev was to pilot the vessel. The rocket
+  they were using was a new type called a Voskhod{+rocket, that-rocket, which|110}
+  had an inflatable airlock built-in.\\r\\n\\r\\nThe {+airlock, which-airlock, that|108}
+  Soviet scientists had only completed nine months prior, functioned perfectly during
+  the mission. {+However,-However|173} the {+cosmonauts'-cosmonauts|166} suits did
+  not work {+quite-quiet|223} as well. The scientists had not properly designed the
+  suits with the vacuum of space in {+mind, so-mind so|24} the moment that Leonov
+  began his EVA his suit began to slowly inflate.  By just 10 minutes into the {+spacewalk,-spacewalk|239}
+  Leonov noticed his suit had became so swollen that he was unable to reach the lock
+  where the door handle was.\\r\\n\\r\\nLeonov knew he had to act fast, so he decided
+  to make a risky move. He opened up a pressure valve in his suit to try to bleed
+  off some of the excess pressure. Despite the danger of the maneuver, Leonov managed
+  to release enough pressure {+that-where|110} he was able to safely re-enter the
+  rocket.  \\r\\n\\r\\nOnce Leonov was back inside the craft, the two cosmonauts {+then-than|207}
+  worked {+quickly-quick|86} to prepare their ship to return to earth. What the men
+  did not anticipate was how difficult it would be to maneuver {+themselves-himself|69}
+  inside the rocket while wearing {+their-there|212} bulky spacesuits. As a result,
+  they took an additional 46 seconds to get the {+ship's-ships|165} center of gravity
+  into the correct position to re-enter earth's atmosphere. The delay caused the ship
+  to fly off course, and the two men landed in the inhospitable Soviet tundra.\\r\\n\\r\\nWhen
+  the craft landed, the forest cover was so dense that the {+Soviets-Soviet's|228}
+  could not land helicopters in the area. The two cosmonauts had to spend the night
+  out in the forest in -45C weather. The next morning, the two {+cosmonauts-Cosmonauts|10}
+  awoke to a Soviet search and rescue squad, who transported them back to base. Despite
+  the problems that arose during the mission, as well as the risky solutions the men
+  were forced to employ, both Leonov and Belyayev survived the ordeal. As a result,
+  both men became national heroes who are still celebrated to this day. \""
+"", ""instructions""=>""--- Carefully read the story below, making any corrections you feel might be appropriate.
+...
+""",1,64,2014-01-08 21:07:48.41956,2014-12-02 20:04:49.217949,{production}
+55,Passage Proofreading: Thinking About Thinking (Fiction),Proofread a passage correcting any errors with commas and quotation marks in dialogue. ,0W5Rgpe6m0xArqPUXAPZyw,"""body""=>""--- \""Many people have tried to answer life's big questions. They have thought about
+  big questions as early as the 1600's. John Locke once {+said, \\\""No-said No|164}
+  man's knowledge here can go beyond his {+experience.\\\""-experience.|164} Some say
+  he meant that what we know comes from what we see, touch, hear, taste, and smell.
+  \\r\\n\\r\\nOthers thought there was more to life. \\\""Nobody,\\\"" they {+said, \\\""can-said
+  can|164} know truth without a {+mind.\\\""-mind.|164} These people believed that thinking
+  about things was also part of life's big picture.\\r\\n\\r\\nDescarte was famous for
+  {+saying, \\\""I-saying I|164} think therefore I {+am.\\\""-am.|164} We know we are alive
+  because we think. However, we also know that starfish and jellyfish are alive, but
+  they don't have brains! How would an animal without a brain think?\""
+"", ""instructions""=>""--- \""<br>Insert commas and quotation marks into the dialogue in the story.<br><br>\""
+""",1,40,2013-10-14 19:11:24.963517,2014-12-17 18:01:30.418307,{production}
+59,Passage Proofreading: Ashley on the Set! (Fiction),Proofread a passage correcting any incorrectly used possessives.,0gonwEUwaD432oG6qrBN7g,"""body""=>""--- \""Ashley is helping backstage for a play. Her job is to keep track of all the props
+  the actors need. The problem is that she has trouble remembering which prop belongs
+  to which actor. Luckily, all the actors are happy to remind her which prop they
+  own.\\r\\n\\r\\nAshley: \\\""I think this is {+John's-(John)|165} cape, but I'm not sure
+  anymore. Excuse me Stephen, does this cape belong to John?\\\""\\r\\n\\r\\nStephen: \\\""It
+  sure does. He doesn't need it right now, so put it on the pile with all the other
+  {+boys'-(boys)|166} stuff. That's where all the guys leave their props. By the way,
+  can you give these shoes to Sara?\\\""\\r\\n\\r\\nAshley: \\\""Are you sure these are {+Sara's?-(Sara)?|165}
+  They look like they could belong to Jason.\\\""\\r\\n\\r\\nStephen: \\\""I don't think so.
+  {+Jason's-(Jason)|165} pair has a blue stripe on the side, so I think those are
+  {+Sara's-(Sara)|165} shoes.\\\""\\r\\n\\r\\nAshley: \\\""You're right. I will give these to
+  Sara when I see her.\\\""\\r\\n\\r\\nStephen: \\\""Thanks Ashley!\\\""\\r\\n\\r\\nAlbert: \\\""Oh, there
+  you are Ashley!\\\""\\r\\n\\r\\nAshley: \\\""Hi Albert. What do you need?\\\""\\r\\n\\r\\nAlbert:
+  \\\""Taylor says he wants you to help with the lights. He wants you to climb up to
+  the catwalk. Be careful, the {+school's-(schools)|165} ladders go up pretty high,
+  so watch your step.\\\""\\r\\n\\r\\nAshley: \\\""Thanks Albert. I'll be careful. Oh! Hold
+  on to {+Jason's-(Jason)|165} shoes for me please.\\\""\\r\\n\\r\\nAlbert: “Are you sure
+  these are {+Jason's?\\\""-(Jason)?\\\""|165}\\r\\n\\r\\nAshley: \\\""Yup! Stephen just told me.
+  Thanks Albert!\\\""\\r\\n\\r\\nAlbert: \\\""Man, who knew Jason has such tiny feet!\\\""\""
+"", ""instructions""=>""--- \""<br>Replace the words in parentheses with their proper possessive form.<br><br>\""
+""",1,42,2013-10-14 19:19:29.212539,2014-12-17 18:20:00.818164,{production}
+85,Passage Proofreading: Deucalion and the Flood (Mythology),Proofread a passage and correct any confused words.,Mk-LFEA-q5_1Bn7gbkAJeQ,"""body""=>""--- \""In ancient times, Deucalion was a king of {-Grease.+Greece.|203} His father was
+  Prometheus, the god who had given the gift of fire to mankind.\\r\\n\\r\\n{-All though+Although|199}
+  Deucalion was a virtuous king, {-their+there|212} were many wicked people in the
+  world, and they had committed many crimes. The king of the gods, Zeus, became angry
+  and decided to {-cleans+cleanse|204} the world with a great flood. Prometheus, however,
+  warned Deucalion in advance. Deucalion built a box which would float upon the waters
+  so that he and his wife, Pyrrha, could survive.\\r\\n\\r\\nThings happened just as Prometheus
+  had predicted. Rain began to {-poor+pour|202} from the sky, and it rained for nine
+  days straight. Then, at last, the rain stopped, and the waters began to recede.
+  {-Finely,+Finally,|201} the floating box came to rest on top of a mountain. Deucalion
+  and Pyrrha emerged from the box and looked around, but they saw no one else. They
+  were the only two humans left in the world.\\r\\n\\r\\n\\\""O gods,\\\"" cried Deucalion,
+  {-\\\""pleas+\\\""please|200} help us! My wife and I are both old and unable to {-bare+bear|205}
+  children. Tell us {-it's+its|211} not the end! How can we bring the human race back
+  to life?\\\""\\r\\n\\r\\nA divine oracle gave these instructions: \\\""Throw the bones of
+  your mother over your shoulders.\\\""\\r\\n\\r\\nAt first, Deucalion was puzzled. Pyrrha,
+  however, realized what the oracle {-mint.+meant.|198} \\\""Husband,\\\"" she said, \\\""the
+  mother is Gaia, the earth, the mother of us all, and her bones are the stones. We
+  must gather stones and throw them over our shoulders.\\\""\\r\\n\\r\\nDeucalion recognized
+  the wisdom in Pyrrha's words and did as she said. Deucalion threw stones over his
+  shoulder, and Pyrrha threw some {-to.+too.|210} The stones {-throne+thrown|197}
+  by Deucalion turned into boys, and Pyrrha's stones turned into girls. Thanks to
+  the pious deeds of this old couple, the human race was brought back to life once
+  again upon the earth. \""
+"", ""instructions""=>""--- Proofread the passage below, making sure that all the commonly confused words
+  are spelled correctly.
+...
+""",1,56,2013-11-11 20:19:00.092152,2014-12-17 21:19:10.205153,{production}
+89,Passage Proofreading: Alexander and the Pirate Diomedes (Mythology),Proofread a passage and correct any confused words.,rbGb9GdtzwzLSR14WKFzSg,"""body""=>""--- \""The English word pirate is derived from the Greek word πειρατής (peirates), which
+  meant a robber, especially a robber at sea. In ancient times, pirates sailed the
+  Mediterranean, and many stories were told about those pirates. There is a famous
+  legend about the god Dionysus and some pirates, for example, and there is also a
+  famous story about Alexander the Great and a pirate named Diomedes.\\r\\n\\r\\nDiomedes,
+  so the story tells us, was a notorious pirate who had finally been captured and
+  brought before the emperor for sentencing. Because of the pirate's many criminal
+  deeds, everyone expected that Alexander would sentence the pirate to death and {+cleanse-cleans|204}
+  the seas of his evil.  Before he passed judgment, however, Alexander decided to
+  interview the pirate.\\r\\n\\r\\n{+\\\""Although-\\\""All though|199} I am inclined to be
+  done with you, I must ask, what could possibly give you the right to sail the seas,
+  marauding merchants and taking {+their-there|212} goods?\\\"" Alexander asked the pirate.\\r\\n\\r\\nDiomedes
+  boldly replied with some questions of his own. \\\""O Emperor,\\\"" he said, \\\""what could
+  possibly give you the right to travel the whole world, taking by force things that
+  do not belong to you? What gave you the right to occupy the land of Egypt? Who made
+  you king of Persia? {+Finally,-Finely,|201} by what authority did you invade the
+  land of India?\\r\\n\\r\\nAlexander sat on this {+throne-thrown|197} and stared at the
+  man in amazement. Diomedes went on speaking. \\\""Because I use only my own boat,\\\""
+  he said, \\\""I am called a pirate. You, however, use your army and your navy, and
+  so you are proclaimed an emperor. If you ask me who is the greater criminal, I cannot
+  say. I do know, however, that if I had such weapons at my disposal, I would be an
+  emperor {+too.\\\""-two.\\\""|210}\\r\\n\\r\\nAlexander was so impressed by this reply that
+  instead of punishing the pirate, he let him go, praising him for his boldness and
+  insight. It was a rare thing to meet a man who said what he {+meant.-mint.|198}\""
+"", ""instructions""=>""--- Proofread the story, making sure that all the commonly confused words are spelled
+  correctly.
+...
+""",1,56,2013-11-12 22:24:29.257025,2014-12-17 21:21:28.333646,{production}
+191,Passage Proofreading: A Man and His Mouse (Mythology) - Part 5,Proofread a passage and try to find all errors.,3P5WyJ0o9pZnTkfsBVL37w,"""body""=>""--- \""The daughter exclaimed, \\\""Father, please go ask the wall if he would be my husband.\\\""\\r\\n\\r\\nThe
+  father then approached the wall and {+said,-said|164} \\\""Wall, will you be my {+daughter’s-daughters’|165}
+  husband?\\\""\\r\\n\\r\\nThe wall was slow to reply. He finally answered and said, \\\""I
+  am very strong, but the mouse is much stronger than me. He has {+dug-digged|227}
+  many holes and tunnels underneath me, and there is nothing I can do to stop him.
+  If your daughter wants the strongest possible husband, she should marry that mouse.\\\""\\r\\n\""
+"", ""instructions""=>""--- \""<br>There are <b>3 errors</b> in this story.  <br><br> <i>How many can you correct?</i><br><br>To
+  edit a word, click on it and re-type it.<br><br>\""
+""",1,62,2014-05-26 21:04:26.721823,2014-12-17 21:26:10.57208,{production}
+187,Passage Proofreading: A Man and His Mouse (Mythology) - Part 2,Proofread a passage and try to find all errors.,wGvJz1OIgMyboXq17rnqkQ,"""body""=>""--- \""Holding the mouse gently in his hands, the man warmed the little creature with
+  his {+breath.-breathe.|217} Much to the {+man’s-mans|165} amazement, the mouse then
+  turned into a beautiful baby girl! The man thanked the {+gods-god’s|228} for their
+  gift and rushed home to tell his wife what had happened. Joyfully, they {+raised-razed|218}
+  the little girl as their own.\\r\\n\\r\\nWhen the girl had grown up, it was time to
+  find her a husband. {+“What-What|164} kind of husband do you {+want?”-want|164}
+  they asked her.\\r\\n\\r\\nThe daughter told them, \\\""I want to marry the {+strongest,-strongest|187}
+  most powerful being in the world.\\\""\\r\\n\\r\\nHer mother thought about this for awhile
+  and then said, \\\""I {+cannot-can not|221} think of anyone more powerful than the
+  sun.\\\""\""
+"", ""instructions""=>""--- \""<br>There are <b>8 errors</b> in this story.  <br><br> <i>How many can you correct?</i><br><br>To
+  edit a word, click on it and re-type it.<br><br>\""
+""",1,62,2014-05-26 20:47:04.365841,2014-12-17 21:30:07.178717,{production}
+233,"Passage Proofreading: Kenova, West Virginia","Proofread this passage, correcting nine errors with common, proper and possessive nouns.",stdr1SNILF-I99NwzzfnRA,"""body""=>""--- \""Kenova, West Virginia is a small city known for \\\""The Pumpkin House\\\"" on Beech
+  {+Street-(Street / street)|11} and owned by {+Mayor-(Mayor / mayor)|11} Ric Griffith.
+  Every year the mayor and volunteers from the community carve over 3,000 pumpkins
+  for the visitors who attend Autumnfest weekend festivities. The {+city’s-(city’s
+  / cities)|165} name is derived from {+Kenova's-(Kenova’s’ / Kenova)|165} three bordering
+  states: Kentucky, Ohio, and West Virginia. \\r\\n  \\r\\nKenova was also home to the
+  recently demolished Ceredo-Kenova High School, winner of 12 {+state-(state / State)|11}
+  football championships. Ceredo-Kenova High School graduated several well-known {+athletes,-(athlete’s,
+  / athletes,)|228} musicians, and entrepreneurs: Pittsburg Pirate baseball player,
+  Donny Robinson, Grammy Award winning Christian musician, Michael W. Smith, and CEO
+  of Intuit, Brad Smith, to name just a few. \\r\\n  \\r\\nIn 1970 Kenova made national
+  headlines when a plane carrying the Marshall {+University-(university / University)|11}
+  football team, {+coaches-(coach’s, / coaches,)|228} and community leaders crashed
+  into a hillside while approaching Tri-State Airport, located near the city limits.
+  The movie \\\""We Are Marshall,\\\"" starring Matthew McConaughey, is based on the story
+  of how the University overcame the tragedy and rebuilt the football program where
+  {+-(notables / notable’s)|228} Chad Pennington, Byron Leftwich, and Randy Moss played.
+  Several scenes from the movie were actually filmed in Kenova.\""
+"", ""instructions""=>""--- Correct the 9 errors within the parentheses.
+...
+""",1,9,2014-12-17 23:05:17.289493,2014-12-18 00:00:51.674786,{beta}
+234,Test Rules,Hey <b>Hey</b>,ipdQ3nlpccoLX8KajAW_GQ,"""rule_position""=>""--- 
+...
+""",2,65,2015-01-29 17:29:15.773668,2015-01-29 17:29:29.050495,{beta}
+235,gjhjg,jhjkh,xzJHoZ0DsJ7HXqnghXkLdw,,2,1,2015-02-02 22:27:27.682485,2015-02-02 22:27:27.682485,{archived}
