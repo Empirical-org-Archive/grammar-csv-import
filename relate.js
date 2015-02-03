@@ -30,9 +30,11 @@ module.exports = function(cats, rules, ruleQs) {
       throw new Error("We are highly assuming this a yaml list");
     }
     var rest = _.rest(lines).join('\n').split('-');
-    return _.map(rest, function(r) {
-      return r.split();
-    });
+    return _.filter(_.map(rest, function(r) {
+      return r.trim();
+    }, function(w) {
+      return w !== '';
+    }));
   }
 
   _.each(cats, function(cat) {
