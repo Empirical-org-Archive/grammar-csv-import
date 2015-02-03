@@ -2339,7 +2339,8 @@ id,instructions,prompt,body,createdAt,updatedAt,ruleId,hint
 2028,"Rewrite the sentence, choosing the correct underlined subject pronoun.","Ben is confused, so let's help <u>him /her</u>.","---
 - Ben is confused, so let's help {him}.
 ",4/19/2014 15:43:17,4/19/2014 15:43:17,485,
-2030,Rewrite the following sentence so they include the proper tag question.,"We are going to the show, <u>are we / aren't we</u>?","- We are going to the show, {aren't we}?---
+2030,Rewrite the following sentence so they include the proper tag question.,"We are going to the show, <u>are we / aren't we</u>?","---
+- We are going to the show, {aren't we}?
 ",4/19/2014 15:43:20,4/19/2014 15:43:20,487,
 2031,Rewrite the following sentence so they include the proper tag question.,She isn't allowed in.,"---
 - She isn't allowed in{, is she?}
