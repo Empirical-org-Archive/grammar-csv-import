@@ -1,5 +1,6 @@
 var _ = require('underscore');
 var hstore = require('hstore.js');
+var yaml = require('js-yaml');
 module.exports = function(activities) {
 
   var flags = [{id:1, name: '{production}'}, {id:2, name: '{beta}'},
@@ -9,6 +10,8 @@ module.exports = function(activities) {
   function makeRules(s) {
     try {
       var rules = hstore.parse(s).rule_position;
+      var f = rules.split('\r\n').join(('\n'));
+      rules = yaml.load(f);
       return rules;
     } catch (e) {
       return null;
