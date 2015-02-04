@@ -1,7 +1,7 @@
 var _ = require('underscore');
 module.exports = function(activities) {
 
-  var flags = [{id:1, name: '{production'}, {id:2, name: '{beta}'},
+  var flags = [{id:1, name: '{production}'}, {id:2, name: '{beta}'},
     {id:3, name: '{alpha}'}, {id:4, name:'{archived}'}
   ];
 
@@ -14,6 +14,11 @@ module.exports = function(activities) {
         data: n.data,
         title: n.name,
       };
+    })
+    .map(function(f) {
+      f.flagId = _.findWhere(flags, {name: f.flags}).id;
+      delete(f.flags);
+      return f;
     })
     .value();
   require('build')(
