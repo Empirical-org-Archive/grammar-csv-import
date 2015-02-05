@@ -1,6 +1,7 @@
 var _ = require('underscore');
 var hstore = require('hstore.js');
 var yaml = require('js-yaml');
+var yaml2 = require('yaml2');
 module.exports = function(activities) {
 
   var flags = [{id:1, name: '{production}'}, {id:2, name: '{beta}'},
@@ -10,9 +11,36 @@ module.exports = function(activities) {
   function makeRules(s) {
     try {
       var rules = hstore.parse(s).rule_position;
-      var f = rules.split('\r\n').join(('\n'));
-      rules = yaml.load(f);
-      return rules;
+      rules = yaml.load(rules);
+      rules = yaml2.eval(rules);
+      if (typeof(rules) === 'object') {
+        var isOneElement = rules.length === 1 && typeof(rules[0]) !== 'object';
+        var isNotPaired = _.flatten(rules).length === rules.length;
+        if (isOneElement || isNotPaired) {
+          return _.map(rules, function(r) {
+            return {
+              ruleId: r,
+              quantity: 1
+            }
+          });
+        } else {
+          return _.chain(rules)
+            .flatten()
+            .groupBy(function(e, index) {
+              return Math.floor(index/2);
+            })
+            .toArray()
+            .map(function(p) {
+              return {
+                ruleId: p[0],
+                quantity: p[1]
+              };
+            })
+            .value();
+        }
+      } else {
+        return null;
+      }
     } catch (e) {
       return null;
     }
@@ -35,7 +63,7 @@ module.exports = function(activities) {
       return f;
     })
     .map(function(d) {
-      d.rules = makeRules(d.data);
+      d.rules = _.extend({}, makeRules(d.data));
       delete(d.data);
       return d;
     })
