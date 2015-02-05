@@ -62,6 +62,10 @@ module.exports = function(activities) {
       delete(f.flags);
       return f;
     })
+    .reject(function(f) {
+      var archived = _.findWhere(flags, {name: '{archived}'}).id;
+      return f.flagId === archived;
+    })
     .map(function(d) {
       d.rules = _.extend({}, makeRules(d.data));
       delete(d.data);
