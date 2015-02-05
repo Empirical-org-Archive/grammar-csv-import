@@ -54,7 +54,7 @@ module.exports = function(activities) {
         description: n.description,
         flags: n.flags,
         data: n.data,
-        title: n.name,
+        title: n.name.replace('Sentence Writing: ', ''),
       };
     })
     .map(function(f) {
