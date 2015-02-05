@@ -1,4 +1,3 @@
-var _ = require('underscore');
 module.exports = function(
   sentenceWritings
 ) {
@@ -6,5 +5,5 @@ module.exports = function(
     sentenceWritings: sentenceWritings
   };
 
-  console.log(JSON.stringify(base));
+  require('../print')(base);
 }

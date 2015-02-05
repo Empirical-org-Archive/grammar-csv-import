@@ -18,5 +18,5 @@ module.exports = function(
     ruleNumberCounter: getMaxId(rules)
   };
 
-  console.log(JSON.stringify(base));
+  require('../print')(base);
 }
