@@ -1,0 +1,1782 @@
+{
+   "sentenceWritings" : {
+      "71" : {
+         "categoryId" : 20,
+         "title" : "Sentence Writing: I'm, You're, Let's",
+         "description" : "Write eight sentences using the contractions I'm, you're, and let's.",
+         "flagId" : 1,
+         "rules" : {
+            "0" : {
+               "quantity" : "1",
+               "ruleId" : "445"
+            },
+            "2" : {
+               "quantity" : "1",
+               "ruleId" : "448"
+            },
+            "1" : {
+               "quantity" : "1",
+               "ruleId" : "447"
+            },
+            "3" : {
+               "ruleId" : "446",
+               "quantity" : "5"
+            }
+         }
+      },
+      "60" : {
+         "rules" : {
+            "0" : {
+               "quantity" : "2",
+               "ruleId" : "491"
+            },
+            "2" : {
+               "ruleId" : "492",
+               "quantity" : "6"
+            },
+            "1" : {
+               "ruleId" : "493",
+               "quantity" : "2"
+            }
+         },
+         "flagId" : 1,
+         "description" : "Write ten sentences using commas and colons in lists.",
+         "title" : "Sentence Writing: Colons and Commas in a List",
+         "categoryId" : 44
+      },
+      "0" : {
+         "categoryId" : 46,
+         "description" : "Write seven sentences using lose and loose.",
+         "rules" : {
+            "0" : {
+               "ruleId" : "268",
+               "quantity" : "2"
+            },
+            "2" : {
+               "quantity" : "4",
+               "ruleId" : "270"
+            },
+            "1" : {
+               "quantity" : "2",
+               "ruleId" : "269"
+            }
+         },
+         "flagId" : 1,
+         "title" : "Sentence Writing: Lose, Loose"
+      },
+      "39" : {
+         "description" : "Write ten sentences using adjectives and adverbs.",
+         "rules" : {
+            "1" : {
+               "ruleId" : "431",
+               "quantity" : "2"
+            },
+            "2" : {
+               "quantity" : "6",
+               "ruleId" : "430"
+            },
+            "0" : {
+               "quantity" : "2",
+               "ruleId" : "429"
+            }
+         },
+         "flagId" : 1,
+         "title" : "Sentence Writing: Adjectives and Adverbs",
+         "categoryId" : 21
+      },
+      "48" : {
+         "categoryId" : 15,
+         "title" : "Sentence Writing: Men, Women",
+         "flagId" : 1,
+         "rules" : {
+            "1" : {
+               "quantity" : "1",
+               "ruleId" : "396"
+            },
+            "2" : {
+               "quantity" : "6",
+               "ruleId" : "395"
+            },
+            "0" : {
+               "ruleId" : "394",
+               "quantity" : "1"
+            }
+         },
+         "description" : "Write eight sentences with the irregular nouns men and women."
+      },
+      "64" : {
+         "description" : "Write ten sentences using proper capitalization of dates and names.",
+         "flagId" : 1,
+         "rules" : {
+            "0" : {
+               "quantity" : "2",
+               "ruleId" : "512"
+            },
+            "2" : {
+               "quantity" : "6",
+               "ruleId" : "513"
+            },
+            "1" : {
+               "ruleId" : "514",
+               "quantity" : "2"
+            }
+         },
+         "title" : "Sentence Writing: Capitalize Dates and Names of People",
+         "categoryId" : 18
+      },
+      "22" : {
+         "title" : "Beginner: Which, Who, Where",
+         "rules" : {
+            "0" : {
+               "quantity" : 1,
+               "ruleId" : 285
+            },
+            "2" : {
+               "ruleId" : 287,
+               "quantity" : 1
+            },
+            "1" : {
+               "quantity" : 1,
+               "ruleId" : 286
+            },
+            "3" : {
+               "quantity" : 1,
+               "ruleId" : 288
+            }
+         },
+         "flagId" : 3,
+         "description" : "",
+         "categoryId" : 27
+      },
+      "17" : {
+         "categoryId" : 46,
+         "description" : "Write seven sentences using of and off.",
+         "flagId" : 1,
+         "rules" : {
+            "2" : {
+               "quantity" : "3",
+               "ruleId" : "267"
+            },
+            "0" : {
+               "ruleId" : "265",
+               "quantity" : "2"
+            },
+            "1" : {
+               "quantity" : "2",
+               "ruleId" : "266"
+            }
+         },
+         "title" : "Sentence Writing: Of, Off"
+      },
+      "11" : {
+         "categoryId" : 22,
+         "title" : "Sentence Writing: Saw, Dug, Found",
+         "description" : "Write nine sentences using the irregular past tense verbs saw, dug, and found.",
+         "rules" : {
+            "0" : {
+               "quantity" : "1",
+               "ruleId" : "350"
+            },
+            "2" : {
+               "ruleId" : "353",
+               "quantity" : "1"
+            },
+            "3" : {
+               "quantity" : "6",
+               "ruleId" : "351"
+            },
+            "1" : {
+               "ruleId" : "352",
+               "quantity" : "1"
+            }
+         },
+         "flagId" : 1
+      },
+      "61" : {
+         "categoryId" : 23,
+         "title" : "Sentence Writing: Capitalize Holidays, Product Names, and Geographic Names",
+         "rules" : {
+            "3" : {
+               "quantity" : "4",
+               "ruleId" : "506"
+            },
+            "1" : {
+               "quantity" : "2",
+               "ruleId" : "508"
+            },
+            "2" : {
+               "ruleId" : "507",
+               "quantity" : "2"
+            },
+            "0" : {
+               "ruleId" : "505",
+               "quantity" : "2"
+            }
+         },
+         "flagId" : 1,
+         "description" : "Write ten sentences using the correct capitalization of holidays, product names and geographic names."
+      },
+      "56" : {
+         "flagId" : 1,
+         "rules" : {
+            "0" : {
+               "quantity" : "2",
+               "ruleId" : "503"
+            },
+            "1" : {
+               "ruleId" : "504",
+               "quantity" : "8"
+            }
+         },
+         "description" : "Write ten sentences using commas and quotation marks for the dialogue.",
+         "title" : "Sentence Writing: Commas and Quotation Marks in Dialogue",
+         "categoryId" : 40
+      },
+      "26" : {
+         "description" : "Write ten sentences using at, in, and on.",
+         "flagId" : 1,
+         "rules" : {
+            "3" : {
+               "ruleId" : "368",
+               "quantity" : "7"
+            },
+            "1" : {
+               "quantity" : "1",
+               "ruleId" : "369"
+            },
+            "2" : {
+               "ruleId" : "370",
+               "quantity" : "1"
+            },
+            "0" : {
+               "quantity" : "1",
+               "ruleId" : "367"
+            }
+         },
+         "title" : "Sentence Writing: At, In, On (Place)",
+         "categoryId" : 6
+      },
+      "84" : {
+         "categoryId" : 20,
+         "title" : "Sentence Writing: Haven't, Don't",
+         "description" : "Write eight sentences using the contractions haven't and don't.",
+         "rules" : {
+            "1" : {
+               "quantity" : "2",
+               "ruleId" : "451"
+            },
+            "0" : {
+               "quantity" : "2",
+               "ruleId" : "449"
+            },
+            "2" : {
+               "quantity" : "4",
+               "ruleId" : "450"
+            }
+         },
+         "flagId" : 1
+      },
+      "53" : {
+         "categoryId" : 31,
+         "title" : "Sentence Writing: Correct Capitalization",
+         "rules" : {
+            "0" : {
+               "ruleId" : "494",
+               "quantity" : "1"
+            },
+            "2" : {
+               "quantity" : "1",
+               "ruleId" : "496"
+            },
+            "1" : {
+               "quantity" : "1",
+               "ruleId" : "498"
+            },
+            "3" : {
+               "ruleId" : "497",
+               "quantity" : "1"
+            },
+            "4" : {
+               "ruleId" : "495",
+               "quantity" : "8"
+            }
+         },
+         "flagId" : 1,
+         "description" : "Write twelve sentences using correct capitalization."
+      },
+      "44" : {
+         "title" : "Sentence Writing: Singular and Plural Nouns with Matching Verbs",
+         "description" : "Write ten sentences using singular and plural nouns with matching verbs.",
+         "flagId" : 1,
+         "rules" : {
+            "1" : {
+               "quantity" : "7",
+               "ruleId" : "408"
+            },
+            "0" : {
+               "quantity" : "3",
+               "ruleId" : "407"
+            }
+         },
+         "categoryId" : 10
+      },
+      "55" : {
+         "categoryId" : 37,
+         "title" : "Sentence Writing: Spaces with Punctuation",
+         "description" : "Write ten sentences correctly using spaces for punctuation.",
+         "rules" : {
+            "0" : {
+               "ruleId" : "470",
+               "quantity" : "1"
+            },
+            "2" : {
+               "ruleId" : "473",
+               "quantity" : "1"
+            },
+            "4" : {
+               "quantity" : "2",
+               "ruleId" : "471"
+            },
+            "3" : {
+               "ruleId" : "474",
+               "quantity" : "1"
+            },
+            "1" : {
+               "ruleId" : "472",
+               "quantity" : "1"
+            }
+         },
+         "flagId" : 1
+      },
+      "21" : {
+         "title" : "Intermediate: Which, Where, When",
+         "description" : "",
+         "rules" : {
+            "0" : {
+               "ruleId" : 296,
+               "quantity" : 1
+            },
+            "2" : {
+               "quantity" : 1,
+               "ruleId" : 298
+            },
+            "1" : {
+               "quantity" : 1,
+               "ruleId" : 297
+            },
+            "3" : {
+               "ruleId" : 299,
+               "quantity" : 1
+            }
+         },
+         "flagId" : 3,
+         "categoryId" : 27
+      },
+      "37" : {
+         "categoryId" : 12,
+         "title" : "Sentence Writing: Past Tense Verbs",
+         "flagId" : 1,
+         "rules" : {
+            "0" : {
+               "ruleId" : "419",
+               "quantity" : "2"
+            },
+            "1" : {
+               "quantity" : "8",
+               "ruleId" : "420"
+            }
+         },
+         "description" : "Write ten sentences using the correct past tense form of verbs."
+      },
+      "12" : {
+         "categoryId" : 22,
+         "description" : "Write nine sentences using the irregular past tense verbs came, went, and did.",
+         "flagId" : 1,
+         "rules" : {
+            "3" : {
+               "ruleId" : "337",
+               "quantity" : "3"
+            },
+            "1" : {
+               "ruleId" : "338",
+               "quantity" : "2"
+            },
+            "0" : {
+               "quantity" : "2",
+               "ruleId" : "336"
+            },
+            "2" : {
+               "ruleId" : "339",
+               "quantity" : "2"
+            }
+         },
+         "title" : "Sentence Writing: Came, Went, Did"
+      },
+      "42" : {
+         "categoryId" : 12,
+         "flagId" : 1,
+         "rules" : {
+            "0" : {
+               "ruleId" : "421",
+               "quantity" : "2"
+            },
+            "1" : {
+               "quantity" : "8",
+               "ruleId" : "422"
+            }
+         },
+         "description" : "Write ten sentences using verbs in the future tense.",
+         "title" : "Sentence Writing: Future Tense Verbs"
+      },
+      "69" : {
+         "categoryId" : 21,
+         "title" : "Sentence Writing: Adjectives to Adverbs Ending in \"\"le\"\" and \"\"e\"\"",
+         "description" : "Write eight sentences using adjectives and adverbs that end with \"\"le\"\" and \"\"e.\"\"",
+         "flagId" : 1,
+         "rules" : {
+            "0" : {
+               "ruleId" : "435",
+               "quantity" : "2"
+            },
+            "2" : {
+               "quantity" : "4",
+               "ruleId" : "436"
+            },
+            "1" : {
+               "ruleId" : "437",
+               "quantity" : "2"
+            }
+         }
+      },
+      "54" : {
+         "title" : "Sentence Writing: Intensive Pronouns",
+         "flagId" : 1,
+         "rules" : {
+            "0" : {
+               "quantity" : "3",
+               "ruleId" : "481"
+            },
+            "1" : {
+               "quantity" : "10",
+               "ruleId" : "482"
+            }
+         },
+         "description" : "Write ten sentences using intensive pronouns.",
+         "categoryId" : 33
+      },
+      "14" : {
+         "categoryId" : 46,
+         "description" : "Write eight sentences using than and then.",
+         "rules" : {
+            "0" : {
+               "quantity" : "2",
+               "ruleId" : "271"
+            },
+            "2" : {
+               "ruleId" : "273",
+               "quantity" : "4"
+            },
+            "1" : {
+               "quantity" : "2",
+               "ruleId" : "272"
+            }
+         },
+         "flagId" : 1,
+         "title" : "Sentence Writing: Than, Then"
+      },
+      "31" : {
+         "categoryId" : 15,
+         "title" : "Sentence Writing: Irregular Plural Nouns Ending With \"\"F,\"\" \"\"Fe,\"\" and \"\"O.\"\"",
+         "description" : "Write ten sentences with irregular plural nouns ending with \"\"f,\"\" \"\"fe,\"\" and \"\"o.\"\"",
+         "rules" : {
+            "0" : {
+               "quantity" : "1",
+               "ruleId" : "390"
+            },
+            "2" : {
+               "quantity" : "1",
+               "ruleId" : "393"
+            },
+            "1" : {
+               "ruleId" : "392",
+               "quantity" : "1"
+            },
+            "3" : {
+               "ruleId" : "391",
+               "quantity" : "7"
+            }
+         },
+         "flagId" : 1
+      },
+      "5" : {
+         "categoryId" : 48,
+         "title" : "Sentence Writing: Made, Lost, Gone",
+         "description" : "Write ten sentences using the past participles made, lost, and gone.",
+         "rules" : {
+            "0" : {
+               "ruleId" : "454",
+               "quantity" : "2"
+            },
+            "2" : {
+               "ruleId" : "457",
+               "quantity" : "2"
+            },
+            "3" : {
+               "ruleId" : "455",
+               "quantity" : "4"
+            },
+            "1" : {
+               "ruleId" : "456",
+               "quantity" : "2"
+            }
+         },
+         "flagId" : 1
+      },
+      "20" : {
+         "title" : "Sentence Writing: The Progressive Tense",
+         "flagId" : 1,
+         "rules" : {
+            "1" : {
+               "quantity" : "2",
+               "ruleId" : "320"
+            },
+            "3" : {
+               "quantity" : "7",
+               "ruleId" : "319"
+            },
+            "0" : {
+               "quantity" : "1",
+               "ruleId" : "318"
+            },
+            "2" : {
+               "quantity" : "2",
+               "ruleId" : "321"
+            }
+         },
+         "description" : "Write twelve sentences using the progressive tense.",
+         "categoryId" : 4
+      },
+      "77" : {
+         "title" : "Sentence Writing: Greece, Grease; Cleans, Cleanse; Bear, Bare",
+         "flagId" : 1,
+         "rules" : {
+            "1" : {
+               "ruleId" : "204",
+               "quantity" : "3"
+            },
+            "2" : {
+               "quantity" : "3",
+               "ruleId" : "205"
+            },
+            "0" : {
+               "ruleId" : "203",
+               "quantity" : "3"
+            }
+         },
+         "description" : "Write nine sentences using these commonly confused words correctly.",
+         "categoryId" : 56
+      },
+      "47" : {
+         "categoryId" : 42,
+         "rules" : {
+            "3" : {
+               "ruleId" : "500",
+               "quantity" : "5"
+            },
+            "1" : {
+               "ruleId" : "502",
+               "quantity" : "2"
+            },
+            "0" : {
+               "quantity" : "2",
+               "ruleId" : "499"
+            },
+            "2" : {
+               "ruleId" : "501",
+               "quantity" : "1"
+            }
+         },
+         "flagId" : 1,
+         "description" : "Write ten sentences using and forming possessives.",
+         "title" : "Sentence Writing: Form and Use Possessives"
+      },
+      "27" : {
+         "categoryId" : 56,
+         "title" : "Sentence Writing: Than, Then; You're, Your; Lose, Loose",
+         "description" : "Write nine sentences using these commonly confused words correctly.",
+         "rules" : {
+            "1" : {
+               "quantity" : "3",
+               "ruleId" : "208"
+            },
+            "2" : {
+               "quantity" : "3",
+               "ruleId" : "209"
+            },
+            "0" : {
+               "ruleId" : "207",
+               "quantity" : "3"
+            }
+         },
+         "flagId" : 1
+      },
+      "6" : {
+         "categoryId" : 43,
+         "description" : "Write ten sentences using not only, but also, & both and.",
+         "flagId" : 1,
+         "rules" : {
+            "0" : {
+               "ruleId" : "259",
+               "quantity" : "2"
+            },
+            "2" : {
+               "ruleId" : "260",
+               "quantity" : "6"
+            },
+            "1" : {
+               "quantity" : "2",
+               "ruleId" : "261"
+            }
+         },
+         "title" : "Sentence Writing: Not Only, But Also; Both, And"
+      },
+      "18" : {
+         "description" : "Write nine sentences using the irregular past tense verbs built and broke.",
+         "rules" : {
+            "1" : {
+               "ruleId" : "335",
+               "quantity" : "2"
+            },
+            "2" : {
+               "quantity" : "5",
+               "ruleId" : "334"
+            },
+            "0" : {
+               "quantity" : "2",
+               "ruleId" : "333"
+            }
+         },
+         "flagId" : 1,
+         "title" : "Sentence Writing: Built, Broke",
+         "categoryId" : 22
+      },
+      "85" : {
+         "categoryId" : 65,
+         "title" : "Test Rules",
+         "description" : "Hey <b>Hey</b>",
+         "flagId" : 2,
+         "rules" : {}
+      },
+      "45" : {
+         "flagId" : 1,
+         "rules" : {
+            "2" : {
+               "ruleId" : "463",
+               "quantity" : "6"
+            },
+            "0" : {
+               "ruleId" : "462",
+               "quantity" : "2"
+            },
+            "1" : {
+               "ruleId" : "464",
+               "quantity" : "2"
+            }
+         },
+         "description" : "Write ten sentences using the introductory prepositional phrases however and still.",
+         "title" : "Sentence Writing: However, Still",
+         "categoryId" : 47
+      },
+      "79" : {
+         "description" : "Write ten sentences using commas to set off the words \"\"yes\"\" and \"\"no,\"\" address people, and for tag questions.",
+         "flagId" : 1,
+         "rules" : {
+            "2" : {
+               "ruleId" : "489",
+               "quantity" : "1"
+            },
+            "0" : {
+               "ruleId" : "487",
+               "quantity" : "1"
+            },
+            "1" : {
+               "ruleId" : "490",
+               "quantity" : "1"
+            },
+            "3" : {
+               "quantity" : "7",
+               "ruleId" : "488"
+            }
+         },
+         "title" : "Sentence Writing: Commas for \"\"yes\"\" and \"\"no,\"\" tag questions, and addressing people.",
+         "categoryId" : 55
+      },
+      "36" : {
+         "description" : "Write ten sentences with the reflexive pronouns themselves, ourselves, itself, and herself.",
+         "flagId" : 1,
+         "rules" : {
+            "0" : {
+               "ruleId" : "358",
+               "quantity" : "1"
+            },
+            "2" : {
+               "ruleId" : "361",
+               "quantity" : "1"
+            },
+            "1" : {
+               "ruleId" : "360",
+               "quantity" : "1"
+            },
+            "3" : {
+               "ruleId" : "362",
+               "quantity" : "1"
+            },
+            "4" : {
+               "ruleId" : "359",
+               "quantity" : "6"
+            }
+         },
+         "title" : "Sentence Writing: Themselves, Ourselves, Itself, Herself.",
+         "categoryId" : 24
+      },
+      "9" : {
+         "title" : "Sentence Writing: Comparative and Superlative Adjectives Ending in \"\"Y\"\"",
+         "rules" : {
+            "0" : {
+               "quantity" : "2",
+               "ruleId" : "325"
+            },
+            "2" : {
+               "ruleId" : "326",
+               "quantity" : "6"
+            },
+            "1" : {
+               "quantity" : "2",
+               "ruleId" : "327"
+            }
+         },
+         "flagId" : 1,
+         "description" : "Write ten sentences using comparative and superlative adjectives.",
+         "categoryId" : 38
+      },
+      "1" : {
+         "title" : "Sentence Writing: To, Too, Two",
+         "description" : "Write twelve sentences using to, too and two.",
+         "flagId" : 1,
+         "rules" : {
+            "3" : {
+               "quantity" : "6",
+               "ruleId" : "279"
+            },
+            "1" : {
+               "quantity" : "2",
+               "ruleId" : "280"
+            },
+            "2" : {
+               "quantity" : "2",
+               "ruleId" : "281"
+            },
+            "0" : {
+               "quantity" : "2",
+               "ruleId" : "278"
+            }
+         },
+         "categoryId" : 46
+      },
+      "49" : {
+         "flagId" : 1,
+         "rules" : {
+            "3" : {
+               "quantity" : "6",
+               "ruleId" : "355"
+            },
+            "1" : {
+               "ruleId" : "356",
+               "quantity" : "1"
+            },
+            "0" : {
+               "quantity" : "1",
+               "ruleId" : "354"
+            },
+            "2" : {
+               "quantity" : "1",
+               "ruleId" : "357"
+            }
+         },
+         "description" : "Write nine sentences with the reflexive pronouns myself and yourself.",
+         "title" : "Sentence Writing: Myself, Yourself",
+         "categoryId" : 24
+      },
+      "29" : {
+         "description" : "Write nine sentences with the irregular nouns mice, goose, and deer.",
+         "rules" : {
+            "1" : {
+               "quantity" : "1",
+               "ruleId" : "405"
+            },
+            "3" : {
+               "quantity" : "6",
+               "ruleId" : "404"
+            },
+            "2" : {
+               "ruleId" : "406",
+               "quantity" : "1"
+            },
+            "0" : {
+               "ruleId" : "403",
+               "quantity" : "1"
+            }
+         },
+         "flagId" : 1,
+         "title" : "Sentence Writing: Mice, Goose, Deer",
+         "categoryId" : 15
+      },
+      "51" : {
+         "title" : "Sentence Writing: Whose, Whom, Who",
+         "description" : "Write twelve sentences using the relative pronouns whose, whom, and who.",
+         "rules" : {
+            "1" : {
+               "quantity" : "2",
+               "ruleId" : "309"
+            },
+            "3" : {
+               "ruleId" : "308",
+               "quantity" : "6"
+            },
+            "0" : {
+               "quantity" : "2",
+               "ruleId" : "307"
+            },
+            "2" : {
+               "ruleId" : "310",
+               "quantity" : "2"
+            }
+         },
+         "flagId" : 1,
+         "categoryId" : 27
+      },
+      "40" : {
+         "categoryId" : 48,
+         "flagId" : 1,
+         "rules" : {
+            "2" : {
+               "quantity" : "2",
+               "ruleId" : "461"
+            },
+            "0" : {
+               "quantity" : "2",
+               "ruleId" : "458"
+            },
+            "1" : {
+               "ruleId" : "460",
+               "quantity" : "2"
+            },
+            "3" : {
+               "ruleId" : "459",
+               "quantity" : "4"
+            }
+         },
+         "description" : "Write ten sentences using eaten, been, and regular past participles.",
+         "title" : "Sentence Writing: Eaten, Been, Regular Past Participles"
+      },
+      "57" : {
+         "categoryId" : 49,
+         "title" : "Sentence Writing: Misplaced Modifiers",
+         "description" : "Write ten sentences using correctly placed modifiers.",
+         "flagId" : 1,
+         "rules" : {
+            "1" : {
+               "quantity" : "7",
+               "ruleId" : "480"
+            },
+            "0" : {
+               "quantity" : "3",
+               "ruleId" : "479"
+            }
+         }
+      },
+      "68" : {
+         "categoryId" : 27,
+         "title" : "Sentence Writing: Which, That",
+         "flagId" : 1,
+         "rules" : {
+            "0" : {
+               "quantity" : "1",
+               "ruleId" : "311"
+            },
+            "2" : {
+               "ruleId" : "312",
+               "quantity" : "5"
+            },
+            "1" : {
+               "ruleId" : "313",
+               "quantity" : "2"
+            }
+         },
+         "description" : "Write eight sentences using the relative pronouns which and that."
+      },
+      "52" : {
+         "title" : "Sentence Writing: Feet, Teeth",
+         "description" : "Write eight sentences with the irregular nouns feet and teeth.",
+         "flagId" : 1,
+         "rules" : {
+            "1" : {
+               "ruleId" : "399",
+               "quantity" : "1"
+            },
+            "0" : {
+               "quantity" : "1",
+               "ruleId" : "397"
+            },
+            "2" : {
+               "ruleId" : "398",
+               "quantity" : "6"
+            }
+         },
+         "categoryId" : 15
+      },
+      "83" : {
+         "categoryId" : 20,
+         "title" : "Sentence Writing: I've, That's, It's",
+         "description" : "Write nine sentences using the contractions I've, that's, and it's.",
+         "flagId" : 1,
+         "rules" : {
+            "3" : {
+               "ruleId" : "442",
+               "quantity" : "6"
+            },
+            "1" : {
+               "quantity" : "1",
+               "ruleId" : "443"
+            },
+            "0" : {
+               "ruleId" : "441",
+               "quantity" : "1"
+            },
+            "2" : {
+               "quantity" : "1",
+               "ruleId" : "444"
+            }
+         }
+      },
+      "10" : {
+         "categoryId" : 14,
+         "description" : "Write 10 sentences using the conjunctions and, or.",
+         "flagId" : 1,
+         "rules" : {
+            "2" : {
+               "quantity" : "6",
+               "ruleId" : "424"
+            },
+            "0" : {
+               "ruleId" : "423",
+               "quantity" : "2"
+            },
+            "1" : {
+               "ruleId" : "425",
+               "quantity" : "2"
+            }
+         },
+         "title" : "Sentence Writing: And, Or"
+      },
+      "72" : {
+         "rules" : {
+            "1" : {
+               "quantity" : "2",
+               "ruleId" : "434"
+            },
+            "0" : {
+               "ruleId" : "432",
+               "quantity" : "2"
+            },
+            "2" : {
+               "quantity" : "6",
+               "ruleId" : "433"
+            }
+         },
+         "flagId" : 1,
+         "description" : "Write ten sentences using adjectives and adverbs that end with consonants or \"\"y.\"\"",
+         "title" : "Sentence Writing: Adjectives to Adverbs —  Consonant Ending and \"\"y\"\" Ending",
+         "categoryId" : 21
+      },
+      "33" : {
+         "flagId" : 1,
+         "rules" : {
+            "1" : {
+               "ruleId" : "413",
+               "quantity" : "8"
+            },
+            "0" : {
+               "quantity" : "2",
+               "ruleId" : "412"
+            }
+         },
+         "description" : "Write ten sentences using possessive nouns.",
+         "title" : "Sentence Writing: Possessive Nouns",
+         "categoryId" : 7
+      },
+      "41" : {
+         "categoryId" : 52,
+         "title" : "Sentence Writing: Change into Proper Passive or Active Sentences",
+         "flagId" : 1,
+         "rules" : {
+            "1" : {
+               "ruleId" : "385",
+               "quantity" : "2"
+            },
+            "0" : {
+               "quantity" : "2",
+               "ruleId" : "383"
+            },
+            "2" : {
+               "ruleId" : "384",
+               "quantity" : "4"
+            }
+         },
+         "description" : "Write eight sentences in the proper voice."
+      },
+      "16" : {
+         "description" : "Write eight sentences using it's and its.",
+         "rules" : {
+            "1" : {
+               "ruleId" : "263",
+               "quantity" : "2"
+            },
+            "0" : {
+               "quantity" : "2",
+               "ruleId" : "262"
+            },
+            "2" : {
+               "ruleId" : "264",
+               "quantity" : "4"
+            }
+         },
+         "flagId" : 1,
+         "title" : "Sentence Writing: It's, Its",
+         "categoryId" : 46
+      },
+      "81" : {
+         "title" : "Sentence Writing: Quill Tutorial",
+         "flagId" : 3,
+         "rules" : {},
+         "description" : "Learn how to successfully complete Quill Sentence Writing activities.",
+         "categoryId" : 53
+      },
+      "38" : {
+         "categoryId" : 39,
+         "description" : "Write eight sentences placing commas in addresses.",
+         "rules" : {
+            "1" : {
+               "ruleId" : "453",
+               "quantity" : "6"
+            },
+            "0" : {
+               "ruleId" : "452",
+               "quantity" : "2"
+            }
+         },
+         "flagId" : 1,
+         "title" : "Sentence Writing: Use Commas in Addresses"
+      },
+      "24" : {
+         "categoryId" : 41,
+         "description" : "Write eight sentences placing capital words in titles.",
+         "flagId" : 1,
+         "rules" : {
+            "0" : {
+               "ruleId" : "331",
+               "quantity" : "2"
+            },
+            "1" : {
+               "ruleId" : "332",
+               "quantity" : "6"
+            }
+         },
+         "title" : "Sentence Writing: Capitalizing Words in Titles"
+      },
+      "15" : {
+         "title" : "Sentence Writing: Either, Or; Neither, Nor",
+         "description" : "Write ten sentences using \"\"either, or\"\" and \"\"neither, nor.\"\"",
+         "flagId" : 1,
+         "rules" : {
+            "1" : {
+               "ruleId" : "258",
+               "quantity" : "2"
+            },
+            "2" : {
+               "ruleId" : "257",
+               "quantity" : "6"
+            },
+            "0" : {
+               "quantity" : "2",
+               "ruleId" : "256"
+            }
+         },
+         "categoryId" : 43
+      },
+      "2" : {
+         "description" : "Write eight sentences using the adjectives \"\"better,\"\" \"\"best,\"\" \"\"worse,\"\" and \"\"worst.\"\"",
+         "flagId" : 1,
+         "rules" : {
+            "1" : {
+               "quantity" : "2",
+               "ruleId" : "330"
+            },
+            "2" : {
+               "quantity" : "4",
+               "ruleId" : "329"
+            },
+            "0" : {
+               "ruleId" : "328",
+               "quantity" : "2"
+            }
+         },
+         "title" : "Sentence Writing: Better & Best, Worse & Worst",
+         "categoryId" : 38
+      },
+      "4" : {
+         "title" : "Sentence Writing: Common and Proper Nouns",
+         "rules" : {
+            "1" : {
+               "ruleId" : "411",
+               "quantity" : "2"
+            },
+            "0" : {
+               "ruleId" : "409",
+               "quantity" : "2"
+            },
+            "2" : {
+               "ruleId" : "410",
+               "quantity" : "6"
+            }
+         },
+         "flagId" : 1,
+         "description" : "Write ten sentences using common and proper nouns.",
+         "categoryId" : 7
+      },
+      "73" : {
+         "title" : "Sentence Writing: Recognizing Inappropriate Shifts in Pronoun Number or Gender",
+         "description" : "Write eight sentences recognizing inappropriate shifts in pronoun number or gender.",
+         "flagId" : 1,
+         "rules" : {
+            "1" : {
+               "ruleId" : "255",
+               "quantity" : "2"
+            },
+            "0" : {
+               "ruleId" : "253",
+               "quantity" : "2"
+            },
+            "2" : {
+               "ruleId" : "254",
+               "quantity" : "4"
+            }
+         },
+         "categoryId" : 34
+      },
+      "70" : {
+         "title" : "Sentence Writing: This, That",
+         "description" : "Write ten sentences using the words this and that.",
+         "flagId" : 1,
+         "rules" : {
+            "1" : {
+               "ruleId" : "376",
+               "quantity" : "2"
+            },
+            "2" : {
+               "quantity" : "6",
+               "ruleId" : "374"
+            },
+            "0" : {
+               "quantity" : "2",
+               "ruleId" : "375"
+            }
+         },
+         "categoryId" : 17
+      },
+      "74" : {
+         "flagId" : 1,
+         "rules" : {
+            "0" : {
+               "ruleId" : "468",
+               "quantity" : "1"
+            },
+            "1" : {
+               "quantity" : "7",
+               "ruleId" : "469"
+            }
+         },
+         "description" : "Correct eight sentences written in text speak.",
+         "title" : "Sentence Writing: Correcting Messy Sentences",
+         "categoryId" : 54
+      },
+      "25" : {
+         "categoryId" : 17,
+         "description" : "Write ten sentences using the articles a or an.",
+         "rules" : {
+            "2" : {
+               "quantity" : "6",
+               "ruleId" : "372"
+            },
+            "0" : {
+               "quantity" : "2",
+               "ruleId" : "371"
+            },
+            "1" : {
+               "ruleId" : "373",
+               "quantity" : "2"
+            }
+         },
+         "flagId" : 1,
+         "title" : "Sentence Writing: A, An"
+      },
+      "43" : {
+         "title" : "Sentence Writing: Collective Nouns",
+         "flagId" : 3,
+         "rules" : {
+            "2" : {
+               "ruleId" : "417",
+               "quantity" : "1"
+            },
+            "0" : {
+               "quantity" : "1",
+               "ruleId" : "414"
+            },
+            "4" : {
+               "quantity" : "4",
+               "ruleId" : "415"
+            },
+            "1" : {
+               "ruleId" : "416",
+               "quantity" : "1"
+            },
+            "3" : {
+               "ruleId" : "418",
+               "quantity" : "1"
+            }
+         },
+         "description" : "Write eight sentences using collective nouns.",
+         "categoryId" : 25
+      },
+      "65" : {
+         "title" : "Sentence Writing: Change Sentences from Passive to Active",
+         "description" : "Write eight sentences in the active voice.",
+         "rules" : {
+            "0" : {
+               "quantity" : "3",
+               "ruleId" : "389"
+            },
+            "1" : {
+               "ruleId" : "388",
+               "quantity" : "5"
+            }
+         },
+         "flagId" : 1,
+         "categoryId" : 52
+      },
+      "67" : {
+         "flagId" : 1,
+         "rules" : {
+            "1" : {
+               "ruleId" : "511",
+               "quantity" : "2"
+            },
+            "0" : {
+               "quantity" : "2",
+               "ruleId" : "509"
+            },
+            "2" : {
+               "ruleId" : "510",
+               "quantity" : "6"
+            }
+         },
+         "description" : "Write ten sentences using commas in dates and lists.",
+         "title" : "Sentence Writing: Use Commas for Dates and Lists",
+         "categoryId" : 19
+      },
+      "58" : {
+         "title" : "Sentence Writing: Beginner: Whom, Why",
+         "flagId" : 1,
+         "rules" : {
+            "1" : {
+               "quantity" : "2",
+               "ruleId" : "295"
+            },
+            "0" : {
+               "quantity" : "2",
+               "ruleId" : "293"
+            },
+            "2" : {
+               "ruleId" : "294",
+               "quantity" : "6"
+            }
+         },
+         "description" : "Write ten sentences using the relative pronouns whom and why.",
+         "categoryId" : 27
+      },
+      "28" : {
+         "categoryId" : 56,
+         "flagId" : 1,
+         "rules" : {
+            "2" : {
+               "quantity" : "3",
+               "ruleId" : "199"
+            },
+            "0" : {
+               "ruleId" : "197",
+               "quantity" : "3"
+            },
+            "1" : {
+               "ruleId" : "198",
+               "quantity" : "3"
+            }
+         },
+         "description" : "Write nine sentences using these commonly confused words correctly.",
+         "title" : "Sentence Writing: Thrown, Throne; Meant, Mint; Although, All Though"
+      },
+      "63" : {
+         "flagId" : 1,
+         "rules" : {
+            "1" : {
+               "quantity" : "2",
+               "ruleId" : "316"
+            },
+            "3" : {
+               "quantity" : "4",
+               "ruleId" : "315"
+            },
+            "2" : {
+               "ruleId" : "317",
+               "quantity" : "2"
+            },
+            "0" : {
+               "quantity" : "2",
+               "ruleId" : "314"
+            }
+         },
+         "description" : "Write ten sentences using the relative pronouns where, why and when.",
+         "title" : "Sentence Writing: Where, Why, When",
+         "categoryId" : 27
+      },
+      "75" : {
+         "title" : "Sentence Writing: Subjective, Objective, and Possessive Pronouns",
+         "description" : "Write ten sentences using subjective, objective and possessive pronouns.",
+         "flagId" : 1,
+         "rules" : {
+            "3" : {
+               "ruleId" : "484",
+               "quantity" : "7"
+            },
+            "1" : {
+               "quantity" : "1",
+               "ruleId" : "485"
+            },
+            "0" : {
+               "ruleId" : "483",
+               "quantity" : "1"
+            },
+            "2" : {
+               "ruleId" : "486",
+               "quantity" : "1"
+            }
+         },
+         "categoryId" : 32
+      },
+      "76" : {
+         "categoryId" : 56,
+         "description" : "Write nine sentences using these commonly confused words correctly.",
+         "rules" : {
+            "0" : {
+               "ruleId" : "200",
+               "quantity" : "3"
+            },
+            "2" : {
+               "quantity" : "3",
+               "ruleId" : "201"
+            },
+            "1" : {
+               "ruleId" : "202",
+               "quantity" : "3"
+            }
+         },
+         "flagId" : 1,
+         "title" : "Sentence Writing: Please, Pleas; Poor, Pour; Finally, Finely"
+      },
+      "59" : {
+         "categoryId" : 38,
+         "description" : "Write ten sentences using comparative and superlative adjectives.",
+         "flagId" : 1,
+         "rules" : {
+            "1" : {
+               "quantity" : "2",
+               "ruleId" : "324"
+            },
+            "2" : {
+               "quantity" : "6",
+               "ruleId" : "323"
+            },
+            "0" : {
+               "ruleId" : "322",
+               "quantity" : "2"
+            }
+         },
+         "title" : "Sentence Writing: Comparative and Superlative Adjectives"
+      },
+      "62" : {
+         "description" : "Write ten sentences using commas after introductory prepositional phrases.",
+         "flagId" : 1,
+         "rules" : {
+            "0" : {
+               "quantity" : "2",
+               "ruleId" : "465"
+            },
+            "2" : {
+               "ruleId" : "466",
+               "quantity" : "6"
+            },
+            "1" : {
+               "ruleId" : "467",
+               "quantity" : "2"
+            }
+         },
+         "title" : "Sentence Writing: Commas After Introductory Prepositional Phrases",
+         "categoryId" : 47
+      },
+      "82" : {
+         "categoryId" : 46,
+         "description" : "Write twelve sentences using their, they're, and there.",
+         "flagId" : 1,
+         "rules" : {
+            "2" : {
+               "quantity" : "2",
+               "ruleId" : "277"
+            },
+            "0" : {
+               "quantity" : "2",
+               "ruleId" : "274"
+            },
+            "3" : {
+               "quantity" : "6",
+               "ruleId" : "275"
+            },
+            "1" : {
+               "ruleId" : "276",
+               "quantity" : "2"
+            }
+         },
+         "title" : "Sentence Writing: Their, They're, There"
+      },
+      "80" : {
+         "categoryId" : 20,
+         "rules" : {
+            "2" : {
+               "ruleId" : "439",
+               "quantity" : "5"
+            },
+            "0" : {
+               "ruleId" : "438",
+               "quantity" : "2"
+            },
+            "1" : {
+               "ruleId" : "440",
+               "quantity" : "2"
+            }
+         },
+         "flagId" : 1,
+         "description" : "Write nine sentences using the contractions can't and won't.",
+         "title" : "Sentence Writing: Can't, Won't"
+      },
+      "66" : {
+         "categoryId" : 52,
+         "flagId" : 1,
+         "rules" : {
+            "0" : {
+               "ruleId" : "386",
+               "quantity" : "3"
+            },
+            "1" : {
+               "ruleId" : "387",
+               "quantity" : "5"
+            }
+         },
+         "description" : "Write eight sentences in the passive voice.",
+         "title" : "Sentence Writing: Change Sentences from Active to Passive"
+      },
+      "7" : {
+         "categoryId" : 17,
+         "title" : "Sentence Writing: These, Those",
+         "description" : "Write ten sentences using these or those.",
+         "flagId" : 1,
+         "rules" : {
+            "0" : {
+               "ruleId" : "380",
+               "quantity" : "2"
+            },
+            "2" : {
+               "ruleId" : "382",
+               "quantity" : "6"
+            },
+            "1" : {
+               "quantity" : "2",
+               "ruleId" : "381"
+            }
+         }
+      },
+      "3" : {
+         "categoryId" : 22,
+         "description" : "Write nine sentences using the irregular past tense verbs wrote and spoke.",
+         "rules" : {
+            "0" : {
+               "quantity" : "2",
+               "ruleId" : "340"
+            },
+            "2" : {
+               "ruleId" : "341",
+               "quantity" : "5"
+            },
+            "1" : {
+               "ruleId" : "342",
+               "quantity" : "2"
+            }
+         },
+         "flagId" : 1,
+         "title" : "Sentence Writing: Wrote, Spoke"
+      },
+      "30" : {
+         "title" : "Sentence Writing: So, Because",
+         "description" : "Write 10 sentences using the conjunctions so or because.",
+         "flagId" : 1,
+         "rules" : {
+            "1" : {
+               "quantity" : "2",
+               "ruleId" : "428"
+            },
+            "2" : {
+               "ruleId" : "427",
+               "quantity" : "6"
+            },
+            "0" : {
+               "ruleId" : "426",
+               "quantity" : "2"
+            }
+         },
+         "categoryId" : 14
+      },
+      "23" : {
+         "categoryId" : 27,
+         "rules" : {
+            "2" : {
+               "quantity" : 1,
+               "ruleId" : 291
+            },
+            "0" : {
+               "quantity" : 1,
+               "ruleId" : 289
+            },
+            "3" : {
+               "quantity" : 1,
+               "ruleId" : 292
+            },
+            "1" : {
+               "ruleId" : 290,
+               "quantity" : 1
+            }
+         },
+         "flagId" : 3,
+         "description" : "",
+         "title" : "Beginner: Whose, That, When"
+      },
+      "46" : {
+         "description" : "Write nine sentences using the irregular past tense verbs knew, made, and became.",
+         "flagId" : 1,
+         "rules" : {
+            "0" : {
+               "ruleId" : "346",
+               "quantity" : "1"
+            },
+            "2" : {
+               "ruleId" : "349",
+               "quantity" : "1"
+            },
+            "1" : {
+               "ruleId" : "348",
+               "quantity" : "1"
+            },
+            "3" : {
+               "quantity" : "7",
+               "ruleId" : "347"
+            }
+         },
+         "title" : "Sentence Writing: Knew, Made, Became",
+         "categoryId" : 22
+      },
+      "35" : {
+         "flagId" : 1,
+         "rules" : {
+            "2" : {
+               "quantity" : "6",
+               "ruleId" : "401"
+            },
+            "0" : {
+               "quantity" : "2",
+               "ruleId" : "400"
+            },
+            "1" : {
+               "ruleId" : "402",
+               "quantity" : "2"
+            }
+         },
+         "description" : "Write ten sentences with the irregular nouns children and people.",
+         "title" : "Sentence Writing: Children, People",
+         "categoryId" : 15
+      },
+      "32" : {
+         "categoryId" : 17,
+         "rules" : {
+            "2" : {
+               "ruleId" : "377",
+               "quantity" : "6"
+            },
+            "0" : {
+               "ruleId" : "378",
+               "quantity" : "2"
+            },
+            "1" : {
+               "ruleId" : "379",
+               "quantity" : "2"
+            }
+         },
+         "flagId" : 1,
+         "description" : "Write ten sentences using the determiners a, an, or the.",
+         "title" : "Sentence Writing: A, An, The"
+      },
+      "50" : {
+         "categoryId" : 27,
+         "flagId" : 3,
+         "rules" : {
+            "1" : {
+               "ruleId" : 305,
+               "quantity" : 1
+            },
+            "2" : {
+               "quantity" : 1,
+               "ruleId" : 306
+            },
+            "0" : {
+               "quantity" : 1,
+               "ruleId" : 304
+            }
+         },
+         "description" : "",
+         "title" : "Intermediate: Why, That"
+      },
+      "13" : {
+         "flagId" : 1,
+         "rules" : {
+            "0" : {
+               "ruleId" : "282",
+               "quantity" : "2"
+            },
+            "2" : {
+               "ruleId" : "283",
+               "quantity" : "4"
+            },
+            "1" : {
+               "ruleId" : "284",
+               "quantity" : "2"
+            }
+         },
+         "description" : "Write ten sentences using you're and your.",
+         "title" : "Sentence Writing: You're, Your",
+         "categoryId" : 46
+      },
+      "8" : {
+         "categoryId" : 22,
+         "description" : "Write seven sentences using the irregular past tense verbs sat and hid.",
+         "rules" : {
+            "0" : {
+               "quantity" : "2",
+               "ruleId" : "344"
+            },
+            "2" : {
+               "quantity" : "3",
+               "ruleId" : "343"
+            },
+            "1" : {
+               "quantity" : "2",
+               "ruleId" : "345"
+            }
+         },
+         "flagId" : 1,
+         "title" : "Sentence Writing: Sat, Hid"
+      },
+      "19" : {
+         "categoryId" : 59,
+         "title" : "Sentence Writing: Parallel Structure",
+         "description" : "Write nine sentences using parallel structure.",
+         "rules" : {
+            "2" : {
+               "quantity" : "1",
+               "ruleId" : "252"
+            },
+            "0" : {
+               "ruleId" : "249",
+               "quantity" : "1"
+            },
+            "1" : {
+               "ruleId" : "251",
+               "quantity" : "1"
+            },
+            "3" : {
+               "ruleId" : "250",
+               "quantity" : "6"
+            }
+         },
+         "flagId" : 1
+      },
+      "78" : {
+         "title" : "Sentence Writing: Recognize and Correct Inappropriate Shifts in Verb Voice and Mood",
+         "description" : "Write six sentences using correct verb tense.",
+         "flagId" : 1,
+         "rules" : {
+            "1" : {
+               "ruleId" : "478",
+               "quantity" : "1"
+            },
+            "2" : {
+               "ruleId" : "477",
+               "quantity" : "4"
+            },
+            "0" : {
+               "quantity" : "1",
+               "ruleId" : "476"
+            }
+         },
+         "categoryId" : 16
+      },
+      "34" : {
+         "title" : "Sentence Writing: At, In, On (Time)",
+         "description" : "Write ten sentences using at, in and on.",
+         "rules" : {
+            "0" : {
+               "quantity" : "1",
+               "ruleId" : "363"
+            },
+            "2" : {
+               "ruleId" : "366",
+               "quantity" : "1"
+            },
+            "3" : {
+               "ruleId" : "364",
+               "quantity" : "7"
+            },
+            "1" : {
+               "quantity" : "1",
+               "ruleId" : "365"
+            }
+         },
+         "flagId" : 1,
+         "categoryId" : 6
+      }
+   }
+}
