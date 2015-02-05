@@ -1,3 +1,3 @@
 module.exports = function(obj) {
-  console.log(require('json-stable-string')(obj));
+  console.log(require('json-stable-stringify')(obj));
 }
