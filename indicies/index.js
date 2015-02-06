@@ -9,7 +9,7 @@ var _ = require('underscore');
 
 var pp = require('../print.js');
 
-pp(
+var swByCat =
   _.chain(o)
     .map(function(sw, key) {
       sw.swId = key;
@@ -27,5 +27,8 @@ pp(
       ];
     })
     .object()
-    .value()
-);
+    .value();
+
+pp({
+  sentenceWritingsByCategory: swByCat
+});
