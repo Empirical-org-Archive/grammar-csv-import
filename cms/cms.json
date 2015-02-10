@@ -9295,80 +9295,8 @@
       "prompt": "The possum _____ in our backyard during the day."
     }
   },
-  "rules": [
-    {
-      "classification": 17,
-      "description": "<b>Examples: John, Sarah, London, Japan, and Yankees</b>\n<br>\nProper nouns are names for people, places, and things, such as <b>John</b>, or <b>Japan</b>. All proper nouns are capitalized.\n<br>",
-      "ruleNumber": 11,
-      "ruleQuestions": {
-        "45": true
-      },
-      "title": "Proper Nouns"
-    },
-    {
-      "classification": 45,
-      "description": "<b>Example:</b> My <b>father's</b> stamp collection is huge. \n<b>Example:</b> The <b>ship's</b> sails were filled with a gust of wind. \n\nPossessive nouns are used to show ownership. To make most common or proper nouns possessive, we add an apostrophe and an \"\"s\"\" to the end of the word.",
-      "ruleNumber": 12,
-      "ruleQuestions": {
-        "922": true
-      },
-      "title": "Possessive Nouns"
-    },
-    {
-      "classification": 30,
-      "description": "<b>Past:</b> I <b>walked</b> to school.\n<b>Present:</b> I <u>walk</u> to school.\n<br>\nWhen we want to talk about things that happened earlier, we usually add \"\"ed\"\" to the end of regular verbs to make them past tense.\n<br>",
-      "ruleNumber": 18,
-      "ruleQuestions": {
-        "83": true
-      },
-      "title": "Past Tense"
-    },
-    {
-      "classification": 31,
-      "description": "<b>Future:</b> I <b>will walk</b> to school.\n<b>Present:</b> I <u>walk</u> to school.\n<br>\nWe use the future tense to describe things that we think will happen. To make the future tense ( <b>will walk</b> ), we add the helping verb \"\"will\"\" before the verb ( <u>walk</u> ).\n<br>",
-      "ruleNumber": 19,
-      "ruleQuestions": {
-        "525": true
-      },
-      "title": "Future Tense"
-    },
-    {
-      "classification": 75,
-      "description": "<b>Incorrect:</b> I climbed <u>an</u> tree.\n<b>Correct:</b> I climbed <b>a</b> tree.\n<br>\nArticles (<b>a</b>) are used before nouns (tree). The article <b>an</b> is used before nouns that start with vowel sounds (a, e, i, o, u).\n<br>",
-      "ruleNumber": 27,
-      "ruleQuestions": {
-        "536": true
-      },
-      "title": "A"
-    },
-    {
-      "classification": 58,
-      "description": "<b>Close by: This</b> picture here is crooked.\n<b>Further away: That</b> picture over there is crooked.\n<br>\nYou use <b>this</b> and <b>that</b> when you are talking a single thing (a picture). You use <b>this</b> for things near you and <b>that</b> for things further away.\n<br>",
-      "ruleNumber": 32,
-      "ruleQuestions": {
-        "1120": true
-      },
-      "title": "This & That"
-    },
-    {
-      "classification": 65,
-      "description": "<b>Singular:</b> I saw a <u>deer</u> crossing the road earlier.\n<b>Plural:</b> I saw ten <b>deer</b> crossing the road earlier.\n<br>\nThe word \"\"deer\"\" does not change when it becomes plural.\n<br>",
-      "ruleNumber": 60,
-      "ruleQuestions": {
-        "267": true
-      },
-      "title": "Deer"
-    },
-    {
-      "classification": 19,
-      "description": "<b>Correct:</b> My friends and I <b>went</b> shopping an hour ago.\n<b>Incorrect:</b> My friends and I <u>goed</u> shopping an hour ago.\n<br>\nThe past tense of \"\"go\"\" is <b>went</b>.\n<br>",
-      "ruleNumber": 76,
-      "ruleQuestions": {
-        "212": true
-      },
-      "title": "Went"
-    },
-    {
+  "rules": {
+    "105": {
       "classification": 2,
       "description": "",
       "ruleNumber": 105,
@@ -9377,7 +9305,7 @@
       },
       "title": "Practice: Contractions"
     },
-    {
+    "108": {
       "classification": 27,
       "description": "<b>That:</b> The new classrooms <u>that</u> had their walls painted look great.\n<b>Which:</b> The new classrooms, <b>which</b> had their walls painted, look great.\n<br>\nWe use <b>which</b> to give more details about something (new classrooms), but the details don't change the meaning of the sentence. In the first example, using \"\"that\"\" means <i>only</i> the painted classrooms look great. In the second example, using <b>which</b> means that the new classrooms look great, and they also <i>happen</i> to be painted. We usually place commas before <b>which</b>.\n<br>",
       "ruleNumber": 108,
@@ -9386,7 +9314,25 @@
       },
       "title": "Which"
     },
-    {
+    "11": {
+      "classification": 17,
+      "description": "<b>Examples: John, Sarah, London, Japan, and Yankees</b>\n<br>\nProper nouns are names for people, places, and things, such as <b>John</b>, or <b>Japan</b>. All proper nouns are capitalized.\n<br>",
+      "ruleNumber": 11,
+      "ruleQuestions": {
+        "45": true
+      },
+      "title": "Proper Nouns"
+    },
+    "12": {
+      "classification": 45,
+      "description": "<b>Example:</b> My <b>father's</b> stamp collection is huge. \n<b>Example:</b> The <b>ship's</b> sails were filled with a gust of wind. \n\nPossessive nouns are used to show ownership. To make most common or proper nouns possessive, we add an apostrophe and an \"\"s\"\" to the end of the word.",
+      "ruleNumber": 12,
+      "ruleQuestions": {
+        "922": true
+      },
+      "title": "Possessive Nouns"
+    },
+    "129": {
       "classification": 3,
       "description": "<b>Than:</b> I am older <b>than</b> my brother.\n<b>Then:</b> The sky was pink, and <b>then</b> it became dark.\n<br>\nWe use <b>than</b> to compare two or more things. We use <b>then</b> to say \"\"at that time.\"\"\n<br>",
       "ruleNumber": 129,
@@ -9399,7 +9345,7 @@
       },
       "title": "Than vs. Then"
     },
-    {
+    "136": {
       "classification": 39,
       "description": "<b>Correct:</b> I live on 15 Deepwood Rd in Hartford CT.\n<b>Incorrect:</b> I live on 15 deepwood rd in hartford ct.\n<br>\nThe names of roads, towns, and states in addresses are all proper nouns, so they are capitalized. Don't forget to capitalize all the proper nouns in your address whenever you write it down.\n<br>",
       "ruleNumber": 136,
@@ -9408,7 +9354,7 @@
       },
       "title": "Addresses"
     },
-    {
+    "140": {
       "classification": 40,
       "description": "<b>Correct:</b> Our project is more difficult than theirs.\n<b>Incorrect:</b> Our project is more difficult than they.\n<b>Also Incorrect:</b> Our project is more difficult than them.\n<br>\nPossessive pronouns (<b>theirs</b>) are words like \"\"mine\"\", \"\"yours\"\", \"\"his\"\", \"\"hers\"\", \"\"its\"\", \"\"ours\"\", and \"\"theirs\"\". They refer to something the subject owns (project).\n<br>",
       "ruleNumber": 140,
@@ -9417,7 +9363,7 @@
       },
       "title": "Possessive Pronouns"
     },
-    {
+    "144": {
       "classification": 48,
       "description": "<b>Correct:</b> A <u>doctor</u> has an important job because <b>she</b> saves lives.\n<b>Correct:</b> A <u>doctor</u> has an important job because <b>he</b> saves lives.\n<b>Incorrect:</b> A <u>doctor</u> has an important job because <u>they</u> save lives.\n<br>\nPronouns need to stay the same in gender (<u>she</u>, <u>he</u>) and number (<u>they</u>, <u>them</u>). This means that if the subject is singular (<u>doctor</u>), then any pronouns referring to it will will usually be singular as well (<u>he</u>, <u>she</u>).\n<br>",
       "ruleNumber": 144,
@@ -9427,7 +9373,7 @@
       },
       "title": "Pronoun Shift: Singular"
     },
-    {
+    "145": {
       "classification": 48,
       "description": "<b>Correct:</b> If <b>they</b> stay in touch, <u>most people</u> will have a lot of options available to them.\n<b>Incorrect:</b> If <u>you</u> stay in touch, <u>most people</u> will have a lot of options available to them.\n<br>\nPronouns need to stay the same in gender (<u>she</u>, <u>he</u>) and number (<u>they</u>, <u>them</u>). This means that if the subject is plural (<u>they</u>), then any pronouns referring to it will usually be plural as well (<u>them</u>).\n<br>",
       "ruleNumber": 145,
@@ -9436,7 +9382,7 @@
       },
       "title": "Pronoun Shift: Plural"
     },
-    {
+    "146": {
       "classification": 2,
       "description": "",
       "ruleNumber": 146,
@@ -9445,7 +9391,7 @@
       },
       "title": "Practice: Pronoun Shift"
     },
-    {
+    "157": {
       "classification": 55,
       "description": "<b>Correct:</b> Papayas are considered to be <b>healthier</b> than bananas.\n<b>Incorrect:</b> Papayas are considered to be <u>healthyer</u> than bananas.\n\nTo make an adjective ending in \"\"y\"\" (healthy) comparative, we change the \"\"y\"\" to an \"\"ier\"\" to the end of the word (**healthier**).",
       "ruleNumber": 157,
@@ -9454,7 +9400,7 @@
       },
       "title": "Adjectives Ending in \"\"y\"\""
     },
-    {
+    "163": {
       "classification": 1,
       "description": "<b>Correct:</b> My address is 79 Brookfield Lane, Springfield, Massachusetts 01234.\n<b>Incorrect:</b> My address is 79 brookfield lane Springfield, Massachusetts, 01234.\n\nWhen we write out our addresses, we always put commas after the name of the street (Brookfield Lane,) and after the name of the city (Springfield). Remember to capitalize both the street and state names, because they are proper nouns.",
       "ruleNumber": 163,
@@ -9465,7 +9411,7 @@
       },
       "title": "Use Commas in Addresses"
     },
-    {
+    "164": {
       "classification": 1,
       "description": "<b>Correct:</b> A wise man one said, \"\"Doubt everything, find your own light.\"\"\n<b>Incorrect:</b> A wise man once said \"\"Doubt everything, find your own light.\n\nWe use a pair of quotation marks to show that someone is speaking. Whenever we use quotation marks, we always put a comma before the beginning of the quote (said,).",
       "ruleNumber": 164,
@@ -9474,7 +9420,7 @@
       },
       "title": "Use Commas and Quotation Marks in Dialogue"
     },
-    {
+    "173": {
       "classification": 5,
       "description": "<b>With However:</b> My friend said the ride was safe. <b>However,</b> I didn't believe him.\n<b>Without However:</b> My friend said the ride was safe. I did not believe him.\n\nWe use <b>however</b> at the beginning of a sentence to say \"\"nevertheless\"\" or \"\"but.\"\" We place a comma after <b>however</b> (<b>However,</b> I did not believe him).",
       "ruleNumber": 173,
@@ -9483,7 +9429,16 @@
       },
       "title": "However"
     },
-    {
+    "18": {
+      "classification": 30,
+      "description": "<b>Past:</b> I <b>walked</b> to school.\n<b>Present:</b> I <u>walk</u> to school.\n<br>\nWhen we want to talk about things that happened earlier, we usually add \"\"ed\"\" to the end of regular verbs to make them past tense.\n<br>",
+      "ruleNumber": 18,
+      "ruleQuestions": {
+        "83": true
+      },
+      "title": "Past Tense"
+    },
+    "182": {
       "classification": 21,
       "description": "<b>Correct:</b> My favorite team has <b>lost</b> only once this season.\n<b>Incorrect:</b> My favorite team has <u>losed</u> only once this season.\n\nThe past participle for \"\"lose\"\" is <b>lost</b>.",
       "ruleNumber": 182,
@@ -9492,7 +9447,16 @@
       },
       "title": "Lost"
     },
-    {
+    "19": {
+      "classification": 31,
+      "description": "<b>Future:</b> I <b>will walk</b> to school.\n<b>Present:</b> I <u>walk</u> to school.\n<br>\nWe use the future tense to describe things that we think will happen. To make the future tense ( <b>will walk</b> ), we add the helping verb \"\"will\"\" before the verb ( <u>walk</u> ).\n<br>",
+      "ruleNumber": 19,
+      "ruleQuestions": {
+        "525": true
+      },
+      "title": "Future Tense"
+    },
+    "190": {
       "classification": 9,
       "description": "<b>Correct:</b> That hat <b>doesn't</b> fit me because it <b>is</b> too small.\n<b>Incorrect:</b> That had <b>didn't</b> fit me because it <b>is</b> too small.\n\nEverything that happens in the present must be written in the present tense (<b>doesn't</b> fit me because it <b>is</b> too small). For things that happen in the past, everything must be written in the past tense. Lastly, everything that happens in the future must be written in the future tense.",
       "ruleNumber": 190,
@@ -9501,7 +9465,7 @@
       },
       "title": "Verb Tense Shift"
     },
-    {
+    "194": {
       "classification": 69,
       "description": "",
       "ruleNumber": 194,
@@ -9510,7 +9474,7 @@
       },
       "title": "Correct Messy Sentences"
     },
-    {
+    "197": {
       "classification": 3,
       "description": "The verb <b>throw</b> has an irregular past tense form, threw, and an irregular participle form: <b>thrown</b>. \n\n<br>\n\nThe noun <b>throne</b> is the ceremonial chair used by a king or some other ruler.\n\n<br>",
       "ruleNumber": 197,
@@ -9519,7 +9483,7 @@
       },
       "title": "Thrown, Throne"
     },
-    {
+    "198": {
       "classification": 3,
       "description": "The verb <b>mean</b> (to communicate, indicate, signify) has an irregular past tense form: meant. From this same root we get the noun <b>meaning</b>. \n\n<br>\n\nThe noun <b>mint</b> refers to various aromatic plants whose highly flavored leaves are used in cooking (e.g. peppermint, spearmint). The same word also refer to a place where money is coined. \n\n<br>",
       "ruleNumber": 198,
@@ -9528,7 +9492,7 @@
       },
       "title": "Meant, Mint"
     },
-    {
+    "199": {
       "classification": 3,
       "description": "The word <b>although</b> means \"\"even though\"\" or \"\"in spite of the fact that.\"\" It is a subordinating conjunction. Make sure you spell this as one word: although (not \"\"all though\"\").\n\n<br>",
       "ruleNumber": 199,
@@ -9537,7 +9501,7 @@
       },
       "title": "Although"
     },
-    {
+    "205": {
       "classification": 3,
       "description": "The verb <b>bear</b> means to carry, and <b>bear</b> can also be the name of an animal, e.g. polar bear, koala bear, panda bear, etc.\n\n<br>\n\nThe adjective <b>bare</b> means that something is not clothed or covered; it can also refer to something that is empty. The word <b>bare</b> can also be a verb, meaning to uncover something or to expose something to view.\n\n<br>",
       "ruleNumber": 205,
@@ -9546,7 +9510,7 @@
       },
       "title": "Bear, Bare"
     },
-    {
+    "209": {
       "classification": 3,
       "description": "<b>Lose: lose</b> my keys, <b>lose</b> a game, <b>lose</b> one's balance.\n<b>Loose:</b> the screws were <b>loose</b>, it broke <b>loose</b>.\n<br>\nWe use <b>lose</b> when we can't find something, don't have something, or didn't win. \n<br>\nWe use <b>loose</b> when something isn't tight, or something is freed.",
       "ruleNumber": 209,
@@ -9555,7 +9519,7 @@
       },
       "title": "Loose, Lose"
     },
-    {
+    "215": {
       "classification": 68,
       "description": "I work on my flip turns <b>every day</b> at swim practice.\nPop quizzes are an <b>everyday</b> occurrence in this class.\n<b>\n<b>Every day</b> when written with a space, means literally every day.  When written without a space, <b>everyday</b> becomes an adjective that means common place or frequently occurring.",
       "ruleNumber": 215,
@@ -9564,7 +9528,7 @@
       },
       "title": "Vocabulary: Every Day vs Everyday"
     },
-    {
+    "227": {
       "classification": 19,
       "description": "<b>Incorrect:</b> The fox quickly <u>digged</u> a hole in the snow to keep warm.\n<b>Correct:</b> The fox quickly <b>dug</b> a hole in the snow to keep warm.\n<br>\nThe past tense of \"\"dig\"\" is <b>dug</b>.",
       "ruleNumber": 227,
@@ -9574,7 +9538,7 @@
       },
       "title": "Dug"
     },
-    {
+    "241": {
       "classification": 13,
       "description": "",
       "ruleNumber": 241,
@@ -9583,7 +9547,7 @@
       },
       "title": "Hid"
     },
-    {
+    "248": {
       "classification": 21,
       "description": "<b>Correct:</b> Todd has <b>become</b> a great student since he started studying more.\n<br>\n<b>Incorrect:</b>  Todd has <b>became</b> a great student since he started studying more.\n<br>\nThe past participle of \"\"go\"\" is <b>gone</b>.\n<br>",
       "ruleNumber": 248,
@@ -9592,7 +9556,7 @@
       },
       "title": "Became"
     },
-    {
+    "249": {
       "classification": 22,
       "description": "<b>Correct:</b> I laughed, I cried, and I shouted during the performance.\n\n<b>Incorrect:</b> I laughed, I was crying, and I shout during the performance.\n\n\n\nSentences flow easily when all the actions in a list have the same ending. This means that each and every action in a list stays in the past, present, or future tense.",
       "ruleNumber": 249,
@@ -9601,7 +9565,7 @@
       },
       "title": "Verb Tense"
     },
-    {
+    "250": {
       "classification": 22,
       "description": "<b>Correct:</b> I laughed, I cried, and I shouted during the performance.\n<b>Incorrect:</b> I laughed, I was crying, and I shout during the performance.\n\nSentences flow easily when all the actions in a list have the same ending. This means that each and every action in a list stays in the past, present, or future tense.",
       "ruleNumber": 250,
@@ -9615,7 +9579,7 @@
       },
       "title": "Practice: Parallel Structure"
     },
-    {
+    "251": {
       "classification": 22,
       "description": "<b>Correct:</b> Marcus enjoys hiking, <b>climbing</b>, and <b>canoeing</b>.\n\n<b>Incorrect:</b> Marcus enjoys hiking, <u>to climb</u>, and <u>canoes all the time</u>.\n\n\n\nWhen writing a list of actions, the flow and rhythm of the sentence is improved if all the items in the list (hiking, climbing, and canoeing) are formed the same way. If one action in a list ends with \"\"ing,\"\" the others should as well.",
       "ruleNumber": 251,
@@ -9624,7 +9588,7 @@
       },
       "title": "Verbs Ending in \"\"ing\"\""
     },
-    {
+    "252": {
       "classification": 22,
       "description": "<b>Correct:</b> Mike learned how to read, write, and speak French.\n\n<b>Correct:</b> Mike learned how to read, to write, and to speak French.\n\n\n\n<b>Incorrect:</b> Mike learned how to read, write, and <u>speaking</u> French.\n\n\n\nIf a list of actions begins with words like \"\"to read\"\", we do not write \"\"ing\"\" at the end of any action in the list.",
       "ruleNumber": 252,
@@ -9633,7 +9597,7 @@
       },
       "title": "Verbs Beginning with \"\"to\"\""
     },
-    {
+    "253": {
       "classification": 48,
       "description": "<b>Correct:</b> A <u>doctor</u> has an important job because <b>she</b> saves lives.\n\n<b>Correct:</b> A <u>doctor</u> has an important job because <b>he</b> saves lives.\n\n<b>Incorrect:</b> A <u>doctor</u> has an important job because <u>they</u> save lives.\n\n<br>\n\nPronouns need to stay the same in gender (<u>she</u>, <u>he</u>) and number (<u>they</u>, <u>them</u>). This means that if the subject is singular (<u>doctor</u>), then any pronouns referring to it will will usually be singular as well (<u>he</u>, <u>she</u>).\n\n<br>",
       "ruleNumber": 253,
@@ -9643,7 +9607,7 @@
       },
       "title": "Pronoun Shift: Singular"
     },
-    {
+    "254": {
       "classification": 2,
       "description": "",
       "ruleNumber": 254,
@@ -9656,7 +9620,7 @@
       },
       "title": "Practice: Pronoun Shift"
     },
-    {
+    "255": {
       "classification": 2,
       "description": "<b>Correct:</b> If <b>they</b> stay in touch, <u>most people</u> will have a lot of options available to them.\n\n<b>Incorrect:</b> If <u>you</u> stay in touch, <u>most people</u> will have a lot of options available to them.\n\n<br>\n\nPronouns need to stay the same in gender (<u>she</u>, <u>he</u>) and number (<u>they</u>, <u>them</u>). This means that if the subject is plural (<u>they</u>), then any pronouns referring to it will usually be plural as well (<u>them</u>).\n\n<br>",
       "ruleNumber": 255,
@@ -9666,7 +9630,7 @@
       },
       "title": "Practice: Pronoun Shift"
     },
-    {
+    "256": {
       "classification": 6,
       "description": "<b>Exactly two options:</b> You can have either soup or salad._\n\n<br>\n\n<b>Two or more options:</b> You can have soup or salad.\n\n<br>\n\nWhenever either is placed before or, we are presented with exactly two options (soup or salad). If the two options share a verb, either is written after the verb (<u>have</u> either soup or salad). If the two options have different verbs, either is written before the first verb (You can either <u>run</u> or lift weights).  \n\n<br>\n\nIf there are two or more options, we do not use either, but still use or.",
       "ruleNumber": 256,
@@ -9676,7 +9640,7 @@
       },
       "title": "Either ... Or"
     },
-    {
+    "257": {
       "classification": 6,
       "description": "<b>Exactly Two Options:</b> You can have <b>either</b> soup </b>or</b> salad.\n<b>Two Options, Maybe More:</b> You can have soup <u>or</u> salad.\n\nWhenever <b>either</b> is placed before <b>or</b>, we are presented with <i>exactly</i> two options (soup <b>or</b> salad). If the two options share a verb, <b>either</b> is written after the verb (have <b>either</b>). If the two options have <i>different</i> verbs, <b>either</b> is written before the first verb (<b>either</b> have).",
       "ruleNumber": 257,
@@ -9690,7 +9654,7 @@
       },
       "title": "Practice: Either, Or; Neither, Nor"
     },
-    {
+    "258": {
       "classification": 6,
       "description": "<b>Neither, nor:</b> My friend is <b>neither</b> snowboarding <b>nor</b> skiing today.\n\n\n\n<b>Either, or:</b> My friend is <u>either</u> snowboarding <u>or</u> skiing today.\n\n\n\n\n\n\n\n<b>Neither</b> and <b>nor</b> are used the same way as the words \"\"either\"\" and \"\"or\"\". However, <b>neither</b> and <b>nor</b> are used for negative sentences.",
       "ruleNumber": 258,
@@ -9700,7 +9664,7 @@
       },
       "title": "Neither ... Nor"
     },
-    {
+    "259": {
       "classification": 6,
       "description": "<b>Not only, but also:</b> He was <b>not only</b> an excellent athlete, <b>but also</b> a great musician.\n\n\n\n<b>And:</b> He was an excellent athlete <u>and</u> a great musician.\n\n\n\n\n\n\n\nWe use <b>not only</b> and <b>but also</b> to connect two different ideas to something. We always place a comma before <b>but also</b> in these kinds of sentences. <b>Not only</b> is usually placed before one idea, while <b>but also</b> is used instead of the word \"\"and.\"\"",
       "ruleNumber": 259,
@@ -9710,7 +9674,7 @@
       },
       "title": "Not Only ... But Also"
     },
-    {
+    "260": {
       "classification": 6,
       "description": "<b>Not only … but also:</b> He was <b>not only</b> an excellent athlete, <b>but also</b> a great musician.\n<b>And:</b> He was an excellent athlete <u>and</u> a great musician.\n\nWe use <b>not only</b> and <b>but also</b> to connect two different ideas to something. We always place a comma before <b>but also</b> in these kinds of sentences. <b>Not only</b> is usually placed before one idea, while <b>but also</b> is used instead of the word \"\"and\"\".",
       "ruleNumber": 260,
@@ -9724,7 +9688,7 @@
       },
       "title": "Pracitce: Not Only, But Also; Both, And"
     },
-    {
+    "261": {
       "classification": 6,
       "description": "<b>With Both:</b> <b>Both</b> Tom <b>and</b> Michelle like swimming.\n\n\n\n<b>Without Both:</b> Tom likes swimming. Michelle also likes swimming.\n\n\n\n\n\n\n\n<b>Both</b> can be used with <b>and</b> to describe two things at the same time (<b>Both</b> Tom <b>and</b> Michelle). We place <b>both</b> before the first thing, then use <b>and</b> for the second thing.",
       "ruleNumber": 261,
@@ -9734,7 +9698,7 @@
       },
       "title": "Both ... And"
     },
-    {
+    "262": {
       "classification": 3,
       "description": "<b>It's: It's</b> time to go.\n\n\n\n<b>Its:</b> The dog wags <b>its</b> tail.\n\n\n\n<br>\n\n\n\n<b>It's</b> is the same as \"\"it is\"\".\n\n\n\n<br>\n\n\n\n <b>Its</b> is possessive, meaning the object (tail) belongs to the subject (dog).\n\n\n\n<br>",
       "ruleNumber": 262,
@@ -9744,7 +9708,7 @@
       },
       "title": "Its vs. It's"
     },
-    {
+    "263": {
       "classification": 3,
       "description": "<b>It's: It's</b> time to go.\n\n\n\n<b>Its:</b> The dog wags <b>its</b> tail.\n\n\n\n<br>\n\n\n\n<b>It's</b> is the same as \"\"it is\"\".\n\n\n\n<br>\n\n\n\n <b>Its</b> is possessive, meaning the object (tail) belongs to the subject (dog).\n\n\n\n<br>",
       "ruleNumber": 263,
@@ -9754,7 +9718,7 @@
       },
       "title": "Its vs. It's"
     },
-    {
+    "264": {
       "classification": 2,
       "description": "",
       "ruleNumber": 264,
@@ -9766,7 +9730,7 @@
       },
       "title": "Practice: It's, Its"
     },
-    {
+    "265": {
       "classification": 3,
       "description": "<b>Of:</b> a button <b>of</b> a coat, north <b>of</b> Chicago, member <b>of</b> a team.\n<b>Off:</b> turn <b>off</b> the lights, my shoes are <b>off</b>, break <b>off</b> some bread.\n<br>\nWe use the word <b>of</b> to show how one thing is connected to another thing. \n<br>\nWe use the word <b>off</b> to say that something is no longer connected to something else.\n<br>",
       "ruleNumber": 265,
@@ -9776,7 +9740,7 @@
       },
       "title": "Of vs. Off"
     },
-    {
+    "266": {
       "classification": 3,
       "description": "<b>Of:</b> a button <b>of</b> a coat, north <b>of</b> Chicago, member <b>of</b> a team.\n<b>Off:</b> turn <b>off</b> the lights, my shoes are <b>off</b>, break <b>off</b> some bread.\n<br>\nWe use the word <b>of</b> to show how one thing is connected to another thing. \n<br>\nWe use the word <b>off</b> to say that something is no longer connected to something else.\n<br>",
       "ruleNumber": 266,
@@ -9786,7 +9750,7 @@
       },
       "title": "Of vs. Off"
     },
-    {
+    "267": {
       "classification": 2,
       "description": "",
       "ruleNumber": 267,
@@ -9797,7 +9761,7 @@
       },
       "title": "Practice: Of, Off"
     },
-    {
+    "268": {
       "classification": 3,
       "description": "<b>Lose: lose</b> my keys, <b>lose</b> a game, <b>lose</b> one's balance.\n<b>Loose:</b> the screws were <b>loose</b>, it broke <b>loose</b>.\n<br>\nWe use <b>lose</b> when we can't find something, don't have something, or didn't win. \n<br>\nWe use <b>loose</b> when something isn't tight, or something is freed.",
       "ruleNumber": 268,
@@ -9807,7 +9771,7 @@
       },
       "title": "Lose vs. Loose"
     },
-    {
+    "269": {
       "classification": 3,
       "description": "<b>Lose: lose</b> my keys, <b>lose</b> a game, <b>lose</b> one's balance.\n<b>Loose:</b> the screws were <b>loose</b>, it broke <b>loose</b>.\n<br>\nWe use <b>lose</b> when we can't find something, don't have something, or didn't win. \n<br>\nWe use <b>loose</b> when something isn't tight, or something is freed.\n\n\n<br>\n\n\n\nWe use the word <b>of</b> to show how one thing is connected to another thing. \n\n\n\n<br>\n\n\n\nWe use the word <b>off</b> to say that something is no longer connected to something else.\n\n\n\n<br>",
       "ruleNumber": 269,
@@ -9817,7 +9781,16 @@
       },
       "title": "Lose vs. Loose"
     },
-    {
+    "27": {
+      "classification": 75,
+      "description": "<b>Incorrect:</b> I climbed <u>an</u> tree.\n<b>Correct:</b> I climbed <b>a</b> tree.\n<br>\nArticles (<b>a</b>) are used before nouns (tree). The article <b>an</b> is used before nouns that start with vowel sounds (a, e, i, o, u).\n<br>",
+      "ruleNumber": 27,
+      "ruleQuestions": {
+        "536": true
+      },
+      "title": "A"
+    },
+    "270": {
       "classification": 3,
       "description": "<b>Lose: lose</b> my keys, <b>lose</b> a game, <b>lose</b> one's balance.\n<b>Loose:</b> the screws were <b>loose</b>, it broke <b>loose</b>.\n<br>\nWe use <b>lose</b> when we can't find something, don't have something, or didn't win. \n<br>\nWe use <b>loose</b> when something isn't tight, or something is freed.",
       "ruleNumber": 270,
@@ -9829,7 +9802,7 @@
       },
       "title": "Practice: Lose, Loose"
     },
-    {
+    "271": {
       "classification": 3,
       "description": "<b>Than:</b> I am older <b>than</b> my brother.\n\n\n\n<b>Then:</b> The sky was pink, and <b>then</b> it became dark.\n\n\n\n<br>\n\n\n\nWe use <b>than</b> to compare two or more things. We use <b>then</b> to say \"\"at that time.\"\"\n\n\n\n<br>",
       "ruleNumber": 271,
@@ -9839,7 +9812,7 @@
       },
       "title": "Than vs. Then"
     },
-    {
+    "272": {
       "classification": 3,
       "description": "<b>Than:</b> I am older <b>than</b> my brother.\n\n\n\n<b>Then:</b> The sky was pink, and <b>then</b> it became dark.\n\n\n\n<br>\n\n\n\nWe use <b>than</b> to compare two or more things. We use <b>then</b> to say \"\"at that time.\"\"\n\n\n\n<br>",
       "ruleNumber": 272,
@@ -9849,7 +9822,7 @@
       },
       "title": "Than vs. Then"
     },
-    {
+    "273": {
       "classification": 3,
       "description": "<b>Than:</b> I am older <b>than</b> my brother.\n<b>Then:</b> The sky was pink, and <b>then</b> it became dark.\n<br>\nWe use <b>than</b> to compare two or more things. We use <b>then</b> to say \"\"at that time.\"\"\n<br>",
       "ruleNumber": 273,
@@ -9861,7 +9834,7 @@
       },
       "title": "Practice: Than vs. Then"
     },
-    {
+    "274": {
       "classification": 3,
       "description": "<b>There:</b> There is a park by the lake.\n\n\n\n<b>They're:</b> They're going to the park.\n\n\n\n<b>Their:</b> They left their frisbee at the park.\n\n\n\n<br>\n\n\n\n<b>There</b> is used for locations. \n\n\n\n<br>\n\n\n\n<b>They're</b> is the same as \"\"they are\"\". \n\n\n\n<br>\n\n\n\n<b>Their</b> is used when something (they) owns something else (frisbee).\n\n\n\n<br>",
       "ruleNumber": 274,
@@ -9871,7 +9844,7 @@
       },
       "title": "There, They're, & Their"
     },
-    {
+    "275": {
       "classification": 2,
       "description": "",
       "ruleNumber": 275,
@@ -9885,7 +9858,7 @@
       },
       "title": "Practice: There, They're, Their"
     },
-    {
+    "276": {
       "classification": 3,
       "description": "\"\"<b>There:</b> There is a park by the lake.\n\n\n\n<b>They're:</b> They're going to the park.\n\n\n\n<b>Their:</b> They left their frisbee at the park.\n\n\n\n<br>\n\n\n\n<b>There</b> is used for locations. \n\n\n\n<br>\n\n\n\n<b>They're</b> is the same as \"\"\"\"they are\"\"\"\". \n\n\n\n<br>\n\n\n\n<b>Their</b> is used when something (they) owns something else (frisbee).\n\n\n\n<br>\n\n\n\n\"\"",
       "ruleNumber": 276,
@@ -9895,7 +9868,7 @@
       },
       "title": "There, They're, & Their"
     },
-    {
+    "277": {
       "classification": 3,
       "description": "<b>There:</b> There is a park by the lake.\n<b>They're:</b> They're going to the park.\n<b>Their:</b> They left their frisbee at the park.\n<br>\n<b>There</b> is used for locations. \n<br>\n<b>They're</b> is the same as \"\"they are\"\". \n<br>\n<b>Their</b> is used when something (they) owns something else (frisbee).\n<br>",
       "ruleNumber": 277,
@@ -9905,7 +9878,7 @@
       },
       "title": "There, They're, & Their"
     },
-    {
+    "278": {
       "classification": 3,
       "description": "<b>To:</b> I sent an email <b>to</b> you.\n\n\n\n<b>Too:</b> Brett sent you an email <b>too</b>.\n\n\n\n<b>Two:</b> Pat sent you not one, but <b>two</b> emails.\n\n\n\n<br>\n\n\n\n<b>To</b> is used mostly to show where something is moving <b>Too</b> can either mean \"\"\"\"also\"\"\"\" or \"\"\"\"excessive\"\"\"\". <b>Two</b> is the number after \"\"\"\"one\"\"\"\".\n\n\n\n<br>",
       "ruleNumber": 278,
@@ -9915,7 +9888,7 @@
       },
       "title": "To, Too, & Two"
     },
-    {
+    "279": {
       "classification": 2,
       "description": "",
       "ruleNumber": 279,
@@ -9929,7 +9902,7 @@
       },
       "title": "Practice: To, Too, Two"
     },
-    {
+    "280": {
       "classification": 3,
       "description": "<b>To:</b> I sent an email <b>to</b> you.\n\n\n\n<b>Too:</b> Brett sent you an email <b>too</b>.\n\n\n\n<b>Two:</b> Pat sent you not one, but <b>two</b> emails.\n\n\n\n<br>\n\n\n\n<b>To</b> is used mostly to show where something is moving <b>Too</b> can either mean \"\"also\"\" or \"\"excessive.\"\" <b>Two</b> is the number after \"\"one\"\".\n\n\n\n<br>",
       "ruleNumber": 280,
@@ -9939,7 +9912,7 @@
       },
       "title": "To, Too, & Two"
     },
-    {
+    "281": {
       "classification": 3,
       "description": "<b>To:</b> I sent an email <b>to</b> you.\n\n\n\n<b>Too:</b> Brett sent you an email <b>too</b>.\n\n\n\n<b>Two:</b> Pat sent you not one, but <b>two</b> emails.\n\n\n\n<br>\n\n\n\n<b>To</b> is used mostly to show where something is moving <b>Too</b> can either mean \"\"also\"\" or \"\"excessive\"\". <b>Two</b> is the number after \"\"one\"\".\n\n\n\n<br>",
       "ruleNumber": 281,
@@ -9949,7 +9922,7 @@
       },
       "title": "To, Too, & Two"
     },
-    {
+    "282": {
       "classification": 3,
       "description": "\"\"<b>Your:</b> I need to borrow <b>your</b> umbrella.\n\n\n\n<b>You're:</b> I hope that <b>you're</b> going to lend me one.\n\n\n\n<br>\n\n\n\n\n\n\n\nWe use <b>your</b> when something belongs to \"\"you.\"\"  <b>You're</b> means \"\"you are.\"\"\n\n\n\n<br>",
       "ruleNumber": 282,
@@ -9959,7 +9932,7 @@
       },
       "title": "Your vs. You're"
     },
-    {
+    "283": {
       "classification": 2,
       "description": "",
       "ruleNumber": 283,
@@ -9973,7 +9946,7 @@
       },
       "title": "Practice: You're, Your"
     },
-    {
+    "284": {
       "classification": 3,
       "description": "<b>Your:</b> I need to borrow <b>your</b> umbrella.\n\n\n\n<b>You're:</b> I hope that <b>you're</b> going to lend me one.\n\n\n\n<br>\n\n\n\n\n\n\n\nWe use <b>your</b> when something belongs to you.  <b>You're</b> means you are.\n\n\n\n<br>",
       "ruleNumber": 284,
@@ -9983,7 +9956,7 @@
       },
       "title": "Your vs. You're"
     },
-    {
+    "285": {
       "classification": 27,
       "description": "<b>That:</b> The new classrooms <u>that</u> had their walls painted look great.\n\n<b>Which:</b> The new classrooms, <b>which</b> had their walls painted, look great.\n\n<br>\n\nWe use <b>which</b> to give more details about something (new classrooms), but the details don't change the meaning of the sentence. In the first example, using \"\"that\"\" means <i>only</i> the painted classrooms look great. In the second example, using <b>which</b> means that the new classrooms look great, and they also <i>happen</i> to be painted. We usually place commas before <b>which</b>.\n\n<br>",
       "ruleNumber": 285,
@@ -9992,7 +9965,7 @@
       },
       "title": "Which"
     },
-    {
+    "286": {
       "classification": 27,
       "description": "<b>That:</b> The new classrooms <u>that</u> had their walls painted look great.\n<b>Which:</b> The new classrooms, <b>which</b> had their walls painted, look great.\n<br>\nWe use <b>which</b> to give more details about something (new classrooms), but the details don't change the meaning of the sentence. In the first example, using \"\"that\"\" means <i>only</i> the painted classrooms look great. In the second example, using <b>which</b> means that the new classrooms look great, and they also <i>happen</i> to be painted. We usually place commas before <b>which</b>.\n<br>",
       "ruleNumber": 286,
@@ -10008,7 +9981,7 @@
       },
       "title": "Which"
     },
-    {
+    "287": {
       "classification": 27,
       "description": "<b>Correct:</b> Have you met the girl <b>who</b> started in grade 7 last week?\n\n<b>Incorrect:</b> Have you met the girl <u>that</u> started in grade 7 last week?\n\n<br>\n\nWe use <b>who</b> to give more details about a person (the girl). <b>Who</b> is used for someone (the girl) who <i>does</i> an action (started in grade 7) instead of <u>receiving</u> an action.\n\n<br>",
       "ruleNumber": 287,
@@ -10018,7 +9991,7 @@
       },
       "title": "Who"
     },
-    {
+    "288": {
       "classification": 27,
       "description": "<b>Correct:</b> Let's go to the living room, <b>where</b> we will serve drinks.\n\n<b>Incorrect:</b> Let's go to the living room, <u>when</u> we will serve drinks.\n\n<br>\n\n<b>Where</b> is used to talk about something happening (serve drinks) in, on, or at a certain place (living room).\n\n<br>",
       "ruleNumber": 288,
@@ -10028,7 +10001,7 @@
       },
       "title": "Where"
     },
-    {
+    "289": {
       "classification": 27,
       "description": "<b>Correct:</b> My friend Steve, <b>whose</b> <u>job</u> is fun, loves going to work.\n\n<b>Incorrect:</b> My friend Steve, <b>who</b> <u>job</u> is fun, loves going to work.\n\n<br>\n\nWe use <b>whose</b> to give more details about something the subject (Steve) owns (<u>job</u>).\n\n<br>",
       "ruleNumber": 289,
@@ -10038,7 +10011,7 @@
       },
       "title": "Whose"
     },
-    {
+    "290": {
       "classification": 27,
       "description": "<b>Correct:</b> My friend Steve, <b>whose</b> <u>job</u> is fun, loves going to work.\n<b>Incorrect:</b> My friend Steve, <u>who job</u> is fun, loves going to work.\n<br>\nWe use <b>whose</b> to give more details about something the subject (Steve) owns (<u>job</u>).\n<br>",
       "ruleNumber": 290,
@@ -10055,7 +10028,7 @@
       },
       "title": "Whose"
     },
-    {
+    "291": {
       "classification": 27,
       "description": "\"\"<b>Incorrect:</b> Did you get the email <u>who</u> I sent this morning?\n\n<b>Correct:</b> Did you get the email <b>that</b> I sent this morning?\n\n<br>\n\nWe use <b>that</b> to give more details about an <i>object</i> (the email).\n\nUnlike \"\"\"\"which\"\"\"\", we use <b>that</b> when the details are are important to the meaning of the sentence (<b>that</b> I sent this morning). We usually don't place commas before <b>that</b>.\n\n<br>\"\"",
       "ruleNumber": 291,
@@ -10065,7 +10038,7 @@
       },
       "title": "That"
     },
-    {
+    "292": {
       "classification": 27,
       "description": "<b>Correct:</b> My favorite time of year is autumn, <b>when</b> all the leaves change color.\n\n<b>Incorrect:</b> My favorite time of year is autumn, <u>where</u> all the leaves change color.\n\n<br>\n\n<b>When</b> is used to to talk about something happening (leaves change color) in on, or at a certain time (autumn).\n\n<br>",
       "ruleNumber": 292,
@@ -10075,7 +10048,7 @@
       },
       "title": "When"
     },
-    {
+    "293": {
       "classification": 27,
       "description": "\"\"<b>Correct:</b> My father, <b>whom</b> <u>I respect</u>, is a self-made man.\n\n<b>Incorrect:</b> My father, <u>who I respect</u>, is a self-made man.\n\n<br>\n\nWe use <b>whom</b> to give more details about someone (My father) who <i>receives</i> an action (<u>I respect</u>) instead of <i>doing</i> an action. The example above says that someone (<u>I</u>) respects her father, which means that \"\"\"\"father\"\"\"\" receives the action, \"\"\"\"respect\"\"\"\".\n\n<br>\n\n\"\"",
       "ruleNumber": 293,
@@ -10085,7 +10058,7 @@
       },
       "title": "Whom"
     },
-    {
+    "294": {
       "classification": 27,
       "description": "<b>Correct:</b> My father, <b>whom</b> <u>I respect</u>, is a self-made man.\n<b>Incorrect:</b> My father, <u>who I respect</u>, is a self-made man.\n<br>\nWe use <b>whom</b> to give more details about someone (My father) who <i>receives</i> an action (<u>I respect</u>) instead of <i>doing</i> an action. The example above says that someone (<u>I</u>) respects her father, which means that \"\"father\"\" receives the action, \"\"respect\"\".\n<br>",
       "ruleNumber": 294,
@@ -10099,7 +10072,7 @@
       },
       "title": "Whom"
     },
-    {
+    "295": {
       "classification": 27,
       "description": "<b>Correct:</b> Please tell me <b>why</b> you missed the meeting.\n\n<b>Incorrect:</b> Please tell me <u>where</u> you missed the meeting.\n\n<br>\n\n<b>Why</b> is used to talk about something happening (missed the meeting) for a certain reason.\n\n<br>",
       "ruleNumber": 295,
@@ -10109,7 +10082,7 @@
       },
       "title": "Why"
     },
-    {
+    "296": {
       "classification": 27,
       "description": "<b>That:</b> The new classrooms <u>that</u> had their walls painted look great.\n<b>Which:</b> The new classrooms, <b>which</b> had their walls painted, look great.\n<br>\nWe use <b>which</b> to give more details about something (new classrooms), but the details don't change the meaning of the sentence. In the first example, using \"\"that\"\" means <i>only</i> the painted classrooms look great. In the second example, using <b>which</b> means that the new classrooms look great, and they also <i>happen</i> to be painted. We usually place commas before <b>which</b>.\n<br>",
       "ruleNumber": 296,
@@ -10118,7 +10091,7 @@
       },
       "title": "Which"
     },
-    {
+    "297": {
       "classification": 27,
       "description": "<b>That:</b> The new classrooms <u>that</u> had their walls painted look great.\n<b>Which:</b> The new classrooms, <b>which</b> had their walls painted, look great.\n<br>\nWe use <b>which</b> to give more details about something (new classrooms), but the details don't change the meaning of the sentence. In the first example, using \"\"that\"\" means <i>only</i> the painted classrooms look great. In the second example, using <b>which</b> means that the new classrooms look great, and they also <i>happen</i> to be painted. We usually place commas before <b>which</b>.\n<br>",
       "ruleNumber": 297,
@@ -10127,7 +10100,7 @@
       },
       "title": "Which"
     },
-    {
+    "298": {
       "classification": 27,
       "description": "<b>Correct:</b> Let's go to the living room, <b>where</b> we will serve drinks.\n<b>Incorrect:</b> Let's go to the living room, <u>when</u> we will serve drinks.\n<br>\n<b>Where</b> is used to talk about something happening (serve drinks) in, on, or at a certain place (living room).\n<br>",
       "ruleNumber": 298,
@@ -10137,7 +10110,7 @@
       },
       "title": "Where"
     },
-    {
+    "299": {
       "classification": 27,
       "description": "<b>Correct:</b> My favorite time of year is autumn, <b>when</b> all the leaves change color.\n<b>Incorrect:</b> My favorite time of year is autumn, <u>where</u> all the leaves change color.\n<br>\n<b>When</b> is used to to talk about something happening (leaves change color) in on, or at a certain time (autumn).\n<br>",
       "ruleNumber": 299,
@@ -10146,7 +10119,7 @@
       },
       "title": "When"
     },
-    {
+    "300": {
       "classification": 27,
       "description": "<b>Correct:</b> Have you met the girl <b>who</b> started in grade 7 last week?\n<b>Incorrect:</b> Have you met the girl <u>that</u> started in grade 7 last week?\n<br>\nWe use <b>who</b> to give more details about a person (the girl). <b>Who</b> is used for someone (the girl) who <i>does</i> an action (started in grade 7) instead of <u>receiving</u> an action.\n<br>",
       "ruleNumber": 300,
@@ -10155,7 +10128,7 @@
       },
       "title": "Who"
     },
-    {
+    "301": {
       "classification": 27,
       "description": "<b>Correct:</b> Have you met the girl <b>who</b> started in grade 7 last week?\n<b>Incorrect:</b> Have you met the girl <u>that</u> started in grade 7 last week?\n<br>\nWe use <b>who</b> to give more details about a person (the girl). <b>Who</b> is used for someone (the girl) who <i>does</i> an action (started in grade 7) instead of <u>receiving</u> an action.\n<br>",
       "ruleNumber": 301,
@@ -10166,7 +10139,7 @@
       },
       "title": "Who"
     },
-    {
+    "302": {
       "classification": 27,
       "description": "<b>Correct:</b> My friend Steve, <b>whose</b> <u>job</u> is fun, loves going to work.\n<b>Incorrect:</b> My friend Steve, <u>who job</u> is fun, loves going to work.\n<br>\nWe use <b>whose</b> to give more details about something the subject (Steve) owns (<u>job</u>).\n<br>",
       "ruleNumber": 302,
@@ -10175,7 +10148,7 @@
       },
       "title": "Whose"
     },
-    {
+    "304": {
       "classification": 27,
       "description": "<b>Incorrect:</b> Did you get the email <u>who</u> I sent this morning?\n<b>Correct:</b> Did you get the email <b>that</b> I sent this morning?\n<br>\nWe use <b>that</b> to give more details about an <i>object</i> (the email).\nUnlike \"\"which\"\", we use <b>that</b> when the details are are important to the meaning of the sentence (<b>that</b> I sent this morning). We usually don't place commas before <b>that</b>.\n<br>",
       "ruleNumber": 304,
@@ -10185,7 +10158,7 @@
       },
       "title": "That"
     },
-    {
+    "305": {
       "classification": 27,
       "description": "<b>Incorrect:</b> Did you get the email <u>who</u> I sent this morning?\n<b>Correct:</b> Did you get the email <b>that</b> I sent this morning?\n<br>\nWe use <b>that</b> to give more details about an <i>object</i> (the email).\nUnlike \"\"which\"\", we use <b>that</b> when the details are are important to the meaning of the sentence (<b>that</b> I sent this morning). We usually don't place commas before <b>that</b>.\n<br>",
       "ruleNumber": 305,
@@ -10195,7 +10168,7 @@
       },
       "title": "That"
     },
-    {
+    "306": {
       "classification": 27,
       "description": "<b>Correct:</b> Please tell me <b>why</b> you missed the meeting.\n<b>Incorrect:</b> Please tell me <u>where</u> you missed the meeting.\n<br>\n<b>Why</b> is used to talk about something happening (missed the meeting) for a certain reason.\n<br>",
       "ruleNumber": 306,
@@ -10205,7 +10178,7 @@
       },
       "title": "Why"
     },
-    {
+    "307": {
       "classification": 27,
       "description": "<b>Correct:</b> Have you met the girl <b>who</b> started in grade 7 last week?\n<b>Incorrect:</b> Have you met the girl <u>that</u> started in grade 7 last week?\n<br>\nWe use <b>who</b> to give more details about a person (the girl). <b>Who</b> is used for someone (the girl) who <i>does</i> an action (started in grade 7) instead of <u>receiving</u> an action.\n<br>",
       "ruleNumber": 307,
@@ -10215,7 +10188,7 @@
       },
       "title": "Who"
     },
-    {
+    "308": {
       "classification": 27,
       "description": "<b>Correct:</b> Have you met the girl <b>who</b> started in grade 7 last week?\n<b>Incorrect:</b> Have you met the girl <u>that</u> started in grade 7 last week?\n<br>\nWe use <b>who</b> to give more details about a person (the girl). <b>Who</b> is used for someone (the girl) who <i>does</i> an action (started in grade 7) instead of <u>receiving</u> an action.\n<br>",
       "ruleNumber": 308,
@@ -10232,7 +10205,7 @@
       },
       "title": "Practice: Whose, Whom, Who"
     },
-    {
+    "309": {
       "classification": 27,
       "description": "<b>Correct:</b> My friend Steve, <b>whose</b> <u>job</u> is fun, loves going to work.\n<b>Incorrect:</b> My friend Steve, <u>who job</u> is fun, loves going to work.\n<br>\nWe use <b>whose</b> to give more details about something the subject (Steve) owns (<u>job</u>).\n<br>",
       "ruleNumber": 309,
@@ -10242,7 +10215,7 @@
       },
       "title": "Whose"
     },
-    {
+    "310": {
       "classification": 27,
       "description": "<b>Correct:</b> My father, <b>whom</b> <u>I respect</u>, is a self-made man.\n<b>Incorrect:</b> My father, <u>who I respect</u>, is a self-made man.\n<br>\nWe use <b>whom</b> to give more details about someone (My father) who <i>receives</i> an action (<u>I respect</u>) instead of <i>doing</i> an action. The example above says that someone (<u>I</u>) respects her father, which means that \"\"father\"\" receives the action, \"\"respect\"\".\n<br>",
       "ruleNumber": 310,
@@ -10252,7 +10225,7 @@
       },
       "title": "Whom"
     },
-    {
+    "311": {
       "classification": 27,
       "description": "<b>That:</b> The new classrooms <u>that</u> had their walls painted look great.\n<b>Which:</b> The new classrooms, <b>which</b> had their walls painted, look great.\n<br>\nWe use <b>which</b> to give more details about something (new classrooms), but the details don't change the meaning of the sentence. In the first example, using \"\"that\"\" means <i>only</i> the painted classrooms look great. In the second example, using <b>which</b> means that the new classrooms look great, and they also <i>happen</i> to be painted. We usually place commas before <b>which</b>.\n<br>",
       "ruleNumber": 311,
@@ -10261,7 +10234,7 @@
       },
       "title": "Which"
     },
-    {
+    "312": {
       "classification": 27,
       "description": "<b>That:</b> The new classrooms <u>that</u> had their walls painted look great.\n<b>Which:</b> The new classrooms, <b>which</b> had their walls painted, look great.\n<br>\nWe use <b>which</b> to give more details about something (new classrooms), but the details don't change the meaning of the sentence. In the first example, using \"\"that\"\" means <i>only</i> the painted classrooms look great. In the second example, using <b>which</b> means that the new classrooms look great, and they also <i>happen</i> to be painted. We usually place commas before <b>which</b>.\n<br>",
       "ruleNumber": 312,
@@ -10274,7 +10247,7 @@
       },
       "title": "Practice: Which, That"
     },
-    {
+    "313": {
       "classification": 27,
       "description": "<b>Incorrect:</b> Did you get the email <u>who</u> I sent this morning?\n<b>Correct:</b> Did you get the email <b>that</b> I sent this morning?\n<br>\nWe use <b>that</b> to give more details about an <i>object</i> (the email).\nUnlike \"\"which\"\", we use <b>that</b> when the details are are important to the meaning of the sentence (<b>that</b> I sent this morning). We usually don't place commas before <b>that</b>.\n<br>",
       "ruleNumber": 313,
@@ -10284,7 +10257,7 @@
       },
       "title": "That"
     },
-    {
+    "314": {
       "classification": 27,
       "description": "<b>Correct:</b> Let's go to the living room, <b>where</b> we will serve drinks.\n<b>Incorrect:</b> Let's go to the living room, <u>when</u> we will serve drinks.\n<br>\n<b>Where</b> is used to talk about something happening (serve drinks) in, on, or at a certain place (living room).\n<br>",
       "ruleNumber": 314,
@@ -10294,7 +10267,7 @@
       },
       "title": "Where"
     },
-    {
+    "315": {
       "classification": 27,
       "description": "<b>Correct:</b> Let's go to the living room, <b>where</b> we will serve drinks.\n<b>Incorrect:</b> Let's go to the living room, <u>when</u> we will serve drinks.\n<br>\n<b>Where</b> is used to talk about something happening (serve drinks) in, on, or at a certain place (living room).\n<br>",
       "ruleNumber": 315,
@@ -10311,7 +10284,7 @@
       },
       "title": "Practice: Where, Why, When"
     },
-    {
+    "316": {
       "classification": 27,
       "description": "<b>Correct:</b> My favorite time of year is autumn, <b>when</b> all the leaves change color.\n<b>Incorrect:</b> My favorite time of year is autumn, <u>where</u> all the leaves change color.\n<br>\n<b>When</b> is used to to talk about something happening (leaves change color) in on, or at a certain time (autumn).\n<br>",
       "ruleNumber": 316,
@@ -10321,7 +10294,7 @@
       },
       "title": "When"
     },
-    {
+    "317": {
       "classification": 27,
       "description": "<b>Correct:</b> Please tell me <b>why</b> you missed the meeting.\n<b>Incorrect:</b> Please tell me <u>where</u> you missed the meeting.\n<br>\n<b>Why</b> is used to talk about something happening (missed the meeting) for a certain reason.\n<br>",
       "ruleNumber": 317,
@@ -10331,7 +10304,7 @@
       },
       "title": "Why"
     },
-    {
+    "318": {
       "classification": 32,
       "description": "<b>Simple Present:</b> Jesse <u>thinks</u> about seagulls.\n\n<b>Present Progressive:</b> Jesse <b>is thinking</b> about seagulls right now.\n\n<br>\n\nPresent progressive tense describes an ongoing action that is happening <i>right now</i> (Jesse <b>is thinking</b> right now). This tense is made by putting words like \"\"am\"\", \"\"is\"\", and \"\"are\"\" before the verb, and adding \"\"ing\"\" to the end of the verb (<b>is</b> think<b>ing</b>).\n\n<br>",
       "ruleNumber": 318,
@@ -10341,7 +10314,7 @@
       },
       "title": "Present Progressive"
     },
-    {
+    "319": {
       "classification": 32,
       "description": "<b>Simple Present:</b> Jesse <u>thinks</u> about seagulls.\n<b>Present Progressive:</b> Jesse <b>is thinking</b> about seagulls right now.\n<br>\nPresent progressive tense describes an ongoing action that is happening <i>right now</i> (Jesse <b>is thinking</b> right now). This tense is made by putting words like “am,” “is”, and “are” before the verb, and adding “ing” to the end of the verb (<b>is</b> think<b>ing</b>).\n<br>",
       "ruleNumber": 319,
@@ -10361,7 +10334,16 @@
       },
       "title": "Practice: Progressive Tense"
     },
-    {
+    "32": {
+      "classification": 58,
+      "description": "<b>Close by: This</b> picture here is crooked.\n<b>Further away: That</b> picture over there is crooked.\n<br>\nYou use <b>this</b> and <b>that</b> when you are talking a single thing (a picture). You use <b>this</b> for things near you and <b>that</b> for things further away.\n<br>",
+      "ruleNumber": 32,
+      "ruleQuestions": {
+        "1120": true
+      },
+      "title": "This & That"
+    },
+    "320": {
       "classification": 33,
       "description": "<b>Simple Past:</b> James <u>cleaned</u> the mess he made when his mom walked in the room.\n\n<b>Past Progressive:</b> James <b>was cleaning</b> the mess he made when his mom walked in the room.\n\n<br>\n\nPast progressive tense describes something which was happening (<b>was cleaning</b>) when something else occurred (mom walked in). This tense is made by putting words like\"\"am\"\", \"\"is\"\", and \"\"are\"\" before the verb, and adding \"\"ing\"\" at the end of the verb (<b>was</b> clean<b>ing</b>).\n\n<br>",
       "ruleNumber": 320,
@@ -10371,7 +10353,7 @@
       },
       "title": "Past Progressive"
     },
-    {
+    "321": {
       "classification": 73,
       "description": "<b>Simple Future:</b> Alice <u>will watch</u> TV when her mother comes home.\n\n<b>Future Progressive:</b> Alice <b>will be watching</b> TV when her mother comes home.\n\n<br>\n\nFuture progressive tense describes an ongoing action (<b>watching</b> tv) that will take place in the future (when her mother comes home). This tense is made by putting words like \"\"am\"\", \"\"is\"\", and \"\"are\"\" before the verb, and adding \"\"ing\"\" to the end of the verb (<b>will be</b> watch<b>ing</b>).\n\n<br>",
       "ruleNumber": 321,
@@ -10381,7 +10363,7 @@
       },
       "title": "Future Progressive"
     },
-    {
+    "322": {
       "classification": 55,
       "description": "<b>Correct:</b> James is <b>taller</b> than Steve.\n\n<b>Incorrect:</b> Jame is <u>more tall</u> than Steve.\n\n\n\nComparative adjectives tell us how one thing (James) is \"\"more\"\" or \"\"less\"\" than another thing (Steve). Regular comparative adjectives are formed by adding \"\"er\"\" to the end of a word (**taller**).",
       "ruleNumber": 322,
@@ -10391,7 +10373,7 @@
       },
       "title": "Comparative Adjectives"
     },
-    {
+    "323": {
       "classification": 55,
       "description": "<b>Correct:</b> James is <b>taller</b> than Steve.\n<b>Incorrect:</b> Jame is <u>more tall</u> than Steve.\n\nComparative adjectives tell us how one thing (James) is \"\"more\"\" or \"\"less\"\" than another thing (Steve). Regular comparative adjectives are formed by adding \"\"er\"\" to the end of a word (**taller**).",
       "ruleNumber": 323,
@@ -10406,7 +10388,7 @@
       },
       "title": "Practice: Comparative and Superlative Adjectives"
     },
-    {
+    "324": {
       "classification": 56,
       "description": "<b>Correct:</b> James is the <b>tallest</b> guy in school.\n\n<b>Incorrect:</b> James is the <u>most tall</u> guy in school.\n\n\n\nSuperlative adjectives tell us how one thing (James) is the \"\"most\"\" or \"\"least\"\". Regular superlative adjectives are formed by adding \"\"est\"\" to the end of a word (**tallest**).",
       "ruleNumber": 324,
@@ -10416,7 +10398,7 @@
       },
       "title": "Superlative Adjectives"
     },
-    {
+    "325": {
       "classification": 55,
       "description": "<b>Correct:</b> Papayas are considered to be <b>healthier</b> than bananas.\n\n<b>Incorrect:</b> Papayas are considered to be <u>healthyer</u> than bananas.\n\n\n\nTo make an adjective ending in \"\"y\"\" (healthy) comparative, we change the \"\"y\"\" to an \"\"ier\"\" to the end of the word (**healthier**).",
       "ruleNumber": 325,
@@ -10426,7 +10408,7 @@
       },
       "title": "Adjectives Ending in \"\"y\"\""
     },
-    {
+    "326": {
       "classification": 55,
       "description": "<b>Correct:</b> Papayas are considered to be <b>healthier</b> than bananas.\n<b>Incorrect:</b> Papayas are considered to be <u>healthyer</u> than bananas.\n\nTo make an adjective ending in \"\"y\"\" (healthy) comparative, we change the \"\"y\"\" to an \"\"ier\"\" to the end of the word (**healthier**).",
       "ruleNumber": 326,
@@ -10440,7 +10422,7 @@
       },
       "title": "Practice: Comparative and Superlative Adjectives Ending in \"\"y\"\""
     },
-    {
+    "327": {
       "classification": 56,
       "description": "Correct: Are papayas the <b>healthiest</b> fruit of all?\n\nIncorrect: Are papayas the <u>healthyest</u> fruitof all?\n\n\n\nTo make an adjective ending in \"\"y\"\" (healthy) superlative, we change the \"\"y\"\" to an \"\"iest\"\" to the end of the word (**healthiest**).",
       "ruleNumber": 327,
@@ -10450,7 +10432,7 @@
       },
       "title": "Adjectives ending in \"\"y\"\" (Superlative)"
     },
-    {
+    "328": {
       "classification": 57,
       "description": "\"\"<b>Correct:</b> Who here is the <b>best</b> at playing chess?\n\n<b>Incorrect:</b> Who here is the <u>goodest</u> at playing chess?\n\n\n\nThe comparative adjective for \"\"\"\"good\"\"\"\" is <b>better</b>. The superlative adjective for \"\"\"\"good\"\"\"\" is <b>best</b>.\"\"",
       "ruleNumber": 328,
@@ -10460,7 +10442,7 @@
       },
       "title": "Better & Best"
     },
-    {
+    "329": {
       "classification": 57,
       "description": "<b>Correct:</b> Who here is the <b>best</b> at playing chess?\n<b>Incorrect:</b> Who here is the <u>goodest</u> at playing chess?\n\nThe comparative adjective for \"\"good\"\" is <b>better</b>. The superlative adjective for \"\"good\"\" is <b>best</b>.",
       "ruleNumber": 329,
@@ -10472,7 +10454,7 @@
       },
       "title": "Practice: Better & Best, Worse & Worst"
     },
-    {
+    "330": {
       "classification": 57,
       "description": "<b>Correct:</b> It is <b>worse</b> to have never tried than to fail.\n\n<b>Incorrect:</b> It is <u>badder</u> to have never tried than to fail.\n\n\n\nThe comparative adjective for \"\"bad\"\" is <b>worse</b>. The superlative adjective for \"\"bad\"\" is <b>worst</b>.",
       "ruleNumber": 330,
@@ -10482,7 +10464,7 @@
       },
       "title": "Worse & Worst"
     },
-    {
+    "331": {
       "classification": 0,
       "description": "<b>Correct:</b> My favorite book is called <i>A Return to the Beginnings of Time and Space.</i>\n\n<b>Incorrect:</b> My favorite book is called <i>A return to the beginnings of time and space.</i>\n\n\n\nWhen we write out titles, we always capitalize the first word in the title along with proper nouns and longer words. \n\n\n\nSmaller words like articles (the), conjunctions (but), and prepositions (to) remain in the lower case.",
       "ruleNumber": 331,
@@ -10492,7 +10474,7 @@
       },
       "title": "Capitalize Appropriate Words in Titles"
     },
-    {
+    "332": {
       "classification": 0,
       "description": "<b>Correct:</b> My favorite book is called <i>A Return to the Beginnings of Time and Space.</i>\n<b>Incorrect:</b> My favorite book is called <i>A return to the beginnings of time and space.</i>\n\nWhen we write out titles, we always capitalize the first word in the title along with proper nouns and longer words. \n\nSmaller words like articles (the), conjunctions (but), and prepositions (to) remain in the lower case.",
       "ruleNumber": 332,
@@ -10507,7 +10489,7 @@
       },
       "title": "Practice: Capitalize Appropriate Words in Titles"
     },
-    {
+    "333": {
       "classification": 19,
       "description": "<b>Correct:</b> He <b>broke</b> my favorite cup.\n\n<b>Incorrect:</b> He <u>breaked</u> my favorite cup.\n\n<br>\n\nThe past tense of \"\"\"\"break\"\"\"\" is <b>broke</b>.\n\n<br>",
       "ruleNumber": 333,
@@ -10517,7 +10499,7 @@
       },
       "title": "Broke"
     },
-    {
+    "334": {
       "classification": 2,
       "description": "",
       "ruleNumber": 334,
@@ -10530,7 +10512,7 @@
       },
       "title": "Practice: Built/Build, Break/Broke"
     },
-    {
+    "335": {
       "classification": 19,
       "description": "<b>Correct:</b> My mom <b>built</b> that chicken coop last year.\n\n<b>Incorrect:</b> My mom <u>builded</u> that chicken coop last year.\n\n<br>\n\nThe past tense of \"\"\"\"build\"\"\"\" is <b>built</b>.\n\n<br>",
       "ruleNumber": 335,
@@ -10540,7 +10522,7 @@
       },
       "title": "Built"
     },
-    {
+    "336": {
       "classification": 19,
       "description": "<b>Correct:</b> I'm glad you <b>came</b> to my party.\n\n<b>Incorrect:</b> I'm glad you <u>comed</u> to my party.\n\n<br>\n\nThe past tense of \"\"come\"\" is <b>came</b>.\n\n<br>",
       "ruleNumber": 336,
@@ -10550,7 +10532,7 @@
       },
       "title": "Came"
     },
-    {
+    "337": {
       "classification": 19,
       "description": "<b>Correct:</b> I'm glad you <b>came</b> to my party.\n<b>Incorrect:</b> I'm glad you <u>comed</u> to my party.\n<br>\nThe past tense of \"\"come\"\" is <b>came</b>.\n<br>",
       "ruleNumber": 337,
@@ -10561,7 +10543,7 @@
       },
       "title": "Practice: Came, Went, Did"
     },
-    {
+    "338": {
       "classification": 19,
       "description": "<b>Correct:</b> I <b>did</b> too much work today.\n\n<b>Incorrect:</b> I <u>doe</u>d too much work today.\n\n<br>\n\nThe past tense of \"\"do\"\" is <b>did</b>.\n\n<br>",
       "ruleNumber": 338,
@@ -10571,7 +10553,7 @@
       },
       "title": "Did"
     },
-    {
+    "339": {
       "classification": 19,
       "description": "<b>Correct:</b> My friends and I <b>went</b> shopping an hour ago.\n\n<b>Incorrect:</b> My friends and I <u>goed</u> shopping an hour ago.\n\n<br>\n\nThe past tense of \"\"go\"\" is <b>went</b>.\n\n<br>",
       "ruleNumber": 339,
@@ -10581,7 +10563,7 @@
       },
       "title": "Went"
     },
-    {
+    "340": {
       "classification": 19,
       "description": "<b>Correct:</b> My brother <b>wrote</b> me an email, but I never received it.\n\n<b>Incorrect:</b> My brother <u>writed</u> me an email, but I never received it.\n\n<br>\n\nThe past tense of \"\"\"\"write\"\"\"\" is <b>wrote</b>.\n\n<br>",
       "ruleNumber": 340,
@@ -10591,7 +10573,7 @@
       },
       "title": "Wrote"
     },
-    {
+    "341": {
       "classification": 19,
       "description": "<b>Correct:</b> My brother <b>wrote</b> me an email, but I never received it.\n<b>Incorrect:</b> My brother <u>writed</u> me an email, but I never received it.\n<br>\nThe past tense of \"\"write\"\" is <b>wrote</b>.\n<br>",
       "ruleNumber": 341,
@@ -10604,7 +10586,7 @@
       },
       "title": "Practice: Wrote, Spoke"
     },
-    {
+    "342": {
       "classification": 19,
       "description": "<b>Correct:</b> That lady <b>spoke</b> to me in a nasty tone.\n\n<b>Incorrect:</b> That lady <u>speaked</u> to me in a nasty tone.\n\n<br>\n\nThe past tense of \"\"\"\"speak\"\"\"\" is <b>spoke</b>.\n\n<br>",
       "ruleNumber": 342,
@@ -10614,7 +10596,7 @@
       },
       "title": "Spoke"
     },
-    {
+    "343": {
       "classification": 19,
       "description": "<b>Correct:</b> Everyone <b>sat</b> quietly while they waited to board the plane.\n<b>Incorrect:</b> Everyone <u>sitted</u> quietly while they waited to board the plane.\n<br>\nThe past tense of \"\"sit\"\" is <b>sat</b>.\n<br>",
       "ruleNumber": 343,
@@ -10625,7 +10607,7 @@
       },
       "title": "Practice: Sat, Hid"
     },
-    {
+    "344": {
       "classification": 19,
       "description": "<b>Correct:</b> Everyone <b>sat</b> quietly while they waited to board the plane.\n\n<b>Incorrect:</b> Everyone <u>sitted</u> quietly while they waited to board the plane.\n\n<br>\n\nThe past tense of \"\"sit\"\" is <b>sat</b>.\n\n<br>",
       "ruleNumber": 344,
@@ -10635,7 +10617,7 @@
       },
       "title": "Sat"
     },
-    {
+    "345": {
       "classification": 19,
       "description": "<b>Correct:</b> Janice <u>hid</u> a note in my backpack.\n\n<b>Incorrect:</b> Janice <u>hided</u> a note in my backpack.\n\n<br>\n\nThe past tense of \"\"hide\"\" is <u>hid</u>.\n\n<br>",
       "ruleNumber": 345,
@@ -10645,7 +10627,7 @@
       },
       "title": "Hid"
     },
-    {
+    "346": {
       "classification": 19,
       "description": "<b>Correct:</b> In middle school, Lisa <b>knew</b> more about animals than anyone else.\n\n<b>Incorrect:</b> In middle school, Lisa <u>knowed</u> more about animals than anyone else.\n\n<br>\n\nThe past tense of \"\"know\"\" is <b>knew</b>.\n\n<br>",
       "ruleNumber": 346,
@@ -10654,7 +10636,7 @@
       },
       "title": "Knew"
     },
-    {
+    "347": {
       "classification": 19,
       "description": "<b>Correct:</b> In middle school, Lisa <b>knew</b> more about animals than anyone else.\n<b>Incorrect:</b> In middle school, Lisa <u>knowed</u> more about animals than anyone else.\n<br>\nThe past tense of \"\"know\"\" is <b>knew</b>.\n<br>",
       "ruleNumber": 347,
@@ -10669,7 +10651,7 @@
       },
       "title": "Practice: Knew, Made, Became"
     },
-    {
+    "348": {
       "classification": 19,
       "description": "<b>Correct:</b> I <u>made</u> a vase out of clay.\n\n<b>Incorrect:</b> I <u>maked</u> a vase out of clay.\n\n<br>\n\nThe past tense of \"\"make\"\" is <b>made</b>.\n\n<br>",
       "ruleNumber": 348,
@@ -10678,7 +10660,7 @@
       },
       "title": "Made"
     },
-    {
+    "349": {
       "classification": 19,
       "description": "<b>Correct:</b> After three years of practice, I <b>became</b> a skillful archer.\n\n<b>Incorrect:</b> After three years of practice, I <u>becomed</u> a skillful archer.\n\n<br>\n\nThe past tense of \"\"become\"\" is <b>became</b>.\n\n<br>",
       "ruleNumber": 349,
@@ -10687,7 +10669,7 @@
       },
       "title": "Became"
     },
-    {
+    "350": {
       "classification": 19,
       "description": "<b>Correct:</b> We saw a wild boar the other day in the woods.\n\n<b>Incorrect:</b> We seen a wild boar the other day in the woods.\n\n<br>\n\nThe past tense of \"\"see\"\" is <b>saw</b>.",
       "ruleNumber": 350,
@@ -10696,7 +10678,7 @@
       },
       "title": "Saw"
     },
-    {
+    "351": {
       "classification": 19,
       "description": "<b>Correct:</b> We saw a wild boar the other day in the woods.\n<b>Incorrect:</b> We seen a wild boar the other day in the woods.\n<br>\nThe past tense of \"\"see\"\" is <b>saw</b>.",
       "ruleNumber": 351,
@@ -10710,7 +10692,7 @@
       },
       "title": "Practice: Saw, Dug, Found"
     },
-    {
+    "352": {
       "classification": 19,
       "description": "<b>Incorrect:</b> The fox quickly <u>digged</u> a hole in the snow to keep warm.\n\n<b>Correct:</b> The fox quickly <b>dug</b> a hole in the snow to keep warm.\n\n<br>\n\nThe past tense of \"\"dig\"\" is <b>dug</b>.",
       "ruleNumber": 352,
@@ -10719,7 +10701,7 @@
       },
       "title": "Dug"
     },
-    {
+    "353": {
       "classification": 19,
       "description": "<b>Correct:</b> I finally <b>found</b> my phone in my backpack.\n\n<b>Incorrect:</b> I finally <u>finded</u> my phone in my backpack.\n\n<br>\n\nThe past tense of \"\"find\"\" is <b>found</b>.\n\n<br>",
       "ruleNumber": 353,
@@ -10728,7 +10710,7 @@
       },
       "title": "Found"
     },
-    {
+    "354": {
       "classification": 26,
       "description": "<b>Reflexive:</b> I hit <b>myself</b> with a ball playing soccer yesterday.\n\n<b>Non-Reflexive:</b> I was hit with a ball while playing soccer yesterday.\n\n<br>\n\nIf a subject (I) does something to itself, we use a reflexive pronoun (<b>myself</b>). In the second example, the subject (I) does not do something to itself, so we do not use a reflexive pronoun.\n\n<br>",
       "ruleNumber": 354,
@@ -10737,7 +10719,7 @@
       },
       "title": "Myself"
     },
-    {
+    "355": {
       "classification": 26,
       "description": "<b>Reflexive:</b> I hit <b>myself</b> with a ball playing soccer yesterday.\n<b>Non-Reflexive:</b> I was hit with a ball while playing soccer yesterday.\n<br>\nIf a subject (I) does something to itself, we use a reflexive pronoun (<b>myself</b>). In the second example, the subject (I) does not do something to itself, so we do not use a reflexive pronoun.\n<br>",
       "ruleNumber": 355,
@@ -10751,7 +10733,7 @@
       },
       "title": "Practice: Myself, Yourself"
     },
-    {
+    "356": {
       "classification": 26,
       "description": "<b>Reflexive:</b> Why don't you lift <b>yourself</b> out of the hole?\n\n<b>Non-Reflexive:</b> Why don't you lift Alex out of the hole?\n\n<br>\n\nIf a subject (you) does something to its itself, we use a reflexive pronoun (<b>yourself</b>). Sentences where the subject (you) does not do something to itself (Alex) do not use a reflexive pronoun.\n\n<br>",
       "ruleNumber": 356,
@@ -10760,7 +10742,7 @@
       },
       "title": "Yourself"
     },
-    {
+    "357": {
       "classification": 26,
       "description": "<b>Reflexive:</b> I see that you all really applied <b>yourselves</b> for this assignment.\n\n<b>Non-Reflexive:</b> I see that you worked really hard for this assignment.\n\n<br>\n\nWhen we address multiple people (you all) doing something to themselves, we use a reflexive pronoun (<b>yourselves</b>).\n\n<br>",
       "ruleNumber": 357,
@@ -10769,7 +10751,7 @@
       },
       "title": "Yourselves"
     },
-    {
+    "358": {
       "classification": 26,
       "description": "<b>Reflexive:</b> Steven sees <b>himself</b> becoming team captain one day.\n\n<b>Non-Reflexive:</b> I see Steven becoming team captain one day.\n\n<br>\n\nIf a male subject (Steven) does something to himself, we use a reflexive pronoun (<b>himself</b>). In the second example, the subject (I) is seeing someone else, so we do not use a reflexive pronoun.\n\n<br>",
       "ruleNumber": 358,
@@ -10778,7 +10760,7 @@
       },
       "title": "Himself"
     },
-    {
+    "359": {
       "classification": 26,
       "description": "<b>Reflexive:</b> Steven sees <b>himself</b> becoming team captain one day.\n<b>Non-Reflexive:</b> I see Steven becoming team captain one day.\n<br>\nIf a male subject (Steven) does something to himself, we use a reflexive pronoun (<b>himself</b>). In the second example, the subject (I) is seeing someone else, so we do not use a reflexive pronoun.\n<br>",
       "ruleNumber": 359,
@@ -10794,7 +10776,7 @@
       },
       "title": "Practice: Themselves, Ourselves, Itself, Herself."
     },
-    {
+    "360": {
       "classification": 26,
       "description": "<b>Reflexive:</b> Jasmine heard <b>herself</b> singing through the speakers.\n\n<b>Non-Reflexive:</b> He heard Jasmine singing through the speakers.\n\n<br>\n\nIf a female subject (Jasmine) does something to herself, we use a reflexive pronoun (<b>herself</b>). In the second example, the subject (He) is listening to someone else, so we do not use a reflexive pronoun.\n\n<br>",
       "ruleNumber": 360,
@@ -10803,7 +10785,7 @@
       },
       "title": "Herself"
     },
-    {
+    "361": {
       "classification": 26,
       "description": "<b>Reflexive:</b> My computer can shut <b>itself</b> off.\n\n<b>Non-Reflexive:</b> I can shut down my computer.\n\n<br>\n\nIf an object (computer) does something to itself, we use a reflexive pronoun (<b>itself</b>). In the second example, the subject of the sentence (I) is shutting the computer down, and not shutting himself down, so we do not use a reflexive pronoun.\n\n<br>",
       "ruleNumber": 361,
@@ -10812,7 +10794,7 @@
       },
       "title": "Itself"
     },
-    {
+    "362": {
       "classification": 79,
       "description": "<b>Reflexive:</b> We worked <b>ourselves</b> to the point of exhaustion.\n\n<b>Non-Reflexive:</b> Our company works almost 80 hours a week.\n\n<br>\n\nIf the subject (We) does something to itself, we use a reflexive pronoun (<b>ourselves</b>). In the second example, the <i>company</i> is making us work instead of <i>us</i> working <b>ourselves</b>, so we do not use a reflexive pronoun.\n\n<br>",
       "ruleNumber": 362,
@@ -10821,7 +10803,7 @@
       },
       "title": "Ourselves"
     },
-    {
+    "363": {
       "classification": 61,
       "description": "<b>Is:</b> John <b>is behind</b> the curtain.\n\n<b>Are:</b> The men <b>are next</b> to the bar.\n\n<b>Am:</b> I <b>am under</b> a bridge.\n\n<br>\n\nA nominal prepositional phrase is used to say where something is. Nominal prepositional phrases (behind the curtain, next to the bar, under a bridge) are placed after the verb <b>to be</b> (is, are, am).\n\n<br>",
       "ruleNumber": 363,
@@ -10830,7 +10812,7 @@
       },
       "title": "At (Time)"
     },
-    {
+    "364": {
       "classification": 61,
       "description": "<b>Correct:</b> I will meet my friend <b>at</b> noon.\n<b>Incorrect:</b> I will meet my friend <u>on</u> noon.\n<br>\nWe use the preposition <b>at</b> for specific times, like 1:30 PM or 7:00 AM.\n<br>",
       "ruleNumber": 364,
@@ -10852,7 +10834,7 @@
       },
       "title": "Practice: At, In, On (Time)"
     },
-    {
+    "365": {
       "classification": 61,
       "description": "<b>Correct:</b> I will meet my cousin <b>in</b> the fall.\n\n<b>Incorrect:</b> I will meet my cousin <u>at</u> the fall.\n\n<br>\n\nWe use <b>in</b> for months, seasons, and times of day, like October, winter or morning.\n\n<br>",
       "ruleNumber": 365,
@@ -10861,7 +10843,7 @@
       },
       "title": "In (Time)"
     },
-    {
+    "366": {
       "classification": 61,
       "description": "<b>Correct:</b> I will meet with my counselor <b>on</b> Monday.\n\n<b>Incorrect:</b> I will meet with my counselor <u>in</u> Monday.\n\n<br>\n\nWe use <b>on</b> for days of the week and certain dates, like Monday or October 30th.\n\n<br>",
       "ruleNumber": 366,
@@ -10870,7 +10852,7 @@
       },
       "title": "On (Time)"
     },
-    {
+    "367": {
       "classification": 62,
       "description": "<b>Correct:</b> Lots of people wait <b>at</b> the bus stop.\n\n<b>Incorrect:</b> Lots of people wait <u>in</u> the bus stop.\n\n<br>\n\nWe use <b>at</b> to talk about exact locations, like <b>at</b> the bus stop, or <b>at</b> home.\n\n<br>",
       "ruleNumber": 367,
@@ -10879,7 +10861,7 @@
       },
       "title": "At (Place)"
     },
-    {
+    "368": {
       "classification": 62,
       "description": "<b>Correct:</b> Lots of people wait <b>at</b> the bus stop.\n<b>Incorrect:</b> Lots of people wait <u>in</u> the bus stop.\n<br>\nWe use <b>at</b> to talk about exact locations, like <b>at</b> the bus stop, or <b>at</b> home.\n<br>",
       "ruleNumber": 368,
@@ -10899,7 +10881,7 @@
       },
       "title": "Practice: At, In, On (Place)"
     },
-    {
+    "369": {
       "classification": 62,
       "description": "<b>Correct:</b> I had a great time <b>in</b> London.\n\n<b>Incorrect:</b> I had a great time <u>at</u> London.\n\n<br>\n\nWe use <b>in</b> when we are inside or within a place, like <b>in</b> France, or <b>in</b> a car.\n\n<br>",
       "ruleNumber": 369,
@@ -10908,7 +10890,7 @@
       },
       "title": "In (Place)"
     },
-    {
+    "370": {
       "classification": 62,
       "description": "<b>Correct:</b> My grandparents keep a picture of me <b>on</b> their mantle.\n\n<b>Incorrect:</b> My grandparents keep a picture of me <u>at</u> their mantle.\n\n<br>\n\nWe use <b>on</b> for anything on a surface, like walls and tables.",
       "ruleNumber": 370,
@@ -10917,7 +10899,7 @@
       },
       "title": "On (Place)"
     },
-    {
+    "371": {
       "classification": 75,
       "description": "<b>Incorrect:</b> I climbed <u>an</u> tree.\n\n\n\n<b>Correct:</b> I climbed <b>a</b> tree.\n\n\n\n<br>\n\n\n\nArticles (<b>a</b>) are used before nouns (tree). The article <b>an</b> is used before nouns that start with vowel sounds (a, e, i, o, u).\n\n\n\n<br>",
       "ruleNumber": 371,
@@ -10927,7 +10909,7 @@
       },
       "title": "A"
     },
-    {
+    "372": {
       "classification": 75,
       "description": "",
       "ruleNumber": 372,
@@ -10949,7 +10931,7 @@
       },
       "title": "Practice: A, An"
     },
-    {
+    "373": {
       "classification": 75,
       "description": "<b>Incorrect:</b> I climbed <u>an</u> tree.\n<b>Correct:</b> I climbed <b>a</b> tree.\n<br>\nArticles (<b>a</b>) are used before nouns (tree). The article <b>an</b> is used before nouns that start with vowel sounds (a, e, i, o, u).\n<br>",
       "ruleNumber": 373,
@@ -10959,7 +10941,7 @@
       },
       "title": "An"
     },
-    {
+    "374": {
       "classification": 58,
       "description": "<b>Close by: This</b> picture here is crooked.\n<b>Further away: That</b> picture over there is crooked.\n<br>\nYou use <b>this</b> and <b>that</b> when you are talking a single thing (a picture). You use <b>this</b> for things near you and <b>that</b> for things further away.\n<br>",
       "ruleNumber": 374,
@@ -10973,7 +10955,7 @@
       },
       "title": "Practice: This & That"
     },
-    {
+    "375": {
       "classification": 58,
       "description": "<b>Close by: This</b> picture here is crooked.\n\n\n\n<b>Further away: That</b> picture over there is crooked.\n\n\n\n<br>\n\n\n\nYou use <b>this</b> and <b>that</b> when you are talking a single thing (a picture). You use <b>this</b> for things near you and <b>that</b> for things further away.\n\n\n\n<br>",
       "ruleNumber": 375,
@@ -10983,7 +10965,7 @@
       },
       "title": "This & That"
     },
-    {
+    "376": {
       "classification": 58,
       "description": "<b>Close by: This</b> picture here is crooked.\n\n\n\n<b>Further away: That</b> picture over there is crooked.\n\n\n\n<br>\n\n\n\nYou use <b>this</b> and <b>that</b> when you are talking a single thing (a picture). You use <b>this</b> for things near you and <b>that</b> for things further away.\n\n\n\n<br>",
       "ruleNumber": 376,
@@ -10993,7 +10975,7 @@
       },
       "title": "This & That"
     },
-    {
+    "377": {
       "classification": 4,
       "description": "<b>Indefinite Article:</b> There is lots of pizza. I ate <u>a</u> slice.\n<b>Definite Article:</b> There was a loaded slice of bacon pizza. I ate <b>the</b> slice.\n<br>\nYou use a definite article (<b>the</b>) to specify something (the slice of bacon pizza). You use an indefinite article (<b>a, an</b>) when you have not specified something (<b>a</b> slice).\n<br>",
       "ruleNumber": 377,
@@ -11012,7 +10994,7 @@
       },
       "title": "Practice: A, An, The"
     },
-    {
+    "378": {
       "classification": 4,
       "description": "<b>Indefinite Article:</b> There is lots of pizza. I ate <u>a</u> slice.\n\n\n\n<b>Definite Article:</b> There was a loaded slice of bacon pizza. I ate <b>the</b> slice.\n\n\n\n<br>\n\n\n\nYou use a definite article (<b>the</b>) to specify something (the slice of bacon pizza). You use an indefinite article (<b>a, an</b>) when you have not specified something (<b>a</b> slice).\n\n\n\n<br>",
       "ruleNumber": 378,
@@ -11022,7 +11004,7 @@
       },
       "title": "The"
     },
-    {
+    "379": {
       "classification": 2,
       "description": "",
       "ruleNumber": 379,
@@ -11032,7 +11014,7 @@
       },
       "title": "Practice: A vs. An"
     },
-    {
+    "380": {
       "classification": 58,
       "description": "<b>Close by: These</b> shoes are dirty.\n\n\n\n<b>Further away: Those</b> dogs are cute.\n\n\n\n<br>\n\n\n\nYou use <b>these</b> and <b>those</b> when you are talking about more than one thing. You use <b>these</b> for things near you and <b>those</b> for things further away.\n\n\n\n<br>",
       "ruleNumber": 380,
@@ -11042,7 +11024,7 @@
       },
       "title": "These & Those"
     },
-    {
+    "381": {
       "classification": 58,
       "description": "<b>Close by: These</b> shoes are dirty.\n\n\n\n<b>Further away: Those</b> dogs are cute.\n\n\n\n<br>\n\n\n\nYou use <b>these</b> and <b>those</b> when you are talking about more than one thing. You use <b>these</b> for things near you and <b>those</b> for things further away.\n\n\n\n<br>",
       "ruleNumber": 381,
@@ -11052,7 +11034,7 @@
       },
       "title": "These & Those"
     },
-    {
+    "382": {
       "classification": 58,
       "description": "<b>Close by: These</b> shoes are dirty.\n<b>Further away: Those</b> dogs are cute.\n<br>\nYou use <b>these</b> and <b>those</b> when you are talking about more than one thing. You use <b>these</b> for things near you and <b>those</b> for things further away.\n<br>",
       "ruleNumber": 382,
@@ -11067,7 +11049,7 @@
       },
       "title": "Practice: These & Those"
     },
-    {
+    "383": {
       "classification": 2,
       "description": "<b>Active Voice:</b> The student use Quill.\n<br>\n<b>Passive Voice:</b> Quill is used by the students.\n<br>\nA verb's voice tells whether a subject receives or performs an action.  If the subject receives the action, it is passive, and if the subject performs the action, it is active.\n<br>\nThe passive voice is usually written with a form of \"\"to be\"\" and then the past participle of a verb. \n<br>",
       "ruleNumber": 383,
@@ -11077,7 +11059,7 @@
       },
       "title": "Change into Proper Passive or Active Sentences-1"
     },
-    {
+    "384": {
       "classification": 2,
       "description": "",
       "ruleNumber": 384,
@@ -11089,7 +11071,7 @@
       },
       "title": "Practice: Change into Proper Passive or Active Sentences"
     },
-    {
+    "385": {
       "classification": 2,
       "description": "<b>Active Voice:</b> The student use Quill.\n<br>\n<b>Passive Voice:</b> Quill is used by the students.\n<br>\nA verb's voice tells whether a subject receives or performs an action.  If the subject receives the action, it is passive, and if the subject performs the action, it is active.\n<br>\nThe passive voice is usually written with a form of \"\"to be\"\" and then the past participle of a verb. \n<br>",
       "ruleNumber": 385,
@@ -11099,7 +11081,7 @@
       },
       "title": "Change into Proper Passive or Active Sentences-2"
     },
-    {
+    "386": {
       "classification": 2,
       "description": "<b>Active Voice:</b> Tom (subject) shipped (verb) the package.\n<br>\n<b>Passive Voice:</b> The passage (subject) was shipped (verb) by Tom.\n<br>\nTo change a sentence from the active voice to the passive voice, you must change the subject so that instead of <b>doing</b> the verb, the verb is <b>being done to</b> it.\n<br>",
       "ruleNumber": 386,
@@ -11110,7 +11092,7 @@
       },
       "title": "Change Sentences from Active to Passive-1"
     },
-    {
+    "387": {
       "classification": 2,
       "description": "",
       "ruleNumber": 387,
@@ -11123,7 +11105,7 @@
       },
       "title": "Practice: Change Sentences from Active to Passive"
     },
-    {
+    "388": {
       "classification": 76,
       "description": "",
       "ruleNumber": 388,
@@ -11136,7 +11118,7 @@
       },
       "title": "Practice: Change Sentences from Passive to Active"
     },
-    {
+    "389": {
       "classification": 2,
       "description": "<b>Passive Voice:</b> The sausage (subject) was eaten (verb) by Ryan.\n<br>\n<b>Active Voice:</b> Ryan (subject) ate (verb) the sausage.\n<br>\n\nTo change a sentence from the passive voice to the active voice, you must change the subject so that instead of the verb <b>being done to it,</b> the subject <b>does</b> the verb.\n\n<br>",
       "ruleNumber": 389,
@@ -11147,7 +11129,7 @@
       },
       "title": "Change Sentences from Passive to Active-1"
     },
-    {
+    "390": {
       "classification": 25,
       "description": "<b>Correct:</b> Some people say cats have nine <b>lives</b>.\n\n<b>Incorrect:</b> Some people say cats have nine <u>lifes</u>.\n\n<br>\n\nNouns that end in \"\"fe\"\" (life) have an irregular plural form. To make them plural, we change the \"\"fe\"\" (life) to \"\"ves\"\" (<b>lives</b>).\n\n<br>",
       "ruleNumber": 390,
@@ -11156,7 +11138,7 @@
       },
       "title": "Ends with \"\"fe\"\""
     },
-    {
+    "391": {
       "classification": 25,
       "description": "<b>Correct:</b> Some people say cats have nine <b>lives</b>.\n<b>Incorrect:</b> Some people say cats have nine <u>lifes</u>.\n<br>\nNouns that end in \"\"fe\"\" (life) have an irregular plural form. To make them plural, we change the \"\"fe\"\" (life) to \"\"ves\"\" (<b>lives</b>).\n<br>",
       "ruleNumber": 391,
@@ -11170,7 +11152,7 @@
       },
       "title": "rregular Plural Nouns Practice: Ending With \"\"F,\"\" \"\"Fe,\"\" and \"\"O.\"\""
     },
-    {
+    "392": {
       "classification": 72,
       "description": "<b>Correct:</b> Two <b>halves</b> always make a whole.\n\n<b>Incorrect:</b> Two <u>halfs</u> always make a whole.\n\n<br>\n\nNouns that end in \"\"f\"\" (half) have an irregular plural form. To make them plural, we change the \"\"f\"\" (half) to \"\"ves\"\" (<b>halves</b>).\n\n<br>",
       "ruleNumber": 392,
@@ -11179,7 +11161,7 @@
       },
       "title": "Ends with \"\"f\"\""
     },
-    {
+    "393": {
       "classification": 66,
       "description": "<b>Correct:</b> Do you know how many <b>potatoes</b> can fit in this sack?\n\n<b>Incorrect:</b> Do you know how many <u>potatos</u> can fit in this sack?\n\n<br>\n\nNouns that end in \"\"o\"\" (potato) have an irregular plural form. To make them plural, we add an \"\"es\"\" to the end of the word (<b>potatoes</b>).\n\n<br>",
       "ruleNumber": 393,
@@ -11188,7 +11170,7 @@
       },
       "title": "Ends with \"\"o\"\""
     },
-    {
+    "394": {
       "classification": 52,
       "description": "<b>Correct:</b> Are you mice, or are you <b>men</b>?\n\n<b>Incorrect:</b> Are you mice, or are you <u>mans</u>?\n\n<br>\n\nThe word \"\"man\"\" has an irregular plural form. To make it plural, we change the \"\"a\"\" (man) to an \"\"e\"\" (<b>men</b>).\n\n<br>",
       "ruleNumber": 394,
@@ -11197,7 +11179,7 @@
       },
       "title": "Man vs. Men"
     },
-    {
+    "395": {
       "classification": 52,
       "description": "<b>Correct:</b> Are you mice, or are you <b>men</b>?\n<b>Incorrect:</b> Are you mice, or are you <u>mans</u>?\n<br>\nThe word \"\"man\"\" has an irregular plural form. To make it plural, we change the \"\"a\"\" (man) to an \"\"e\"\" (<b>men</b>).\n<br>",
       "ruleNumber": 395,
@@ -11211,7 +11193,7 @@
       },
       "title": "Practice: Man, Woman"
     },
-    {
+    "396": {
       "classification": 2,
       "description": "<b>Correct:</b> The group of <u>women</u> won the tug of war.</b>\n\n<b>Incorrect: The group of <u>woman</u> won the tug of war.</b>\n\n<br>\n\nThe word \"\"woman\"\" has an irregular plural form. To make it plural, we change the \"\"a\"\" (woman) to an \"\"e\"\" (<b>women</b>).\n\n<br>",
       "ruleNumber": 396,
@@ -11220,7 +11202,7 @@
       },
       "title": "Man/Men, Woman/Women-2"
     },
-    {
+    "397": {
       "classification": 52,
       "description": "\"\"<b>Correct:</b> Can you juggle the ball with both <b>feet</b>?\n\n<b>Incorrect:</b> Can you juggle the ball with both <u>foots</u>?\n\n<br>\n\nThe word \"\"\"\"foot\"\"\"\" has an irregular plural form. To make it plural, we change the double \"\"\"\"o\"\"\"\" (foot) into a double \"\"\"\"e\"\"\"\" (<b>feet</b>).\n\n<br>\"\"",
       "ruleNumber": 397,
@@ -11229,7 +11211,7 @@
       },
       "title": "Foot vs. Feet"
     },
-    {
+    "398": {
       "classification": 52,
       "description": "<b>Correct:</b> Can you juggle the ball with both <b>feet</b>?\n<b>Incorrect:</b> Can you juggle the ball with both <u>foots</u>?\n<br>\nThe word \"\"foot\"\" has an irregular plural form. To make it plural, we change the double \"\"o\"\" (foot) into a double \"\"e\"\" (<b>feet</b>).\n<br>",
       "ruleNumber": 398,
@@ -11243,7 +11225,7 @@
       },
       "title": "Practice: Feet, Teeth"
     },
-    {
+    "399": {
       "classification": 52,
       "description": "<b>Correct:</b> Did you know great white sharks lose hundreds of <b>teeth</b> every year?\n\n<b>Incorrect:</b> Did you know great white sharks lose hundreds of <u>tooths</u> every year?\n\n<br>\n\nThe word \"\"tooth\"\" has an irregular plural form, similar to the word \"\"foot\"\". To make it plural, we change the double \"\"o\"\" (tooth) into a double \"\"e\"\" (<b>teeth</b>).\n\n<br>",
       "ruleNumber": 399,
@@ -11252,7 +11234,7 @@
       },
       "title": "Tooth vs. Teeth"
     },
-    {
+    "400": {
       "classification": 52,
       "description": "<b>Correct:</b> Where are the <b>children</b> playing right now?\n\n<b>Incorrect:</b> Where are the <u>childs</u> playing right now?\n\n<br>\n\nThe word \"\"child\"\" has an irregular plural form. To make it plural, we add \"\"ren\"\" to the end (<b>children</b>).\n\n<br>",
       "ruleNumber": 400,
@@ -11262,7 +11244,7 @@
       },
       "title": "Child vs. Children"
     },
-    {
+    "401": {
       "classification": 78,
       "description": "<b>Correct:</b> Where are the <b>children</b> playing right now?\n<b>Incorrect:</b> Where are the <u>childs</u> playing right now?\n<br>\nThe word \"\"child\"\" has an irregular plural form. To make it plural, we add \"\"ren\"\" to the end (<b>children</b>).\n<br>",
       "ruleNumber": 401,
@@ -11276,7 +11258,7 @@
       },
       "title": "Practice: Children, People"
     },
-    {
+    "402": {
       "classification": 52,
       "description": "<b>Correct:</b> I think we can fit at least three <b>people</b> in each room.\n\n<b>Incorrect:</b> I think we can fit at least three <u>persons</u> in each room.\n\n<br>\n\nThe word \"\"person\"\" has an irregular plural form. To make it plural, we change the \"\"rson\"\" (person) to \"\"ople\"\" (<b>people</b>).\n\n<br>",
       "ruleNumber": 402,
@@ -11286,7 +11268,7 @@
       },
       "title": "Person vs. People"
     },
-    {
+    "403": {
       "classification": 52,
       "description": "<b>Correct:</b> I think there are some <b>mice</b> living in the walls.\n\n<b>Incorrect:</b> I think there are some <u>mouses</u> living in the walls.\n\n<br>\n\nThe word \"\"mouse\"\" has an irregular plural form. To make it plural, we change the \"\"ouse\"\" (mouse) to \"\"ice\"\" (<b>mice</b>).\n\n<br>",
       "ruleNumber": 403,
@@ -11295,7 +11277,7 @@
       },
       "title": "Mouse vs. Mice"
     },
-    {
+    "404": {
       "classification": 52,
       "description": "<b>Correct:</b> I think there are some <b>mice</b> living in the walls.\n<b>Incorrect:</b> I think there are some <u>mouses</u> living in the walls.\n<br>\nThe word \"\"mouse\"\" has an irregular plural form. To make it plural, we change the \"\"ouse\"\" (mouse) to \"\"ice\"\" (<b>mice</b>).\n<br>",
       "ruleNumber": 404,
@@ -11309,7 +11291,7 @@
       },
       "title": "Practice: Mice, Goose, Deer"
     },
-    {
+    "405": {
       "classification": 2,
       "description": "<b>Correct:</b> I saw a bunch of <b>geese</b> flying in the sky.\n\n<b>Incorrect:</b> I saw a bunch of <u>gooses</u> flying in the sky.\n\n<br>\n\nThe word \"\"goose\"\" has an irregular plural form. To make it plural, we change the \"\"oose\"\" (mouse) to \"\"eece\"\" (<b>goose</b>).\n\n<br>",
       "ruleNumber": 405,
@@ -11318,7 +11300,7 @@
       },
       "title": "Mouse/Mice, Geese/Goose, Deer/Deer-2"
     },
-    {
+    "406": {
       "classification": 65,
       "description": "\"\"<b>Singular:</b> I saw a <u>deer</u> crossing the road earlier.\n\n<b>Plural:</b> I saw ten <b>deer</b> crossing the road earlier.\n\n<br>\n\nThe word \"\"\"\"deer\"\"\"\" does not change when it becomes plural.\n\n<br>\"\"",
       "ruleNumber": 406,
@@ -11327,7 +11309,7 @@
       },
       "title": "Deer"
     },
-    {
+    "407": {
       "classification": 23,
       "description": "<b>Subject is I:</b> <u>I</u> <u>run</u> a half-mile everyday.\n\n<b>Subject is She:</b> <u>She</u> <u>runs</u> a half-mile everyday.\n\n<br>\n\nSubjects (<b>I, she</b>) and verbs (<b>run, runs</b>) have to agree with each other. \n\nIf the subject of a sentence is \"\"I\"\", \"\"you\"\" or \"\"they\"\", we don't change the verb. If the subject is \"\"he\"\", \"\"she\"\", or \"\"it\"\", we add an \"\"s\"\" to the end of the verb.\n\n<br>",
       "ruleNumber": 407,
@@ -11338,7 +11320,7 @@
       },
       "title": "Singular And Plural Nouns"
     },
-    {
+    "408": {
       "classification": 23,
       "description": "<b>Subject is I:</b> <u>I</u> <u>run</u> a half-mile everyday.\n<b>Subject is She:</b> <u>She</u> <u>runs</u> a half-mile everyday.\n<br>\nSubjects (<b>I, she</b>) and verbs (<b>run, runs</b>) have to agree with each other. \nIf the subject of a sentence is \"\"I\"\", \"\"you\"\" or \"\"they\"\", we don't change the verb. If the subject is \"\"he\"\", \"\"she\"\", or \"\"it\"\", we add an \"\"s\"\" to the end of the verb.\n<br>",
       "ruleNumber": 408,
@@ -11365,7 +11347,7 @@
       },
       "title": "Practice: Singular And Plural Nouns"
     },
-    {
+    "409": {
       "classification": 18,
       "description": "<b>Examples: man, woman, city, country, baseball team. </b>\n\n<br>\n\nCommon nouns are ordinary words for people, places, and things, such as <b>man</b>, or <b>country</b>. Common nouns are not capitalized.\n\n<br>",
       "ruleNumber": 409,
@@ -11375,7 +11357,7 @@
       },
       "title": "Common Nouns"
     },
-    {
+    "410": {
       "classification": 18,
       "description": "<b>Examples: man, woman, city, country, baseball team. </b>\n<br>\nCommon nouns are ordinary words for people, places, and things, such as <b>man</b>, or <b>country</b>. Common nouns are not capitalized.\n<br>",
       "ruleNumber": 410,
@@ -11406,7 +11388,7 @@
       },
       "title": "Practice: Common and Proper Nouns"
     },
-    {
+    "411": {
       "classification": 17,
       "description": "<b>Examples: John, Sarah, London, Japan, and Yankees</b>\n\n<br>\n\nProper nouns are names for people, places, and things, such as <b>John</b>, or <b>Japan</b>. All proper nouns are capitalized.\n\n<br>",
       "ruleNumber": 411,
@@ -11416,7 +11398,7 @@
       },
       "title": "Proper Nouns"
     },
-    {
+    "412": {
       "classification": 45,
       "description": "<b>Example:</b> My <b>father's</b> stamp collection is huge. \n\n<b>Example:</b> The <b>ship's</b> sails were filled with a gust of wind. \n\n\n\nPossessive nouns are used to show ownership. To make most common or proper nouns possessive, we add an apostrophe and an \"\"s\"\" to the end of the word.",
       "ruleNumber": 412,
@@ -11426,7 +11408,7 @@
       },
       "title": "Possessive Nouns"
     },
-    {
+    "413": {
       "classification": 45,
       "description": "<b>Example:</b> My <b>father's</b> stamp collection is huge. \n<b>Example:</b> The <b>ship's</b> sails were filled with a gust of wind. \n\nPossessive nouns are used to show ownership. To make most common or proper nouns possessive, we add an apostrophe and an \"\"s\"\" to the end of the word.",
       "ruleNumber": 413,
@@ -11447,7 +11429,7 @@
       },
       "title": "Practice: Possessive Nouns"
     },
-    {
+    "414": {
       "classification": 2,
       "description": "<b>Correct:</b> The red <b>team</b> scored the winning goal in the game.\n\n<b>Incorrect:</b> The red <b>panel</b> scored the winning goal in the game.\n\n<br>\n\nCollective nouns are words like <b>team, panel, bunch, pack,</b> etc. They usually are singular and describe a group of things (<b>group</b> of people).\n\n<br>\n\n<b>Team</b> is a collective noun generally used to describe a group working towards a common cause, or in competition with another group.  For example, a sports team, oxen team, or \n\n<br>",
       "ruleNumber": 414,
@@ -11456,7 +11438,7 @@
       },
       "title": "Use Collective Nouns-1"
     },
-    {
+    "415": {
       "classification": 2,
       "description": "",
       "ruleNumber": 415,
@@ -11468,7 +11450,7 @@
       },
       "title": "Practice: Use Collective Nouns"
     },
-    {
+    "416": {
       "classification": 2,
       "description": "<b>Correct:</b> The<b>panel</b> of jurors found him innocent.\n\n<b>Incorrect:</b> The<b>bunch</b> of jurors found him innocent.\n\n<br>\n\n<b>Panel</b> is a collective noun generally used to describe a group of figures with authority that are discussing something.  For example, judges, juries, advisors, aids, etc...\n\n<br>",
       "ruleNumber": 416,
@@ -11477,7 +11459,7 @@
       },
       "title": "Use Collective Nouns-2"
     },
-    {
+    "417": {
       "classification": 2,
       "description": "<b>Correct:</b> There are 12 diapers in a <b>pack</b>.\n\n<b>Incorrect:</b> There are 12 diapers in a <b>pack</b>.\n\n<br>\n\n<b> Pack</b> is a collective noun that can have many different meanings.  It can be a group of things packaged together, for example, soda, gum, or candy.  It can also refer to groups of animals that live together, especially wolves.\n\n<br>",
       "ruleNumber": 417,
@@ -11486,7 +11468,7 @@
       },
       "title": "Use Collective Nouns-3"
     },
-    {
+    "418": {
       "classification": 2,
       "description": "<b>Correct:</b> There is a huge <b>group</b> of people at the front gate.\n\n<b>Incorrect:</b> There is a huge <u>bunch</u> of people at the front gate.\n\n<br>\n\n<b>Group</b> is a collective noun that usually refers to a number of people or objects that are nearby or considered together as one unit.  For example, a group of students, a group of packages, a group of fruits, etc... \n<br>",
       "ruleNumber": 418,
@@ -11495,7 +11477,7 @@
       },
       "title": "Use Collective Nouns-4"
     },
-    {
+    "419": {
       "classification": 30,
       "description": "<b>Past:</b> I <b>walked</b> to school.\n\n<b>Present:</b> I <u>walk</u> to school.\n\n<br>\n\nWhen we want to talk about things that happened earlier, we usually add \"\"ed\"\" to the end of regular verbs to make them past tense.\n\n<br>",
       "ruleNumber": 419,
@@ -11505,7 +11487,7 @@
       },
       "title": "Past Tense"
     },
-    {
+    "420": {
       "classification": 77,
       "description": "<b>Past:</b> I <b>walked</b> to school.\n<b>Present:</b> I <u>walk</u> to school.\n<br>\nWhen we want to talk about things that happened earlier, we usually add \"\"ed\"\" to the end of regular verbs to make them past tense.\n<br>",
       "ruleNumber": 420,
@@ -11522,7 +11504,7 @@
       },
       "title": "Practice: Past Tense Verbs"
     },
-    {
+    "421": {
       "classification": 31,
       "description": "<b>Future:</b> I <b>will walk</b> to school.\n\n<b>Present:</b> I <u>walk</u> to school.\n\n<br>\n\nWe use the future tense to describe things that we think will happen. To make the future tense ( <b>will walk</b> ), we add the helping verb \"\"will\"\" before the verb ( <u>walk</u> ).\n\n<br>",
       "ruleNumber": 421,
@@ -11532,7 +11514,7 @@
       },
       "title": "Future Tense"
     },
-    {
+    "422": {
       "classification": 31,
       "description": "<b>Future:</b> I <b>will walk</b> to school.\n<b>Present:</b> I <u>walk</u> to school.\n<br>\nWe use the future tense to describe things that we think will happen. To make the future tense ( <b>will walk</b> ), we add the helping verb \"\"will\"\" before the verb ( <u>walk</u> ).\n<br>",
       "ruleNumber": 422,
@@ -11555,7 +11537,7 @@
       },
       "title": "Practice: Future Tense"
     },
-    {
+    "423": {
       "classification": 6,
       "description": "<b>Not Connected:</b> I like spaghetti. I like hamburgers.\n\n<b>Connected:</b> I like spaghetti <b>and</b> I like hamburgers.\n\n<br>\n\n<b>And</b> connects two sentences into one longer sentence. In the example, we use <b>and</b> to show that the subject ( I ) likes both spaghetti and hamburgers.\n\n<br>",
       "ruleNumber": 423,
@@ -11565,7 +11547,7 @@
       },
       "title": "And"
     },
-    {
+    "424": {
       "classification": 6,
       "description": "<b>Not Connected:</b> I like spaghetti. I like hamburgers.\n<b>Connected:</b> I like spaghetti <b>and</b> I like hamburgers.\n<br>\n<b>And</b> connects two sentences into one longer sentence. In the example, we use <b>and</b> to show that the subject ( I ) likes both spaghetti and hamburgers.\n<br>",
       "ruleNumber": 424,
@@ -11588,7 +11570,7 @@
       },
       "title": "Practice: And, Or"
     },
-    {
+    "425": {
       "classification": 6,
       "description": "<b>Not Connected:</b> Would you like spaghetti? Would you like a hamburger?\n\n<b>Connected:</b> Would you like spaghetti, <b>or</b> would you like a hamburger?\n\n<br>\n\n<b>Or</b> connects two sentences into one longer sentence. In the example, <b>or</b> is used to show a <i>choice</i> between spaghetti or a hamburger.\n\n<br>",
       "ruleNumber": 425,
@@ -11598,7 +11580,7 @@
       },
       "title": "Or"
     },
-    {
+    "426": {
       "classification": 6,
       "description": "<b>Not Connected:</b> I don't like hamburgers. I will have spaghetti.\n\n<b>Connected:</b> I don't like hamburgers, <b>so</b> I will have spaghetti.\n\n<br>\n\n<b>So</b> connects two <i>related</i> sentences into one larger one. In the example, <b>so</b> is used because the subject (I) does not like hamburgers, and has spaghetti instead.\n\n<br>",
       "ruleNumber": 426,
@@ -11608,7 +11590,7 @@
       },
       "title": "So"
     },
-    {
+    "427": {
       "classification": 6,
       "description": "<b>Not Connected:</b> I don't like hamburgers. I will have spaghetti.\n<b>Connected:</b> I don't like hamburgers, <b>so</b> I will have spaghetti.\n<br>\n<b>So</b> connects two <i>related</i> sentences into one larger one. In the example, <b>so</b> is used because the subject (I) does not like hamburgers, and has spaghetti instead.\n<br>",
       "ruleNumber": 427,
@@ -11633,7 +11615,7 @@
       },
       "title": "Practice: So, Because"
     },
-    {
+    "428": {
       "classification": 6,
       "description": "<b>Not Connected:</b> I like this spaghetti. There is a lot of cheese in it.\n\n<b>Connected:</b> I like this spaghetti <b>because</b> there is a lot of cheese in it.\n\n<br>\n\n<b>Because</b> connects two sentences into one longer sentence. In the example, <b>because</b> is used to show that the amount of cheese is the <i>reason</i> the spaghetti is liked.\n\n<br>",
       "ruleNumber": 428,
@@ -11643,7 +11625,7 @@
       },
       "title": "Because"
     },
-    {
+    "429": {
       "classification": 10,
       "description": "<b>Adjective:</b> The park we visited was really <b>beautiful</b>.\n\n<b>Adverb:</b> You performed <u>beautifully</u> yesterday.\n\n<br>\n\nAdjectives (<b>beautiful</b>) are used to describe nouns (park).\n\n<br>",
       "ruleNumber": 429,
@@ -11653,7 +11635,7 @@
       },
       "title": "Adjectives"
     },
-    {
+    "430": {
       "classification": 10,
       "description": "<b>Adjective:</b> The park we visited was really <b>beautiful</b>.\n<b>Adverb:</b> You performed <u>beautifully</u> yesterday.\n<br>\nAdjectives (<b>beautiful</b>) are used to describe nouns (park).\n<br>",
       "ruleNumber": 430,
@@ -11677,7 +11659,7 @@
       },
       "title": "Practice: Adjectives and Adverbs"
     },
-    {
+    "431": {
       "classification": 20,
       "description": "<b>Adjective:</b> My car is really <u>slow</u>.\n\n<b>Adverb:</b> I drive <b>slowly</b> when it is raining.\n\n<br>\n\nAdverbs are used to describe verbs, adjectives, or other adverbs. They usually describe how an action is being done (drive <b>slowly</b>).\n\n<br>",
       "ruleNumber": 431,
@@ -11687,7 +11669,7 @@
       },
       "title": "Adverbs"
     },
-    {
+    "432": {
       "classification": 11,
       "description": "<b>Adjective:</b> Careful, that knife is <u>sharp</u>.\n\n<b>Adverb:</b> I <b>sharply</b> turned the car around.\n\n<br>\n\nIf an adjective ends in a consonant (sharp), then we usually add \"\"ly\"\" onto the end of the adjective to make it an adverb (sharply).\n\n<br>",
       "ruleNumber": 432,
@@ -11697,7 +11679,7 @@
       },
       "title": "Adjectives to Adverbs: Consonant Ending"
     },
-    {
+    "433": {
       "classification": 11,
       "description": "<b>Adjective:</b> Careful, that knife is <u>sharp</u>.\n<b>Adverb:</b> I <b>sharply</b> turned the car around.\n<br>\nIf an adjective ends in a consonant (sharp), then we usually add \"\"ly\"\" onto the end of the adjective to make it an adverb (sharply).\n<br>",
       "ruleNumber": 433,
@@ -11711,7 +11693,7 @@
       },
       "title": "Practice: Adjectives to Adverbs: Consonant Ending and \"\"y\"\" Ending"
     },
-    {
+    "434": {
       "classification": 12,
       "description": "<b>Adjective:</b> I was really <u>happy</u> this morning.\n\n<b>Adverb:</b> I will <b>happily</b> go out tonight.\n\n<br>\n\nAdjectives ending in \"\"y\"\" (happy), become adverbs by changing the \"\"y\"\" to an \"\"i\"\", and then adding \"\"ly\"\"(<b>happily</b>).\n\n<br>",
       "ruleNumber": 434,
@@ -11721,7 +11703,7 @@
       },
       "title": "Adjectives to Adverbs: Ending in \"\"y\"\""
     },
-    {
+    "435": {
       "classification": 14,
       "description": "<b>Adjective:</b> I think this task is pretty <u>simple</u>.\n\n<b>Adverb:</b> You <b>simply</b> put the ball in the net.\n\n<br>\n\nAdjectives ending in \"\"le\"\" (simple), become adverbs by changing the \"\"le\"\" to \"\"ly\"\"(<b>simply</b>).\n\n<br>",
       "ruleNumber": 435,
@@ -11731,7 +11713,7 @@
       },
       "title": "Adjectives to Adverbs: Ending in \"\"le\"\""
     },
-    {
+    "436": {
       "classification": 2,
       "description": "",
       "ruleNumber": 436,
@@ -11743,7 +11725,7 @@
       },
       "title": "Practice: Ajectives to Adverbs in \"\"le\"\" and \"\"e\"\""
     },
-    {
+    "437": {
       "classification": 15,
       "description": "<b>Adjective:</b> You are <u>brave</u> enough to face your fears.\n\n<b>Adverb:</b> Rita <b>bravely</b> faced her fears.\n\n<br>\n\nAdjectives ending in \"\"e\"\" (brave), become adverbs by simply adding \"\"ly\"\" to the end of the word (<b>bravely</b>).\n\n<br>",
       "ruleNumber": 437,
@@ -11753,7 +11735,7 @@
       },
       "title": "Adjectives to Adverbs: Ending in \"\"e\"\""
     },
-    {
+    "438": {
       "classification": 16,
       "description": "<b>Separate:</b> I <u>can not</u> see in the dark.\n\n<b>Contraction:</b> I <b>can't</b> see in the dark.\n\n<br>\n\nTo make \"\"can\"\" and \"\"not\"\" a contraction, we write <b>can't</b>.\n\n<br>",
       "ruleNumber": 438,
@@ -11763,7 +11745,7 @@
       },
       "title": "Can't"
     },
-    {
+    "439": {
       "classification": 2,
       "description": "",
       "ruleNumber": 439,
@@ -11776,7 +11758,7 @@
       },
       "title": "Practice: Can't, Won't"
     },
-    {
+    "440": {
       "classification": 16,
       "description": "<b>Separate:</b> I <u>will not</u> sign anything until I've read the contract.\n\n<b>Contraction:</b> I <b>won't</b> sign anything until I've read the contract.\n\n<br>\n\nTo make \"\"will\"\" and \"\"not\"\" a contraction, we write <b>won't</b>.\n\n<br>",
       "ruleNumber": 440,
@@ -11786,7 +11768,7 @@
       },
       "title": "Won't"
     },
-    {
+    "441": {
       "classification": 16,
       "description": "<b>Separate:</b> I <u>have been</u> to Mexico before.\n\n<b>Contraction:</b> <b>I've</b> been to Mexico before.\n\n<br>\n\nTo make a contraction with \"\"I\"\" and \"\"have\"\", we write <b>I've</b>.\n\n<br>",
       "ruleNumber": 441,
@@ -11796,7 +11778,7 @@
       },
       "title": "I've"
     },
-    {
+    "442": {
       "classification": 16,
       "description": "<b>Separate:</b> I <u>have been</u> to Mexico before.\n<b>Contraction:</b> <b>I've</b> been to Mexico before.\n<br>\nTo make a contraction with \"\"I\"\" and \"\"have\"\", we write <b>I've</b>.\n<br>",
       "ruleNumber": 442,
@@ -11810,7 +11792,7 @@
       },
       "title": "Practice: I've, That's, It's"
     },
-    {
+    "443": {
       "classification": 16,
       "description": "<b>Separate:</b> <u>That is</u> a good idea.\n\n<b>Contraction:</b> <b>That's</b> a good idea.\n\n<br>\n\nTo make a contraction with \"\"that\"\" and \"\"is\"\", we write <b>that's</b>.\n\n<br>",
       "ruleNumber": 443,
@@ -11820,7 +11802,7 @@
       },
       "title": "That's"
     },
-    {
+    "444": {
       "classification": 16,
       "description": "<b>Separate:</b> <u>It is</u> really great you decided to come.\n\n<b>Contraction:</b> <b>It's</b> really great you decided to come.\n\n<br>\n\nTo make a contraction with \"\"it\"\" and \"\"is\"\", we write <b>it's</b>.\n\n<br>",
       "ruleNumber": 444,
@@ -11830,7 +11812,7 @@
       },
       "title": "It's"
     },
-    {
+    "445": {
       "classification": 2,
       "description": "<b>Separate:</b> <u>I am</u> responsible for managing the team.\n\n<b>Contraction:</b> <b>I'm</b> responsible for managing the team.\n\n<br>\n\nThe contraction for \"\"I am\"\" is made by writing <b>I'm</b>.\n\n<br>",
       "ruleNumber": 445,
@@ -11840,7 +11822,7 @@
       },
       "title": "Practice: Contractions"
     },
-    {
+    "446": {
       "classification": 16,
       "description": "<b>Separate:</b> <u>I am</u> responsible for managing the team.\n<b>Contraction:</b> <b>I'm</b> responsible for managing the team.\n<br>\nThe contraction for \"\"I am\"\" is made by writing <b>I'm</b>.\n<br>",
       "ruleNumber": 446,
@@ -11854,7 +11836,7 @@
       },
       "title": "I'm, You're, Let's"
     },
-    {
+    "447": {
       "classification": 16,
       "description": "<b>Separate:</b> <u>I am</u> responsible for managing the team.\n\n<b>Contraction:</b> <b>I'm</b> responsible for managing the team.\n\n<br>\n\nThe contraction for \"\"\"\"I am\"\"\"\" is made by writing <b>I'm</b>.\n\n<br>\"\"",
       "ruleNumber": 447,
@@ -11864,7 +11846,7 @@
       },
       "title": "You're"
     },
-    {
+    "448": {
       "classification": 71,
       "description": "<b>Correct: Let's</b> play a board game together.\n\n<b>Incorrect:</b> <u>Lets</u> play a board game together.\n\n\n\n<b>Let's</b> means \"\"let us\"\" and is used for suggestions. Lets without an apostrophe means \"\"to allow.\"\"",
       "ruleNumber": 448,
@@ -11874,7 +11856,7 @@
       },
       "title": "Let's"
     },
-    {
+    "449": {
       "classification": 16,
       "description": "<b>Separate:</b> I <u>have not</u> contacted Mrs. Robinson.\n\n<b>Contraction:</b> I <b>haven't</b> contacted Mrs. Robinson.\n\n<br>\n\nTo make \"\"have\"\" and \"\"not\"\" a contraction, we write <b>haven't</b>.\n\n<br>",
       "ruleNumber": 449,
@@ -11884,7 +11866,7 @@
       },
       "title": "Haven't"
     },
-    {
+    "450": {
       "classification": 16,
       "description": "<b>Separate:</b> I <u>have not</u> contacted Mrs. Robinson.\n<b>Contraction:</b> I <b>haven't</b> contacted Mrs. Robinson.\n<br>\nTo make \"\"have\"\" and \"\"not\"\" a contraction, we write <b>haven't</b>.\n<br>",
       "ruleNumber": 450,
@@ -11898,7 +11880,7 @@
       },
       "title": "Practice: Haven't, Don't"
     },
-    {
+    "451": {
       "classification": 2,
       "description": "<b>Separate:</b> I <u>do not</u> go to school on Saturday.\n\n<b>Contraction:</b> I <b>don't</b> go to school on Saturday.\n\n<br>\n\nTo make \"\"do\"\" and \"\"not\"\" a contraction, we write <b>don't</b>.\n\n<br>",
       "ruleNumber": 451,
@@ -11908,7 +11890,7 @@
       },
       "title": "Practice: Contractions"
     },
-    {
+    "452": {
       "classification": 1,
       "description": "<b>Correct:</b> My address is 79 Brookfield Lane, Springfield, Massachusetts 01234.\n<b>Incorrect:</b> My address is 79 brookfield lane Springfield, Massachusetts, 01234.\n\nWhen we write out our addresses, we always put commas after the name of the street (Brookfield Lane,) and after the name of the city (Springfield). Remember to capitalize both the street and state names, because they are proper nouns.",
       "ruleNumber": 452,
@@ -11918,7 +11900,7 @@
       },
       "title": "Use Commas in Addresses"
     },
-    {
+    "453": {
       "classification": 1,
       "description": "<b>Correct:</b> My address is 79 Brookfield Lane, Springfield, Massachusetts 01234.\n<b>Incorrect:</b> My address is 79 brookfield lane Springfield, Massachusetts, 01234.\n\nWhen we write out our addresses, we always put commas after the name of the street (Brookfield Lane,) and after the name of the city (Springfield). Remember to capitalize both the street and state names, because they are proper nouns.",
       "ruleNumber": 453,
@@ -11932,7 +11914,7 @@
       },
       "title": "Practice: Use Commas in Addresses"
     },
-    {
+    "454": {
       "classification": 21,
       "description": "<b>Correct:</b> My favorite team has <b>lost</b> only once this season.\n\n<b>Incorrect:</b> My favorite team has <u>losed</u> only once this season.\n\n\n\nThe past participle for \"\"lose\"\" is <b>lost</b>.",
       "ruleNumber": 454,
@@ -11942,7 +11924,7 @@
       },
       "title": "Lost"
     },
-    {
+    "455": {
       "classification": 21,
       "description": "<b>Correct:</b> My favorite team has <b>lost</b> only once this season.\n<b>Incorrect:</b> My favorite team has <u>losed</u> only once this season.\n\nThe past participle for \"\"lose\"\" is <b>lost</b>.",
       "ruleNumber": 455,
@@ -11978,7 +11960,7 @@
       },
       "title": "Practice: Made, Lost, Gone"
     },
-    {
+    "456": {
       "classification": 21,
       "description": "<b>Correct:</b> We have <b>made</b> many mistakes before coming to the right conclusion.\n\n<b>Incorrect:</b> We have <u>maked</u> many mistakes before coming to the right conclusion.\n\n\n\nThe past participle for \"\"make\"\" is <b>made</b>.",
       "ruleNumber": 456,
@@ -11988,7 +11970,7 @@
       },
       "title": "Made"
     },
-    {
+    "457": {
       "classification": 21,
       "description": "<b>Correct:</b> Velma has <b>gone</b> to visit her brother in the hospital.\n\n<b>Incorrect:</b> Velma has <u>goed</u> to visit her brother in the hospital.\n\n\n\nThe past participle of \"\"go\"\" is <b>gone</b>.",
       "ruleNumber": 457,
@@ -11998,7 +11980,7 @@
       },
       "title": "Gone"
     },
-    {
+    "458": {
       "classification": 21,
       "description": "<b>With a Helping Verb:</b> I have <b>walked</b> to the library before.\n\n<b>As an Adjective:</b> Gene had <b>chilled</b> fruit with his lunch.\n\n\n\nRegular past participles are made by adding \"\"ed\"\" to the end of the verbs. We use the past participle with helping verbs like \"\"have\"\" or \"\"had\"\" (I have <b>walked</b>). Past participles can also be used as adjectives when they come before nouns (<b>chilled fruit</b>), or when they follow the verb \"\"be\"\".",
       "ruleNumber": 458,
@@ -12008,7 +11990,7 @@
       },
       "title": "Regular Past Participles"
     },
-    {
+    "459": {
       "classification": 21,
       "description": "<b>With a Helping Verb:</b> I have <b>walked</b> to the library before.\n<b>As an Adjective:</b> Gene had <b>chilled</b> fruit with his lunch.\n\nRegular past participles are made by adding \"\"ed\"\" to the end of the verbs. We use the past participle with helping verbs like \"\"have\"\" or \"\"had\"\" (I have <b>walked</b>). Past participles can also be used as adjectives when they come before nouns (<b>chilled fruit</b>), or when they follow the verb \"\"be\"\".",
       "ruleNumber": 459,
@@ -12037,7 +12019,7 @@
       },
       "title": "Practice: Eaten, Been, Regular Past Participles"
     },
-    {
+    "460": {
       "classification": 21,
       "description": "<b>Correct:</b> I have <b>eaten</b> pancakes before.\n\n<b>Incorrect:</b> I have <u>eated</u> pancakes before.\n\n\n\nThe past participle for \"\"eat\"\" is <b>eaten</b>.",
       "ruleNumber": 460,
@@ -12047,7 +12029,7 @@
       },
       "title": "Eaten"
     },
-    {
+    "461": {
       "classification": 21,
       "description": "<b>Correct:</b> I have <b>been</b> in a band before.\n\n<b>Incorrect:</b> I have <u>beed</u> in a band before.\n\n\n\nThe past participle for \"\"be\"\" is <b>been</b>.",
       "ruleNumber": 461,
@@ -12057,7 +12039,7 @@
       },
       "title": "Been"
     },
-    {
+    "462": {
       "classification": 5,
       "description": "<b>With However:</b> My friend said the ride was safe. <b>However,</b> I didn't believe him.\n\n<b>Without However:</b> My friend said the ride was safe. I did not believe him.\n\n\n\nWe use <b>however</b> at the beginning of a sentence to say \"\"nevertheless\"\" or \"\"but.\"\" We place a comma after <b>however</b> (<b>However,</b> I did not believe him).",
       "ruleNumber": 462,
@@ -12067,7 +12049,7 @@
       },
       "title": "However"
     },
-    {
+    "463": {
       "classification": 5,
       "description": "<b>With However:</b> My friend said the ride was safe. <b>However,</b> I didn't believe him.\n<b>Without However:</b> My friend said the ride was safe. I did not believe him.\n\nWe use <b>however</b> at the beginning of a sentence to say \"\"nevertheless\"\" or \"\"but\"\". We place a comma after <b>however</b> (<b>However,</b> I did not believe him).",
       "ruleNumber": 463,
@@ -12081,7 +12063,7 @@
       },
       "title": "Practice: However, Still"
     },
-    {
+    "464": {
       "classification": 5,
       "description": "<b>With Still:</b> I don't like roller coasters. Still, I think theme parks are fun.\n\n<b>Without Still:</b> I don't like roller coasters. I think theme parks are fun.\n\n\n\nWe use <b>still</b> at the beginning of a sentence to say something is true <i>despite</i> what was said earlier. We place a comma after <b>still</b> (<b>Still,</b> I think theme parks are fun).",
       "ruleNumber": 464,
@@ -12091,7 +12073,7 @@
       },
       "title": "Still"
     },
-    {
+    "465": {
       "classification": 5,
       "description": "<b>With Meanwhile:</b> I was cleaning the whole house. <b>Meanwhile,</b> my brother was still sleeping.\n\n<b>Without Meanwhile:</b> I was cleaning the whole house. My brother was still sleeping.\n\n\n\nWe use <b>meanwhile</b> at the beginning of a sentence to say two events are happening at the same time. We place a comma after <b>meanwhile</b> (<b>Meanwhile,</b> my brother was still sleeping).",
       "ruleNumber": 465,
@@ -12101,7 +12083,7 @@
       },
       "title": "Meanwhile"
     },
-    {
+    "466": {
       "classification": 5,
       "description": "<b>With Meanwhile:</b> I was cleaning the whole house. <b>Meanwhile,</b> my brother was still sleeping.\n<b>Without Meanwhile:</b> I was cleaning the whole house. My brother was still sleeping.\n\nWe use <b>meanwhile</b> at the beginning of a sentence to say two events are happening at the same time. We place a comma after <b>meanwhile</b> (<b>Meanwhile,</b> my brother was still sleeping).",
       "ruleNumber": 466,
@@ -12116,7 +12098,7 @@
       },
       "title": "Practice: Commas after Introductory Prepositional Phrases"
     },
-    {
+    "467": {
       "classification": 5,
       "description": "<b>Correct:</b> In 1492, Columbus crossed the ocean blue.\n\n<b>Incorrect</b>In 1492 Columbus crossed the ocean blue.\n\n\n\nWhen a sentence begins with a prepositional phrase (on the docks, at the park, in 1522), we always put a comma the introductory prepositional phrase.",
       "ruleNumber": 467,
@@ -12126,7 +12108,7 @@
       },
       "title": "Commas after Introductory Prepositional Phrases"
     },
-    {
+    "468": {
       "classification": 69,
       "description": "",
       "ruleNumber": 468,
@@ -12135,7 +12117,7 @@
       },
       "title": "Correct Messy Sentences"
     },
-    {
+    "469": {
       "classification": 69,
       "description": "",
       "ruleNumber": 469,
@@ -12150,7 +12132,7 @@
       },
       "title": "Practice: Correct Messy Sentences"
     },
-    {
+    "470": {
       "classification": 28,
       "description": "<b>Correct:</b> I went to the zoo. I saw an elephant.\n\n\n\n<b>Incorrect:</b> I went to the zoo.I saw an elephant.\n\n<b>Incorrect:</b> I went to the zoo .I saw an elephant.\n\n<br>\n\nWe put a space <i>after</i> a period.\n\n<br>",
       "ruleNumber": 470,
@@ -12159,7 +12141,7 @@
       },
       "title": "Using Periods"
     },
-    {
+    "471": {
       "classification": 28,
       "description": "<b>Correct:</b> I went to the zoo. I saw an elephant.\n\n<b>Incorrect:</b> I went to the zoo.I saw an elephant.\n<b>Incorrect:</b> I went to the zoo .I saw an elephant.\n<br>\nWe put a space <i>after</i> a period.\n<br>",
       "ruleNumber": 471,
@@ -12169,7 +12151,7 @@
       },
       "title": "Practice: Spaces with Punctuation"
     },
-    {
+    "472": {
       "classification": 43,
       "description": "<b>Correct:</b> Victor, Lucas, and Don play basketball.\n\n\n\n<b>Incorrect:</b> Victor,Lucas,and Don play basketball.\n\n<b>Incorrect:</b> Victor ,Lucas ,and Don play basketball.\n\n<br>\n\nWe put a space <i>after</i> a comma. We do not put a space before a comma. \n\n<br>",
       "ruleNumber": 472,
@@ -12178,7 +12160,7 @@
       },
       "title": "Using Commas"
     },
-    {
+    "473": {
       "classification": 54,
       "description": "<b>Correct:</b> 1,500,000\n\n<b>Incorrect:</b> 1, 500, 000\n<br>\nWe do not put a space before or after a comma when we are writing numbers. \n<br>",
       "ruleNumber": 473,
@@ -12187,7 +12169,7 @@
       },
       "title": "Using Commas with Numbers"
     },
-    {
+    "474": {
       "classification": 53,
       "description": "<b>Correct:</b> They hiked 1.7 miles.\n\n\n\n<b>Incorrect:</b> They hiked 1. 7 miles.\n\n<br>\n\nWe do not put a space <i>before</i> or <i>after</i> a period when we are writing numbers. \n\n<br>",
       "ruleNumber": 474,
@@ -12196,7 +12178,7 @@
       },
       "title": "Using Periods with Numbers"
     },
-    {
+    "475": {
       "classification": 29,
       "description": "<b>Correct:</b> Our librarian always reminds us, \"\"Speak softly in the library.\"\"\n<b>Incorrect:</b> Our librarian always reminds us,  \"\"   Speak softly in the library.\"\"\n\nWhenever we use quotation marks, they always go right next to a word or punctuation (<b>\"\"Speak softly in the library.\"\"</b>). We never put in extra spaces between quotation marks and the words next to them.",
       "ruleNumber": 475,
@@ -12205,7 +12187,7 @@
       },
       "title": "Using Quotation Marks"
     },
-    {
+    "476": {
       "classification": 9,
       "description": "<b>Correct:</b> That hat <b>doesn't</b> fit me because it <b>is</b> too small.\n\n<b>Incorrect:</b> That had <b>didn't</b> fit me because it <b>is</b> too small.\n\n\n\nEverything that happens in the present must be written in the present tense (<b>doesn't</b> fit me because it <b>is</b> too small). For things that happen in the past, everything must be written in the past tense. Lastly, everything that happens in the future must be written in the future tense.",
       "ruleNumber": 476,
@@ -12214,7 +12196,7 @@
       },
       "title": "Verb Tense Shift"
     },
-    {
+    "477": {
       "classification": 9,
       "description": "<b>Correct:</b> That hat <b>doesn't</b> fit me because it <b>is</b> too small.\n<b>Incorrect:</b> That hat <b>didn't</b> fit me because it <b>is</b> too small.\n\nEverything that happens in the present must be written in the present tense (<b>doesn't</b> fit me because it <b>is</b> too small). For things that happen in the past, everything must be written in the past tense. Lastly, everything that happens in the future must be written in the future tense.",
       "ruleNumber": 477,
@@ -12227,7 +12209,7 @@
       },
       "title": "Verb Tense Shift"
     },
-    {
+    "478": {
       "classification": 9,
       "description": "<b>Correct:</b> If I <b>were</b> you, I wouldn't drive down this road at night.\n\n<b>Incorrect:</b> If I <b>was</b> you, I wouldn't drive down this road at night.\n\n\n\nWhen we wish for something, or wonder if something could happen, we use \"\"were\"\" instead of \"\"was\"\".\n\nIf it is something that could or has been true, we use \"\"was\"\" instead of were.",
       "ruleNumber": 478,
@@ -12236,7 +12218,7 @@
       },
       "title": "Verb Mood Shift"
     },
-    {
+    "479": {
       "classification": 22,
       "description": "<b>Correct:</b> The drawing <b>on the refrigerator</b> was done by my son.\n<b>Incorrect:</b> The drawing was done by my son <u>on the refrigerator</u>.\n\nIt is best to describe everything about something (drawing <b>on the refrigerator</b>) <i>before</i> mentioning other people or things related to it (done by my son). The first example mentions a drawing that is on the refrigerator, while the second example shows an odd situation where the son was on top of the refrigerator.\"\"",
       "ruleNumber": 479,
@@ -12247,7 +12229,7 @@
       },
       "title": "Misplaced Modifiers"
     },
-    {
+    "480": {
       "classification": 22,
       "description": "<b>Correct:</b> The drawing <b>on the refrigerator</b> was done by my son.\n<b>Incorrect:</b> The drawing was done by my son <u>on the refrigerator</u>.\n\nIt is best to describe everything about something (drawing <b>on the refrigerator</b>) <i>before</i> mentioning other people or things related to it (done by my son). The first example mentions a drawing that is on the refrigerator, while the second example shows an odd situation where the son was on top of the refrigerator.",
       "ruleNumber": 480,
@@ -12264,7 +12246,7 @@
       },
       "title": "Practice: Misplaced Modifiers"
     },
-    {
+    "481": {
       "classification": 74,
       "description": "<b>Intensive:</b> I  <b>myself</b> organized the meeting.\n\n<b>Reflexive:</b> I organized <u>myself</u> before going to the meeting.\n\n<br>\n\nIntensive Pronouns (<b>myself</b>) use the same words as reflexive pronouns (<u>myself</u>). However, when using intensive pronouns, the word emphasizes the the subject (I) emphasizes that it <i>does something</i> (organized the meeting). When the word is used as a reflexive pronoun, it emphasizes what the subject does to <i>itself</i> (organized <u>myself</u>).\n\n<br>",
       "ruleNumber": 481,
@@ -12275,7 +12257,7 @@
       },
       "title": "Intensive Pronouns vs. Reflexive Pronouns"
     },
-    {
+    "482": {
       "classification": 74,
       "description": "<b>Intensive:</b> I organized the meeting <b>myself</b>.\n<b>Reflexive:</b> I organized <u>myself</u> before going to the meeting.\n<br>\nIntensive Pronouns (<b>myself</b>) use the same words as reflexive pronouns (<u>myself</u>). However, when using intensive pronouns, the subject (I) emphasizes that it <i>does something</i> (organized the meeting). It did not do something to <i>itself</i> (organized <u>myself</u>).\n<br>",
       "ruleNumber": 482,
@@ -12290,7 +12272,7 @@
       },
       "title": "Practice: Intensive Pronouns vs. Reflexive Pronouns"
     },
-    {
+    "483": {
       "classification": 40,
       "description": "<b>Correct: I</b> will conduct the meeting.\n\n<b>Incorrect:</b> <u>Me</u> will conduct the meeting.\n\n<b>Also Incorrect:</b> <u>Mine</u> will conduct the meeting.\n\n<br>\n\nSubject pronouns (I) are words like \"\"I,\"\" \"\"you,\"\" \"\"he,\"\" \"\"she,\"\" \"\"it,\"\" \"\"we,\"\" \"\"you,\"\" and \"\"they.\"\" They are usually near the front of the sentence and go <i>before</i> the verb.\n\n<br>",
       "ruleNumber": 483,
@@ -12299,7 +12281,7 @@
       },
       "title": "Subjective Pronouns"
     },
-    {
+    "484": {
       "classification": 40,
       "description": "<b>Correct: I</b> will conduct the meeting.\n<b>Incorrect:</b> <u>Me</u> will conduct the meeting.\n<b>Also Incorrect:</b> <u>Mine</u> will conduct the meeting.\n<br>\nSubject pronouns (I) are words like \"\"I,\"\" \"\"you,\"\" \"\"he,\"\" \"\"she,\"\" \"\"it,\"\" \"\"we,\"\" \"\"you,\"\" and \"\"they.\"\" They are usually near the front of the sentence and go <i>before</i> the verb.\n<br>",
       "ruleNumber": 484,
@@ -12319,7 +12301,7 @@
       },
       "title": "Practice: Subjective, Objective, and Possessive Pronouns"
     },
-    {
+    "485": {
       "classification": 40,
       "description": "<b>Correct:</b> Will you please call <b>her</b> when you finish the poster?\n\n<b>Incorrect:</b> Will you please call <u>she</u> when you finish the poster?\n\n<b>Also Incorrect:</b> Will you please call <u>hers</u> when you finish the poster?\n\n<br>\n\nObject pronouns (<b>her</b>) are words like \"\"me\"\", \"\"you\"\", \"\"him\"\", \"\"her\"\", \"\"it\"\", \"\"us\"\", and \"\"them\"\". Object pronouns go after the verb (call).\n\n<br>",
       "ruleNumber": 485,
@@ -12328,7 +12310,7 @@
       },
       "title": "Object Pronouns"
     },
-    {
+    "486": {
       "classification": 40,
       "description": "<b>Correct:</b> Our project is more difficult than theirs.\n\n<b>Incorrect:</b> Our project is more difficult than they.\n\n<b>Also Incorrect:</b> Our project is more difficult than them.\n\n<br>\n\nPossessive pronouns (<b>theirs</b>) are words like \"\"mine\"\", \"\"yours\"\", \"\"his\"\", \"\"hers\"\", \"\"its\"\", \"\"ours\"\", and \"\"theirs\"\". They refer to something the subject owns (project).\n\n<br>",
       "ruleNumber": 486,
@@ -12337,7 +12319,7 @@
       },
       "title": "Possessive Pronouns"
     },
-    {
+    "487": {
       "classification": 59,
       "description": "<b>Positive:</b> We are going to make it, aren't we?\n\n<b>Negative:</b> You aren't on my team, are you?\n\n\n\nTag questions are little questions that we place at the end of sentences when we want to confirm what we just asked, or suggest an answer.  If the first part of the sentence is positive (we <b>are</b> going to make it) then the tag question is negative (<b>aren't we</b>).  If the first part is negative, then the tag question is positive.",
       "ruleNumber": 487,
@@ -12346,7 +12328,7 @@
       },
       "title": "Tag Questions"
     },
-    {
+    "488": {
       "classification": 59,
       "description": "<b>Positive:</b> We are going to make it, aren't we?\n<b>Negative:</b> You aren't on my team, are you?\n\nTag questions are little questions that we place at the end of sentences when we want to agree, disagree, or confirm what someone just said. If the first part of the sentence is positive (we <b>are</b> going to make it) then the tag question is negative (<b>aren't we</b>).",
       "ruleNumber": 488,
@@ -12363,7 +12345,7 @@
       },
       "title": "Practice: Commas for \"\"Yes\"\" and \"\"No,\"\" Tag Questions, and Addressing People"
     },
-    {
+    "489": {
       "classification": 1,
       "description": "<b>Correct:</b> Yes, my husband is a lawyer.\n\n<b>Incorrect:</b> Yes my husband is a lawyer.\n\n\n\n<b>Correct:</b> No, I don't want to go.\n\n<b>Incorrect:</b> No I don't want to go.\n\n\n\nWhen we begin a sentence with <b>yes</b> or <b>no</b>, we always put a comma afterwards.",
       "ruleNumber": 489,
@@ -12372,7 +12354,7 @@
       },
       "title": "Yes & No"
     },
-    {
+    "490": {
       "classification": 1,
       "description": "<b>Correct:</b> Can we go, Paul?\n\n<b>Incorrect:</b> Can we go Paul?\n\n\n\n<b>Correct:</b> Sarah, you should go to practice.\n\n<b>Incorrect:</b> Sarah you should go to practice.\n\n\n\nIf we address somebody at the end of a sentence, we place a comma <i>before</i> their name. If we address somebody at the beginning of a sentence we place a comma <i>after</i> their name.",
       "ruleNumber": 490,
@@ -12381,7 +12363,7 @@
       },
       "title": "Addressing People"
     },
-    {
+    "491": {
       "classification": 1,
       "description": "<b>Correct:</b> This box has books, magazines, and newspaper articles.\n\n<b>Incorrect:</b> This box has books magazines and newspaper articles.\n\n\n\nWe place commas after each item in a list (books, magazines,). We finish a list by placing the word \"\"and\"\" before the last item.",
       "ruleNumber": 491,
@@ -12391,7 +12373,7 @@
       },
       "title": "Commas in a List"
     },
-    {
+    "492": {
       "classification": 1,
       "description": "<b>Correct:</b> This box has books, magazines, and newspaper articles.\n<b>Incorrect:</b> This box has books magazines and newspaper articles.\n\nWe place commas after each item in a list (books, magazines,). We finish a list by placing the word \"\"and\"\" before the last item.",
       "ruleNumber": 492,
@@ -12405,7 +12387,7 @@
       },
       "title": "Practice: Colons and Commas in a List"
     },
-    {
+    "493": {
       "classification": 1,
       "description": "<b>Correct:</b> The box was filled with stuff: two pairs of shoes, some keys, and a cup.\n\n<b>Incorrect:</b> The box has: two pairs of shoes, some keys, and a cup.\n\n\n\nWe use colons (<b>filled with stuff:</b>) to begin a list. Colons can only be used after complete sentences. Colons are never placed after main verb of the sentence they are added too. After the colon begins the list, we place commas after each item in the list.",
       "ruleNumber": 493,
@@ -12415,7 +12397,7 @@
       },
       "title": "Colons"
     },
-    {
+    "494": {
       "classification": 0,
       "description": "<b>Correct:</b> <b>You</b> should climb Mount Washington.\n\n<b>Incorrect:</b> <u>you</u> should climb Mount Washington.\n\n<br>\n\nWhenever we begin a new sentence, we always capitalize the first letter of the first word (<b>You</b>) of the sentence.\n\n<br>",
       "ruleNumber": 494,
@@ -12424,7 +12406,7 @@
       },
       "title": "First Word of a Sentence"
     },
-    {
+    "495": {
       "classification": 0,
       "description": "<b>Correct:</b> <b>You</b> should climb Mount Washington.\n<b>Incorrect:</b> <u>you</u> should climb Mount Washington.\n<br>\nWhenever we begin a new sentence, we always capitalize the first letter of the first word (<b>You</b>) of the sentence.\n<br>",
       "ruleNumber": 495,
@@ -12448,7 +12430,7 @@
       },
       "title": "Practice: Correct Capitalization"
     },
-    {
+    "496": {
       "classification": 37,
       "description": "<b>Correct:</b> Do you have a class with <b>Mr. Thompson</b>?\n\n<b>Incorrect:</b> Do you have a class with <u>mr. thompson</u>?\n\n<br>\n\nWe always capitalize the first letter of proper nouns (<b>Mr. Thompson</b>), which are people, places, and things, with names. We also capitalize any titles that might come before the proper noun, such as Mr., Ms., Dr., President, Professor, ect. Don't forget, \"\"I\"\" is a proper noun and is always capitalized.\n\n<br>",
       "ruleNumber": 496,
@@ -12457,7 +12439,7 @@
       },
       "title": "Proper Nouns"
     },
-    {
+    "497": {
       "classification": 38,
       "description": "<b>Correct:</b> We heard a booming voice shout, \"\"<b>Who</b> are you?\"\"\n\n<b>Incorrect:</b> We heard a booming voice shout, \"\"<u>who</u> are you?\"\"\n\n<br>\n\nWhen we use quotations in a sentence, we always capitalize the first letter of the first word (<b>Who</b>) of the quote as though it was starting a new sentence.\n\n<br>",
       "ruleNumber": 497,
@@ -12466,7 +12448,7 @@
       },
       "title": "Quotations"
     },
-    {
+    "498": {
       "classification": 39,
       "description": "<b>Correct:</b> I live on 15 Deepwood Rd in Hartford CT.\n\n<b>Incorrect:</b> I live on 15 deepwood rd in hartford ct.\n\n<br>\n\nThe names of roads, towns, and states in addresses are all proper nouns, so they are capitalized. Don't forget to capitalize all the proper nouns in your address whenever you write it down.\n\n<br>",
       "ruleNumber": 498,
@@ -12475,7 +12457,7 @@
       },
       "title": "Addresses"
     },
-    {
+    "499": {
       "classification": 7,
       "description": "<b>Correct:</b> I think that is <b>Jane's</b> notebook.\n\n<b>Incorrect:</b> That is <u>Janes</u> notebook.\n\n<br>\n\nPossessive nouns are used to show ownership of the noun written after it (<b>Jane's</b> <u>notebook</u>). \n\n\n\nSingular possessive nouns are usually made by adding an apostrophe and an \"\"s\"\" to the end of the word.",
       "ruleNumber": 499,
@@ -12485,7 +12467,7 @@
       },
       "title": "Singular Possessive"
     },
-    {
+    "500": {
       "classification": 7,
       "description": "<b>Correct:</b> I think that is <b>Jane's</b> notebook.\n<b>Incorrect:</b> That is <u>Janes</u> notebook.\n<br>\nPossessive nouns are used to show ownership of the noun written after it (<b>Jane's</b> <u>notebook</u>). \n\nSingular possessive nouns are usually made by adding an apostrophe and an \"\"s\"\" to the end of the word.",
       "ruleNumber": 500,
@@ -12503,7 +12485,7 @@
       },
       "title": "Practice: Possessive Nouns"
     },
-    {
+    "501": {
       "classification": 70,
       "description": "<b>Correct:</b> The <b>saddles</b> on each horse were both comfortable and stylish.\n\n<b>Incorrect:</b> The <u>saddle's</u> on each horse were both comfortable and stylish.\n\n\n\nPlural words that do <i>not</i> own something are written without an apostrophe.  Words with an apostrophe placed <i>before<i> an \"\"s\"\" are singular possessive words.",
       "ruleNumber": 501,
@@ -12512,7 +12494,7 @@
       },
       "title": "Plural vs. Singular Possessive"
     },
-    {
+    "502": {
       "classification": 7,
       "description": "<b>Many Boys:</b> Do not touch the <b>boys'</b> gear.\n\n<b>One Boy</b>: Do not touch the <u>boy's</u> gear.\n\n\n\nWhen multiple people or things own something we place an apostrophe after the \"\"s\"\" (<b>boys'</b>). When just one person or thing owns something we put the apostrophe <i>before</i> the \"\"s\"\".",
       "ruleNumber": 502,
@@ -12522,7 +12504,7 @@
       },
       "title": "Plural Possessive"
     },
-    {
+    "503": {
       "classification": 1,
       "description": "<b>Correct:</b> A wise man one said, \"\"Doubt everything, find your own light.\"\"\n\n<b>Incorrect:</b> A wise man once said \"\"Doubt everything, find your own light.\n\n\n\nWe use a pair of quotation marks to show that someone is speaking. Whenever we use quotation marks, we always put a comma before the beginning of the quote (said,).",
       "ruleNumber": 503,
@@ -12532,7 +12514,7 @@
       },
       "title": "Use Commas and Quotation Marks in Dialogue"
     },
-    {
+    "504": {
       "classification": 1,
       "description": "<b>Correct:</b> A wise man one said, \"\"Doubt everything, find your own light.\"\"\n<b>Incorrect:</b> A wise man once said \"\"Doubt everything, find your own light.\n\nWe use a pair of quotation marks to show that someone is speaking. Whenever we use quotation marks, we always put a comma before the beginning of the quote (said,).",
       "ruleNumber": 504,
@@ -12551,7 +12533,7 @@
       },
       "title": "Practice: Commas and Quotation Marks in Dialogue"
     },
-    {
+    "505": {
       "classification": 51,
       "description": "<b>Correct:</b> Which holiday is closest to today, <b>Christmas</b>, <b>Hanukkah</b>, <b>Valentine's Day</b>, or <b>Easter</b>?\n\n<b>Incorrect:</b> Which holiday is closest to today, <u>christmas</u>, <u>hanukkah</u>, <u>valentines day</u>, or <u>easter</u>?\n\n<br>\n\nWhen we write holiday names, we always capitalize the first letter of all the words (New Year's Eve, Christmas Day, Fourth of July).\n\n<br>",
       "ruleNumber": 505,
@@ -12561,7 +12543,7 @@
       },
       "title": "Holidays"
     },
-    {
+    "506": {
       "classification": 51,
       "description": "<b>Correct:</b> Which holiday is closest to today, <b>Christmas</b>, <b>Hanukkah</b>, <b>Valentine's Day</b>, or <b>Easter</b>?\n<b>Incorrect:</b> Which holiday is closest to today, <u>christmas</u>, <u>hanukkah</u>, <u>valentines day</u>, or <u>easter</u>?\n<br>\nWhen we write holiday names, we always capitalize the first letter of all the words (New Year's Eve, Christmas Day, Fourth of July).\n<br>",
       "ruleNumber": 506,
@@ -12596,7 +12578,7 @@
       },
       "title": "Practice: Capitalize Holidays, Product Names, and Geographic Names"
     },
-    {
+    "507": {
       "classification": 41,
       "description": "<b>Correct:</b> My favorite baseball team is the <b>Yankees</b>.\n\n<b>Incorrect:</b> My favorite baseball team is the <u>yankees</u>.\n\n<br>\n\nWe capitalize all product names. Product names include companies (Microsoft), sports teams (Yankees), and brand names (Coca-Cola).\n\n<br>",
       "ruleNumber": 507,
@@ -12606,7 +12588,7 @@
       },
       "title": "Product Names"
     },
-    {
+    "508": {
       "classification": 2,
       "description": "<b>Correct:</b> I am moving to <b>Los Angeles</b> next month.\n\n<b>Incorrect:</b> I am moving to <u>los angeles</u> next month.\n\n<br>\n\nWe capitalize the names of all geographic places (cities, countries, towns, mountains, etc).\n\n<br>",
       "ruleNumber": 508,
@@ -12616,7 +12598,7 @@
       },
       "title": "Geographic Names"
     },
-    {
+    "509": {
       "classification": 64,
       "description": "<b>Correct:</b> August 30th, 1972\n\n<b>Incorrect:</b> 1972, 30th, August\n\n<br>\n\nWhen we write dates, we start with the month (August), then the day (30th), and end with the year (1972). We also put a comma in between the day and the year (August 30th, 1972).\n\n<br>",
       "ruleNumber": 509,
@@ -12626,7 +12608,7 @@
       },
       "title": "Writing the Date"
     },
-    {
+    "510": {
       "classification": 64,
       "description": "<b>Correct:</b> August 30th, 1972\n<b>Incorrect:</b> 1972, 30th, August\n<br>\nWhen we write dates, we start with the month (August), then the day (30th), and end with the year (1972). We also put a comma in between the day and the year (August 30th, 1972).\n<br>",
       "ruleNumber": 510,
@@ -12656,7 +12638,7 @@
       },
       "title": "Practice: Use Commas for Dates and Lists"
     },
-    {
+    "511": {
       "classification": 60,
       "description": "<b>Incorrect:</b> I'll have milk and toast and a muffin.\n\n<b>Correct:</b> I'll have milk, toast, and a muffin.\n\n<br>\n\nWhen we write lists of three or more, we put a comma after each item in the list. We also put the word \"\"and\"\" before the last item of the list.\n\n<br>",
       "ruleNumber": 511,
@@ -12666,7 +12648,7 @@
       },
       "title": "Writing Lists"
     },
-    {
+    "512": {
       "classification": 46,
       "description": "<b>Correct:</b> My birthday is on <b>Wednesday</b>, <b>May</b> 4th, 1994.\n\n<b>Incorrect:</b> My birthday is on <u>wednesday</u>, <u>may</u> 4th, 1994.\n\n<br>\n\nWe capitalize the names of specific days and months (<b>Wednesday</b>, <b>May</b>).\n\n<br>",
       "ruleNumber": 512,
@@ -12676,7 +12658,7 @@
       },
       "title": "Capitalization: Dates"
     },
-    {
+    "513": {
       "classification": 46,
       "description": "<b>Correct:</b> My birthday is on <b>Wednesday</b>, <b>May</b> 4th, 1994.\n<b>Incorrect:</b> My birthday is on <u>wednesday</u>, <u>may</u> 4th, 1994.\n<br>\nWe capitalize the names of specific days and months (<b>Wednesday</b>, <b>May</b>).\n<br>",
       "ruleNumber": 513,
@@ -12705,7 +12687,7 @@
       },
       "title": "Practice: Capitalizing Dates and Names of People"
     },
-    {
+    "514": {
       "classification": 63,
       "description": "<b>Correct:</b> <b>Sarah's</b> birthday is coming soon.\n\n<b>Incorrect:</b> <u>sarah's</u> birthday is coming soon.\n\n<br>\n\nWe capitalize names of people (<b>Sarah</b>, <b>Abraham Lincoln</b>).\n\n<br>",
       "ruleNumber": 514,
@@ -12715,7 +12697,7 @@
       },
       "title": "Capitalization: Names"
     },
-    {
+    "515": {
       "classification": 2,
       "description": "",
       "ruleNumber": 515,
@@ -12727,7 +12709,7 @@
       },
       "title": "Practice: Periods and Commas"
     },
-    {
+    "524": {
       "classification": 80,
       "description": "",
       "ruleNumber": 524,
@@ -12737,6 +12719,24 @@
         "2187": true
       },
       "title": "Peter's Name"
+    },
+    "60": {
+      "classification": 65,
+      "description": "<b>Singular:</b> I saw a <u>deer</u> crossing the road earlier.\n<b>Plural:</b> I saw ten <b>deer</b> crossing the road earlier.\n<br>\nThe word \"\"deer\"\" does not change when it becomes plural.\n<br>",
+      "ruleNumber": 60,
+      "ruleQuestions": {
+        "267": true
+      },
+      "title": "Deer"
+    },
+    "76": {
+      "classification": 19,
+      "description": "<b>Correct:</b> My friends and I <b>went</b> shopping an hour ago.\n<b>Incorrect:</b> My friends and I <u>goed</u> shopping an hour ago.\n<br>\nThe past tense of \"\"go\"\" is <b>went</b>.\n<br>",
+      "ruleNumber": 76,
+      "ruleQuestions": {
+        "212": true
+      },
+      "title": "Went"
     }
-  ]
+  }
 }

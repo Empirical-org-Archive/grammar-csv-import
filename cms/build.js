@@ -18,9 +18,16 @@ module.exports = function(
     ruleNumberCounter: getMaxId(rules)
   };
 
-  base.rules = _.filter(base.rules, function(r) {
-    return r.ruleQuestions && _.size(r.ruleQuestions) > 0;
-  });
+  base.rules = _.chain(base.rules)
+    .filter(function(r) {
+      return r.ruleQuestions && _.size(r.ruleQuestions) > 0;
+    })
+    .map(function(r) {
+      return [r.ruleNumber, r];
+    })
+    .object()
+    .value();
+
 
   var ruleIdsAfterFilter = _.map(_.pluck(base.rules, 'ruleNumber'), String);
 
