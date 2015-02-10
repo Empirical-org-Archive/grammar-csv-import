@@ -70,7 +70,7 @@ module.exports = function(cats, rules, ruleQs) {
     }
 
   });
-  require('build')(
+  require('./build')(
     fCategories,
     fRules,
     fRuleQs,

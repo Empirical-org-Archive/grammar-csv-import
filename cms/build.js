@@ -18,5 +18,9 @@ module.exports = function(
     ruleNumberCounter: getMaxId(rules)
   };
 
+  base.rules = _.filter(base.rules, function(r) {
+    return r.ruleQuestions && _.size(r.ruleQuestions) > 0;
+  });
+
   require('../print')(base);
 }
