@@ -22,5 +22,22 @@ module.exports = function(
     return r.ruleQuestions && _.size(r.ruleQuestions) > 0;
   });
 
+  var ruleIdsAfterFilter = _.map(_.pluck(base.rules, 'ruleNumber'), String);
+
+  base.categories = _.map(base.categories, function(c) {
+    c.rules = _.chain(c.rules)
+      .keys()
+      .filter(function(k) {
+        return _.contains(ruleIdsAfterFilter, k);
+      })
+      .map(function(k) {
+        return [k, true];
+      })
+      .object()
+      .value();
+    return c;
+  });
+
+
   require('../print')(base);
 }
