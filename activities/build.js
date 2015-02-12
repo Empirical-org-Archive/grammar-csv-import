@@ -1,8 +1,9 @@
 module.exports = function(
-  sentenceWritings
+  sentenceWritings, passageProofreadings
 ) {
   var base = {
-    sentenceWritings: sentenceWritings
+    sentenceWritings: sentenceWritings,
+    passageProofreadings: passageProofreadings,
   };
 
   require('../print')(base);

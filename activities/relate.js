@@ -72,7 +72,9 @@ module.exports = function(activities) {
       return d;
     })
     .value();
+
+  var passageProofreadings = _.chain(_.groupBy(activities, 'activity_classification_id')[1])
   require('build')(
-    _.extend({}, sentenceWritings)
+    _.extend({}, sentenceWritings, passageProofreadings)
   );
 }
