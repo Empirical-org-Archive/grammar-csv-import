@@ -661,6 +661,12 @@
     "83": "Coordinate Adjectives",
     "9": "Verb Shift"
   },
+  "flags": [
+    "Production",
+    "Beta",
+    "Alpha",
+    "Archived"
+  ],
   "instructions": {
     "0": "Rewrite the sentences to make the different action consistent with the other ones.  There may be more than one correct answer",
     "1": "In this sentence, there is a choice between two things. Rewrite the sentence with <b>either</b> between the first choice. <b>There is more than one correct way to write your answer.</b>",

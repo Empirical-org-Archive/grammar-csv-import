@@ -45,6 +45,7 @@ module.exports = function(
     return c;
   });
 
+  base.flags = ['Production', 'Beta', 'Alpha', 'Archived'];
 
   require('../print')(base);
 }
