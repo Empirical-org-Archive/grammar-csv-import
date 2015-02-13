@@ -2,7 +2,7 @@ var _ = require('underscore');
 var hstore = require('hstore.js');
 var yaml = require('js-yaml');
 var yaml2 = require('yaml2');
-module.exports = function(activities) {
+module.exports = function(activities, proofData) {
 
   var flags = [{id:1, name: '{production}'}, {id:2, name: '{beta}'},
     {id:3, name: '{alpha}'}, {id:4, name:'{archived}'}
@@ -90,6 +90,7 @@ module.exports = function(activities) {
     .map(function(n) {
       return {
         categoryId: n.topic_id,
+        id: n.id,
         flags: n.flags,
         description: n.description,
         data: n.data,
@@ -104,6 +105,11 @@ module.exports = function(activities) {
     .reject(function(f) {
       var archived = _.findWhere(flags, {name: '{archived}'}).id;
       return f.flagId === archived;
+    })
+    .map(function(f) {
+      f.data = _.findWhere(proofData, {id: f.id});
+      delete(f.data.id);
+      return f;
     })
     .map(function(d) {
       d.passage = makePassage(d.data);

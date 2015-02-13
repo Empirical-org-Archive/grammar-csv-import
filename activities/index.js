@@ -21,7 +21,7 @@ function nextStep(results) {
 }
 
 async.map(
-  ['activities.csv', 'activity_classifications.csv'],
+  ['activities.csv', 'proofreading_hstore_data.csv'],
   start,
   function(err, results) {
     if (err) {
