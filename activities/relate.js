@@ -78,6 +78,8 @@ module.exports = function(activities, proofData) {
       .replace('---', '')
       .replace(/\\""/g, '"')
       .replace('\n...', '')
+      .replace(/\\r\\n/g, '<br/>')
+      .replace(/\n/g, '')
       .trim();
     while (_.last(r) === '"') {
       r = _.first(r, r.length -1).join('');
