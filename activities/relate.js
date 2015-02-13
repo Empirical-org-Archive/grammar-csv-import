@@ -73,17 +73,8 @@ module.exports = function(activities, proofData) {
     })
     .value();
 
-
-  function parseData(what, data) {
-    return hstore.parse(data)[what];
-  }
-
-  function makePassage(data) {
-    return parseData('body', data);
-  }
-
-  function makeInstructions(data) {
-    return parseData('instructions', data);
+  function parseYaml(d) {
+    return d.replace('--- ', '').replace('\n...', '');
   }
 
   var passageProofreadings = _.chain(_.groupBy(activities, 'activity_classification_id')[1])
@@ -112,8 +103,9 @@ module.exports = function(activities, proofData) {
       return f;
     })
     .map(function(d) {
-      d.passage = makePassage(d.data);
-      d.instructions = makeInstructions(d.data);
+      d.passage = parseYaml(d.data.body);
+      d.instructions = parseYaml(d.data.instructions);
+      delete(d.data);
       return d;
     });
   require('build')(
