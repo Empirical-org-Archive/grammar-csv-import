@@ -74,7 +74,9 @@ module.exports = function(activities, proofData) {
     .value();
 
   function parseYaml(d) {
-    return d.replace('--- ', '').replace('\n...', '');
+    return d
+      .replace('--- ', '')
+      .replace('\n...', '');
   }
 
   var passageProofreadings = _.chain(_.groupBy(activities, 'activity_classification_id')[1])
