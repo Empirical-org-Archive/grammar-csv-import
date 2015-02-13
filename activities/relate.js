@@ -73,7 +73,43 @@ module.exports = function(activities) {
     })
     .value();
 
+
+  function parseData(what, data) {
+    return hstore.parse(data)[what];
+  }
+
+  function makePassage(data) {
+    return parseData('body', data);
+  }
+
+  function makeInstructions(data) {
+    return parseData('instructions', data);
+  }
+
   var passageProofreadings = _.chain(_.groupBy(activities, 'activity_classification_id')[1])
+    .map(function(n) {
+      return {
+        categoryId: n.topic_id,
+        flags: n.flags,
+        description: n.description,
+        data: n.data,
+        title: n.name.replace('Passage Proofreading: ', ''),
+      };
+    })
+    .map(function(f) {
+      f.flagId = _.findWhere(flags, {name: f.flags}).id;
+      delete(f.flags);
+      return f;
+    })
+    .reject(function(f) {
+      var archived = _.findWhere(flags, {name: '{archived}'}).id;
+      return f.flagId === archived;
+    })
+    .map(function(d) {
+      d.passage = makePassage(d.data);
+      d.instructions = makeInstructions(d.data);
+      return d;
+    });
   require('build')(
     _.extend({}, sentenceWritings, passageProofreadings)
   );
