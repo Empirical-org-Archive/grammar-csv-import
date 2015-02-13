@@ -74,9 +74,18 @@ module.exports = function(activities, proofData) {
     .value();
 
   function parseYaml(d) {
-    return d
-      .replace('--- ', '')
-      .replace('\n...', '');
+    var r = d
+      .replace('---', '')
+      .replace(/\\""/g, '"')
+      .replace('\n...', '')
+      .trim();
+    while (_.last(r) === '"') {
+      r = _.first(r, r.length -1).join('');
+    }
+    while (_.first(r) === '"') {
+      r = _.rest(r).join('');
+    }
+    return r.trim();
   }
 
   var passageProofreadings = _.chain(_.groupBy(activities, 'activity_classification_id')[1])
