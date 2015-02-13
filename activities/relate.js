@@ -120,8 +120,10 @@ module.exports = function(activities, proofData) {
       d.instructions = parseYaml(d.data.instructions);
       delete(d.data);
       return d;
-    });
+    })
+    .value();
   require('build')(
-    _.extend({}, sentenceWritings, passageProofreadings)
+    _.extend({}, sentenceWritings),
+    _.extend({}, passageProofreadings)
   );
 }
