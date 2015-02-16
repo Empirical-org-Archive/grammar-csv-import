@@ -1,9 +1,11 @@
 {
-  "categories": [
-    {
+  "categories": {
+    "1": {
       "rules": {
+        "10": true,
         "11": true,
         "12": true,
+        "13": true,
         "264": true,
         "267": true,
         "275": true,
@@ -23,89 +25,7 @@
       },
       "title": "1.1b. Use Common, Proper, and Possessive Nouns."
     },
-    {
-      "rules": {
-        "407": true,
-        "408": true
-      },
-      "title": "1.1c. Use Singular and Plural Nouns with Matching Verbs in Basic Sentences."
-    },
-    {
-      "rules": {
-        "18": true,
-        "19": true,
-        "419": true,
-        "420": true,
-        "421": true,
-        "422": true
-      },
-      "title": "1.1e. Use Verbs to Convey a Sense of Past, Present, and Future."
-    },
-    {
-      "rules": {
-        "423": true,
-        "424": true,
-        "425": true,
-        "426": true,
-        "427": true,
-        "428": true
-      },
-      "title": "1.1g. Conjunctions (And, But, Or, So, Because)."
-    },
-    {
-      "rules": {
-        "27": true,
-        "32": true,
-        "371": true,
-        "372": true,
-        "373": true,
-        "374": true,
-        "375": true,
-        "376": true,
-        "377": true,
-        "378": true,
-        "379": true,
-        "380": true,
-        "381": true,
-        "382": true
-      },
-      "title": "1.1h. Use Determiners."
-    },
-    {
-      "rules": {
-        "363": true,
-        "364": true,
-        "365": true,
-        "366": true,
-        "367": true,
-        "368": true,
-        "369": true,
-        "370": true
-      },
-      "title": "1.1i. Use Frequently Occurring Prepositions."
-    },
-    {
-      "rules": {
-        "512": true,
-        "513": true,
-        "514": true
-      },
-      "title": "1.2a. Capitalize Dates and Names of People."
-    },
-    {
-      "rules": {
-        "509": true,
-        "510": true,
-        "511": true
-      },
-      "title": "1.2c. Use Commas in Dates and to Separate Single Words in a Series"
-    },
-    {
-      "rules": {
-      },
-      "title": "2.1a. Use Collective Nouns."
-    },
-    {
+    "10": {
       "rules": {
         "390": true,
         "391": true,
@@ -122,11 +42,22 @@
         "403": true,
         "404": true,
         "406": true,
-        "60": true
+        "50": true,
+        "51": true,
+        "52": true,
+        "53": true,
+        "54": true,
+        "55": true,
+        "56": true,
+        "57": true,
+        "58": true,
+        "59": true,
+        "60": true,
+        "61": true
       },
       "title": "2.1b. Use Irregular Plural Nouns."
     },
-    {
+    "11": {
       "rules": {
         "354": true,
         "355": true,
@@ -136,12 +67,21 @@
         "359": true,
         "360": true,
         "361": true,
-        "362": true
+        "362": true,
+        "62": true,
+        "63": true,
+        "64": true,
+        "65": true,
+        "66": true,
+        "67": true,
+        "68": true,
+        "69": true
       },
       "title": "2.1c. Use Reflexive Pronouns."
     },
-    {
+    "12": {
       "rules": {
+        "226": true,
         "227": true,
         "333": true,
         "335": true,
@@ -163,11 +103,25 @@
         "351": true,
         "352": true,
         "353": true,
-        "76": true
+        "70": true,
+        "71": true,
+        "72": true,
+        "73": true,
+        "74": true,
+        "75": true,
+        "76": true,
+        "77": true,
+        "78": true,
+        "79": true,
+        "80": true,
+        "81": true,
+        "82": true,
+        "83": true,
+        "84": true
       },
       "title": "2.1d. Form and Use the Past Tense of Frequently Occurring Irregular Verbs."
     },
-    {
+    "13": {
       "rules": {
         "429": true,
         "430": true,
@@ -176,22 +130,39 @@
         "433": true,
         "434": true,
         "435": true,
-        "437": true
+        "437": true,
+        "85": true,
+        "86": true,
+        "87": true,
+        "88": true,
+        "89": true,
+        "90": true,
+        "91": true
       },
       "title": "2.1e. Use Adjectives and Adverbs."
     },
-    {
+    "14": {
       "rules": {
         "505": true,
         "506": true,
         "507": true,
-        "508": true
+        "508": true,
+        "92": true,
+        "93": true,
+        "94": true,
+        "95": true
       },
       "title": "2.2a. Capitalize Holidays, Product Names, and Geographic Names."
     },
-    {
+    "15": {
       "rules": {
+        "100": true,
+        "101": true,
+        "102": true,
+        "103": true,
+        "104": true,
         "105": true,
+        "230": true,
         "438": true,
         "439": true,
         "440": true,
@@ -205,13 +176,25 @@
         "448": true,
         "449": true,
         "450": true,
-        "451": true
+        "451": true,
+        "96": true,
+        "97": true,
+        "98": true,
+        "99": true
       },
       "title": "2.2c. Use an Apostrophe to Form Contractions."
     },
-    {
+    "16": {
       "rules": {
+        "106": true,
+        "107": true,
         "108": true,
+        "109": true,
+        "110": true,
+        "111": true,
+        "112": true,
+        "113": true,
+        "114": true,
         "285": true,
         "286": true,
         "287": true,
@@ -230,6 +213,7 @@
         "300": true,
         "301": true,
         "302": true,
+        "303": true,
         "304": true,
         "305": true,
         "306": true,
@@ -247,8 +231,12 @@
       },
       "title": "4.1a. Use relative pronouns and relative adverbs."
     },
-    {
+    "17": {
       "rules": {
+        "115": true,
+        "116": true,
+        "117": true,
+        "118": true,
         "318": true,
         "319": true,
         "320": true,
@@ -256,19 +244,41 @@
       },
       "title": "4.1b. Form and use the progressive verb tenses."
     },
-    {
+    "18": {
       "rules": {
+        "119": true,
+        "120": true,
+        "121": true
       },
       "title": "4.1c. Use modal auxiliaries to convey various conditions."
     },
-    {
+    "19": {
       "rules": {
+        "122": true,
+        "123": true,
+        "124": true,
+        "125": true
       },
       "title": "4.1e. Form and use prepositional phrases."
     },
-    {
+    "2": {
       "rules": {
+        "15": true,
+        "17": true,
+        "407": true,
+        "408": true
+      },
+      "title": "1.1c. Use Singular and Plural Nouns with Matching Verbs in Basic Sentences."
+    },
+    "20": {
+      "rules": {
+        "126": true,
+        "127": true,
+        "128": true,
         "129": true,
+        "130": true,
+        "131": true,
+        "132": true,
         "262": true,
         "263": true,
         "265": true,
@@ -290,9 +300,13 @@
       },
       "title": "4.1g. Correctly use frequently confused words."
     },
-    {
+    "21": {
       "rules": {
+        "133": true,
+        "134": true,
+        "135": true,
         "136": true,
+        "137": true,
         "494": true,
         "495": true,
         "496": true,
@@ -301,9 +315,12 @@
       },
       "title": "4.2a. Use correct capitalization."
     },
-    {
+    "23": {
       "rules": {
+        "138": true,
+        "139": true,
         "140": true,
+        "141": true,
         "483": true,
         "484": true,
         "485": true,
@@ -311,14 +328,16 @@
       },
       "title": "6.1a. Ensure that pronouns are in the proper case."
     },
-    {
+    "24": {
       "rules": {
+        "142": true,
+        "143": true,
         "481": true,
         "482": true
       },
       "title": "6.1b Use intensive pronouns."
     },
-    {
+    "25": {
       "rules": {
         "144": true,
         "145": true,
@@ -329,23 +348,42 @@
       },
       "title": "6.1c Recognize and correct inappropriate shifts in pronoun number and person."
     },
-    {
+    "26": {
       "rules": {
+        "147": true,
+        "148": true,
+        "149": true
       },
       "title": "6.1d Recognize and correct vague pronouns."
     },
-    {
+    "27": {
       "rules": {
+        "150": true,
+        "151": true
       },
       "title": "6.2a Use punctuation (commas, parentheses, dashes) to set off nonrestrictive/parenthetical elements."
     },
-    {
+    "28": {
       "rules": {
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true
       },
       "title": "111. Shackleton Rules"
     },
-    {
+    "29": {
       "rules": {
+        "152": true,
+        "153": true,
+        "154": true,
+        "155": true,
+        "188": true,
         "470": true,
         "471": true,
         "472": true,
@@ -356,9 +394,26 @@
       },
       "title": "M1. Using Spacing with Punctuation."
     },
-    {
+    "3": {
       "rules": {
+        "18": true,
+        "19": true,
+        "20": true,
+        "419": true,
+        "420": true,
+        "421": true,
+        "422": true
+      },
+      "title": "1.1e. Use Verbs to Convey a Sense of Past, Present, and Future."
+    },
+    "30": {
+      "rules": {
+        "156": true,
         "157": true,
+        "158": true,
+        "159": true,
+        "160": true,
+        "161": true,
         "322": true,
         "323": true,
         "324": true,
@@ -371,14 +426,15 @@
       },
       "title": "3.1g. Form and use comparative and superlative adjectives and adverbs."
     },
-    {
+    "31": {
       "rules": {
+        "162": true,
         "331": true,
         "332": true
       },
       "title": "3.2a. Capitalize appropriate words in titles."
     },
-    {
+    "32": {
       "rules": {
         "163": true,
         "452": true,
@@ -386,7 +442,7 @@
       },
       "title": "3.2b. Use commas in addresses."
     },
-    {
+    "33": {
       "rules": {
         "164": true,
         "503": true,
@@ -394,8 +450,12 @@
       },
       "title": "3.2c. Use commas and quotation marks in dialogue."
     },
-    {
+    "34": {
       "rules": {
+        "165": true,
+        "166": true,
+        "228": true,
+        "229": true,
         "499": true,
         "500": true,
         "501": true,
@@ -403,8 +463,12 @@
       },
       "title": "3.2d. Form and Use Possessives."
     },
-    {
+    "35": {
       "rules": {
+        "167": true,
+        "168": true,
+        "169": true,
+        "170": true,
         "256": true,
         "257": true,
         "258": true,
@@ -414,16 +478,21 @@
       },
       "title": "5.1e. Use correlative conjunctions."
     },
-    {
+    "36": {
       "rules": {
+        "171": true,
+        "172": true,
         "491": true,
         "492": true,
         "493": true
       },
       "title": "5.2a. Use punctuation to separate items in a series."
     },
-    {
+    "37": {
       "rules": {
+        "176": true,
+        "177": true,
+        "178": true,
         "487": true,
         "488": true,
         "489": true,
@@ -431,9 +500,12 @@
       },
       "title": "5.2c. Use a comma for yes and no, tag questions, and addressing people."
     },
-    {
+    "38": {
       "rules": {
         "173": true,
+        "174": true,
+        "175": true,
+        "239": true,
         "462": true,
         "463": true,
         "464": true,
@@ -443,9 +515,14 @@
       },
       "title": "5.2b. Use a comma to separate an introductory element from the rest of the sentence."
     },
-    {
+    "39": {
       "rules": {
+        "179": true,
+        "180": true,
+        "181": true,
         "182": true,
+        "183": true,
+        "184": true,
         "248": true,
         "454": true,
         "455": true,
@@ -458,43 +535,66 @@
       },
       "title": "5.1b2. Past Participles."
     },
-    {
+    "4": {
       "rules": {
+        "21": true,
+        "22": true,
+        "23": true,
+        "24": true,
+        "25": true,
+        "26": true,
+        "423": true,
+        "424": true,
+        "425": true,
+        "426": true,
+        "427": true,
+        "428": true
+      },
+      "title": "1.1g. Conjunctions (And, But, Or, So, Because)."
+    },
+    "40": {
+      "rules": {
+        "186": true,
         "479": true,
         "480": true
       },
       "title": "7.1c. Place Phrases and Clauses Within a Sentence, Recognizing and Correcting Misplaced and Dangling Modifiers."
     },
-    {
+    "41": {
       "rules": {
+        "187": true
       },
       "title": "7.2a. Use a Comma to Separate Coordinate Adjectives."
     },
-    {
+    "42": {
       "rules": {
+        "189": true
       },
       "title": "8.1b. Form and use verbs in the active and passive voice."
     },
-    {
+    "43": {
       "rules": {
         "190": true,
+        "191": true,
         "476": true,
         "477": true,
         "478": true
       },
       "title": "8.1d. Recognize and correct inappropriate shifts in verb voice and mood."
     },
-    {
+    "44": {
       "rules": {
+        "192": true
       },
       "title": "8.2b. Use an ellipsis to indicate an omission."
     },
-    {
+    "45": {
       "rules": {
+        "193": true
       },
       "title": "M0. Welcome to Quill."
     },
-    {
+    "46": {
       "rules": {
         "194": true,
         "468": true,
@@ -502,8 +602,11 @@
       },
       "title": "Messy Sentences"
     },
-    {
+    "47": {
       "rules": {
+        "195": true,
+        "196": true,
+        "213": true,
         "249": true,
         "250": true,
         "251": true,
@@ -511,18 +614,48 @@
       },
       "title": "9-10.1a. Use parallel structure."
     },
-    {
+    "48": {
       "rules": {
+        "210": true,
+        "211": true,
+        "212": true
       },
       "title": "University: Commonly Confused Words 1"
     },
-    {
+    "49": {
       "rules": {
+        "207": true,
+        "208": true,
         "209": true
       },
       "title": "University: Commonly Confused Words 2"
     },
-    {
+    "5": {
+      "rules": {
+        "27": true,
+        "28": true,
+        "29": true,
+        "30": true,
+        "31": true,
+        "32": true,
+        "33": true,
+        "34": true,
+        "371": true,
+        "372": true,
+        "373": true,
+        "374": true,
+        "375": true,
+        "376": true,
+        "377": true,
+        "378": true,
+        "379": true,
+        "380": true,
+        "381": true,
+        "382": true
+      },
+      "title": "1.1h. Use Determiners."
+    },
+    "50": {
       "rules": {
         "197": true,
         "198": true,
@@ -530,51 +663,125 @@
       },
       "title": "University: Commonly Confused Words 3"
     },
-    {
+    "51": {
       "rules": {
+        "200": true,
+        "201": true,
+        "202": true
       },
       "title": "University: Commonly Confused Words 4"
     },
-    {
+    "52": {
       "rules": {
+        "203": true,
+        "204": true,
         "205": true
       },
       "title": "University: Commonly Confused Words 5"
     },
-    {
+    "53": {
       "rules": {
-        "215": true
+        "215": true,
+        "216": true,
+        "217": true,
+        "218": true,
+        "219": true,
+        "220": true,
+        "221": true,
+        "222": true,
+        "223": true,
+        "224": true,
+        "225": true,
+        "232": true
       },
       "title": "Vocabulary"
     },
-    {
+    "54": {
       "rules": {
+        "233": true,
+        "234": true,
+        "235": true,
+        "236": true,
+        "237": true,
+        "238": true
       },
       "title": "University: Quoting Direct Speech"
     },
-    {
+    "55": {
       "rules": {
       },
       "title": "Images"
     },
-    {
+    "56": {
       "rules": {
-        "241": true
+        "241": true,
+        "244": true,
+        "246": true
       },
       "title": "2.1d Irregular Past Tense Verbs with Images"
     },
-    {
+    "57": {
       "rules": {
       },
       "title": "M2"
     },
-    {
+    "6": {
       "rules": {
-        "524": true
+        "35": true,
+        "36": true,
+        "363": true,
+        "364": true,
+        "365": true,
+        "366": true,
+        "367": true,
+        "368": true,
+        "369": true,
+        "37": true,
+        "370": true,
+        "38": true,
+        "39": true,
+        "40": true,
+        "41": true
+      },
+      "title": "1.1i. Use Frequently Occurring Prepositions."
+    },
+    "62": {
+      "rules": {
+        "524": true,
+        "525": true
       },
       "title": "Peter's Testing Work"
+    },
+    "7": {
+      "rules": {
+        "42": true,
+        "43": true,
+        "44": true,
+        "512": true,
+        "513": true,
+        "514": true
+      },
+      "title": "1.2a. Capitalize Dates and Names of People."
+    },
+    "8": {
+      "rules": {
+        "45": true,
+        "46": true,
+        "47": true,
+        "509": true,
+        "510": true,
+        "511": true
+      },
+      "title": "1.2c. Use Commas in Dates and to Separate Single Words in a Series"
+    },
+    "9": {
+      "rules": {
+        "48": true,
+        "49": true
+      },
+      "title": "2.1a. Use Collective Nouns."
     }
-  ],
+  },
   "classifications": {
     "0": "Capitalization",
     "1": "Punctuation",
