@@ -19,10 +19,10 @@ module.exports = function(
   };
 
   base.rules = _.chain(base.rules)
-    .filter(function(r) {
-      return r.ruleQuestions && _.size(r.ruleQuestions) > 0;
-    })
     .map(function(r) {
+      if (!r.ruleQuestions) {
+        r.ruleQuestions = {};
+      }
       return [r.ruleNumber, r];
     })
     .object()
