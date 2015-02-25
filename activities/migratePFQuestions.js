@@ -28,7 +28,8 @@ module.exports = function(pfs) {
     .map(function replaceParensWithBrackets(pfs, key) {
       var passage = String(pfs.passage);
       passage.replace(regex, function(key,p,m,ruleNumber) {
-        passage = passage.replace(key, key.replace(/\(/g, '[').replace(/\)/g, ']'));
+        var minus = m.replace(/\(/g, '[').replace(/\)/g, ']');
+        passage = passage.replace(key, key.replace(m, minus));
       });
       pfs.underlineErrorsInProofreader = passage !== pfs.passage;
       pfs.passage = passage;
