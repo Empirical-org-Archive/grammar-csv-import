@@ -25,13 +25,12 @@ module.exports = function(pfs) {
       return [key, pfs];
     })
     .object()
-    .map(function replaceParensWithBrackets(pfs, key) {
+    .map(function stripParens(pfs, key) {
       var passage = String(pfs.passage);
       passage.replace(regex, function(key,p,m,ruleNumber) {
-        var minus = m.replace(/\(/g, '[').replace(/\)/g, ']');
+        var minus = m.replace(/\(/g, '').replace(/\)/g, '');
         passage = passage.replace(key, key.replace(m, minus));
       });
-      pfs.underlineErrorsInProofreader = passage !== pfs.passage;
       pfs.passage = passage;
       return [key, pfs];
     })
