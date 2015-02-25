@@ -25,5 +25,15 @@ module.exports = function(pfs) {
       return [key, pfs];
     })
     .object()
+    .map(function replaceParensWithBrackets(pfs, key) {
+      var passage = String(pfs.passage);
+      passage.replace(regex, function(key,p,m,ruleNumber) {
+        passage = passage.replace(key, key.replace(/\(/g, '[').replace(/\)/g, ']'));
+      });
+      pfs.underlineErrorsInProofreader = passage !== pfs.passage;
+      pfs.passage = passage;
+      return [key, pfs];
+    })
+    .object()
     .value();
 }
