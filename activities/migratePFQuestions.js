@@ -35,5 +35,10 @@ module.exports = function(pfs) {
       return [key, pfs];
     })
     .object()
+    .map(function addUnderlineDefaultSwitchFalse(pfs, key) {
+      pfs.underlineErrorsInProofreader = false;
+      return [key, pfs];
+    })
+    .object()
     .value();
 }
