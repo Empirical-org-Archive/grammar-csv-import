@@ -14,7 +14,7 @@ module.exports = function(pfs) {
     .object()
     .value();
   return _.chain(pfs)
-    .map(function(pfs, key) {
+    .map(function MigrateIds(pfs, key) {
       var passage = pfs.passage;
       passage.replace(regex, function(key,b,c,ruleNumber) {
         if (mapping[ruleNumber]) {

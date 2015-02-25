@@ -1,8 +1,8 @@
-var migrateIds = require('./migrateIds');
+var migratePFQuestions = require('./migratePFQuestions.js');
 module.exports = function(
   sentenceWritings, passageProofreadings
 ) {
-  passageProofreadings = migrateIds(passageProofreadings);
+  passageProofreadings = migratePFQuestions(passageProofreadings);
   var base = {
     sentenceWritings: sentenceWritings,
     passageProofreadings: passageProofreadings,
