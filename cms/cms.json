@@ -913,8 +913,32 @@
     "13": "Rewrite the sentence, choosing the correct underlined word.",
     "130": "Rewrite the sentences, placing however at the beginning of the second sentence. (Don't forget to place a comma after <b>however</b>.)",
     "131": "Rewrite the sentence, replacing the underlined word with the past participle of \"\"become.\"\"",
+    "132": "Rewrite the sentence by using <b>but</b> to make the two smaller sentences into one larger sentence.",
+    "133": "Rewrite each sentence, choosing the correct underlined modal auxiliary.",
+    "134": "Rewrite the sentence, choosing most appropriate underlined prepositional phrase.",
+    "135": "Rewrite the sentence, removing \"\"and\"\" and placing a comma after the first adjective.",
+    "136": "Rewrite the sentence with proper punctuation and capitalization.",
+    "137": "Rewrite the sentence, filling in the blank with the proper spelling of  <b>although</b>.",
+    "138": "Rewrite the sentence, filling in the blank with either <b>please</b> or <b>pleas</b>.",
+    "139": "Rewrite the sentence, filling in the blank with either <b>finely</b> or <b>finally</b>.",
     "14": "Rewrite the sentence, choosing <b>your</b> or <b>you're</b> depending on the context.",
+    "140": "Rewrite the sentence, filling in the blank with either <b>poor</b> or <b>pour</b>.",
+    "141": "Rewrite the sentence, filling in the blank with either <b>Greece</b> or <b>grease</b>.",
+    "142": "Rewrite the sentence, filling in the blank with either <b>clean</b> or <b>cleanse</b>.",
+    "143": "Rewrite the sentence, filling in the blank with either <b>every day</b> or <b>everyday</b>.",
+    "144": "Rewrite the sentence, replacing the blank with either <b>past</b> or <b>passed</b>.",
+    "145": "Rewrite the sentence, filling in the blank with the proper form of either <b>to breathe</b> or <b>breath</b>.",
+    "146": "Rewrite the sentence, filling in the blank with proper form of <b>raise</b> or <b>raze</b>.",
+    "147": "Rewrite the sentence, replacing the blank with the non-contraction form of \"\"can't\"\"",
+    "148": "",
+    "149": "Rewrite the sentence, filling in the blank with either <b>Mary</b> or <b>marry</b>.",
     "15": "Rewrite the sentence with the correct underlined verb.",
+    "150": "Rewrite the sentence, filling in the blank with either <b>quite</b> or <b>quiet</b>.",
+    "151": "Rewrite the sentence, filling in the blank with <b>shone</b> or <b>shown-up</b>.",
+    "152": "Rewrite the sentence, filling in the blank with proper form of <b>grownup</b> or <b>grown-up</b>.",
+    "153": "Rewrite the sentence, filling in the blank with the proper spelling of \"\"everafter\"\"",
+    "154": "Rewrite the sentence, filling in the blank with the correct spelling of <b>everafter</b>.",
+    "155": "Rewrite the sentence, filling in the blank with the proper form of <b>let's</b> or <b>lets</b>.",
     "16": "Rewrite the sentence, replacing the blank with the correct word.",
     "17": "Rewrite the sentence, replacing the blank with either <b>which</b> or <b>that</b>.",
     "18": "Rewrite the sentence, replacing the blank with the appropriate word.",
@@ -9240,6 +9264,54 @@
       "instructions": 122,
       "prompt": "My friend's new truck, who was on sale, needs some repairs."
     },
+    "363": {
+      "body": {
+        "0": "You {may} use the bathroom when class is finished."
+      },
+      "hint": "",
+      "instructions": 133,
+      "prompt": "You <u>can / may</u> use the bathroom when class is finished."
+    },
+    "364": {
+      "body": {
+        "0": "I {can} juggle a soccer ball for 5 minutes straight."
+      },
+      "hint": "",
+      "instructions": 133,
+      "prompt": "I <u>can / may</u> juggle a soccer ball for 5 minutes straight."
+    },
+    "365": {
+      "body": {
+        "0": "You {must} go to school today because you have to graduate."
+      },
+      "hint": "",
+      "instructions": 133,
+      "prompt": "You <u>should / must</u> go to school today because you have to graduate."
+    },
+    "366": {
+      "body": {
+        "0": "You {should} check your bag to see if you packed a raincoat."
+      },
+      "hint": "",
+      "instructions": 133,
+      "prompt": "You <u>should / must</u> check your bag to see if you packed a raincoat."
+    },
+    "379": {
+      "body": {
+        "0": "The lady leaning {against} the wall seems tired."
+      },
+      "hint": "",
+      "instructions": 134,
+      "prompt": "The lady leaning <u>against / under / between</u> the wall seems tired."
+    },
+    "380": {
+      "body": {
+        "0": "Fred strolled {through} the park today."
+      },
+      "hint": "",
+      "instructions": 134,
+      "prompt": "Fred strolled <u>through / between / despite</u> the park today."
+    },
     "403": {
       "body": {
         "0": "Go down the street, {then} take a right turn."
@@ -9346,6 +9418,46 @@
       "instructions": 33,
       "prompt": "Houston, we have ____ problem."
     },
+    "550": {
+      "body": {
+        "0": "I want to go swimming{, but} the water is too cold."
+      },
+      "hint": "",
+      "instructions": 132,
+      "prompt": "I want to go swimming. The water is too cold."
+    },
+    "553": {
+      "body": {
+        "0": "I am so tired{, but} I can't sleep yet."
+      },
+      "hint": "",
+      "instructions": 132,
+      "prompt": "I am so tired.  I can't sleep yet."
+    },
+    "618": {
+      "body": {
+        "0": "Humpback whales {can} hold their breath for more than an hour."
+      },
+      "hint": "",
+      "instructions": 133,
+      "prompt": "Humpback whales <u>can / may</u> hold their breath for more than an hour."
+    },
+    "619": {
+      "body": {
+        "0": "We {should} write for the school newspaper."
+      },
+      "hint": "",
+      "instructions": 133,
+      "prompt": "We <u>should / must</u> write for the school newspaper."
+    },
+    "622": {
+      "body": {
+        "0": "Jimmy rustled {in} the nearby shrub."
+      },
+      "hint": "",
+      "instructions": 134,
+      "prompt": "Jimmy rustled <u>in / under</u> the nearby shrub."
+    },
     "627": {
       "body": {
         "0": "Many cities have a {Main Street} or a {First Street}."
@@ -9354,6 +9466,14 @@
       "instructions": 26,
       "prompt": "Many cities have a main street or a first street."
     },
+    "65": {
+      "body": {
+        "0": "I want to eat sushi{, but} the restaurants are closed."
+      },
+      "hint": "",
+      "instructions": 132,
+      "prompt": "I want to eat sushi.  The restaurants are closed."
+    },
     "653": {
       "body": {
         "0": "Traveling is {easier} with a guide than without one."
@@ -9361,6 +9481,22 @@
       "hint": "",
       "instructions": 22,
       "prompt": "Traveling is <u>easy</u> with a guide than without one."
+    },
+    "66": {
+      "body": {
+        "0": "I can help you{, but} I must leave in an hour."
+      },
+      "hint": "",
+      "instructions": 132,
+      "prompt": "I can help you. I must leave in an hour."
+    },
+    "67": {
+      "body": {
+        "0": "I will drop off the kids{, but} I have to make a call first."
+      },
+      "hint": "",
+      "instructions": 132,
+      "prompt": "I will drop off the kids.  I have to make a call first."
     },
     "674": {
       "body": {
@@ -9402,6 +9538,30 @@
       "instructions": 112,
       "prompt": "I <u>lose</u> many games before becoming this skilled."
     },
+    "768": {
+      "body": {
+        "0": "The {big, red} ball bounced very high."
+      },
+      "hint": "",
+      "instructions": 135,
+      "prompt": "The big and red ball bounced very high."
+    },
+    "769": {
+      "body": {
+        "0": "That {bright, shiny} ring must have been expensive."
+      },
+      "hint": "",
+      "instructions": 135,
+      "prompt": "That bright and shiny ring must have been expensive."
+    },
+    "770": {
+      "body": {
+        "0": "This {smooth, creamy} soup is good for a sore throat."
+      },
+      "hint": "",
+      "instructions": 135,
+      "prompt": "This smooth and creamy soup is good for a sore throat."
+    },
     "777": {
       "body": {
         "0": "She is a talented athlete, but she {has} poor sportsmanship."
@@ -9409,6 +9569,30 @@
       "hint": "",
       "instructions": 126,
       "prompt": "She is a talented athlete, but she <u>had</u> poor sportsmanship."
+    },
+    "786": {
+      "body": {
+        "0": "{He} performed a joyful jig at the prospect of company."
+      },
+      "hint": "",
+      "instructions": 136,
+      "prompt": "<u>he</u> performed a joyful jig at the prospect of company_"
+    },
+    "787": {
+      "body": {
+        "0": "{There} were plenty of fish in the nearby river."
+      },
+      "hint": "",
+      "instructions": 136,
+      "prompt": "<u>there</u> were plenty of fish in the nearby river_"
+    },
+    "788": {
+      "body": {
+        "0": "{I} would like cream and sugar with my coffee."
+      },
+      "hint": "",
+      "instructions": 136,
+      "prompt": "<u>i</u> would like cream and sugar with my coffee_"
     },
     "791": {
       "body": {
@@ -9427,6 +9611,22 @@
       "instructions": 125,
       "prompt": "My surfing friends are always telling me to, \"\"hang _____.\"\""
     },
+    "820": {
+      "body": {
+        "0": "A true king rules not from the {throne}, but from the field."
+      },
+      "hint": "",
+      "instructions": 116,
+      "prompt": "A true king rules not from the _____, but from the field."
+    },
+    "821": {
+      "body": {
+        "0": "By the time we arrived, the suspect had {thrown} out all the evidence."
+      },
+      "hint": "",
+      "instructions": 116,
+      "prompt": "By the time we arrived, the suspect had _____ out all the evidence."
+    },
     "822": {
       "body": {
         "0": "My dad calls the leather chair in the living room his \"\"{throne}.\"\""
@@ -9434,6 +9634,14 @@
       "hint": "",
       "instructions": 116,
       "prompt": "My dad calls the leather chair in the living room his \"\"_____.\"\""
+    },
+    "823": {
+      "body": {
+        "0": "This year, I decided to grow some {mint} in my garden."
+      },
+      "hint": "",
+      "instructions": 115,
+      "prompt": "This year, I decided to grow some _____ in my garden."
     },
     "824": {
       "body": {
@@ -9443,6 +9651,14 @@
       "instructions": 115,
       "prompt": "Everybody has uttered the phrase, \"\"That's not what I _____ to say.\"\""
     },
+    "825": {
+      "body": {
+        "0": "! '\"\"I {meant} what I said, and I''m not taking it back.\"\"'"
+      },
+      "hint": "",
+      "instructions": 115,
+      "prompt": "\"\"I _____ what I said, and I'm not taking it back.\"\""
+    },
     "826": {
       "body": {
         "0": "{Although} we studied common spelling mistakes, some of us still write \"\"all though.\"\""
@@ -9450,6 +9666,30 @@
       "hint": "",
       "instructions": 113,
       "prompt": "_____ we studied common spelling mistakes, some of us still write \"\"all though.\"\""
+    },
+    "827": {
+      "body": {
+        "0": "I am pretty sure that's true, {although} I could be wrong."
+      },
+      "hint": "",
+      "instructions": 137,
+      "prompt": "I am pretty sure that's true, _____ I could be wrong."
+    },
+    "828": {
+      "body": {
+        "0": "The gods heard the {pleas} of the family and saved the little boy."
+      },
+      "hint": "",
+      "instructions": 138,
+      "prompt": "The gods heard the _____ of the family and saved the little boy."
+    },
+    "829": {
+      "body": {
+        "0": "! '\"\"Can you {please} turn on the baseball game? I want to see who wins!\"\"'"
+      },
+      "hint": "",
+      "instructions": 138,
+      "prompt": "\"\"Can you _____ turn on the baseball game? I want to see who wins!\"\""
     },
     "83": {
       "body": {
@@ -9459,6 +9699,110 @@
       "instructions": 20,
       "prompt": "We  <u>move</u> to Boston last year."
     },
+    "830": {
+      "body": {
+        "0": "The rescue squad heard the {pleas} for help, and decided to brave the forest fire."
+      },
+      "hint": "",
+      "instructions": 138,
+      "prompt": "The rescue squad heard the _____ for help, and decided to brave the forest fire."
+    },
+    "831": {
+      "body": {
+        "0": "The {poor} turtle had to walk home alone in the rain."
+      },
+      "hint": "",
+      "instructions": 140,
+      "prompt": "The _____ turtle had to walk home alone in the rain."
+    },
+    "832": {
+      "body": {
+        "0": "Make sure to {pour} the water slowly so it does not spill."
+      },
+      "hint": "",
+      "instructions": 140,
+      "prompt": "Make sure to _____ the water slowly so it does not spill."
+    },
+    "833": {
+      "body": {
+        "0": "There is currently a large gap between the wealthy and the {poor} in most countries."
+      },
+      "hint": "",
+      "instructions": 140,
+      "prompt": "There is currently a large gap between the wealthy and the _____ in most countries."
+    },
+    "834": {
+      "body": {
+        "0": "You are {finally} nearing the end of the race!"
+      },
+      "hint": "",
+      "instructions": 139,
+      "prompt": "You are _____ nearing the end of the race!"
+    },
+    "835": {
+      "body": {
+        "0": "Make sure the onions are {finely} chopped before putting them in the pot."
+      },
+      "hint": "",
+      "instructions": 139,
+      "prompt": "Make sure the onions are _____ chopped before putting them in the pot."
+    },
+    "836": {
+      "body": {
+        "0": "You can see how {finely} crafted the ancient pottery was by looking at the designs."
+      },
+      "hint": "",
+      "instructions": 139,
+      "prompt": "You can see how _____ crafted the ancient pottery was by looking at the designs."
+    },
+    "837": {
+      "body": {
+        "0": "The waters surrounding {Greece} are so clear, you can see all the way to the bottom."
+      },
+      "hint": "",
+      "instructions": 141,
+      "prompt": "The waters surrounding _____ are so clear, you can see all the way to the bottom."
+    },
+    "838": {
+      "body": {
+        "0": "There was so much {grease} left on the bacon when we ate it."
+      },
+      "hint": "",
+      "instructions": 141,
+      "prompt": "There was so much _____ left on the bacon when we ate it."
+    },
+    "839": {
+      "body": {
+        "0": "They do not use much {grease} for traditional meals prepared in {Greece}."
+      },
+      "hint": "",
+      "instructions": 141,
+      "prompt": "They do not use much _____ for traditional meals prepared in _____."
+    },
+    "840": {
+      "body": {
+        "0": "The monks would meditate under waterfalls to spiritually {cleanse} themselves."
+      },
+      "hint": "",
+      "instructions": 142,
+      "prompt": "The monks would meditate under waterfalls to spiritually _____ themselves."
+    },
+    "841": {
+      "body": {
+        "0": "Many people believe it is important to {clean} your desk every day."
+      },
+      "hint": "",
+      "instructions": 142,
+      "prompt": "Many people believe it is important to _____ your desk every day."
+    },
+    "842": {
+      "body": {
+        "0": "Many of my friends use facial scrubs that {cleanse} their skin."
+      },
+      "hint": "",
+      "instructions": 142,
+      "prompt": "Many of my friends use facial scrubs that _____ their skin."
+    },
     "843": {
       "body": {
         "0": "Don't make any loud noises, I think there is a {bear} in the car."
@@ -9467,6 +9811,150 @@
       "instructions": 114,
       "prompt": "Don't make any loud noises, I think there is a _____ in the car."
     },
+    "844": {
+      "body": {
+        "0": "Children have a tendency to {bare} all their secrets to anybody who will listen."
+      },
+      "hint": "",
+      "instructions": 114,
+      "prompt": "Children have a tendency to _____ all their secrets to anybody who will listen."
+    },
+    "845": {
+      "body": {
+        "0": "If you work at something long enough, your labor will eventually {bear} fruit."
+      },
+      "hint": "",
+      "instructions": 114,
+      "prompt": "If you work at something long enough, your labor will eventually _____ fruit."
+    },
+    "846": {
+      "body": {
+        "0": "The Viking crew went from village to village, {razing} all the houses."
+      },
+      "hint": "",
+      "instructions": 146,
+      "prompt": "The Viking crew went from village to village, _____ all the houses."
+    },
+    "847": {
+      "body": {
+        "0": "I needed to {raise} my scores in math class, so I got a tutor."
+      },
+      "hint": "",
+      "instructions": 146,
+      "prompt": "I needed to _____ my scores in math class, so I got a tutor."
+    },
+    "848": {
+      "body": {
+        "0": "! '\"\"Don''t {raise} my expectations and then let me down kid,\"\" said the gruff coach.'"
+      },
+      "hint": "",
+      "instructions": 146,
+      "prompt": "\"\"Don't _____ my expectations and then let me down kid,\"\" said the gruff coach."
+    },
+    "852": {
+      "body": {
+        "0": "The spotlight {shone} brightly down on the stage."
+      },
+      "hint": "",
+      "instructions": 151,
+      "prompt": "The spotlight _____ brightly down on the stage."
+    },
+    "853": {
+      "body": {
+        "0": "When I asked if I could touch the art, I was quickly {shown} the door."
+      },
+      "hint": "",
+      "instructions": 152,
+      "prompt": "When I asked if I could touch the art, I was quickly _____ the door."
+    },
+    "854": {
+      "body": {
+        "0": "The new movie was being {shown} at theaters all across America."
+      },
+      "hint": "",
+      "instructions": 152,
+      "prompt": "The new movie was being _____ at theaters all across America."
+    },
+    "855": {
+      "body": {
+        "0": "I {cannot} believe how cool physics is."
+      },
+      "hint": "",
+      "instructions": 147,
+      "prompt": "I _____ believe how cool physics is."
+    },
+    "856": {
+      "body": {
+        "0": "This book {cannot} get any more tense."
+      },
+      "hint": "",
+      "instructions": 147,
+      "prompt": "This book _____ get any more tense."
+    },
+    "857": {
+      "body": {
+        "0": "In the {past}, I used to be the best guitarist in Boston."
+      },
+      "hint": "",
+      "instructions": 144,
+      "prompt": "In the _____, I used to be the best guitarist in Boston."
+    },
+    "858": {
+      "body": {
+        "0": "Just before he got tackled, my friend {passed} me the ball."
+      },
+      "hint": "",
+      "instructions": 144,
+      "prompt": "Just before he got tackled, my friend _____ me the ball."
+    },
+    "859": {
+      "body": {
+        "0": "The clock reads half {past} nine."
+      },
+      "hint": "",
+      "instructions": 144,
+      "prompt": "The clock reads half _____ nine."
+    },
+    "860": {
+      "body": {
+        "0": "Do all fairy tales end with the phrase, \"\"happily {ever after}?\"\""
+      },
+      "hint": "",
+      "instructions": 153,
+      "prompt": "Do all fairy tales end with the phrase, \"\"happily ________?\"\""
+    },
+    "864": {
+      "body": {
+        "0": "! '\"\"I cannot believe that {Mary} is about to get first place!\"\"'"
+      },
+      "hint": "",
+      "instructions": 149,
+      "prompt": "\"\"I cannot believe that _____ is about to get first place!\"\""
+    },
+    "865": {
+      "body": {
+        "0": "In this day and age, you should be able to {marry} when you choose."
+      },
+      "hint": "",
+      "instructions": 149,
+      "prompt": "In this day and age, you should be able to _____ when you choose."
+    },
+    "866": {
+      "body": {
+        "0": "I would go rock climbing {every day} if I had time."
+      },
+      "hint": "",
+      "instructions": 143,
+      "prompt": "I would go rock climbing ______ if I had time."
+    },
+    "867": {
+      "body": {
+        "0": "In winter, playing ice hockey on the lake was an {everyday} activity for us."
+      },
+      "hint": "",
+      "instructions": 118,
+      "prompt": "In winter, playing ice hockey on the lake was an ______ activity for us."
+    },
     "868": {
       "body": {
         "0": "Graduating high school isn't an {everyday} occurrence, so I think it's a reason to\n  celebrate."
@@ -9474,6 +9962,86 @@
       "hint": "",
       "instructions": 118,
       "prompt": "Graduating high school isn't an ______ occurrence, so I think it's a reason to celebrate."
+    },
+    "869": {
+      "body": {
+        "0": "As he continued the race, his {breath} became more ragged."
+      },
+      "hint": "",
+      "instructions": 145,
+      "prompt": "As he continued the race, his ______ became more ragged."
+    },
+    "870": {
+      "body": {
+        "0": "The rabbit's {breath} was visible in the night air."
+      },
+      "hint": "",
+      "instructions": 145,
+      "prompt": "The rabbit's _____ was visible in the night air."
+    },
+    "871": {
+      "body": {
+        "0": "Before you go into an interview, it's a good idea to take a deep {breath}."
+      },
+      "hint": "",
+      "instructions": 145,
+      "prompt": "Before you go into an interview, it's a good idea to take a deep ______."
+    },
+    "872": {
+      "body": {
+        "0": "The circus performers put on {quite} a show with their acrobatic feats."
+      },
+      "hint": "",
+      "instructions": 150,
+      "prompt": "The circus performers put on _____ a show with their acrobatic feats."
+    },
+    "873": {
+      "body": {
+        "0": "The recording studio turned on the sign that read, \"\"{Quiet} while filming please.\"\""
+      },
+      "hint": "",
+      "instructions": 150,
+      "prompt": "The recording studio turned on the sign that read, \"\"_____ while filming please.\"\""
+    },
+    "874": {
+      "body": {
+        "0": "There is nothing {quite} like eating popcorn at a movie theater."
+      },
+      "hint": "",
+      "instructions": 150,
+      "prompt": "There is nothing _____ like eating popcorn at a movie theater."
+    },
+    "875": {
+      "body": {
+        "0": "! '\"\"{Mary} was the quickest learner I ever taught.\"\"'"
+      },
+      "hint": "",
+      "instructions": 149,
+      "prompt": "\"\"_____ was the quickest learner I ever taught.\"\""
+    },
+    "876": {
+      "body": {
+        "0": "It is better to write \"\"{cannot}\"\" in formal essays, rather than \"\"can't\"\"."
+      },
+      "hint": "",
+      "instructions": 148,
+      "prompt": "It is better to write \"\"_____\"\" in formal essays, rather than \"\"can't\"\"."
+    },
+    "877": {
+      "body": {
+        "0": "The customer was looking for a \"\"happily {ever after}\"\" type of story, can you help\n  him?"
+      },
+      "hint": "",
+      "instructions": 154,
+      "prompt": "The customer was looking for a \"\"happily _________\"\" type of story, can you help him?"
+    },
+    "878": {
+      "body": {
+        "0": "! '\"\"Billy had this crazy idea where the story should end \"\"happily never after\"\" rather\n  than \"\"{ever after}\"\".'"
+      },
+      "hint": "",
+      "instructions": 154,
+      "prompt": "\"\"Billy had this crazy idea where the story should end \"\"happily never after\"\" rather than \"\"______\"\"."
     },
     "885": {
       "body": {
@@ -9491,6 +10059,30 @@
       "instructions": 103,
       "prompt": "When they built the house, they made sure they _____ the foundation deep enough."
     },
+    "888": {
+      "body": {
+        "0": "Our proctor {lets} us listen to music during study hall."
+      },
+      "hint": "",
+      "instructions": 155,
+      "prompt": "Our proctor ______ us listen to music during study hall."
+    },
+    "889": {
+      "body": {
+        "0": "! '\"\"{Let''s} get out of here!\"\" said my friend when the ghost showed up.'"
+      },
+      "hint": "",
+      "instructions": 155,
+      "prompt": "\"\"_____ get out of here!\"\" said my friend when the ghost showed up."
+    },
+    "890": {
+      "body": {
+        "0": "! '\"\"I guess we are lucky, our school {lets} us choose our classes.\"\"'"
+      },
+      "hint": "",
+      "instructions": 155,
+      "prompt": "\"\"I guess we are lucky, our school ______ us choose our classes.\"\""
+    },
     "922": {
       "body": {
         "0": "The {guest's} shoes were placed in the corner."
@@ -9498,6 +10090,22 @@
       "hint": "",
       "instructions": 43,
       "prompt": "The <u>guest's / guests</u> shoes were placed in the corner."
+    },
+    "948": {
+      "body": {
+        "0": "The desert is an arid place{, but} creatures still live there."
+      },
+      "hint": "",
+      "instructions": 132,
+      "prompt": "The desert is an arid place. Creatures still live there."
+    },
+    "949": {
+      "body": {
+        "0": "Andy wore his new suit{, but} his hair was unkempt."
+      },
+      "hint": "",
+      "instructions": 132,
+      "prompt": "Andy wore his new suit. His hair was unkempt."
     },
     "964": {
       "body": {
@@ -9693,6 +10301,9 @@
       "description": "<b>Permission:</b> <b>May</b> we go to the park tomorrow? I really want to go!\n<b>Ability:</b> <b>Can</b> we go to the park tomorrow? Do we have enough time?\n<br>\nWe use <b>may</b> to ask or give permission. We use <b>can</b> to say we have the ability to do something.\n<br>",
       "ruleNumber": 119,
       "ruleQuestions": {
+        "363": true,
+        "364": true,
+        "618": true
       },
       "title": "Can vs. May"
     },
@@ -9710,6 +10321,9 @@
       "description": "<b>Advice:</b> You <b>should</b> go to the doctor.\n<b>Emergency:</b> You <b>must</b> go to the doctor.\n<br>\nWe use the word <b>must</b> when we want to emphasize that something <i>needs</i> to be done. We use <b>should</b> when we want to suggest or give advice.\n<br>",
       "ruleNumber": 120,
       "ruleQuestions": {
+        "365": true,
+        "366": true,
+        "619": true
       },
       "title": "Should vs. Must"
     },
@@ -9742,6 +10356,9 @@
       "description": "<b>Prepositional Adverb:</b> The man <u>reached</u> <b>under</b> the desk.\n<br>\nAn adverbial prepositional phrase describes how something is being done. \n<br>\nAdverb prepositional phrases (<b>under the desk</b>) are placed after a verb (<u>reached</u>).\n<br>",
       "ruleNumber": 124,
       "ruleQuestions": {
+        "379": true,
+        "380": true,
+        "622": true
       },
       "title": "Prepositional Phrases: Adverb"
     },
@@ -10289,6 +10906,9 @@
       "description": "<b>With \"\"and\"\":</b> I just had a big and tasty calzone.\n<b>Without \"\"and\"\":</b> I just had a <b>big, tasty</b> calzone.\n\nWhenever you have two adjectives (big and tasty) describing something (calzone), you do not have to use \"\"and\"\" like you normally do for lists. You can write a comma after the first adjective to describe something (big, tasty calzone).",
       "ruleNumber": 187,
       "ruleQuestions": {
+        "768": true,
+        "769": true,
+        "770": true
       },
       "title": "Two Adjectives"
     },
@@ -10347,6 +10967,9 @@
       "description": "<b>Correct:</b> <b>A</b> crafty smile flitted across the shrew's rugged <b>face.</b>\n<b>Incorrect:</b> <u>a</u> crafty smile flitted across the shrew's rugged <u>face</u> \n\nWe <i>always</i> capitalize the first letter of the first word of a sentence (<b>A</b>). \n\nWe end our sentences with proper punctuation: a period, a question mark, or an exclamation mark (<b>face.</b>).",
       "ruleNumber": 193,
       "ruleQuestions": {
+        "786": true,
+        "787": true,
+        "788": true
       },
       "title": "Using Quill"
     },
@@ -10380,6 +11003,8 @@
       "description": "The verb <b>throw</b> has an irregular past tense form, threw, and an irregular participle form: <b>thrown</b>. \n\n<br>\n\nThe noun <b>throne</b> is the ceremonial chair used by a king or some other ruler.\n\n<br>",
       "ruleNumber": 197,
       "ruleQuestions": {
+        "820": true,
+        "821": true,
         "822": true
       },
       "title": "Thrown, Throne"
@@ -10389,7 +11014,9 @@
       "description": "The verb <b>mean</b> (to communicate, indicate, signify) has an irregular past tense form: meant. From this same root we get the noun <b>meaning</b>. \n\n<br>\n\nThe noun <b>mint</b> refers to various aromatic plants whose highly flavored leaves are used in cooking (e.g. peppermint, spearmint). The same word also refer to a place where money is coined. \n\n<br>",
       "ruleNumber": 198,
       "ruleQuestions": {
-        "824": true
+        "823": true,
+        "824": true,
+        "825": true
       },
       "title": "Meant, Mint"
     },
@@ -10398,7 +11025,8 @@
       "description": "The word <b>although</b> means \"\"even though\"\" or \"\"in spite of the fact that.\"\" It is a subordinating conjunction. Make sure you spell this as one word: although (not \"\"all though\"\").\n\n<br>",
       "ruleNumber": 199,
       "ruleQuestions": {
-        "826": true
+        "826": true,
+        "827": true
       },
       "title": "Although"
     },
@@ -10423,6 +11051,9 @@
       "description": "The word <b>please</b> can be a verb meaning \"\"to satisfy, to delight,\"\" or it can be an interjection that signals a polite request.\n\n<br>\n\nA <b>plea</b> (noun) is an urgent request or an emotional appeal. It can also refer to a legal claim, as when an accused person makes a plea of \"\"guilty\"\" or \"\"not guilty\"\" in court. The plural form of the noun is pleas.\n\n<br>",
       "ruleNumber": 200,
       "ruleQuestions": {
+        "828": true,
+        "829": true,
+        "830": true
       },
       "title": "Please, Pleas"
     },
@@ -10431,6 +11062,9 @@
       "description": "The adverb <b>finally</b> means in the end, at last. Compare the adjective: final.\n\n<br>\n\nThe adverb <b>finely</b> can mean \"\"in tiny pieces\"\" or it can mean \"\"elegantly, nicely.\"\" Compare the adjective: fine.\n\n<br>",
       "ruleNumber": 201,
       "ruleQuestions": {
+        "834": true,
+        "835": true,
+        "836": true
       },
       "title": "Finally, Finely"
     },
@@ -10439,6 +11073,9 @@
       "description": "<b>Pour</b> is a verb. It can take an object (She poured some juice into the glass), or it can be intransitive (Water poured from the roof, making a big puddle on the ground).\n\n<b>Poor</b> is an adjective that can refer to someone or something that lacks money, or it can refer to someone or something that is unfortunate or deficient in some other way.",
       "ruleNumber": 202,
       "ruleQuestions": {
+        "831": true,
+        "832": true,
+        "833": true
       },
       "title": "Pour, Poor"
     },
@@ -10447,6 +11084,9 @@
       "description": "<b>Greece is the name</b> of a country. The people who live in Greece are called Greeks, and they speak the Greek language. Since Greece is the name of a country, it is always capitalized.\n\n<br>\n\n<b>Grease</b> (noun) is an oily or fatty substance. To <b>grease</b> (verb) means to smear something with grease. If something is covered with grease, it is greasy (adjective). The phrase \"\"greasy spoon\"\" refers to a restaurant where there is a lot of fried food on the menu.\n\n<br>",
       "ruleNumber": 203,
       "ruleQuestions": {
+        "837": true,
+        "838": true,
+        "839": true
       },
       "title": "Greece, Grease"
     },
@@ -10455,6 +11095,9 @@
       "description": "The word <b>clean</b> can be a verb (I clean, you clean, she cleans), and it can also be an adjective (my clothes are clean). You can make the word into a noun by adding -er: a \"\"cleaner\"\" is someone or something who cleans.\n\n<br>\n\nThe word <b>cleanse</b> is a verb that means to make something completely clean. It can also mean to wash away a stain or impurity. The word is pronounced: /klens/ (rhymes with the word \"\"lens\"\"). You can also turn this verb into a noun by adding -(e)r: a \"\"cleanser\"\" is someone or something that cleanses.\n\n<br>",
       "ruleNumber": 204,
       "ruleQuestions": {
+        "840": true,
+        "841": true,
+        "842": true
       },
       "title": "Clean, Cleanse"
     },
@@ -10463,7 +11106,9 @@
       "description": "The verb <b>bear</b> means to carry, and <b>bear</b> can also be the name of an animal, e.g. polar bear, koala bear, panda bear, etc.\n\n<br>\n\nThe adjective <b>bare</b> means that something is not clothed or covered; it can also refer to something that is empty. The word <b>bare</b> can also be a verb, meaning to uncover something or to expose something to view.\n\n<br>",
       "ruleNumber": 205,
       "ruleQuestions": {
-        "843": true
+        "843": true,
+        "844": true,
+        "845": true
       },
       "title": "Bear, Bare"
     },
@@ -10537,6 +11182,8 @@
       "description": "I work on my flip turns <b>every day</b> at swim practice.\nPop quizzes are an <b>everyday</b> occurrence in this class.\n<b>\n<b>Every day</b> when written with a space, means literally every day.  When written without a space, <b>everyday</b> becomes an adjective that means common place or frequently occurring.",
       "ruleNumber": 215,
       "ruleQuestions": {
+        "866": true,
+        "867": true,
         "868": true
       },
       "title": "Vocabulary: Every Day vs Everyday"
@@ -10546,6 +11193,9 @@
       "description": "The time to kick a field goal had already <b>passed</b>.\n\"\"Don't worry about the fight we had, its all in the <b>past</b>,\"\" I said to my brother.\n<b>\n<b>Passed</b> is the past tense form of the verb to pass.\n<b>Past</b> has several meanings, but usually refers to an event that took place prior to the present.",
       "ruleNumber": 216,
       "ruleQuestions": {
+        "857": true,
+        "858": true,
+        "859": true
       },
       "title": "Vocabulary: Passed vs Past"
     },
@@ -10554,6 +11204,9 @@
       "description": "\"\"Don't forget to <b>breathe</b> during the sprints, it will make you run faster.\"\"\nIt was so cold in my room last night I could see my <b>breath</b>.\n<br>\n<b>breath</b> is the verb \"\"to breath\"\" as in to inhale.  \n</b>breathe</b> is the air that you exhale, your breathe.",
       "ruleNumber": 217,
       "ruleQuestions": {
+        "869": true,
+        "870": true,
+        "871": true
       },
       "title": "Vocabulary: Breath vs Breathe"
     },
@@ -10562,6 +11215,9 @@
       "description": "My family <b>raised</b> a litter of cats and then put them up for adoption.\nThe demolition crew <b>razed</b> the old office building to the ground.\n\n<b>Raised</b> is the past tense form of the verb \"\"to raise\"\" which can mean either lifting something up (raise the bar) or to rear a living thing (raise a litter of cats). \n<b>Razed</b> is the past tense form of the verb \"\"to raze\"\" which means to level a building to the ground by completely destroying or burning the structure.",
       "ruleNumber": 218,
       "ruleQuestions": {
+        "846": true,
+        "847": true,
+        "848": true
       },
       "title": "Vocabulary: Raised vs Razed"
     },
@@ -10578,6 +11234,13 @@
       "description": "<b>Not Connected:</b> I like spaghetti. I don’t like hamburgers.\n<b>Connected:</b> I like spaghetti, <b>but</b> I don’t like hamburgers.\n<br>\n<b>But</b> connects two <i>contrasting</i> sentences into one larger one. In the example, <b>but</b> is used to show that the subject (I) likes spaghetti, but not hamburgers.\n<br>",
       "ruleNumber": 22,
       "ruleQuestions": {
+        "550": true,
+        "553": true,
+        "65": true,
+        "66": true,
+        "67": true,
+        "948": true,
+        "949": true
       },
       "title": "But"
     },
@@ -10594,6 +11257,9 @@
       "description": "The sign said, \"\"You <b>cannot pass here.\"\"\n<br>\nWhen we write out \"\"can not\"\" we either can use the contraction form \"\"can't\"\" or we write <b>cannot</b>.  \n<br>\nCan not is just a misspelled version of \"\"cannot,\"\" and is always incorrect.",
       "ruleNumber": 221,
       "ruleQuestions": {
+        "855": true,
+        "856": true,
+        "876": true
       },
       "title": "Vocabulary: Cannot"
     },
@@ -10602,6 +11268,9 @@
       "description": "\"\"I refuse to <b>marry</b>!\"\" said the woman to her father.\n\"\"I saw Mary the other day at the supermarket.\"\"\n<b>\n<b>Marry</b> is a verb which means \"\"to wed\"\".  \n<b>Mary</b> is a name, and therefore is a proper noun.  As a result, Mary is always capitalized.",
       "ruleNumber": 222,
       "ruleQuestions": {
+        "864": true,
+        "865": true,
+        "875": true
       },
       "title": "Vocabulary: Mary vs Marry"
     },
@@ -10610,6 +11279,9 @@
       "description": "During study hours, the library was so <b>quiet</b> you could hear people turning the pages of their books.\nIt was <b>quite</b> a shock when Marty managed to make it home for Christmas.\n<br>\n<b>Quiet<b> is an adjective that means soft or silent. \n<b>Quite</b> is an adjective that means \"\"to a noticeable degree or extent.\"\"",
       "ruleNumber": 223,
       "ruleQuestions": {
+        "872": true,
+        "873": true,
+        "874": true
       },
       "title": "Vocabulary: Quiet vs Quite"
     },
@@ -10618,6 +11290,9 @@
       "description": "I was <b>shown</b> around the mansion by the butler.\nPure white light <b>shone</b> down brilliantly around us.\n<br>\n<b>Shown</b> is the past participle of the verb \"\"to show\"\".\n<b>Shone</b> the past participle of the verb \"\"to shine\"\".",
       "ruleNumber": 224,
       "ruleQuestions": {
+        "852": true,
+        "853": true,
+        "854": true
       },
       "title": "Vocabulary: Shown vs Shone"
     },
@@ -10626,6 +11301,9 @@
       "description": "The happy young couple lived happily <b>ever after</b>, or so they thought...\n<br>\n<Ever after</b> is always written with a space between the two words.  \n\"\"Everafter\"\" is just a misspelling of <b>ever after</b>.",
       "ruleNumber": 225,
       "ruleQuestions": {
+        "860": true,
+        "877": true,
+        "878": true
       },
       "title": "Vocabulary: Ever after"
     },
@@ -10684,6 +11362,9 @@
       "description": "<b>Let's</b> go do some squats at the gym.\nMy brother <b>lets</b> me use his computer sometimes.\n<br>\n<b>Let's</b>, when spelled with an apostrophe, is the contraction form of \"\"let us\"\".\n<b>Lets</b>, when spelled without an apostrophe, means \"\"allows\"\" or \"\"permits\"\".",
       "ruleNumber": 232,
       "ruleQuestions": {
+        "888": true,
+        "889": true,
+        "890": true
       },
       "title": "Let's vs Lets"
     },
