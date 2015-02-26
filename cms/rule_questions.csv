@@ -3246,3 +3246,240 @@ Rewrite the sentence, filling in the blank with the past tense of ""hide"".
 1165,"Rewrite the sentence, replacing the underlined word with the past participle of ""become.""",They have <u>became</u> good friends.,"---
 - They have {become} good friends.
 ",3/25/2014 16:40:54,12/18/2014 20:46:40,248,
+67,Rewrite the sentence by using <b>but</b> to make the two smaller sentences into one larger sentence.,I will drop off the kids.  I have to make a call first.,"---
+- I will drop off the kids{, but} I have to make a call first.
+",9/15/2013 22:42:42,10/31/2013 20:48:20,22,
+65,Rewrite the sentence by using <b>but</b> to make the two smaller sentences into one larger sentence.,I want to eat sushi.  The restaurants are closed.,"---
+- I want to eat sushi{, but} the restaurants are closed.
+",9/15/2013 22:37:58,10/31/2013 20:50:39,22,
+66,Rewrite the sentence by using <b>but</b> to make the two smaller sentences into one larger sentence.,I can help you. I must leave in an hour.,"---
+- I can help you{, but} I must leave in an hour.
+",9/15/2013 22:39:03,10/31/2013 20:47:13,22,
+553,Rewrite the sentence by using <b>but</b> to make the two smaller sentences into one larger sentence.,I am so tired.  I can't sleep yet.,"---
+- I am so tired{, but} I can't sleep yet.
+",9/26/2013 0:09:38,10/31/2013 20:54:34,22,
+550,Rewrite the sentence by using <b>but</b> to make the two smaller sentences into one larger sentence.,I want to go swimming. The water is too cold.,"---
+- I want to go swimming{, but} the water is too cold.
+",9/26/2013 0:08:08,11/24/2013 21:33:05,22,
+948,Rewrite the sentence by using <b>but</b> to make the two smaller sentences into one larger sentence.,The desert is an arid place. Creatures still live there.,"---
+- The desert is an arid place{, but} creatures still live there.
+",12/9/2013 21:24:36,12/9/2013 21:24:36,22,
+949,Rewrite the sentence by using <b>but</b> to make the two smaller sentences into one larger sentence.,Andy wore his new suit. His hair was unkempt.,"---
+- Andy wore his new suit{, but} his hair was unkempt.
+",12/9/2013 21:25:31,12/9/2013 21:25:31,22,
+363,"Rewrite each sentence, choosing the correct underlined modal auxiliary.",You <u>can / may</u> use the bathroom when class is finished.,"---
+- You {may} use the bathroom when class is finished.
+",9/19/2013 22:15:13,11/4/2013 17:12:16,119,
+364,"Rewrite each sentence, choosing the correct underlined modal auxiliary.",I <u>can / may</u> juggle a soccer ball for 5 minutes straight.,"---
+- I {can} juggle a soccer ball for 5 minutes straight.
+",9/19/2013 22:16:34,11/4/2013 17:12:55,119,
+618,"Rewrite each sentence, choosing the correct underlined modal auxiliary.",Humpback whales <u>can / may</u> hold their breath for more than an hour.,"---
+- Humpback whales {can} hold their breath for more than an hour.
+",10/1/2013 18:37:44,11/4/2013 17:13:32,119,
+365,"Rewrite each sentence, choosing the correct underlined modal auxiliary.",You <u>should / must</u> go to school today because you have to graduate.,"---
+- You {must} go to school today because you have to graduate.
+",9/19/2013 22:17:16,11/4/2013 20:13:50,120,
+366,"Rewrite each sentence, choosing the correct underlined modal auxiliary.",You <u>should / must</u> check your bag to see if you packed a raincoat.,"---
+- You {should} check your bag to see if you packed a raincoat.
+",9/19/2013 22:18:11,11/4/2013 20:14:17,120,
+619,"Rewrite each sentence, choosing the correct underlined modal auxiliary.",We <u>should / must</u> write for the school newspaper.,"---
+- We {should} write for the school newspaper.
+",10/1/2013 18:41:36,11/4/2013 20:15:38,120,
+380,"Rewrite the sentence, choosing most appropriate underlined prepositional phrase.",Fred strolled <u>through / between / despite</u> the park today.,"---
+- Fred strolled {through} the park today.
+",9/19/2013 23:21:56,11/4/2013 20:35:52,124,
+379,"Rewrite the sentence, choosing most appropriate underlined prepositional phrase.",The lady leaning <u>against / under / between</u> the wall seems tired.,"---
+- The lady leaning {against} the wall seems tired.
+",9/19/2013 23:21:25,11/4/2013 20:36:12,124,
+622,"Rewrite the sentence, choosing most appropriate underlined prepositional phrase.",Jimmy rustled <u>in / under</u> the nearby shrub.,"---
+- Jimmy rustled {in} the nearby shrub.
+",10/1/2013 19:22:26,11/4/2013 20:36:46,124,
+768,"Rewrite the sentence, removing ""and"" and placing a comma after the first adjective.",The big and red ball bounced very high.,"---
+- The {big, red} ball bounced very high.
+",10/23/2013 23:59:56,10/23/2013 23:59:56,187,
+769,"Rewrite the sentence, removing ""and"" and placing a comma after the first adjective.",That bright and shiny ring must have been expensive.,"---
+- That {bright, shiny} ring must have been expensive.
+",10/24/2013 0:00:18,10/24/2013 0:00:18,187,
+770,"Rewrite the sentence, removing ""and"" and placing a comma after the first adjective.",This smooth and creamy soup is good for a sore throat.,"---
+- This {smooth, creamy} soup is good for a sore throat.
+",10/24/2013 0:00:41,10/24/2013 0:00:41,187,
+787,Rewrite the sentence with proper punctuation and capitalization.,<u>there</u> were plenty of fish in the nearby river_,"---
+- {There} were plenty of fish in the nearby river.
+",11/4/2013 1:40:24,11/5/2013 23:16:03,193,
+788,Rewrite the sentence with proper punctuation and capitalization.,<u>i</u> would like cream and sugar with my coffee_,"---
+- {I} would like cream and sugar with my coffee.
+",11/4/2013 1:44:44,11/5/2013 18:53:54,193,
+786,Rewrite the sentence with proper punctuation and capitalization.,<u>he</u> performed a joyful jig at the prospect of company_,"---
+- {He} performed a joyful jig at the prospect of company.
+",11/4/2013 1:38:35,11/5/2013 19:56:09,193,
+820,"Rewrite the sentence, replacing the blank with either <b>thrown</b> or <b>throne</b>.","A true king rules not from the _____, but from the field.","---
+- A true king rules not from the {throne}, but from the field.
+",11/12/2013 18:23:46,11/12/2013 18:23:46,197,
+821,"Rewrite the sentence, replacing the blank with either <b>thrown</b> or <b>throne</b>.","By the time we arrived, the suspect had _____ out all the evidence.","---
+- By the time we arrived, the suspect had {thrown} out all the evidence.
+",11/12/2013 18:24:28,11/13/2013 20:58:35,197,
+822,"Rewrite the sentence, replacing the blank with either <b>thrown</b> or <b>throne</b>.","My dad calls the leather chair in the living room his ""_____.""","---
+- My dad calls the leather chair in the living room his ""{throne}.""
+",11/12/2013 18:27:51,5/3/2014 14:14:53,197,
+823,"Rewrite the sentence, replacing the blank with either <b>mint</b> or <b>meant</b>.","This year, I decided to grow some _____ in my garden.","---
+- This year, I decided to grow some {mint} in my garden.
+",11/12/2013 18:28:47,11/13/2013 20:27:21,198,
+825,"Rewrite the sentence, replacing the blank with either <b>mint</b> or <b>meant</b>.","""I _____ what I said, and I'm not taking it back.""","---
+- ! '""I {meant} what I said, and I''m not taking it back.""'
+",11/12/2013 18:41:50,11/13/2013 20:28:12,198,
+824,"Rewrite the sentence, replacing the blank with either <b>mint</b> or <b>meant</b>.","Everybody has uttered the phrase, ""That's not what I _____ to say.""","---
+- Everybody has uttered the phrase, ""That's not what I {meant} to say.""
+",11/12/2013 18:29:55,5/3/2014 14:14:26,198,
+827,"Rewrite the sentence, filling in the blank with the proper spelling of  <b>although</b>.","I am pretty sure that's true, _____ I could be wrong.","---
+- I am pretty sure that's true, {although} I could be wrong.
+",11/12/2013 19:15:57,11/12/2013 19:15:57,199,
+826,"Rewrite the sentence, replacing the blank with <b>although</b>.","_____ we studied common spelling mistakes, some of us still write ""all though.""","---
+- {Although} we studied common spelling mistakes, some of us still write ""all though.""
+",11/12/2013 18:43:34,5/3/2014 14:13:24,199,
+830,"Rewrite the sentence, filling in the blank with either <b>please</b> or <b>pleas</b>.","The rescue squad heard the _____ for help, and decided to brave the forest fire.","---
+- The rescue squad heard the {pleas} for help, and decided to brave the forest fire.
+",11/12/2013 19:48:42,11/12/2013 19:48:42,200,
+829,"Rewrite the sentence, filling in the blank with either <b>please</b> or <b>pleas</b>.","""Can you _____ turn on the baseball game? I want to see who wins!""","---
+- ! '""Can you {please} turn on the baseball game? I want to see who wins!""'
+",11/12/2013 19:27:09,11/13/2013 20:44:00,200,
+834,"Rewrite the sentence, filling in the blank with either <b>finely</b> or <b>finally</b>.",You are _____ nearing the end of the race!,"---
+- You are {finally} nearing the end of the race!
+",11/12/2013 19:54:48,11/12/2013 19:54:48,201,
+835,"Rewrite the sentence, filling in the blank with either <b>finely</b> or <b>finally</b>.",Make sure the onions are _____ chopped before putting them in the pot.,"---
+- Make sure the onions are {finely} chopped before putting them in the pot.
+",11/12/2013 20:01:33,11/12/2013 20:01:33,201,
+836,"Rewrite the sentence, filling in the blank with either <b>finely</b> or <b>finally</b>.",You can see how _____ crafted the ancient pottery was by looking at the designs.,"---
+- You can see how {finely} crafted the ancient pottery was by looking at the designs.
+",11/12/2013 20:04:30,11/13/2013 20:38:46,201,
+832,"Rewrite the sentence, filling in the blank with either <b>poor</b> or <b>pour</b>.",Make sure to _____ the water slowly so it does not spill.,"---
+- Make sure to {pour} the water slowly so it does not spill.
+",11/12/2013 19:53:04,3/10/2014 4:12:24,202,
+831,"Rewrite the sentence, filling in the blank with either <b>poor</b> or <b>pour</b>.",The _____ turtle had to walk home alone in the rain.,"---
+- The {poor} turtle had to walk home alone in the rain.
+",11/12/2013 19:52:25,11/12/2013 19:52:25,202,
+833,"Rewrite the sentence, filling in the blank with either <b>poor</b> or <b>pour</b>.",There is currently a large gap between the wealthy and the _____ in most countries.,"---
+- There is currently a large gap between the wealthy and the {poor} in most countries.
+",11/12/2013 19:54:01,11/12/2013 19:54:01,202,
+837,"Rewrite the sentence, filling in the blank with either <b>Greece</b> or <b>grease</b>.","The waters surrounding _____ are so clear, you can see all the way to the bottom.","---
+- The waters surrounding {Greece} are so clear, you can see all the way to the bottom.
+",11/12/2013 20:36:27,11/12/2013 20:36:27,203,
+839,"Rewrite the sentence, filling in the blank with either <b>Greece</b> or <b>grease</b>.",They do not use much _____ for traditional meals prepared in _____.,"---
+- They do not use much {grease} for traditional meals prepared in {Greece}.
+",11/12/2013 20:41:28,11/12/2013 20:41:28,203,
+838,"Rewrite the sentence, filling in the blank with either <b>Greece</b> or <b>grease</b>.",There was so much _____ left on the bacon when we ate it.,"---
+- There was so much {grease} left on the bacon when we ate it.
+",11/12/2013 20:37:10,11/13/2013 20:56:01,203,
+840,"Rewrite the sentence, filling in the blank with either <b>clean</b> or <b>cleanse</b>.",The monks would meditate under waterfalls to spiritually _____ themselves.,"---
+- The monks would meditate under waterfalls to spiritually {cleanse} themselves.
+",11/12/2013 20:43:36,11/12/2013 20:43:55,204,
+841,"Rewrite the sentence, filling in the blank with either <b>clean</b> or <b>cleanse</b>.",Many people believe it is important to _____ your desk every day.,"---
+- Many people believe it is important to {clean} your desk every day.
+",11/12/2013 20:49:44,11/12/2013 20:49:57,204,
+842,"Rewrite the sentence, filling in the blank with either <b>clean</b> or <b>cleanse</b>.",Many of my friends use facial scrubs that _____ their skin.,"---
+- Many of my friends use facial scrubs that {cleanse} their skin.
+",11/12/2013 20:50:53,11/13/2013 20:44:05,204,
+844,"Rewrite the sentence, filling in the blank with either <b>bare</b> or <b>bear</b>.",Children have a tendency to _____ all their secrets to anybody who will listen.,"---
+- Children have a tendency to {bare} all their secrets to anybody who will listen.
+",11/12/2013 20:55:58,11/12/2013 20:55:58,205,
+845,"Rewrite the sentence, filling in the blank with either <b>bare</b> or <b>bear</b>.","If you work at something long enough, your labor will eventually _____ fruit.","---
+- If you work at something long enough, your labor will eventually {bear} fruit.
+",11/12/2013 20:58:40,11/13/2013 20:42:55,205,
+843,"Rewrite the sentence, filling in the blank with either <b>bare</b> or <b>bear</b>.","Don't make any loud noises, I think there is a _____ in the car.","---
+- Don't make any loud noises, I think there is a {bear} in the car.
+",11/12/2013 20:54:17,5/3/2014 14:13:54,205,
+828,"Rewrite the sentence, filling in the blank with either <b>please</b> or <b>pleas</b>.",The gods heard the _____ of the family and saved the little boy.,"---
+- The gods heard the {pleas} of the family and saved the little boy.
+",11/12/2013 19:22:14,11/12/2013 19:22:14,200,
+866,"Rewrite the sentence, filling in the blank with either <b>every day</b> or <b>everyday</b>.",I would go rock climbing ______ if I had time.,"---
+- I would go rock climbing {every day} if I had time.
+",11/14/2013 7:03:39,11/14/2013 7:03:39,215,
+867,"Rewrite the sentence, filling in the blank with either <b>everyday</b> or <b>every day</b>.","In winter, playing ice hockey on the lake was an ______ activity for us.","---
+- In winter, playing ice hockey on the lake was an {everyday} activity for us.
+",11/14/2013 7:05:30,11/25/2013 19:19:26,215,
+868,"Rewrite the sentence, filling in the blank with either <b>everyday</b> or <b>every day</b>.","Graduating high school isn't an ______ occurrence, so I think it's a reason to celebrate.","---
+- Graduating high school isn't an {everyday} occurrence, so I think it's a reason to
+  celebrate.
+",11/14/2013 7:07:36,5/17/2014 15:27:01,215,
+857,"Rewrite the sentence, replacing the blank with either <b>past</b> or <b>passed</b>.","In the _____, I used to be the best guitarist in Boston.","---
+- In the {past}, I used to be the best guitarist in Boston.
+",11/14/2013 6:47:38,11/14/2013 6:47:38,216,
+858,"Rewrite the sentence, replacing the blank with either <b>past</b> or <b>passed</b>.","Just before he got tackled, my friend _____ me the ball.","---
+- Just before he got tackled, my friend {passed} me the ball.
+",11/14/2013 6:50:59,11/14/2013 6:50:59,216,
+859,"Rewrite the sentence, replacing the blank with either <b>past</b> or <b>passed</b>.",The clock reads half _____ nine.,"---
+- The clock reads half {past} nine.
+",11/14/2013 6:53:08,11/14/2013 6:53:08,216,
+870,"Rewrite the sentence, filling in the blank with the proper form of either <b>to breathe</b> or <b>breath</b>.",The rabbit's _____ was visible in the night air.,"---
+- The rabbit's {breath} was visible in the night air.
+",11/14/2013 7:10:12,11/14/2013 7:10:12,217,
+869,"Rewrite the sentence, filling in the blank with the proper form of either <b>to breathe</b> or <b>breath</b>.","As he continued the race, his ______ became more ragged.","---
+- As he continued the race, his {breath} became more ragged.
+",11/14/2013 7:09:39,11/25/2013 17:30:07,217,
+871,"Rewrite the sentence, filling in the blank with the proper form of either <b>to breathe</b> or <b>breath</b>.","Before you go into an interview, it's a good idea to take a deep ______.","---
+- Before you go into an interview, it's a good idea to take a deep {breath}.
+",11/14/2013 7:11:29,11/25/2013 17:32:01,217,
+846,"Rewrite the sentence, filling in the blank with proper form of <b>raise</b> or <b>raze</b>.","The Viking crew went from village to village, _____ all the houses.","---
+- The Viking crew went from village to village, {razing} all the houses.
+",11/14/2013 6:11:33,11/14/2013 6:11:33,218,
+847,"Rewrite the sentence, filling in the blank with proper form of <b>raise</b> or <b>raze</b>.","I needed to _____ my scores in math class, so I got a tutor.","---
+- I needed to {raise} my scores in math class, so I got a tutor.
+",11/14/2013 6:12:57,11/14/2013 6:12:57,218,
+848,"Rewrite the sentence, filling in the blank with proper form of <b>raise</b> or <b>raze</b>.","""Don't _____ my expectations and then let me down kid,"" said the gruff coach.","---
+- ! '""Don''t {raise} my expectations and then let me down kid,"" said the gruff coach.'
+",11/14/2013 6:14:05,3/7/2014 21:06:43,218,
+855,"Rewrite the sentence, replacing the blank with the non-contraction form of ""can't""",I _____ believe how cool physics is.,"---
+- I {cannot} believe how cool physics is.
+",11/14/2013 6:44:49,11/14/2013 6:44:49,221,
+856,"Rewrite the sentence, replacing the blank with the non-contraction form of ""can't""",This book _____ get any more tense.,"---
+- This book {cannot} get any more tense.
+",11/14/2013 6:45:40,11/14/2013 6:45:40,221,
+876,,"It is better to write ""_____"" in formal essays, rather than ""can't"".","---
+- It is better to write ""{cannot}"" in formal essays, rather than ""can't"".
+",11/14/2013 7:26:05,11/14/2013 7:26:05,221,
+864,"Rewrite the sentence, filling in the blank with either <b>Mary</b> or <b>marry</b>.","""I cannot believe that _____ is about to get first place!""","---
+- ! '""I cannot believe that {Mary} is about to get first place!""'
+",11/14/2013 7:00:50,11/14/2013 7:00:50,222,
+875,"Rewrite the sentence, filling in the blank with either <b>Mary</b> or <b>marry</b>.","""_____ was the quickest learner I ever taught.""","---
+- ! '""{Mary} was the quickest learner I ever taught.""'
+",11/14/2013 7:24:37,11/14/2013 7:24:37,222,
+865,"Rewrite the sentence, filling in the blank with either <b>Mary</b> or <b>marry</b>.","In this day and age, you should be able to _____ when you choose.","---
+- In this day and age, you should be able to {marry} when you choose.
+",11/14/2013 7:02:12,11/25/2013 18:26:40,222,
+872,"Rewrite the sentence, filling in the blank with either <b>quite</b> or <b>quiet</b>.",The circus performers put on _____ a show with their acrobatic feats.,"---
+- The circus performers put on {quite} a show with their acrobatic feats.
+",11/14/2013 7:12:37,11/14/2013 7:12:37,223,
+873,"Rewrite the sentence, filling in the blank with either <b>quite</b> or <b>quiet</b>.","The recording studio turned on the sign that read, ""_____ while filming please.""","---
+- The recording studio turned on the sign that read, ""{Quiet} while filming please.""
+",11/14/2013 7:14:07,11/14/2013 7:14:07,223,
+874,"Rewrite the sentence, filling in the blank with either <b>quite</b> or <b>quiet</b>.",There is nothing _____ like eating popcorn at a movie theater.,"---
+- There is nothing {quite} like eating popcorn at a movie theater.
+",11/14/2013 7:17:24,11/14/2013 7:17:24,223,
+852,"Rewrite the sentence, filling in the blank with <b>shone</b> or <b>shown-up</b>.",The spotlight _____ brightly down on the stage.,"---
+- The spotlight {shone} brightly down on the stage.
+",11/14/2013 6:41:44,11/14/2013 6:41:44,224,
+853,"Rewrite the sentence, filling in the blank with proper form of <b>grownup</b> or <b>grown-up</b>.","When I asked if I could touch the art, I was quickly _____ the door.","---
+- When I asked if I could touch the art, I was quickly {shown} the door.
+",11/14/2013 6:42:29,11/14/2013 6:42:29,224,
+854,"Rewrite the sentence, filling in the blank with proper form of <b>grownup</b> or <b>grown-up</b>.",The new movie was being _____ at theaters all across America.,"---
+- The new movie was being {shown} at theaters all across America.
+",11/14/2013 6:43:24,11/14/2013 6:43:24,224,
+860,"Rewrite the sentence, filling in the blank with the proper spelling of ""everafter""","Do all fairy tales end with the phrase, ""happily ________?""","---
+- Do all fairy tales end with the phrase, ""happily {ever after}?""
+",11/14/2013 6:56:23,11/14/2013 6:56:23,225,
+877,"Rewrite the sentence, filling in the blank with the correct spelling of <b>everafter</b>.","The customer was looking for a ""happily _________"" type of story, can you help him?","---
+- The customer was looking for a ""happily {ever after}"" type of story, can you help
+  him?
+",11/14/2013 7:28:18,11/14/2013 7:28:18,225,
+878,"Rewrite the sentence, filling in the blank with the correct spelling of <b>everafter</b>.","""Billy had this crazy idea where the story should end ""happily never after"" rather than ""______"".","---
+- ! '""Billy had this crazy idea where the story should end ""happily never after"" rather
+  than ""{ever after}"".'
+",11/14/2013 7:29:49,11/14/2013 7:29:49,225,
+888,"Rewrite the sentence, filling in the blank with the proper form of <b>let's</b> or <b>lets</b>.",Our proctor ______ us listen to music during study hall.,"---
+- Our proctor {lets} us listen to music during study hall.
+",11/14/2013 20:01:33,11/14/2013 20:01:33,232,
+889,"Rewrite the sentence, filling in the blank with the proper form of <b>let's</b> or <b>lets</b>.","""_____ get out of here!"" said my friend when the ghost showed up.","---
+- ! '""{Let''s} get out of here!"" said my friend when the ghost showed up.'
+",11/14/2013 20:20:47,11/14/2013 20:20:47,232,
+890,"Rewrite the sentence, filling in the blank with the proper form of <b>let's</b> or <b>lets</b>.","""I guess we are lucky, our school ______ us choose our classes.""","---
+- ! '""I guess we are lucky, our school {lets} us choose our classes.""'
+",11/14/2013 20:22:25,11/14/2013 20:22:25,232,
