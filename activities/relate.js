@@ -72,6 +72,13 @@ module.exports = function(activities, proofData) {
       delete(d.data);
       return d;
     })
+    .map(function(d) {
+      return [d.uid, d];
+    })
+    .object()
+    .each(function(d) {
+      delete d.uid;
+    })
     .value();
 
   function parseYaml(d) {
@@ -122,6 +129,18 @@ module.exports = function(activities, proofData) {
       d.instructions = parseYaml(d.data.instructions);
       delete(d.data);
       return d;
+    })
+    .map(function(d) {
+      d.rules = _.extend({}, makeRules(d.data));
+      delete(d.data);
+      return d;
+    })
+    .map(function(d) {
+      return [d.uid, d];
+    })
+    .object()
+    .each(function(d) {
+      delete d.uid;
     })
     .value();
   require('build')(
