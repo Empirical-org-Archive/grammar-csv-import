@@ -54,6 +54,7 @@ module.exports = function(activities, proofData) {
         description: n.description,
         flags: n.flags,
         data: n.data,
+        uid: n.uid,
         title: n.name.replace('Sentence Writing: ', ''),
       };
     })
@@ -98,6 +99,7 @@ module.exports = function(activities, proofData) {
         flags: n.flags,
         description: n.description,
         data: n.data,
+        uid: n.uid,
         title: n.name.replace('Passage Proofreading: ', ''),
       };
     })
