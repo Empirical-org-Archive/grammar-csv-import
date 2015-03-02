@@ -5,7 +5,7 @@ var _ = require('underscore');
 if (!rqs || !rules) {
   throw new Error('What happened to the rule questions');
 }
-var exR = ['ruleQuestionId', 'body', 'prompt'];
+var exR = ['ruleQuestionId', 'body', 'prompt', 'ruleId', 'ruleName'];
 var ruleIndex = _.chain(rules)
   .map(function(v, key) {
     return _.map(v.ruleQuestions, function(v, rqi) {
@@ -18,6 +18,10 @@ var ruleIndex = _.chain(rules)
 rqs =_.map(rqs, function(v, k) {
   v.ruleQuestionId = k;
   v.body = JSON.stringify(v.body);
+  v.prompt = JSON.stringify(v.prompt);
+  var rule = rules[ruleIndex[k]];
+  v.ruleId = ruleIndex[k];
+  v.ruleName = JSON.stringify(rule.title);
   return v;
 })
 
