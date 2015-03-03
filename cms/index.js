@@ -17,7 +17,7 @@ function start(file, cb) {
 var async = require('async');
 
 function nextStep(results) {
-  require('./relate')(results[0], results[1], results[2]);
+  require('./relate')(results[0], results[1], results[2], results[3]);
 }
 
 async.map(

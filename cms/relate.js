@@ -58,9 +58,12 @@ module.exports = function(cats, rules, ruleQs, ruleQuestionConcepts) {
   });
 
   _.each(ruleQs, function(q) {
-    if (ruleQuestionConcepts[q.id]) {
+    var rqc = _.findWhere(ruleQuestionConcepts, {ruleId: q.id})
+    if (rqc.Concept_Category && rqc.Concept_Class) {
       fRuleQs[q.id] = {
         instructions: checkOrAddInstructions(q.instructions),
+        conceptTag: rqc.ConceptTag,
+        conceptCategory: rqc.Concept_Class,
         prompt: q.prompt,
         body: _.extend({}, parseYamlList(q.body)),
         hint: q.hint || ""
