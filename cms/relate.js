@@ -63,7 +63,8 @@ module.exports = function(cats, rules, ruleQs, ruleQuestionConcepts) {
       fRuleQs[q.id] = {
         instructions: checkOrAddInstructions(q.instructions),
         conceptTag: rqc.ConceptTag,
-        conceptCategory: rqc.Concept_Class,
+        conceptCategory: rqc.Concept_Category,
+        conceptClass: rqc.Concept_Class,
         prompt: q.prompt,
         body: _.extend({}, parseYamlList(q.body)),
         hint: q.hint || ""

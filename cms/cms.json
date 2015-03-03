@@ -898,7 +898,8 @@
       "body": {
         "0": "Who wrote {\"\"The Catcher in the Rye?\"\"}"
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Appropriate Words in Titles",
       "hint": "",
       "instructions": 0,
@@ -908,7 +909,8 @@
       "body": {
         "0": "My favorite movie is {\"\"Gone with the Wind.\"\"}"
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Appropriate Words in Titles",
       "hint": "",
       "instructions": 0,
@@ -918,7 +920,8 @@
       "body": {
         "0": "The acting troupe calls themselves {\"\"The Old Boys.\"\"}"
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Appropriate Words in Titles",
       "hint": "",
       "instructions": 0,
@@ -928,7 +931,8 @@
       "body": {
         "0": "'\"\"{Charlotte's Web}\"\" has a sad ending.'"
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Appropriate Words in Titles",
       "hint": "",
       "instructions": 0,
@@ -938,7 +942,8 @@
       "body": {
         "0": "! '{\"\"Stuart Little\"\"} may be the most famous mouse book.'"
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Appropriate Words in Titles",
       "hint": "",
       "instructions": 0,
@@ -948,7 +953,8 @@
       "body": {
         "0": "Have you read \"\"{How to Eat Fried Worms}?\"\""
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Appropriate Words in Titles",
       "hint": "",
       "instructions": 0,
@@ -958,7 +964,8 @@
       "body": {
         "0": "! '{\"\"A Wrinkle in Time\"\"} is one of my favorite books.'"
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Appropriate Words in Titles",
       "hint": "",
       "instructions": 0,
@@ -968,7 +975,8 @@
       "body": {
         "0": "The train will arrive {at} 4:30 P.M."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Prepositions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "at",
       "hint": "",
       "instructions": 1,
@@ -978,7 +986,8 @@
       "body": {
         "0": "We are supposed to meet back here {at} 2:00 P.M."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Prepositions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "at",
       "hint": "",
       "instructions": 1,
@@ -988,7 +997,8 @@
       "body": {
         "0": "The birds take flight {at} six o'clock in the morning."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Prepositions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "at",
       "hint": "",
       "instructions": 1,
@@ -998,7 +1008,8 @@
       "body": {
         "0": "Class will end {at} 11:00 today."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Prepositions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "at",
       "hint": "",
       "instructions": 1,
@@ -1008,7 +1019,8 @@
       "body": {
         "0": "Flowers always bloom {in} the spring."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Prepositions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "in",
       "hint": "",
       "instructions": 2,
@@ -1018,7 +1030,8 @@
       "body": {
         "0": "I will practice piano {in} the morning."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Prepositions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "in",
       "hint": "",
       "instructions": 1,
@@ -1028,7 +1041,8 @@
       "body": {
         "0": "{In} the winter, my family likes to stay at our cabin."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Prepositions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "In",
       "hint": "",
       "instructions": 1,
@@ -1038,7 +1052,8 @@
       "body": {
         "0": "My professor likes to hold discussions {in} the evening."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Prepositions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "in",
       "hint": "",
       "instructions": 1,
@@ -1048,7 +1063,8 @@
       "body": {
         "0": "I think our next vacation is {in} March."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Prepositions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "in",
       "hint": "",
       "instructions": 1,
@@ -1058,7 +1074,8 @@
       "body": {
         "0": "Is our next quiz {on} Thursday?"
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Prepositions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "on",
       "hint": "",
       "instructions": 1,
@@ -1068,7 +1085,8 @@
       "body": {
         "0": "Our next big game is {on} the 6th of March."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Prepositions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "on",
       "hint": "",
       "instructions": 1,
@@ -1078,7 +1096,8 @@
       "body": {
         "0": "We will go to the swap meet {on} Friday."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Prepositions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "on",
       "hint": "",
       "instructions": 1,
@@ -1088,7 +1107,8 @@
       "body": {
         "0": "{On} Monday, we will learn how magnets work."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Prepositions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "On",
       "hint": "",
       "instructions": 1,
@@ -1098,7 +1118,8 @@
       "body": {
         "0": "Don't move, there is something {on} your shoulder."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Prepositions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "on",
       "hint": "",
       "instructions": 1,
@@ -1108,7 +1129,8 @@
       "body": {
         "0": "I live {at} the end of my street."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Prepositions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "at",
       "hint": "",
       "instructions": 1,
@@ -1118,7 +1140,8 @@
       "body": {
         "0": "Why don't we meet {at} my place tonight?"
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Prepositions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "at",
       "hint": "",
       "instructions": 1,
@@ -1128,7 +1151,8 @@
       "body": {
         "0": "My sister works {at} a law firm."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Prepositions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "at",
       "hint": "",
       "instructions": 1,
@@ -1138,7 +1162,8 @@
       "body": {
         "0": "The Running of the Bulls still occurs every year {in} Spain."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Prepositions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "in",
       "hint": "",
       "instructions": 1,
@@ -1148,7 +1173,8 @@
       "body": {
         "0": "Don't tell me you locked your keys {in} your car again."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Prepositions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "in",
       "hint": "",
       "instructions": 1,
@@ -1158,7 +1184,8 @@
       "body": {
         "0": "I keep my new wallet {in} my pocket."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Prepositions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "in",
       "hint": "",
       "instructions": 1,
@@ -1168,7 +1195,8 @@
       "body": {
         "0": "The car had a built {in} safe for emergencies."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Prepositions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "in",
       "hint": "",
       "instructions": 2,
@@ -1178,7 +1206,8 @@
       "body": {
         "0": "Let's put these books {in} a box and ship them."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Prepositions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "in",
       "hint": "",
       "instructions": 1,
@@ -1188,7 +1217,8 @@
       "body": {
         "0": "Let's place the table {on} the floor."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Prepositions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "on",
       "hint": "",
       "instructions": 1,
@@ -1198,7 +1228,8 @@
       "body": {
         "0": "All the gazelles {on} the plain are galloping."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Prepositions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "on",
       "hint": "",
       "instructions": 1,
@@ -1209,7 +1240,8 @@
         "0": "The zig",
         "1": "zag print {on} the carpet is exotic."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Prepositions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "on",
       "hint": "",
       "instructions": 1,
@@ -1219,7 +1251,8 @@
       "body": {
         "0": "Remember to mark the date {on} your calendars."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Prepositions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "on",
       "hint": "",
       "instructions": 1,
@@ -1229,7 +1262,8 @@
       "body": {
         "0": "How many {children} do you have in the class?"
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Irregular Nouns: Children",
       "hint": "",
       "instructions": 3,
@@ -1239,7 +1273,8 @@
       "body": {
         "0": "Some {children} don't know how to share."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Irregular Nouns: Children",
       "hint": "",
       "instructions": 3,
@@ -1249,7 +1284,8 @@
       "body": {
         "0": "How many {people} are showing up to the party?"
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Irregular Nouns: People",
       "hint": "",
       "instructions": 3,
@@ -1259,7 +1295,8 @@
       "body": {
         "0": "These streets are constantly bustling with {people}."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Irregular Nouns: People",
       "hint": "",
       "instructions": 3,
@@ -1269,7 +1306,8 @@
       "body": {
         "0": "My aunt is a great {person}."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Irregular Nouns: Person",
       "hint": "",
       "instructions": 3,
@@ -1279,7 +1317,8 @@
       "body": {
         "0": "It is important for a {child} to get exercise."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Irregular Nouns: Child",
       "hint": "",
       "instructions": 3,
@@ -1289,7 +1328,8 @@
       "body": {
         "0": "Did you see any sculptures in the {museum}?"
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Common Nouns",
       "hint": "",
       "instructions": 4,
@@ -1299,7 +1339,8 @@
       "body": {
         "0": "I see a {ship} in the harbor."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Common Nouns",
       "hint": "",
       "instructions": 4,
@@ -1309,7 +1350,8 @@
       "body": {
         "0": "There is a {camel} by the river."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Common Nouns",
       "hint": "",
       "instructions": 4,
@@ -1319,7 +1361,8 @@
       "body": {
         "0": "You can take a boat to the {island} temple."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Common Nouns",
       "hint": "",
       "instructions": 4,
@@ -1329,7 +1372,8 @@
       "body": {
         "0": "I caught a {butterfly} with a net."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Common Nouns",
       "hint": "",
       "instructions": 4,
@@ -1339,7 +1383,8 @@
       "body": {
         "0": "I saw a beautiful {peacock} in the bushes."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Common Nouns",
       "hint": "",
       "instructions": 4,
@@ -1349,7 +1394,8 @@
       "body": {
         "0": "I bought a pair of {sunglasses}."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Common Nouns",
       "hint": "",
       "instructions": 4,
@@ -1359,7 +1405,8 @@
       "body": {
         "0": "The {coffee} spill stained the wood of the table."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Common Nouns",
       "hint": "",
       "instructions": 4,
@@ -1369,7 +1416,8 @@
       "body": {
         "0": "Even the best {plans} can go awry."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Common Nouns",
       "hint": "",
       "instructions": 4,
@@ -1379,7 +1427,8 @@
       "body": {
         "0": "These {raspberries} will spoil soon."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Common Nouns",
       "hint": "",
       "instructions": 4,
@@ -1389,7 +1438,8 @@
       "body": {
         "0": "My {belt} is too old."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Common Nouns",
       "hint": "",
       "instructions": 4,
@@ -1399,7 +1449,8 @@
       "body": {
         "0": "His {ankle} hurts."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Common Nouns",
       "hint": "",
       "instructions": 4,
@@ -1409,7 +1460,8 @@
       "body": {
         "0": "Are all {wheels} round?"
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Common Nouns",
       "hint": "",
       "instructions": 4,
@@ -1419,7 +1471,8 @@
       "body": {
         "0": "Her {socks} don't match."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Common Nouns",
       "hint": "",
       "instructions": 4,
@@ -1429,7 +1482,8 @@
       "body": {
         "0": "I saw the {Taj Mahal} when I was young."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Proper Nouns",
       "hint": "",
       "instructions": 4,
@@ -1439,7 +1493,8 @@
       "body": {
         "0": "The paintings in {Italy} are amazing."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Proper Nouns",
       "hint": "",
       "instructions": 4,
@@ -1449,7 +1504,8 @@
       "body": {
         "0": "I listen to the {Beatles} when I come home from work."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Proper Nouns",
       "hint": "",
       "instructions": 4,
@@ -1459,7 +1515,8 @@
       "body": {
         "0": "There is a waterfall at the {Saratoga} National Park."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Proper Nouns",
       "hint": "",
       "instructions": 4,
@@ -1469,7 +1526,8 @@
       "body": {
         "0": "The militia marches to the tune of {\"\"Yankee Doodle.\"\"}"
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Proper Nouns",
       "hint": "",
       "instructions": 4,
@@ -1479,7 +1537,8 @@
       "body": {
         "0": "{Trisha} is a frugal shopper."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Proper Nouns",
       "hint": "",
       "instructions": 4,
@@ -1489,7 +1548,8 @@
       "body": {
         "0": "{Lisa} said she had a biased view of politics."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Proper Nouns",
       "hint": "",
       "instructions": 4,
@@ -1499,7 +1559,8 @@
       "body": {
         "0": "We just named our new dog {Bandanna}."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Proper Nouns",
       "hint": "",
       "instructions": 4,
@@ -1509,7 +1570,8 @@
       "body": {
         "0": "I want to live in a house built by {Frank Lloyd Wright}."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Nouns & Pronouns",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Proper Nouns",
       "hint": "",
       "instructions": 4,
@@ -1520,7 +1582,8 @@
         "0": "The new park {will open} next Thursday.",
         "1": "The new park {opens} next Thursday."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Verbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Future Tense Verbs",
       "hint": "",
       "instructions": 5,
@@ -1530,7 +1593,8 @@
       "body": {
         "0": "I {will walk} through Prospect Park next week."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Verbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Future Tense Verbs",
       "hint": "",
       "instructions": 5,
@@ -1540,7 +1604,8 @@
       "body": {
         "0": "I {will photograph} the Eiffel Tower when I visit France."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Verbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Future Tense Verbs",
       "hint": "",
       "instructions": 5,
@@ -1550,7 +1615,8 @@
       "body": {
         "0": "I {will climb} that oak tree one day."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Verbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Future Tense Verbs",
       "hint": "",
       "instructions": 5,
@@ -1560,7 +1626,8 @@
       "body": {
         "0": "Our English teacher {will conduct} the choir this year."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Verbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Future Tense Verbs",
       "hint": "",
       "instructions": 5,
@@ -1570,7 +1637,8 @@
       "body": {
         "0": "I will {host} the show's finale tomorrow."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Verbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Future Tense Verbs",
       "hint": "",
       "instructions": 5,
@@ -1580,7 +1648,8 @@
       "body": {
         "0": "John {will hurdle} over the snowbank."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Verbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Future Tense Verbs",
       "hint": "",
       "instructions": 5,
@@ -1590,7 +1659,8 @@
       "body": {
         "0": "We {will settle} our camp on that hilltop when we get there."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Verbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Future Tense Verbs",
       "hint": "",
       "instructions": 5,
@@ -1600,7 +1670,8 @@
       "body": {
         "0": "We {will repair} your headlight tomorrow."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Verbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Future Tense Verbs",
       "hint": "",
       "instructions": 5,
@@ -1610,7 +1681,8 @@
       "body": {
         "0": "Xavier {will bring} his own lunch tomorrow."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Verbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Future Tense Verbs",
       "hint": "",
       "instructions": 5,
@@ -1620,7 +1692,8 @@
       "body": {
         "0": "Maurice {will compete} in a race next week."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Verbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Future Tense Verbs",
       "hint": "",
       "instructions": 5,
@@ -1630,7 +1703,8 @@
       "body": {
         "0": "Alexis will {make} an effort to compose music in her spare time."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Verbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Future Tense Verbs",
       "hint": "",
       "instructions": 5,
@@ -1640,7 +1714,8 @@
       "body": {
         "0": "He {will bake} cookies for his friends next week."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Verbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Future Tense Verbs",
       "hint": "",
       "instructions": 5,
@@ -1650,7 +1725,8 @@
       "body": {
         "0": "I {will exercise} in the morning when the sun rises."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Verbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Future Tense Verbs",
       "hint": "",
       "instructions": 5,
@@ -1660,7 +1736,8 @@
       "body": {
         "0": "Dan will {assist} the teacher with her grading."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Verbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Future Tense Verbs",
       "hint": "",
       "instructions": 5,
@@ -1672,7 +1749,8 @@
         "1": "Perry ordered new windows{ and he} requested express delivery.",
         "2": "Perry ordered new windows{ and} requested express delivery."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Conjunctions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "and",
       "hint": "",
       "instructions": 6,
@@ -1684,7 +1762,8 @@
         "1": "I need milk{ and} I also need butter.",
         "2": "I need milk{, and} I also need butter."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Conjunctions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "and",
       "hint": "",
       "instructions": 6,
@@ -1695,7 +1774,8 @@
         "0": "I cooked the turkey{, and} Paul garnished it.",
         "1": "I cooked the turkey{ and} Paul garnished it."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Conjunctions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "and",
       "hint": "",
       "instructions": 6,
@@ -1707,7 +1787,8 @@
         "1": "I practice violin{ and} I take cooking classes.",
         "2": "I practice violin{ and} take cooking classes."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Conjunctions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "and",
       "hint": "",
       "instructions": 6,
@@ -1720,7 +1801,8 @@
         "2": "I play{ basketball and soccer}.",
         "3": "I play soccer{, and} I play basketball."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Conjunctions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "and",
       "hint": "",
       "instructions": 7,
@@ -1730,7 +1812,8 @@
       "body": {
         "0": "I can write music{ and} I can read a score."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Conjunctions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "and",
       "hint": "",
       "instructions": 8,
@@ -1740,7 +1823,8 @@
       "body": {
         "0": "I drink coffee{ and} I drink tea."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Conjunctions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "and",
       "hint": "",
       "instructions": 8,
@@ -1752,7 +1836,8 @@
         "1": "People can surf at the beach{ and} people can sunbathe at the beach.",
         "2": "People can surf at the beach{, and} people can sunbathe at the beach."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Conjunctions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "and",
       "hint": "",
       "instructions": 8,
@@ -1763,7 +1848,8 @@
         "0": "Would you like soup{, or} do you prefer salad?",
         "1": "Would you like soup{ or} do you prefer salad?"
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Conjunctions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "or",
       "hint": "",
       "instructions": 9,
@@ -1776,7 +1862,8 @@
         "2": "I can go to Tom's party{, or} study for my test.",
         "3": "I can go to Tom's party{ or} study for my test."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Conjunctions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "or",
       "hint": "",
       "instructions": 10,
@@ -1787,7 +1874,8 @@
         "0": "It might rain tomorrow{, or} it might be sunny.",
         "1": "It might rain tomorrow{ or} it might be sunny."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Conjunctions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "or",
       "hint": "",
       "instructions": 9,
@@ -1800,7 +1888,8 @@
         "2": "We can swim in the sea{ or} hike the mountains.",
         "3": "We can swim in the sea{, or} hike the mountains."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Conjunctions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "or",
       "hint": "",
       "instructions": 10,
@@ -1813,7 +1902,8 @@
         "2": "You can lead the junior team{, or} you can join the varsity team.",
         "3": "You can lead the junior team{ or} your can join the varsity team."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Conjunctions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "or",
       "hint": "",
       "instructions": 9,
@@ -1826,7 +1916,8 @@
         "2": "We can offer you a discount{ or} give you store credit.",
         "3": "We can offer you a discount{, or} give you store credit."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Conjunctions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "or",
       "hint": "",
       "instructions": 9,
@@ -1839,7 +1930,8 @@
         "2": "We can take the train now{ or} we can wait an hour.",
         "3": "We can take the train now{, or} we can wait an hour."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Conjunctions",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "or",
       "hint": "",
       "instructions": 9,
@@ -1849,7 +1941,8 @@
       "body": {
         "0": "The {quiet} mouse scampered through the field."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Adjectives & Adverbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Adjectives",
       "hint": "",
       "instructions": 11,
@@ -1859,7 +1952,8 @@
       "body": {
         "0": "Toucans have very {colorful} beaks."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Adjectives & Adverbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Adjectives",
       "hint": "",
       "instructions": 12,
@@ -1869,7 +1963,8 @@
       "body": {
         "0": "The beaches of the British Virgin Isles are {gorgeous}."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Adjectives & Adverbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Adjectives",
       "hint": "",
       "instructions": 12,
@@ -1879,7 +1974,8 @@
       "body": {
         "0": "I heard that Dolphins are {clever}."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Adjectives & Adverbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Adjectives",
       "hint": "",
       "instructions": 12,
@@ -1889,7 +1985,8 @@
       "body": {
         "0": "I admit that I was {wrong}."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Adjectives & Adverbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Adjectives",
       "hint": "",
       "instructions": 12,
@@ -1899,7 +1996,8 @@
       "body": {
         "0": "My dog licked the {cold} water off the tiles."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Adjectives & Adverbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Adjectives",
       "hint": "",
       "instructions": 12,
@@ -1909,7 +2007,8 @@
       "body": {
         "0": "Mrs. Reid {carefully} placed the vase near the window."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Adjectives & Adverbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Adverbs",
       "hint": "",
       "instructions": 12,
@@ -1919,7 +2018,8 @@
       "body": {
         "0": "The long play dragged on {endlessly}."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Adjectives & Adverbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Adverbs",
       "hint": "",
       "instructions": 12,
@@ -1929,7 +2029,8 @@
       "body": {
         "0": "! \"\"The gruff old man {coarsely} said, \\\"\"Thank you,\\\"\" and then left.\\r\\n\"\""
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Adjectives & Adverbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Adverbs",
       "hint": "",
       "instructions": 12,
@@ -1939,7 +2040,8 @@
       "body": {
         "0": "Carol {thoroughly} checked over every last detail."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Adjectives & Adverbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Adverbs",
       "hint": "",
       "instructions": 12,
@@ -1949,7 +2051,8 @@
       "body": {
         "0": "The rat {silently} disappeared without a trace."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Adjectives & Adverbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Adverbs",
       "hint": "",
       "instructions": 12,
@@ -1959,7 +2062,8 @@
       "body": {
         "0": "That was a very {nicely} cooked meal."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Adjectives & Adverbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Adverbs",
       "hint": "",
       "instructions": 12,
@@ -1969,7 +2073,8 @@
       "body": {
         "0": "My dog {sloppily} licked the food from her dog bowl."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Adjectives & Adverbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Adverbs",
       "hint": "",
       "instructions": 12,
@@ -1979,7 +2084,8 @@
       "body": {
         "0": "She {sleepily} turned off her alarm clock."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Adjectives & Adverbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Adverbs",
       "hint": "",
       "instructions": 12,
@@ -1989,7 +2095,8 @@
       "body": {
         "0": "The plane flew {swiftly} into the night."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Adjectives & Adverbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Adverbs",
       "hint": "",
       "instructions": 12,
@@ -1999,7 +2106,8 @@
       "body": {
         "0": "You {simply} flip the switch and it turns on."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Adjectives & Adverbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Adverbs",
       "hint": "",
       "instructions": 12,
@@ -2009,7 +2117,8 @@
       "body": {
         "0": "She {quietly} sat for hours without saying anything."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Adjectives & Adverbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Adverbs",
       "hint": "",
       "instructions": 12,
@@ -2019,7 +2128,8 @@
       "body": {
         "0": "Casey {bluntly} pointed out the mistake I made."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Adjectives & Adverbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Adverbs",
       "hint": "",
       "instructions": 12,
@@ -2029,7 +2139,8 @@
       "body": {
         "0": "The servant {meekly} poured tea for everyone."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Adjectives & Adverbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Adverbs",
       "hint": "",
       "instructions": 12,
@@ -2039,7 +2150,8 @@
       "body": {
         "0": "My cousin {haphazardly} threw his clothes on the floor."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Adjectives & Adverbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Adverbs",
       "hint": "",
       "instructions": 12,
@@ -2049,7 +2161,8 @@
       "body": {
         "0": "The exam weighed {heavily} on our minds."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Adjectives & Adverbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Adverbs",
       "hint": "",
       "instructions": 13,
@@ -2059,7 +2172,8 @@
       "body": {
         "0": "He {messily} threw his clothes on the floor."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Adjectives & Adverbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Adverbs",
       "hint": "",
       "instructions": 13,
@@ -2069,7 +2183,8 @@
       "body": {
         "0": "Tom ironed his shirt because it was {wrinkley}."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Adjectives & Adverbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Adverbs",
       "hint": "",
       "instructions": 13,
@@ -2079,7 +2194,8 @@
       "body": {
         "0": "Denise's thesis was {arguably} the most well written."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Adjectives & Adverbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Adverbs",
       "hint": "",
       "instructions": 13,
@@ -2089,7 +2205,8 @@
       "body": {
         "0": "James {accurately} impersonated Stephen Colbert."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Adjectives & Adverbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Adverbs",
       "hint": "",
       "instructions": 13,
@@ -2100,7 +2217,8 @@
         "0": "Be careful eating that fish, it is full of {bones}.",
         "1": "Be careful eating that fish, it is full of {bone}."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Adjectives & Adverbs",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Adverbs",
       "hint": "",
       "instructions": 13,
@@ -2110,7 +2228,8 @@
       "body": {
         "0": "How many countries celebrate {Thanksgiving}?"
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Holidays",
       "hint": "",
       "instructions": 14,
@@ -2120,7 +2239,8 @@
       "body": {
         "0": "When will {Ramadan} happen this year?"
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Holidays",
       "hint": "",
       "instructions": 14,
@@ -2130,7 +2250,8 @@
       "body": {
         "0": "Will we have school on {Memorial Day}?"
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Holidays",
       "hint": "",
       "instructions": 14,
@@ -2140,7 +2261,8 @@
       "body": {
         "0": "Our family likes to celebrate the {Chinese New Year}."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Holidays",
       "hint": "",
       "instructions": 14,
@@ -2150,7 +2272,8 @@
       "body": {
         "0": "We stay up late on {New Year's Eve}."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Holidays",
       "hint": "",
       "instructions": 14,
@@ -2160,7 +2283,8 @@
       "body": {
         "0": "Why do some people decorate eggs on {Easter}?"
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Holidays",
       "hint": "",
       "instructions": 14,
@@ -2170,7 +2294,8 @@
       "body": {
         "0": "My uncle still dresses up for {Halloween}."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Holidays",
       "hint": "",
       "instructions": 14,
@@ -2180,7 +2305,8 @@
       "body": {
         "0": "When is {Columbus Day}?"
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Holidays",
       "hint": "",
       "instructions": 14,
@@ -2190,7 +2316,8 @@
       "body": {
         "0": "Some people try to celebrate {Christmas} in July as well."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Holidays",
       "hint": "",
       "instructions": 14,
@@ -2200,7 +2327,8 @@
       "body": {
         "0": "We sing {Christmas} carols every year."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Holidays",
       "hint": "",
       "instructions": 14,
@@ -2210,7 +2338,8 @@
       "body": {
         "0": "I want to be one of the {Boston Celtics}."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Product Names",
       "hint": "",
       "instructions": 14,
@@ -2220,7 +2349,8 @@
       "body": {
         "0": "Do you prefer {Xbox} or {Wii}?"
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Product Names",
       "hint": "",
       "instructions": 14,
@@ -2230,7 +2360,8 @@
       "body": {
         "0": "I asked for {Heinz} ketchup, not {Hunts}."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Product Names",
       "hint": "",
       "instructions": 14,
@@ -2240,7 +2371,8 @@
       "body": {
         "0": "The man bravely decided to travel up the {Amazon River}."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Geographic Names",
       "hint": "",
       "instructions": 14,
@@ -2250,7 +2382,8 @@
       "body": {
         "0": "Is the {Nile} the longest river?"
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Geographic Names",
       "hint": "",
       "instructions": 14,
@@ -2260,7 +2393,8 @@
       "body": {
         "0": "The {Marianas Trench} is deep."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Geographic Names",
       "hint": "",
       "instructions": 14,
@@ -2270,7 +2404,8 @@
       "body": {
         "0": "{Russia} is a big country."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Geographic Names",
       "hint": "",
       "instructions": 14,
@@ -2280,7 +2415,8 @@
       "body": {
         "0": "This is where the {Egyptian} civilization began."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Geographic Names",
       "hint": "",
       "instructions": 14,
@@ -2290,7 +2426,8 @@
       "body": {
         "0": "You should acquire a travel visa if you want to go to {Scotland}."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Geographic Names",
       "hint": "",
       "instructions": 14,
@@ -2300,7 +2437,8 @@
       "body": {
         "0": "The {Silk Road} passes through the {Gobi Desert}."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Geographic Names",
       "hint": "",
       "instructions": 14,
@@ -2310,7 +2448,8 @@
       "body": {
         "0": "Have you ever been to the {Himalayas}?"
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Geographic Names",
       "hint": "",
       "instructions": 14,
@@ -2320,7 +2459,8 @@
       "body": {
         "0": "Some people have skied in {Antarctica}."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Geographic Names",
       "hint": "",
       "instructions": 14,
@@ -2330,7 +2470,8 @@
       "body": {
         "0": "My birthday is on {St. Patrick's Day}."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Holidays",
       "hint": "",
       "instructions": 14,
@@ -2340,7 +2481,8 @@
       "body": {
         "0": "Every year, my family and I go skiing in {Idaho}."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Geographic Names",
       "hint": "",
       "instructions": 14,
@@ -2350,7 +2492,8 @@
       "body": {
         "0": "My favorite holiday is {Halloween}."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Holidays",
       "hint": "",
       "instructions": 14,
@@ -2360,7 +2503,8 @@
       "body": {
         "0": "My parents' favorite day is {Labor Day} because they don't go to work."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Holidays",
       "hint": "",
       "instructions": 14,
@@ -2370,7 +2514,8 @@
       "body": {
         "0": "One day, I am going to live in {Sacramento, California}."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Geographic Names",
       "hint": "",
       "instructions": 14,
@@ -2380,7 +2525,8 @@
       "body": {
         "0": "Our parents were married on {April} 20th."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Dates",
       "hint": "",
       "instructions": 15,
@@ -2390,7 +2536,8 @@
       "body": {
         "0": "She will have a new car by {November} 14th."
       },
-      "conceptCategory": "GrammaticalConcept",
+      "conceptCategory": "Capitalization",
+      "conceptClass": "GrammaticalConcept",
       "conceptTag": "Capitalize Dates",
       "hint": "",
       "instructions": 15,
