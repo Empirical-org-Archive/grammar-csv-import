@@ -1,5 +1,5 @@
 var _ = require('underscore');
-module.exports = function(cats, rules, ruleQs) {
+module.exports = function(cats, rules, ruleQs, ruleQuestionConcepts) {
   var fCategories = {};
   var fRules = {};
   var fRuleQs = {};
@@ -58,17 +58,18 @@ module.exports = function(cats, rules, ruleQs) {
   });
 
   _.each(ruleQs, function(q) {
-    fRuleQs[q.id] = {
-      instructions: checkOrAddInstructions(q.instructions),
-      prompt: q.prompt,
-      body: _.extend({}, parseYamlList(q.body)),
-      hint: q.hint || ""
-    };
+    if (ruleQuestionConcepts[q.id]) {
+      fRuleQs[q.id] = {
+        instructions: checkOrAddInstructions(q.instructions),
+        prompt: q.prompt,
+        body: _.extend({}, parseYamlList(q.body)),
+        hint: q.hint || ""
+      };
 
-    if (q.ruleId) {
-      fRules[q.ruleId].ruleQuestions[q.id] = true;
+      if (q.ruleId) {
+        fRules[q.ruleId].ruleQuestions[q.id] = true;
+      }
     }
-
   });
   require('./build')(
     fCategories,

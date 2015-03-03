@@ -21,7 +21,7 @@ function nextStep(results) {
 }
 
 async.map(
-  ['categories.csv', 'rules.csv', 'rule_questions.csv'],
+  ['categories.csv', 'rules.csv', 'rule_questions.csv', 'rule_questions_concepts.csv'],
   start,
   function(err, results) {
     if (err) {
