@@ -58,7 +58,7 @@ module.exports = function(cats, rules, ruleQs, ruleQuestionConcepts) {
   });
 
   _.each(ruleQs, function(q) {
-    var rqc = _.findWhere(ruleQuestionConcepts, {ruleId: q.id})
+    var rqc = _.findWhere(ruleQuestionConcepts, {id: q.id})
     if (rqc.Concept_Category && rqc.Concept_Class) {
       fRuleQs[q.id] = {
         instructions: checkOrAddInstructions(q.instructions),
