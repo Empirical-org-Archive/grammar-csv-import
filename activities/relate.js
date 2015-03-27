@@ -143,7 +143,7 @@ module.exports = function(activities, proofData) {
       delete d.uid;
     })
     .value();
-  require('build')(
+  require('./build')(
     _.extend({}, sentenceWritings),
     _.extend({}, passageProofreadings)
   );
