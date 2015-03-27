@@ -1,5 +1,6 @@
 var _ = require('underscore');
 var fs = require('fs');
+var passagesWithUnderlines = require('./pfs-with-underlines.json');
 
 var regex = /{\+([^-]+)-([^|]+)\|([^}]+)}/g;
 
@@ -36,7 +37,7 @@ module.exports = function(pfs) {
     })
     .object()
     .map(function addUnderlineDefaultSwitchFalse(pfs, key) {
-      pfs.underlineErrorsInProofreader = false;
+      pfs.underlineErrorsInProofreader = _.contains(passagesWithUnderlines, key);
       return [key, pfs];
     })
     .object()
