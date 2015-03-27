@@ -1305,26 +1305,26 @@ Shackleton promised to {+find-found|7} help. In a small boat with five crew memb
 """,1,31,2013-09-24 01:34:01.858966,2014-09-10 19:30:43.899423,{production}
 45,Passage Proofreading: The Princes and the Turtle (Mythology),Proofread a passage and correct inappropriate shifts in pronoun number or gender.,70B-T6vLMTM9zjQ9LCwoCg,"""body""=>""--- \""There was once a king who lived in a palace near a lake, where his two sons loved
   to swim and sail. One day, his sons came running back to the palace, terrified.
-  “Father,\\\"" {+they-he|145} cried, \\\""we saw a monster on the shore of the
+  “Father,\\\"" {+they-(he / they)|145} cried, \\\""we saw a monster on the shore of the
   lake! A demon made of stone who is able to move! It was terrible!\\\""\\r\\n\\r\\nThe so-called
   demon was really only a turtle, but the princes had never seen a turtle before.
-  To calm {+their-his|145} fears, the king ordered his servants to go capture
-  the demon and bring {+it-them-|144} to the palace. When they had done so,
-  {+he-she)|144} ordered them to kill the demon.\\r\\n\\r\\n\\\""We should throw it
+  To calm {+their-(their / his)|145} fears, the king ordered his servants to go capture
+  the demon and bring {+it-(them / it)|144} to the palace. When they had done so,
+  {+he-(he / she)|144} ordered them to kill the demon.\\r\\n\\r\\n\\\""We should throw it
   into the fire!\\\"" shouted one of the princes.\\r\\n\\r\\n\\\""We should smash it with a
   hammer!\\\"" shouted the other prince.\\r\\n\\r\\nThe king's advisers also shouted out
   their various proposals. Finally, the king's oldest adviser proclaimed, \\\""I think
-  {+we-he|145} should drown the creature by throwing it into the deepest part
+  {+we-(he / we)|145} should drown the creature by throwing it into the deepest part
   of the lake!\\\""\\r\\n\\r\\nAt this point, the turtle spoke up in a quavering voice. \\\""Oh
   no,\\\"" he cried, \\\""not into the lake! Not into the deep waters! I don't care if you
-  pound me with a hammer or throw {+me-I|144} into the fire but please, I beg
+  pound me with a hammer or throw {+me-(I / me)|144} into the fire but please, I beg
   you, don't throw me into the lake!\\\""\\r\\n\\r\\nThe princes immediately began chanting,
   \\\""Into the lake! Into the water! Into the lake! Into the water!\\\"" The king then
-  ordered {+his-their|144} servants to go throw the creature at once into
+  ordered {+his-(his / their)|144} servants to go throw the creature at once into
   the lake where the waters were deepest.\\r\\n\\r\\nThe turtle shrieked the whole way,
   pretending to be afraid. The servants, as ordered, hurled him into the deep end
   of the lake. The turtle then plunged down into the depths of the water, laughing
-  happily to himself. {+He-She|144} was glad to have escaped with his life
+  happily to himself. {+He-(She / He)|144} was glad to have escaped with his life
   and vowed never to come near humans again.\""
 "", ""instructions""=>""--- Rewrite the following story by choosing the correct pronoun from inside the parentheses.<br><br>
   Remember to delete the parentheses before clicking the submit button.
@@ -1492,22 +1492,22 @@ Shackleton promised to {+find-found|7} help. In a small boat with five crew memb
 ...
 """,1,62,2014-05-26 21:06:42.488255,2014-05-26 21:07:15.639243,{production}
 37,Passage Proofreading: Putting the World in Perspective: The Apollo 8 Photograph (History),Proofread a passage correcting any mistakes with prepositional phrases.,Yh49ICvX_YME8ui7cDoFXQ,"""body""=>""--- \""The year was 1968, and the world was looking for good news. Both America and
-  the USSR had been unable to send a man to the Moon. {+Despite-With|124}
+  the USSR had been unable to send a man to the Moon. {+Despite-(Despite / With)|124}
   all the failed attempts to get to the Moon, America had not given up yet. America
   launched the Apollo 8 mission, a mission designed to send a man close to the Moon
-  and safely get him back to earth.\\r\\n\\r\\nWhen the Apollo 8 rocket was {+between-in
-  |122} the Earth and the Moon, the crew was able to record a live TV program
+  and safely get him back to earth.\\r\\n\\r\\nWhen the Apollo 8 rocket was {+between-(in
+  / between)|122} the Earth and the Moon, the crew was able to record a live TV program
   that they sent to earth. At the time when the program was being shown, it was the
-  most watched program {+in-on|123} the history of television. The Apollo 8
+  most watched program {+in-(in / on)|123} the history of television. The Apollo 8
   rocket needed to get in the right position to fly back to Earth, so they had to
-  orbit {+around-in|124} the Moon until they were ready. While the rocket
-  was orbiting the Moon, one of the crew members looked out and saw the Earth {+through-
-  over|123} a window. He put his camera lens {+on-around|123} the glass
+  orbit {+around-(around / in)|124} the Moon until they were ready. While the rocket
+  was orbiting the Moon, one of the crew members looked out and saw the Earth {+through-(through
+  / over)|123} a window. He put his camera lens {+on-(around / on)|123} the glass
   and took one of the most famous photos in history. The picture showed the Earth
-  rising {+above-below|124} the Moon, and it showed just how small and fragile
-  our planet looks out {+in-on|123} space.\\r\\n\\r\\nWhen the Apollo 8 crew safely
-  landed back on Earth, they became heroes. They were the first crew to fly {+near-
-  on|124} the Moon, and the photograph they took showed the Earth in a whole new
+  rising {+above-(above / below)|124} the Moon, and it showed just how small and fragile
+  our planet looks out {+in-(in / on)|123} space.\\r\\n\\r\\nWhen the Apollo 8 crew safely
+  landed back on Earth, they became heroes. They were the first crew to fly {+near-(near
+  / on)|124} the Moon, and the photograph they took showed the Earth in a whole new
   light. All the way out in space, the Earth looks so fragile and small, and people
   realized we needed to take care of our planet. The Apollo 8 photograph is credited
   with starting the environmental movement in America.\""
@@ -1871,22 +1871,23 @@ Shackleton promised to {+find-found|7} help. In a small boat with five crew memb
   the submit button.
 ...
 """,1,27,2013-09-23 22:09:40.586163,2014-09-10 17:42:26.476265,{production}
-67,Passage Proofreading: Ernest Shackleton Escapes the Antarctic (History),Proofread a passage correcting any confused words.,MJCtkml_69W2Dav79v4r9Q,"""body""=>""--- \""In 1914, Ernest Shackleton and his crew set {+off-of|128} to explore
+67,Passage Proofreading: Ernest Shackleton Escapes the Antarctic (History),Proofread a passage correcting any confused words.,MJCtkml_69W2Dav79v4r9Q,"""body""=>""--- \""In 1914, Ernest Shackleton and his crew set {+off-(off / of)|128} to explore
   the Antarctic Circle.  As Shackleton's ship sailed closer to the Antarctic Circle,
-  it began to {+lose-loose|130} speed.  Shackleton realized the sea water
+  it began to {+lose-(lose / loose)|130} speed.  Shackleton realized the sea water
   was freezing and his ship was going to get stuck!  Shackleton tried everything he
-  could think of, but he could not shake his ship {+loose-lose|130} from
-  the ice in time to escape. \\r\\n\\r\\nIn April of 1915, Shackleton decided {+it's-its|127} better to abandon a doomed ship {+than-then|129} to try to
-  save it.  He ordered the crew to take all of {+their-there|132} supplies
-  {+off-of|128} the ship.  The crew {+then-than|129} took the three
+  could think of, but he could not shake his ship {+loose-(lose / loose)|130} from
+  the ice in time to escape. \\r\\n\\r\\nIn April of 1915, Shackleton decided {+it's-(its
+  / it's)|127} better to abandon a doomed ship {+than-(than / then)|129} to try to
+  save it.  He ordered the crew to take all of {+their-(there / their)|132} supplies
+  {+off-(of / off)|128} the ship.  The crew {+then-(than / then)|129} took the three
   lifeboats and sailed for the closest piece of land. \\r\\n\\r\\nShackleton's crew made
-  it {+to-too|126} a nearby island named Elephant Island.  Shackleton told
-  his crew to stay {+there-they're|132} and wait for him to come back and
-  rescue them.  He said, {+\\\""You're-\\\""Your|131} going to have to survive
-  here by yourselves until I come back with help.”  Shackleton then set {+off-of
-  |128} to find help.  \\r\\n\\r\\nShackleton sailed off in his lifeboat looking
+  it {+to-(too / to)|126} a nearby island named Elephant Island.  Shackleton told
+  his crew to stay {+there-(they're / there)|132} and wait for him to come back and
+  rescue them.  He said, {+\\\""You're-\\\""(Your / You're)|131} going to have to survive
+  here by yourselves until I come back with help.”  Shackleton then set {+off-(of
+  / off)|128} to find help.  \\r\\n\\r\\nShackleton sailed off in his lifeboat looking
   for help.  When he finally found other people, he asked them to help him save his
-  crew {+too.-to.|126}  It took Shackleton three tries to make it back to
+  crew {+too.-(to. / too.)|126}  It took Shackleton three tries to make it back to
   his crew, but he never gave up.  He finally managed to get back to Elephant Island
   and save his crew.  Amazingly, every member of Ernest Shackleton's crew survived
   the adventure.\\r\\n\\r\\n\""
