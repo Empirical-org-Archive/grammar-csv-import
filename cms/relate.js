@@ -62,7 +62,7 @@ module.exports = function(cats, rules, ruleQs, ruleQuestionConcepts) {
     if (rqc.Concept_Category && rqc.Concept_Class) {
       fRuleQs[q.id] = {
         instructions: checkOrAddInstructions(q.instructions),
-        conceptTag: rqc.ConceptTag,
+        conceptTag: rqc.Concept_Tag,
         conceptCategory: rqc.Concept_Category,
         conceptClass: rqc.Concept_Class,
         prompt: q.prompt,
