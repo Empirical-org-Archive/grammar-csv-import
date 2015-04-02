@@ -4851,14 +4851,14 @@
     },
     "1513": {
       "body": {
-        "0": "She parked her car {at} the local diner."
+        "0": "She parked her car {at} the far end of the parking lot."
       },
       "conceptCategory": "Prepositions",
       "conceptClass": "Grammar Concepts",
       "conceptTag": "At (Place)",
       "hint": "",
       "instructions": 31,
-      "prompt": "She parked her car _____ the local diner."
+      "prompt": "She parked her car _____ the far end of the parking lot."
     },
     "1514": {
       "body": {
