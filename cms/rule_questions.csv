@@ -2887,7 +2887,7 @@ id,instructions,prompt,body,createdAt,updatedAt,ruleId,hint
 ",4/19/2014 15:42:15,4/25/2014 3:08:27,254,
 1179,Rewrite the sentence so that the gender or number is consistent.,"As my Dad followed everyone to the plane, she had his pass ready.","---
 - As my Dad followed everyone to the plane, {he} had his pass ready.
-- As my {Mom} followed everyone to the plane, she had his pass ready.
+- As my {Mom} followed everyone to the plane, she had her pass ready.
 - As my Dad followed everyone to the plane, {they} had his pass ready.
 ",4/19/2014 15:42:15,4/25/2014 3:15:46,253,
 2085,"Rewrite the sentence, choosing the correct underlined word.",All five of the <u>poems / poems'</u> themes relate to love.,"---
