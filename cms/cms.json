@@ -1168,7 +1168,7 @@
     "1179": {
       "body": {
         "0": "As my Dad followed everyone to the plane, {he} had his pass ready.",
-        "1": "As my {Mom} followed everyone to the plane, she had his pass ready.",
+        "1": "As my {Mom} followed everyone to the plane, she had her pass ready.",
         "2": "As my Dad followed everyone to the plane, {they} had his pass ready."
       },
       "conceptCategory": "Nouns & Pronouns",
@@ -4851,7 +4851,8 @@
     },
     "1513": {
       "body": {
-        "0": "She parked her car {at} the far end of the parking lot."
+        "0": "She parked her car {at} the far end of the parking lot.",
+        "1": "She parked her car {near} the far end of the parking lot."
       },
       "conceptCategory": "Prepositions",
       "conceptClass": "Grammar Concepts",
