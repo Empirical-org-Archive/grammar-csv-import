@@ -10,7 +10,7 @@ id,instructions,prompt,body,createdAt,updatedAt,ruleId,hint
 - The team stretched their legs, {practiced} their drills, and then rehearsed their set plays.
 ",4/19/2014 15:42:14,4/19/2014 15:42:14,250,
 1173,Rewrite the sentences to make the different action consistent with the other ones.  There may be more than one correct answer,"The twin babies were laughing, giggling, and crawled for hours.","---
-- The twin babies were laughing, giggling, and {crawling} for hopurs.
+- The twin babies were laughing, giggling, and {crawling} for hours.
 ",4/19/2014 15:42:14,4/19/2014 15:42:14,250,
 1174,Rewrite the sentences to make the different action consistent with the other ones.  There may be more than one correct answer,"Richie enjoys reading novels, to draw comics, and writing articles.","---
 - Richie enjoys reading novels, {drawing} comics, and writing articles.",4/19/2014 15:42:14,4/19/2014 15:42:14,250,
