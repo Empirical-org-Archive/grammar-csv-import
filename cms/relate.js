@@ -1,5 +1,5 @@
 var _ = require('underscore');
-module.exports = function(cats, rules, ruleQs, ruleQuestionConcepts) {
+module.exports = function(cats, rules, ruleQs, ruleQuestionConcepts, ruleQuestionConceptIdTable) {
   var fCategories = {};
   var fRules = {};
   var fRuleQs = {};
@@ -37,6 +37,13 @@ module.exports = function(cats, rules, ruleQs, ruleQuestionConcepts) {
     }));
   }
 
+  function findConceptIdByRuleQuestionId(ruleQuestionId) {
+    var record = _.findWhere(ruleQuestionConceptIdTable, {rule_question_id: ruleQuestionId});
+    if (record) {
+      return record.concept_id;
+    }
+  }
+
   _.each(cats, function(cat) {
     fCategories[cat.id] = {
       title: cat.title,
@@ -65,6 +72,7 @@ module.exports = function(cats, rules, ruleQs, ruleQuestionConcepts) {
         conceptTag: rqc.Concept_Tag,
         conceptCategory: rqc.Concept_Category,
         conceptClass: rqc.Concept_Class,
+        conceptId: findConceptIdByRuleQuestionId(q.id),
         prompt: q.prompt,
         body: _.extend({}, parseYamlList(q.body)),
         hint: q.hint || ""
