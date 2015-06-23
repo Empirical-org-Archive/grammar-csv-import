@@ -1,5 +1,5 @@
 var _ = require('underscore');
-module.exports = function(cats, rules, ruleQs, ruleQuestionConcepts) {
+module.exports = function(cats, rules, ruleQs, ruleQuestionConcepts, ruleQuestionConceptIdTable) {
   var fCategories = {};
   var fRules = {};
   var fRuleQs = {};

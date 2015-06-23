@@ -17,11 +17,11 @@ function start(file, cb) {
 var async = require('async');
 
 function nextStep(results) {
-  require('./relate')(results[0], results[1], results[2], results[3]);
+  require('./relate')(results[0], results[1], results[2], results[3], results[4]);
 }
 
 async.map(
-  ['categories.csv', 'rules.csv', 'rule_questions.csv', 'rule_questions_concepts.csv'],
+  ['categories.csv', 'rules.csv', 'rule_questions.csv', 'rule_questions_concepts.csv', 'rule_questions_concepts_2.csv'],
   start,
   function(err, results) {
     if (err) {
