@@ -37,6 +37,13 @@ module.exports = function(cats, rules, ruleQs, ruleQuestionConcepts, ruleQuestio
     }));
   }
 
+  function findConceptIdByRuleQuestionId(ruleQuestionId) {
+    var record = _.findWhere(ruleQuestionConceptIdTable, {rule_question_id: ruleQuestionId});
+    if (record) {
+      return record.concept_id;
+    }
+  }
+
   _.each(cats, function(cat) {
     fCategories[cat.id] = {
       title: cat.title,
@@ -65,6 +72,7 @@ module.exports = function(cats, rules, ruleQs, ruleQuestionConcepts, ruleQuestio
         conceptTag: rqc.Concept_Tag,
         conceptCategory: rqc.Concept_Category,
         conceptClass: rqc.Concept_Class,
+        conceptId: findConceptIdByRuleQuestionId(q.id),
         prompt: q.prompt,
         body: _.extend({}, parseYamlList(q.body)),
         hint: q.hint || ""
