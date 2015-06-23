@@ -9749,14 +9749,14 @@
     },
     "1959": {
       "body": {
-        "0": "My Sister drove us home. {Meanwhile,} I studied in the back seat."
+        "0": "My sister drove us home. {Meanwhile,} I studied in the back seat."
       },
       "conceptCategory": "Punctuation",
       "conceptClass": "Grammar Concepts",
       "conceptTag": "Commas after Introductory Prepositional Phrases",
       "hint": "",
       "instructions": 71,
-      "prompt": "My Sister drove us home. Meanwhile I studied in the back seat."
+      "prompt": "My sister drove us home. Meanwhile I studied in the back seat."
     },
     "1960": {
       "body": {

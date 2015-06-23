@@ -2160,8 +2160,8 @@ id,instructions,prompt,body,createdAt,updatedAt,ruleId,hint
 1958,Rewrite the sentence placing a comma in the appropriate place.  ,I rushed to get into work. Meanwhile our boss was planning a surprise party.,"---
 - I rushed to get into work. {Meanwhile,} our boss was planning a surprise party.
 ",4/19/2014 15:43:06,4/19/2014 15:43:06,466,
-1959,Rewrite the sentence placing a comma in the appropriate place.  ,My Sister drove us home. Meanwhile I studied in the back seat.,"---
-- My Sister drove us home. {Meanwhile,} I studied in the back seat.
+1959,Rewrite the sentence placing a comma in the appropriate place.  ,My sister drove us home. Meanwhile I studied in the back seat.,"---
+- My sister drove us home. {Meanwhile,} I studied in the back seat.
 ",4/19/2014 15:43:06,4/19/2014 15:43:06,466,
 1960,Rewrite the sentence placing a comma in the appropriate place.  ,Whenever I am in doubt I double-check my facts.,"---
 - Whenever I am in {doubt,} I double-check my facts.

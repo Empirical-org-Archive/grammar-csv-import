@@ -6990,10 +6990,10 @@
         "prompt" : "I rushed to get into work. Meanwhile our boss was planning a surprise party."
       },
       "1959" : {
-        "body" : [ "My Sister drove us home. {Meanwhile,} I studied in the back seat." ],
+        "body" : [ "My sister drove us home. {Meanwhile,} I studied in the back seat." ],
         "hint" : "",
         "instructions" : 70,
-        "prompt" : "My Sister drove us home. Meanwhile I studied in the back seat."
+        "prompt" : "My sister drove us home. Meanwhile I studied in the back seat."
       },
       "1960" : {
         "body" : [ "Whenever I am in {doubt,} I double", "check my facts." ],
