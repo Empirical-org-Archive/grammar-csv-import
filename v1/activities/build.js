@@ -8,5 +8,5 @@ module.exports = function(
     passageProofreadings: passageProofreadings,
   };
 
-  require('../print')(base);
+  require(__dirname + './../../print')(base);
 }
