@@ -1,6 +1,5 @@
 var _ = require('underscore');
 module.exports = function(r, rq) {
-  console.log(rq);
   return _.chain(r)
     .map(function(rule) {
       rule.ruleQuestions = _.map(rule.ruleQuestions, function(v, k) {
