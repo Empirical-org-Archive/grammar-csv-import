@@ -6,8 +6,11 @@ var rules = v1Cms.rules;
 var ruleQuestions = v1Cms.ruleQuestions;
 
 var rulesWithNestedRuleQuestions = require('./mapRuleQuestionsToRules')(rules, ruleQuestions);
-require('../print')(rulesWithNestedRuleQuestions);
 
 var ruleIdAndTitle = require('./ruleIdAndTitle')(rules);
 
 require('../write')(ruleIdAndTitle, __dirname + '/ruleIdAndTitle.json');
+
+var ruleQuestionMap = require('./mapRuleQuestionsToNewFormat')(rulesWithNestedRuleQuestions);
+
+require('../write')(ruleQuestionMap, __dirname + '/ruleQuestionsAndNewRuleId.json');
