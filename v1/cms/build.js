@@ -31,5 +31,5 @@ module.exports = function(
 
   base.flags = ['Production', 'Beta', 'Alpha', 'Archived'];
 
-  require('../print')(base);
+  require(__dirname + './../../print')(base);
 }
