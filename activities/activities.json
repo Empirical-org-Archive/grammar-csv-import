@@ -678,7 +678,7 @@
       "flagId": 1,
       "id": 81,
       "instructions": "In this passage, there are two words that need to be capitalized and one word  that needs ending punctuation. To edit the text, click on a word and type in your  changes.",
-      "passage": "'{+I-i|193} saw some little rabbits in a shop yesterday. {+They-they|193} looked  adorable jumping and wriggling about. I wish I could have taken one home with {+me.-me|193}'",
+      "passage": "{+I-i|193} saw some little rabbits in a shop yesterday. {+They-they|193} looked  adorable jumping and wriggling about. I wish I could have taken one home with {+me.-me|193}",
       "rules": {
       },
       "title": "Little Rabbits (Fiction)",
