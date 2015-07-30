@@ -4740,7 +4740,7 @@
     },
     "1475": {
       "body": {
-        "0": "I think I hurt [myself} playing basketball yesterday."
+        "0": "I think I hurt {myself} playing basketball yesterday."
       },
       "conceptCategory": "Nouns & Pronouns",
       "conceptClass": "Grammar Concepts",

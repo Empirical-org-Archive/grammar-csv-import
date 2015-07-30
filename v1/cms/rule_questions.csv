@@ -800,7 +800,7 @@ id,instructions,prompt,body,createdAt,updatedAt,ruleId,hint
 - I {found} three quarters in the couch.
 ",4/19/2014 15:42:39,4/19/2014 15:42:39,353,
 1475,"Rewrite the sentence, choosing the reflexive form of the underlined words.",I think I hurt <u>me / myself</u> playing basketball yesterday.,"---
-- I think I hurt [myself} playing basketball yesterday.
+- I think I hurt {myself} playing basketball yesterday.
 ",4/19/2014 15:42:39,4/19/2014 15:42:39,354,
 1476,"Rewrite the sentence, changing the underlined word to its reflexive form.",I dressed <u>me</u> nicely for this occasion.,"---
 - I dressed {myself} nicely for this occasion.
