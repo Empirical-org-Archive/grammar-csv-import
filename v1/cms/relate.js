@@ -29,7 +29,7 @@ module.exports = function(cats, rules, ruleQs, ruleQuestionConcepts, ruleQuestio
     if (lines[0] !== '---') {
       throw new Error("We are highly assuming this a yaml list");
     }
-    var rest = _.rest(lines).join('\n').split('-');
+    var rest = _.rest(lines).join('\n').split('- ');
     return _.filter(_.map(rest, function(r) {
       return r.trim();
     }, function(w) {
