@@ -1,4 +1,4 @@
-var v1Activities = require(__dirname + './../v1/activities/activities.json');
+//var v1Activities = require(__dirname + './../v1/activities/activities.json');
 var v1Cms = require(__dirname + './../v1/cms/cms.json');
 
 
@@ -16,3 +16,7 @@ var ruleQuestionMap = require('./mapRuleQuestionsToNewFormat')(rulesWithNestedRu
 ruleQuestionMap = require('./mapInstructionsBackIntoRuleQuestions')(ruleQuestionMap);
 
 require('../write')(ruleQuestionMap, __dirname + '/ruleQuestionsAndNewRuleId.json');
+
+var conceptLevel0Rules = require('./buildConceptsFromRulesWithQuestions')(rules, ruleQuestionMap);
+
+console.log(conceptLevel0Rules);
