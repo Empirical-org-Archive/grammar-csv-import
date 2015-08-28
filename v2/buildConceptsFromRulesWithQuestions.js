@@ -15,6 +15,12 @@ module.exports = function (rules, ruleQuestionsMap) {
       r.standard_level = classifications[r.classification];
       delete(r.classification);
       r.standard = require('./findStandardForRule')(r);
+      if (r.questions && r.questions.length > 0) {
+        var rq = r.questions[0];
+        r.concept_level_2 = rq.concept_level_2;
+        r.concept_level_1 = rq.concept_level_1;
+        r.concept_level_0 = rq.concept_level_0;
+      }
       return r;
     })
     .value();
