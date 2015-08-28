@@ -7,6 +7,8 @@ var ruleQuestions = v1Cms.ruleQuestions;
 
 var rulesWithNestedRuleQuestions = require('./mapRuleQuestionsToRules')(rules, ruleQuestions);
 
+
+
 var ruleIdAndTitle = require('./ruleIdAndTitle')(rules);
 
 require('../write')(ruleIdAndTitle, __dirname + '/ruleIdAndTitle.json');
@@ -17,6 +19,8 @@ ruleQuestionMap = require('./mapInstructionsBackIntoRuleQuestions')(ruleQuestion
 
 require('../write')(ruleQuestionMap, __dirname + '/ruleQuestionsAndNewRuleId.json');
 
+var rulesBuiltFromLevel0Concepts = require('./buildRulesFromLevel0Concepts')(rules, ruleQuestionMap);
+console.log(rulesBuiltFromLevel0Concepts);
+
 var conceptLevel0Rules = require('./buildConceptsFromRulesWithQuestions')(rules, ruleQuestionMap);
 
-console.log(conceptLevel0Rules);
