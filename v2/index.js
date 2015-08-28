@@ -13,4 +13,6 @@ require('../write')(ruleIdAndTitle, __dirname + '/ruleIdAndTitle.json');
 
 var ruleQuestionMap = require('./mapRuleQuestionsToNewFormat')(rulesWithNestedRuleQuestions);
 
+ruleQuestionMap = require('./mapInstructionsBackIntoRuleQuestions')(ruleQuestionMap);
+
 require('../write')(ruleQuestionMap, __dirname + '/ruleQuestionsAndNewRuleId.json');
