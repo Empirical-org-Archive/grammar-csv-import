@@ -3816,8 +3816,7 @@
     },
     "1398": {
       "body": {
-        "0": "Meat",
-        "1": "eating animals are {feistier} than other animals."
+        "0": "Meat-eating animals are {feistier} than other animals."
       },
       "conceptCategory": "Adjectives & Adverbs",
       "conceptClass": "Grammar Concepts",
@@ -4741,7 +4740,7 @@
     },
     "1475": {
       "body": {
-        "0": "I think I hurt [myself} playing basketball yesterday."
+        "0": "I think I hurt {myself} playing basketball yesterday."
       },
       "conceptCategory": "Nouns & Pronouns",
       "conceptClass": "Grammar Concepts",
@@ -5330,8 +5329,7 @@
     },
     "1524": {
       "body": {
-        "0": "The zig",
-        "1": "zag print {on} the carpet is exotic."
+        "0": "The zig-zag print {on} the carpet is exotic."
       },
       "conceptCategory": "Prepositions",
       "conceptClass": "Grammar Concepts",
@@ -8280,10 +8278,8 @@
     },
     "1772": {
       "body": {
-        "0": "You can leave now{, or} you can work over",
-        "1": "time.",
-        "2": "You can leave now{ or} work over",
-        "3": "time."
+        "0": "You can leave now{, or} you can work over-time.",
+        "1": "You can leave now{ or} work over-time."
       },
       "conceptCategory": "Conjunctions",
       "conceptClass": "Grammar Concepts",
@@ -10547,8 +10543,7 @@
     },
     "1960": {
       "body": {
-        "0": "Whenever I am in {doubt,} I double",
-        "1": "check my facts."
+        "0": "Whenever I am in {doubt,} I double-check my facts."
       },
       "conceptCategory": "Punctuation",
       "conceptClass": "Grammar Concepts",
@@ -10897,8 +10892,7 @@
     },
     "1989": {
       "body": {
-        "0": "If the step",
-        "1": "ladder {were} taller, we could put in the last lightbulb."
+        "0": "If the step-ladder {were} taller, we could put in the last lightbulb."
       },
       "conceptCategory": "Verbs",
       "conceptClass": "Grammar Concepts",
