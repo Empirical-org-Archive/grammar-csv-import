@@ -14,6 +14,10 @@ module.exports = function(rules, ruleQuestionMap) {
       title: r.title
     };
   });
-  console.log(rulesWithTitlesAndNumber);
+  var concept0sWithoutRule = _.filter(concept_level_0s, function(c) {
+    return _.find(rulesWithTitlesAndNumber, function(r) {
+      return r.title === c;
+    });
+  });
   return concept_level_0s;
 };
