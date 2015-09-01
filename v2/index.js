@@ -9,4 +9,5 @@ var rulesWithRuleQuestions = require('./mapRuleQuestionsToRules')(rules, ruleQue
 rulesWithRuleQuestions = require('./mapRuleQuestionsToNewFormat')(rulesWithRuleQuestions);
 var conceptsWithQuestions = require('./buildConceptsFromRulesWithQuestions')(rulesWithRuleQuestions);
 conceptsWithQuestions = require('./formatQuestionsToNewFormat')(conceptsWithQuestions);
+conceptsWithQuestions = require('./addFirebaseIds')(conceptsWithQuestions);
 require('./../print')(conceptsWithQuestions);
