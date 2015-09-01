@@ -5,18 +5,8 @@ var v1Cms = require(__dirname + './../v1/cms/cms.json');
 var rules = v1Cms.rules;
 var ruleQuestions = v1Cms.ruleQuestions;
 
-var rulesWithNestedRuleQuestions = require('./mapRuleQuestionsToRules')(rules, ruleQuestions);
-
-var ruleIdAndTitle = require('./ruleIdAndTitle')(rules);
-
-require('../write')(ruleIdAndTitle, __dirname + '/ruleIdAndTitle.json');
-
-var ruleQuestionMap = require('./mapRuleQuestionsToNewFormat')(rulesWithNestedRuleQuestions);
-
-ruleQuestionMap = require('./mapInstructionsBackIntoRuleQuestions')(ruleQuestionMap);
-
-require('../write')(ruleQuestionMap, __dirname + '/ruleQuestionsAndNewRuleId.json');
-
-var conceptLevel0Rules = require('./buildConceptsFromRulesWithQuestions')(rules, ruleQuestionMap);
-
-console.log(conceptLevel0Rules);
+var rulesWithRuleQuestions = require('./mapRuleQuestionsToRules')(rules, ruleQuestions);
+rulesWithRuleQuestions = require('./mapRuleQuestionsToNewFormat')(rulesWithRuleQuestions);
+var conceptsWithQuestions = require('./buildConceptsFromRulesWithQuestions')(rulesWithRuleQuestions);
+conceptsWithQuestions = require('./formatQuestionsToNewFormat')(conceptsWithQuestions);
+require('./../print')(conceptsWithQuestions);
