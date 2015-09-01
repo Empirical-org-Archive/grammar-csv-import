@@ -3,7 +3,7 @@ module.exports = function(rulesWithNestedRuleQuestions) {
   var rqs = [];
   _.each(rulesWithNestedRuleQuestions, function(rwnrq) {
     var r = rwnrq;
-    _.map(r.ruleQuestions, function(rq) {
+    _.map(r.questions, function(rq) {
       rq.ruleQuestionId = rq.id;
       rq.ruleId = r.ruleNumber;
       rq.concept_level_2 = rq.conceptClass;
