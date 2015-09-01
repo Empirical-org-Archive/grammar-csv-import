@@ -17,6 +17,8 @@ module.exports = function(conceptsWithQuestions) {
       .map(function(c, id) {
         c.standard_level = _.findWhere(standardLevels, {name: c.standard_level});
         c.standard = _.findWhere(standards, {name: c.standard});
+        c.concept_level_2 = _.findWhere(concepts, {name: c.concept_level_2, level: 2});
+        c.concept_level_1 = _.findWhere(concepts, {name: c.concept_level_1, level: 1});
         return [id, c];
       })
       .object()
