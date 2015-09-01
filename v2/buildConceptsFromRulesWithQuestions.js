@@ -2,14 +2,9 @@ var _ = require('underscore');
 
 var classifications = require('./../v1/cms/cms.json').classifications;
 
-module.exports = function (rules, ruleQuestionsMap) {
-  return _.chain(rules)
+module.exports = function (rulesWithRuleQuestions) {
+  return _.chain(rulesWithRuleQuestions)
     .map(function (r) {
-      var rqs = _.filter(ruleQuestionsMap, function(rq) {
-        return Number(rq.ruleId) === Number(r.ruleNumber);
-      });
-      delete(r.ruleQuestions);
-      r.questions = rqs;
       r.explanation = r.description;
       delete(r.description);
       r.standard_level = classifications[r.classification];
@@ -20,6 +15,7 @@ module.exports = function (rules, ruleQuestionsMap) {
         r.concept_level_2 = rq.concept_level_2;
         r.concept_level_1 = rq.concept_level_1;
         r.concept_level_0 = rq.concept_level_0;
+        r.ruleNumber = Number(rq.ruleId);
       }
       return r;
     })

@@ -7,4 +7,6 @@ var ruleQuestions = v1Cms.ruleQuestions;
 
 var rulesWithRuleQuestions = require('./mapRuleQuestionsToRules')(rules, ruleQuestions);
 rulesWithRuleQuestions = require('./mapRuleQuestionsToNewFormat')(rulesWithRuleQuestions);
-require('./../print')(rulesWithRuleQuestions);
+
+var conceptsWithQuestions = require('./buildConceptsFromRulesWithQuestions')(rulesWithRuleQuestions);
+require('./../print')(conceptsWithQuestions);
