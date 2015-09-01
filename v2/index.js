@@ -5,7 +5,6 @@ var v1Cms = require(__dirname + './../v1/cms/cms.json');
 var rules = v1Cms.rules;
 var ruleQuestions = v1Cms.ruleQuestions;
 
-var rulesWithNestedRuleQuestions = require('./mapRuleQuestionsToRules')(rules, ruleQuestions);
-var questions = require('./mapRuleQuestionsToNewFormat')(rulesWithNestedRuleQuestions);
-questions = require('./mapInstructionsBackIntoRuleQuestions')(questions);
-console.log(questions);
+var rulesWithRuleQuestions = require('./mapRuleQuestionsToRules')(rules, ruleQuestions);
+rulesWithRuleQuestions = require('./mapRuleQuestionsToNewFormat')(rulesWithRuleQuestions);
+require('./../print')(rulesWithRuleQuestions);
