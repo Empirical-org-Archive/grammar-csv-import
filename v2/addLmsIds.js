@@ -3,6 +3,26 @@ var http = require('request-promise-json');
 var host = 'https://staging.quill.org/api/v1';
 
 var _ = require('underscore');
+var natural = require('natural');
+
+var THRESHOLD = 0.8;
+
+function JaroWinkler(str, list, key) {
+  if (!str) {
+    return null;
+  }
+  var best = _.filter(list, function(e) {
+    e.distance = natural.JaroWinklerDistance(str, e[key]);
+    return e.distance >= THRESHOLD;
+  });
+  if (best.length > 0) {
+    return _.max(best, function(b) {
+      return b.distance;
+    });
+  } else {
+    return null;
+  }
+}
 
 module.exports = function(conceptsWithQuestions) {
   return Promise.props({
@@ -15,10 +35,10 @@ module.exports = function(conceptsWithQuestions) {
     var concepts = result.concepts.concepts;
     return _.chain(conceptsWithQuestions)
       .map(function(c, id) {
-        c.standard_level = _.findWhere(standardLevels, {name: c.standard_level});
-        c.standard = _.findWhere(standards, {name: c.standard});
-        c.concept_level_2 = _.findWhere(concepts, {name: c.concept_level_2, level: 2});
-        c.concept_level_1 = _.findWhere(concepts, {name: c.concept_level_1, level: 1});
+        c.standard_level = JaroWinkler(c.standard_level, standardLevels, 'name');
+        c.standard = JaroWinkler(c.standard, standards, 'name')
+        c.concept_level_2 = JaroWinkler(c.concept_level_2, _.where(concepts, {level: 2}), 'name');
+        c.concept_level_1 = JaroWinkler(c.concept_level_1, _.where(concepts, {level: 1}), 'name');
         return [id, c];
       })
       .object()
