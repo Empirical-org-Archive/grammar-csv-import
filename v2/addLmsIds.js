@@ -15,6 +15,10 @@ module.exports = function(conceptsWithQuestions) {
     var concepts = result.concepts.concepts;
     return _.chain(conceptsWithQuestions)
       .map(function(c, id) {
+        var osl = c.standard_level;
+        var os = c.standard;
+        var c2 = c.concept_level_2;
+        var c1 = c.concept_level_1;
         c.standard_level = _.findWhere(standardLevels, {name: c.standard_level});
         c.standard = _.findWhere(standards, {name: c.standard});
         c.concept_level_2 = _.findWhere(concepts, {name: c.concept_level_2, level: 2});
