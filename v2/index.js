@@ -9,5 +9,13 @@ var rulesWithRuleQuestions = require('./mapRuleQuestionsToRules')(rules, ruleQue
 rulesWithRuleQuestions = require('./mapRuleQuestionsToNewFormat')(rulesWithRuleQuestions);
 var conceptsWithQuestions = require('./buildConceptsFromRulesWithQuestions')(rulesWithRuleQuestions);
 conceptsWithQuestions = require('./formatQuestionsToNewFormat')(conceptsWithQuestions);
+
+//At this point, all of the v2 mapping should be finished
+//Below this line, we add Firebase generated IDs, and figure out
+//the LMS information (matching string to title and assigning
+//standard, standard_level, concept_level_{0,1,2} data
 conceptsWithQuestions = require('./addFirebaseIds')(conceptsWithQuestions);
-require('./../print')(conceptsWithQuestions);
+//Because this is an async operation, do this one last.
+require('./addLmsIds')(conceptsWithQuestions).then(function (cwq) {
+  require('./../print')(cwq);
+});
