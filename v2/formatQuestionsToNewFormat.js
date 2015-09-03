@@ -6,7 +6,7 @@ module.exports = function(conceptsWithQuestions) {
         instructions: q.instructions,
         prompt: q.prompt,
         answers: _.map(q.body, function(value) {
-          return value;
+          return {text: value};
         })
       };
     });
