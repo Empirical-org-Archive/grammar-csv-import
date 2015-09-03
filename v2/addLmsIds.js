@@ -15,13 +15,16 @@ function JaroWinkler(str, list, key) {
     e.distance = natural.JaroWinklerDistance(str, e[key]);
     return e.distance >= THRESHOLD;
   });
+  var r = null;
   if (best.length > 0) {
-    return _.max(best, function(b) {
+    r = _.max(best, function(b) {
       return b.distance;
     });
-  } else {
-    return null;
   }
+  _.each(list, function(e) {
+    delete(e.distance);
+  });
+  return r;
 }
 
 module.exports = function(conceptsWithQuestions) {
