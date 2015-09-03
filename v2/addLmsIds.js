@@ -5,14 +5,23 @@ var host = 'https://staging.quill.org/api/v1';
 var _ = require('underscore');
 var natural = require('natural');
 
+var THRESHOLD = 0.8;
+
 function JaroWinkler(str, list, key) {
-  return _.max(list, function(le) {
-    if (str && le) {
-      return natural.JaroWinklerDistance(str, le[key]);
-    } else {
-      return 0;
-    }
+  if (!str) {
+    return null;
+  }
+  var best = _.filter(list, function(e) {
+    e.distance = natural.JaroWinklerDistance(str, e[key]);
+    return e.distance >= THRESHOLD;
   });
+  if (best.length > 0) {
+    return _.max(best, function(b) {
+      return b.distance;
+    });
+  } else {
+    return null;
+  }
 }
 
 module.exports = function(conceptsWithQuestions) {
