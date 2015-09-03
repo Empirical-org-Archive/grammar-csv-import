@@ -17,5 +17,5 @@ conceptsWithQuestions = require('./formatQuestionsToNewFormat')(conceptsWithQues
 conceptsWithQuestions = require('./addFirebaseIds')(conceptsWithQuestions);
 //Because this is an async operation, do this one last.
 require('./addLmsIds')(conceptsWithQuestions).then(function (cwq) {
-  require('./../print')(cwq);
+  require('./../write.js')(cwq, __dirname + '/concepts.json');
 });
