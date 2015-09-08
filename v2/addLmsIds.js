@@ -42,6 +42,7 @@ module.exports = function(conceptsWithQuestions) {
         c.standard = JaroWinkler(c.standard, standards, 'name')
         c.concept_level_2 = JaroWinkler(c.concept_level_2, _.where(concepts, {level: 2}), 'name');
         c.concept_level_1 = JaroWinkler(c.concept_level_1, _.where(concepts, {level: 1}), 'name');
+        c.concept_level_0 = JaroWinkler(c.concept_level_0, _.where(concepts, {level: 0}), 'name');
         return [id, c];
       })
       .object()
