@@ -1,6 +1,14 @@
 //var v1Activities = require(__dirname + './../v1/activities/activities.json');
 var v1Cms = require(__dirname + './../v1/cms/cms.json');
 
+function handleParsedConcepts(err, concepts) {
+  if (err) {
+    throw new Error(err);
+  }
+  console.log(concepts);
+}
+
+require('./parseConceptLevels')(handleParsedConcepts);
 
 var rules = v1Cms.rules;
 var ruleQuestions = v1Cms.ruleQuestions;
