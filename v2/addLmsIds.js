@@ -48,6 +48,9 @@ module.exports = function(conceptsWithQuestions) {
         }
         return [id, c];
       })
+      .filter(function(b) {
+        return _.keys(b[1].questions).length > 0;
+      })
       .object()
       .value();
   });
