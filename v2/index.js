@@ -9,12 +9,7 @@ function handleParsedConcepts(err, concepts) {
   var rules = v1Cms.rules;
   var ruleQuestions = v1Cms.ruleQuestions;
 
-  ruleQuestions = require('./mapNewQuillConceptsIntoRuleQuestions')(ruleQuestions, concepts);
-
-  var rulesWithRuleQuestions = require('./mapRuleQuestionsToRules')(rules, ruleQuestions);
-  rulesWithRuleQuestions = require('./mapRuleQuestionsToNewFormat')(rulesWithRuleQuestions);
-  var conceptsWithQuestions = require('./buildConceptsFromRulesWithQuestions')(rulesWithRuleQuestions);
-  conceptsWithQuestions = require('./formatQuestionsToNewFormat')(conceptsWithQuestions);
+  var conceptsWithQuestions = require('./buildNewQuillConcepts')(rules, ruleQuestions, concepts);
 
   //At this point, all of the v2 mapping should be finished
   //Below this line, we add Firebase generated IDs, and figure out
