@@ -21,6 +21,13 @@ module.exports = function(rules, ruleQuestions, concepts) {
     }
   }
 
+  function fixConceptNameStrings(c) {
+    c.concept_level_0 = c.concept_level_0.replace(/""/g, '"');
+    c.concept_level_1 = c.concept_level_1.replace(/""/g, '"');
+    c.concept_level_2 = c.concept_level_2.replace(/""/g, '"');
+    return c;
+  }
+
   var missingBuddy = [];
   var questions = _.map(concepts, function(c) {
     c.ruleQuestions = JSON.parse(
@@ -29,6 +36,7 @@ module.exports = function(rules, ruleQuestions, concepts) {
         .replace(/\\{2,}"\\\\"/g, '\\"')
         .replace(/\\{1,}r\\{1,}n/g, '')
     );
+    c = fixConceptNameStrings(c);
     var buddy = findRuleQuestionWithConcept(c);
     if (!buddy) {
       missingBuddy.push(c);
