@@ -7,6 +7,7 @@ module.exports = function(rules, ruleQuestions, concepts) {
     });
   }
 
+  var missingBuddy = [];
   var questions = _.map(concepts, function(c) {
     c.ruleQuestions = JSON.parse(
       c.ruleQuestions
@@ -15,7 +16,17 @@ module.exports = function(rules, ruleQuestions, concepts) {
         .replace(/\\{1,}r\\{1,}n/g, '')
     );
     var buddy = findRuleQuestionWithConcept(c);
-    console.log(buddy.prompt, c.ruleQuestions);
-    return buddy;
+    if (!buddy) {
+      missingBuddy.push(c);
+    } else {
+      c.instructions = require('./findInstructionById')(buddy.instructions);
+      c.prompt = buddy.prompt;
+    }
+    c.answers = c.ruleQuestions;
+    delete(c.ruleQuestions);
+    delete(c.ruleQuestionNumber);
+    delete(c.conceptClass);
+    return c;
   });
+  console.log(questions);
 };
