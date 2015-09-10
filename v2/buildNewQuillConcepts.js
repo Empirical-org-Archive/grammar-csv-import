@@ -28,5 +28,8 @@ module.exports = function(rules, ruleQuestions, concepts) {
     delete(c.conceptClass);
     return c;
   });
-  console.log(questions);
+
+  var groupedByConceptChain = _.groupBy(questions, function(q) {
+    return q.concept_level_2 + '|' + q.concept_level_1 + '|' + q.concept_level_0;
+  });
 };
