@@ -7,6 +7,20 @@ module.exports = function(rules, ruleQuestions, concepts) {
     });
   }
 
+  function findByRuleTitle(rt) {
+    var rs = _.filter(rules, function(r) {
+      return r.title === rt;
+    });
+    var max = _.max(rs, function(r) {
+      return r.ruleNumber;
+    });
+    if (max !== -Infinity) {
+      return max.ruleNumber;
+    } else {
+      return 0;
+    }
+  }
+
   var missingBuddy = [];
   var questions = _.map(concepts, function(c) {
     c.ruleQuestions = JSON.parse(
@@ -33,18 +47,20 @@ module.exports = function(rules, ruleQuestions, concepts) {
     return q.concept_level_2 + '|' + q.concept_level_1 + '|' + q.concept_level_0;
   });
 
-  var rules = _.map(groupedByConceptChain, function(chain) {
+  var newRules = _.map(groupedByConceptChain, function(chain) {
     if (chain.length > 0) {
       var exConcept = chain[0];
       return {
         concept_level_0: exConcept.concept_level_0,
         concept_level_1: exConcept.concept_level_1,
         concept_level_2: exConcept.concept_level_2,
+        ruleNumber: findByRuleTitle(exConcept.oldRuleName),
         questions: _.map(chain, function(c) {
           return _.omit(c, [
             'concept_level_0',
             'concept_level_1',
             'concept_level_2',
+            'oldRuleName',
           ]);
         })
       };
@@ -52,5 +68,5 @@ module.exports = function(rules, ruleQuestions, concepts) {
       return {};
     }
   });
-  require('./../print.js')(rules);
+  require('./../print.js')(newRules);
 };
