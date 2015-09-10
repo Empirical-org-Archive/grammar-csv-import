@@ -32,4 +32,25 @@ module.exports = function(rules, ruleQuestions, concepts) {
   var groupedByConceptChain = _.groupBy(questions, function(q) {
     return q.concept_level_2 + '|' + q.concept_level_1 + '|' + q.concept_level_0;
   });
+
+  var rules = _.map(groupedByConceptChain, function(chain) {
+    if (chain.length > 0) {
+      var exConcept = chain[0];
+      return {
+        concept_level_0: exConcept.concept_level_0,
+        concept_level_1: exConcept.concept_level_1,
+        concept_level_2: exConcept.concept_level_2,
+        questions: _.map(chain, function(c) {
+          return _.omit(c, [
+            'concept_level_0',
+            'concept_level_1',
+            'concept_level_2',
+          ]);
+        })
+      };
+    } else {
+      return {};
+    }
+  });
+  require('./../print.js')(rules);
 };
