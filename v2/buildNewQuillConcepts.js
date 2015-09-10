@@ -68,5 +68,5 @@ module.exports = function(rules, ruleQuestions, concepts) {
       return {};
     }
   });
-  require('./../print.js')(newRules);
+  return newRules;
 };

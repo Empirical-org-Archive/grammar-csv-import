@@ -17,7 +17,6 @@ function handleParsedConcepts(err, concepts) {
   //standard, standard_level, concept_level_{0,1,2} data
   conceptsWithQuestions = require('./addFirebaseIds')(conceptsWithQuestions);
   //Because this is an async operation, do this one last.
-  return;
   require('./addLmsIds')(conceptsWithQuestions).then(function (cwq) {
     require('./../write.js')(cwq, __dirname + '/concepts.json');
   });
