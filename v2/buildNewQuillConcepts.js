@@ -36,7 +36,12 @@ module.exports = function(rules, ruleQuestions, concepts) {
       c.instructions = require('./findInstructionById')(buddy.instructions);
       c.prompt = buddy.prompt;
     }
-    c.answers = c.ruleQuestions;
+    c.answers = _.chain(c.ruleQuestions)
+      .map(function(v, i) {
+        return [i, {text: v}];
+      })
+      .object()
+      .value();
     delete(c.ruleQuestions);
     delete(c.ruleQuestionNumber);
     delete(c.conceptClass);
