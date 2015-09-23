@@ -69,10 +69,25 @@ module.exports = function(rules, ruleQuestions, concepts) {
     return q.concept_level_2 + '|' + q.concept_level_1 + '|' + q.concept_level_0;
   });
 
+  function chooseBestRuleNumber(chain) {
+    var titles = _.chain(chain)
+      .pluck('oldRuleName')
+      .uniq()
+      .value();
+    var ruleNumbers = _.map(titles, findByRuleTitle);
+    if (ruleNumbers.length === 1) {
+      return ruleNumbers[0];
+    } else if (ruleNumbers.length > 1) {
+      return _.max(ruleNumbers);
+    } else {
+      return 0;
+    }
+  }
+
   var newRules = _.map(groupedByConceptChain, function(chain) {
     if (chain.length > 0) {
       var exConcept = chain[0];
-      var ruleNumber = findByRuleTitle(exConcept.oldRuleName);
+      var ruleNumber = chooseBestRuleNumber(chain);
       return {
         concept_level_0: exConcept.concept_level_0,
         concept_level_1: exConcept.concept_level_1,
