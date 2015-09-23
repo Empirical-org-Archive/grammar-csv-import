@@ -19,8 +19,8 @@ function handleParsedConcepts(err, concepts) {
   //Because this is an async operation, do this one last.
   require('./addLmsIds')(conceptsWithQuestions).then(function (cwq) {
     require('./../write.js')(cwq, __dirname + '/concepts.json');
+    require('./index.grammarActivities.js');
   });
 }
 
 require('./parseConceptLevels')(handleParsedConcepts);
-
