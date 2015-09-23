@@ -15,7 +15,10 @@ function findConceptUid(rn, index) {
 function createConceptList(rules) {
   return _.chain(rules)
     .map(function (r, index) {
-      return [findConceptUid(r.ruleId, index), r];
+      return [findConceptUid(r.ruleId, index), {
+        ruleNumber: Number(r.ruleId),
+        quantity: Number(r.quantity)
+      }];
     })
     .object()
     .value();
