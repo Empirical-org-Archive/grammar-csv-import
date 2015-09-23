@@ -21,6 +21,15 @@ module.exports = function(rules, ruleQuestions, concepts) {
     }
   }
 
+  function findDescriptionByRuleNumber(rn) {
+    var rule = _.find(rules, {ruleNumber: rn});
+    if (rule) {
+      return rule.description;
+    } else {
+      return "";
+    }
+  }
+
   function fixConceptNameStrings(c) {
     c.concept_level_0 = c.concept_level_0.replace(/""/g, '"');
     c.concept_level_1 = c.concept_level_1.replace(/""/g, '"');
@@ -63,11 +72,13 @@ module.exports = function(rules, ruleQuestions, concepts) {
   var newRules = _.map(groupedByConceptChain, function(chain) {
     if (chain.length > 0) {
       var exConcept = chain[0];
+      var ruleNumber = findByRuleTitle(exConcept.oldRuleName);
       return {
         concept_level_0: exConcept.concept_level_0,
         concept_level_1: exConcept.concept_level_1,
         concept_level_2: exConcept.concept_level_2,
-        ruleNumber: findByRuleTitle(exConcept.oldRuleName),
+        ruleNumber: ruleNumber,
+        ruleDescription: findDescriptionByRuleNumber(ruleNumber),
         questions: _.map(chain, function(c) {
           return _.omit(c, [
             'concept_level_0',
