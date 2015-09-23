@@ -20,6 +20,10 @@ function handleParsedConcepts(err, concepts) {
   require('./addLmsIds')(conceptsWithQuestions).then(function (cwq) {
     require('./../write.js')(cwq, __dirname + '/concepts.json');
     require('./index.grammarActivities.js');
+    require('./../write.js')({
+      concepts: require('./concepts.json'),
+      grammarActivities: require('./grammarActivities.json')
+    }, __dirname + '/v2.json');
   });
 }
 
