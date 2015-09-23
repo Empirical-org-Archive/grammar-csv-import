@@ -18,7 +18,7 @@
     "json2csv": "^2.2.1",
     "natural": "^0.2.1",
     "request-promise-json": "^1.0.4",
-    "underscore": "^1.7.0",
+    "underscore": "^1.8.3",
     "yaml2": "^0.3.4"
   }
 }
