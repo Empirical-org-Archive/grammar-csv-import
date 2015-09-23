@@ -33,5 +33,4 @@ var newGrammarActivities = _.chain(oldGrammarActivities)
   .object()
   .value();
 
-console.log(newGrammarActivities);
-
+require('./../write.js')(newGrammarActivities, __dirname + '/grammarActivities.json');
